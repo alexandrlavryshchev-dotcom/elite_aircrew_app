@@ -1,0 +1,3561 @@
+[
+  {
+    "topic": "Medicina aeronáutica",
+    "text": "¿Cuál es el síntoma más común de descompresión rápida en cabina?",
+    "options": ["Dolor de cabeza y mareo", "Tos persistente", "Dolor de estómago", "Visión borrosa"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Medicina aeronáutica",
+    "text": "Si un pasajero pierde el conocimiento, la tripulación debe:",
+    "options": ["Esperar a que recupere la consciencia", "Colocarlo en posición lateral de seguridad y seguir protocolos", "Administrarle medicación sin autorización", "Moverlo a la bodega"],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Medicina aeronáutica",
+    "text": "El mareo por movimiento puede prevenirse principalmente mediante:",
+    "options": ["Ejercicio físico intenso", "Mantener la vista en el horizonte y evitar leer", "Comer alimentos pesados", "Escuchar música fuerte"],
+    "correctIndex": 1
+  },
+  {
+    "topic": "Medicina aeronáutica",
+    "text": "¿Qué debe hacer la tripulación si un pasajero tiene dificultad respiratoria?",
+    "options": ["Seguir procedimientos de emergencia médica y usar oxígeno si está disponible", "Ignorarlo", "Hacer que camine", "Administrar agua"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Medicina aeronáutica",
+    "text": "Un pasajero presenta sangrado abundante. La acción inmediata es:",
+    "options": ["Presionar la herida y elevar la zona afectada", "Limpiar la herida y dejarlo descansar", "Llamar al capitán para aterrizar inmediatamente", "Dar agua"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Medicina aeronáutica",
+    "text": "Para prevenir trombosis venosa profunda en vuelos largos, se recomienda:",
+    "options": ["Moverse y estirar piernas periódicamente", "No beber agua", "Dormir sin moverse", "Usar ropa ajustada"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Medicina aeronáutica",
+    "text": "En caso de quemadura leve, la tripulación debe:",
+    "options": ["Enfriar con agua y cubrir con apósito estéril", "Aplicar hielo directamente", "Ignorarla", "Dar medicación oral sin indicación"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Medicina aeronáutica",
+    "text": "Un pasajero sufre una reacción alérgica severa. La tripulación debe:",
+    "options": ["Administrar epinefrina según protocolos y monitorear signos vitales", "Esperar a aterrizar", "Dar agua y mantenerlo sentado", "Ignorar signos leves"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Medicina aeronáutica",
+    "text": "Si un pasajero presenta convulsiones, la tripulación debe:",
+    "options": ["Proteger su cabeza y mantener la seguridad de la cabina", "Intentar inmovilizarlo completamente", "Dar medicación propia", "Retirarlo del asiento"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Medicina aeronáutica",
+    "text": "Ante un paro cardiorrespiratorio, el TCP debe:",
+    "options": ["Iniciar RCP inmediatamente y usar DEA si está disponible", "Esperar ayuda médica en tierra", "Administrar agua", "Ignorar hasta que llegue personal sanitario"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Medicina aeronáutica",
+    "text": "El botiquín a bordo debe incluir:",
+    "options": ["Medicamentos y material de primeros auxilios según normativa", "Solo vendas", "Solo agua y gasas", "Solo medicación prescrita por pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Medicina aeronáutica",
+    "text": "Un pasajero presenta hipotermia leve. La acción adecuada es:",
+    "options": ["Cubrirlo con mantas y mantenerlo abrigado", "Enfriarlo con agua", "Ignorarlo", "Hacerlo caminar"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Medicina aeronáutica",
+    "text": "¿Qué señal indica una reacción anafiláctica grave?",
+    "options": ["Dificultad respiratoria y hinchazón facial", "Tos leve", "Dolor de cabeza", "Estornudos"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Medicina aeronáutica",
+    "text": "Para tratar una fractura, la tripulación debe:",
+    "options": ["Inmovilizar con férula y mantener en posición segura", "Mover la extremidad libremente", "Dar medicación oral sin prescripción", "Ignorar hasta el destino"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Medicina aeronáutica",
+    "text": "Durante una descompresión rápida, la tripulación debe:",
+    "options": ["Dar instrucciones para colocarse la máscara de oxígeno y mantener la calma", "Ignorar a los pasajeros", "Cerrar ventanas de cabina", "Esperar a aterrizar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_001",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Cuál de las siguientes acciones pertenece a la conducta 'PAS' a seguir durante una emergencia?",
+    "options": ["Ayudar", "Atender", "Avisar", "Animar"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_002",
+    "topic": "Medicina Aeronáutica",
+    "text": "El 'Síndrome Tromboembólico' se define como:",
+    "options": ["Un traumatismo óseo", "Un paro cardio-respiratorio", "Una trombosis venosa profunda", "Una intoxicación por medicamentos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_003",
+    "topic": "Medicina Aeronáutica",
+    "text": "Ante un atragantamiento total donde la persona no puede toser eficazmente, debemos:",
+    "options": ["Mandar toser enérgicamente", "Dar 5 golpes interescapulares seguidos de 5 compresiones abdominales", "Colocarle en posición lateral de seguridad", "Colocarle en posición anti-shock"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_004",
+    "topic": "Medicina Aeronáutica",
+    "text": "Un pasajero inconsciente que respira debe ser trasladado en:",
+    "options": ["Boca arriba o supino", "Boca abajo o prono", "Posición lateral de seguridad", "Posición Fowler"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_005",
+    "topic": "Medicina Aeronáutica",
+    "text": "El oxígeno circula por la sangre transportado por:",
+    "options": ["Los leucocitos", "El plasma", "Las plaquetas", "Los hematíes"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_006",
+    "topic": "Medicina Aeronáutica",
+    "text": "La frecuencia respiratoria normal en un adulto es de:",
+    "options": ["8-10 respiraciones/minuto", "12-20 respiraciones/minuto", "32-40 respiraciones/minuto", "60-100 respiraciones/minuto"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_007",
+    "topic": "Medicina Aeronáutica",
+    "text": "Un pasajero sufre taquicardia cuando su corazón late a un ritmo:",
+    "options": ["Superior a 100 latidos/minuto", "Inferior a 100 latidos/minuto", "Superior a 60 latidos/minuto", "Inferior a 60 latidos/minuto"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_008",
+    "topic": "Medicina Aeronáutica",
+    "text": "La hipoxia se define como:",
+    "options": ["Exceso de hemoglobina en sangre", "Falta de oxígeno en el organismo", "Ictericia grave", "Se corrige respirando en una bolsa"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_009",
+    "topic": "Medicina Aeronáutica",
+    "text": "Las ventilaciones en RCP en un lactante se realizan:",
+    "options": ["Boca a boca", "Boca a nariz", "No se realizan", "Boca a boca-nariz"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_010",
+    "topic": "Medicina Aeronáutica",
+    "text": "Una hemorragia venosa se caracteriza por:",
+    "options": ["Sangre rojo brillante a borbotones", "Sangre roja viva que apenas sale", "Sangre rojo oscuro y flujo continuo", "Herida superficial que apenas sangra"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_011",
+    "topic": "Medicina Aeronáutica",
+    "text": "La hipoxia, en general, se soluciona:",
+    "options": ["Bajando de altitud", "Subiendo de altitud", "Haciendo reposo", "Bebiendo agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_012",
+    "topic": "Medicina Aeronáutica",
+    "text": "Ante un sangrado nasal se debe:",
+    "options": ["Apretar la parte blanda de la nariz con la cabeza hacia adelante", "Respirar por la nariz profundamente", "Aplicar un torniquete nasal", "Echar la cabeza hacia atrás"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_013",
+    "topic": "Medicina Aeronáutica",
+    "text": "El Tiempo Útil de Conciencia (TUC) es:",
+    "options": [
+      "Tiempo antes de perder el conocimiento tras desconectarse del oxígeno",
+      "Tiempo hasta que aparece visión negra con aceleraciones",
+      "Tiempo desde la visión negra hasta la inconsciencia",
+      "Tiempo desde desconexión de oxígeno hasta pérdida de juicio claro"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_014",
+    "topic": "Medicina Aeronáutica",
+    "text": "Una respiración superior a 20 rpm se llama:",
+    "options": ["Hiperventilación", "Taquipnea", "Bradipnea", "Crisis asmática"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_015",
+    "topic": "Medicina Aeronáutica",
+    "text": "La hipoxia producida por falta de oxígeno ambiental se llama:",
+    "options": ["Hipoxia anémica", "Hipoxia por estancamiento", "Hipoxia histotóxica", "Hipoxia hipóxica"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_016",
+    "topic": "Medicina Aeronáutica",
+    "text": "Una persona con tensión arterial de 180/100 mmHg es:",
+    "options": ["Normotensa", "Hipertensa", "Hipotensa", "Con riesgo de síncope"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_017",
+    "topic": "Medicina Aeronáutica",
+    "text": "El lugar adecuado para realizar masaje cardíaco es:",
+    "options": ["En cualquier lugar del pecho", "Línea media intermamilar sobre el esternón", "Sobre el corazón, lado izquierdo", "Debajo del pezón izquierdo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_018",
+    "topic": "Medicina Aeronáutica",
+    "text": "Tras una descompresión durante el TUC, el TCP debe:",
+    "options": ["Poner oxígeno al comandante", "Colocar oxígeno en sí mismo primero", "Ayudar al compañero más cercano", "Anclar el carro en el galley"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_019",
+    "topic": "Medicina Aeronáutica",
+    "text": "Para disminuir la hiperventilación se puede:",
+    "options": ["Respirar dentro de una bolsa", "Tapar boca y nariz", "Colocar oxígeno rápidamente", "Dejar al paciente solo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_020",
+    "topic": "Medicina Aeronáutica",
+    "text": "En el corazón humano:",
+    "options": [
+      "Tiene cuatro cavidades: dos aurículas y dos ventrículos",
+      "La aorta sale del ventrículo izquierdo",
+      "La válvula tricúspide comunica aurícula y ventrículo derecho",
+      "Todas son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_021",
+    "topic": "Medicina Aeronáutica",
+    "text": "En la RCP básica se debe:",
+    "options": [
+      "Comprobar consciencia, abrir vía aérea y verificar respiración",
+      "Iniciar compresiones sin comprobar nada",
+      "Hacer boca a boca hasta que reaccione",
+      "Esperar ayuda sin intervenir"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_022",
+    "topic": "Medicina Aeronáutica",
+    "text": "Los gases que difunden por la membrana alveolo-capilar son:",
+    "options": ["CO2 y N2", "O2 y CO2", "N2 y O2", "Solo oxígeno"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_023",
+    "topic": "Medicina Aeronáutica",
+    "text": "A 30.000 pies, el TUC aproximado es:",
+    "options": ["6-10 minutos", "3-5 minutos", "1-2 minutos", "15-20 segundos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_024",
+    "topic": "Medicina Aeronáutica",
+    "text": "Cartílago que impide el paso de alimentos a la tráquea:",
+    "options": ["Epiglotis", "Glotis", "Laringe", "Alvéolo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_025",
+    "topic": "Medicina Aeronáutica",
+    "text": "La cianosis es:",
+    "options": [
+      "Intoxicación por cianuro",
+      "Dolencia del nervio ciático",
+      "Coloración azulada de la piel por falta de oxígeno",
+      "Mareo por movimiento"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_026",
+    "topic": "Medicina Aeronáutica",
+    "text": "Un síncope es:",
+    "options": [
+      "Falta de riego cerebral con desvanecimiento",
+      "Trombosis venosa profunda",
+      "Problema respiratorio grave",
+      "Reacción alérgica severa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_027",
+    "topic": "Medicina Aeronáutica",
+    "text": "La causa más frecuente de obstrucción de vía aérea en un inconsciente es:",
+    "options": ["La comida", "Las mucosidades", "Las prótesis dentales", "La lengua"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_028",
+    "topic": "Medicina Aeronáutica",
+    "text": "El oxígeno portátil de primeros auxilios en un avión se encuentra:",
+    "options": [
+      "En las PSU",
+      "En el primer RACK junto al FAK",
+      "Bajo los asientos para emergencias",
+      "Debe solicitarse antes del embarque"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_029",
+    "topic": "Medicina Aeronáutica",
+    "text": "Las zonas seguras para atender a un pasajero son:",
+    "options": ["Pasillo, baños y business", "Baños, salidas y pasillo", "Galleys, pasillo y baño", "Galley, business y salida de emergencia"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_030",
+    "topic": "Medicina Aeronáutica",
+    "text": "Síntoma típico de trombosis venosa profunda:",
+    "options": ["Dolor agudo y constante en pantorrilla", "Incapacidad para estirar la pierna", "Cianosis en labios", "Taquicardia y disnea"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_031",
+    "topic": "Medicina Aeronáutica",
+    "text": "La célula fundamental o unidad funcional del sistema nervioso se denomina:",
+    "options": ["Neurona", "Sinapsis", "Nefrona", "Cerebro"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_032",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué debemos hacer en caso de luxación?",
+    "options": [
+      "Intentar poner en su sitio la articulación afectada lo antes posible",
+      "Poner un torniquete en el miembro luxado para evitar hemorragias",
+      "Inmovilizar la articulación afectada tal y como se encuentre y colocar una férula o vendaje moderando la tracción",
+      "Taponar la luxación con gasas y agua oxigenada"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_033",
+    "topic": "Medicina Aeronáutica",
+    "text": "En la diabetes está disminuida la capacidad para metabolizar:",
+    "options": ["Proteínas", "Lípidos", "Vitaminas", "Hidratos de carbono"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_034",
+    "topic": "Medicina Aeronáutica",
+    "text": "En caso de congelación debemos:",
+    "options": [
+      "Consumir alcohol en grandes cantidades",
+      "Sumergir en agua muy caliente las partes congeladas",
+      "Envolver la parte congelada con una manta o ropa y aplicar calor por fuera",
+      "Friccionar con nieve"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_035",
+    "topic": "Medicina Aeronáutica",
+    "text": "La maniobra de Valsalva consiste en:",
+    "options": [
+      "Espirar fuertemente por la nariz estando tapada con los dedos",
+      "Hacer fuerza con la garganta",
+      "Inspirar profundamente por la nariz",
+      "Tapar los oídos mientras se exhala"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_036",
+    "topic": "Medicina Aeronáutica",
+    "text": "El músculo voluntario que está unido a huesos se llama:",
+    "options": ["Músculo liso", "Músculo estriado", "Músculo cardíaco", "Músculo esquelético"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_037",
+    "topic": "Medicina Aeronáutica",
+    "text": "Las neuronas son las encargadas:",
+    "options": [
+      "De transmitir impulsos nerviosos a través del organismo",
+      "De regular el azúcar en sangre",
+      "De controlar el oxígeno sanguíneo",
+      "De evitar subidas de tensión arterial"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_038",
+    "topic": "Medicina Aeronáutica",
+    "text": "Si un pasajero diabético sufre hipoglucemia y está consciente, debemos:",
+    "options": ["Evacuarlo urgentemente", "Suministrarle analgésicos", "Darle agua con azúcar", "Abrigarlo bien"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_039",
+    "topic": "Medicina Aeronáutica",
+    "text": "La cinetosis consiste en:",
+    "options": [
+      "Falta de adaptación al movimiento",
+      "Temor a volar",
+      "Falta de adaptación a la presión",
+      "Pérdida de conocimiento por hipotensión"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_040",
+    "topic": "Medicina Aeronáutica",
+    "text": "La sinapsis se define como:",
+    "options": [
+      "El centro rector del sistema nervioso",
+      "La conexión funcional entre dos neuronas",
+      "La acción inhibitoria del cerebro",
+      "El órgano de coordinación de funciones vitales"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_041",
+    "topic": "Medicina Aeronáutica",
+    "text": "La parte del oído donde se produce la aerotitis es:",
+    "options": ["Oído externo", "Oído medio", "Oído interno", "La oreja"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_042",
+    "topic": "Medicina Aeronáutica",
+    "text": "Una lesión medular cervical produce:",
+    "options": ["Paraplejía", "Tetraplejía", "Hemiplejía", "Parálisis facial"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_043",
+    "topic": "Medicina Aeronáutica",
+    "text": "La baropatía intestinal es:",
+    "options": [
+      "Presencia de gases en los intestinos",
+      "Presencia de heces en exceso",
+      "Presencia de aire en la sangre",
+      "Presencia de trombos en el sistema circulatorio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_044",
+    "topic": "Medicina Aeronáutica",
+    "text": "La salmonelosis es una infección:",
+    "options": ["Respiratoria", "Digestiva", "Urinaria", "Sanguínea"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_045",
+    "topic": "Medicina Aeronáutica",
+    "text": "El oído medio contiene:",
+    "options": ["Aire", "Líquido", "Cera sólida", "Sangre"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_046",
+    "topic": "Medicina Aeronáutica",
+    "text": "Según la regla de los 9, un adulto con quemaduras en un brazo completo, tórax y abdomen anterior y pierna derecha tiene:",
+    "options": ["18%", "45%", "36%", "54%"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_047",
+    "topic": "Medicina Aeronáutica",
+    "text": "La trompa de Eustaquio comunica:",
+    "options": [
+      "Nariz y oídos",
+      "Oído medio y nasofaringe",
+      "Oído interno con nervio auditivo",
+      "Oído medio con oído interno"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_048",
+    "topic": "Medicina Aeronáutica",
+    "text": "Si un pasajero presenta vómitos, diarrea y dolor abdominal, probablemente sufra:",
+    "options": ["Gastroenteritis", "Otitis", "Aerofagia", "Alergia alimentaria"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_049",
+    "topic": "Medicina Aeronáutica",
+    "text": "Para evitar o disminuir la aerocinetosis, el tripulante debe:",
+    "options": [
+      "Tomar referencias visuales estables",
+      "Lavarse la piel con agua y jabón",
+      "Seguir una dieta astringente",
+      "Tomar vitaminas C y B12"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_050",
+    "topic": "Medicina Aeronáutica",
+    "text": "Ante grandes quemaduras por llama, la primera acción será:",
+    "options": [
+      "Cubrirlo con mantas",
+      "Quitar rápidamente toda la ropa",
+      "Lavar con agua fresca o aplicar compresas húmedas",
+      "Poner pomadas antibióticas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_051",
+    "topic": "Medicina Aeronáutica",
+    "text": "Durante una crisis epiléptica debemos:",
+    "options": [
+      "No impedir la crisis, proteger al paciente de lesiones",
+      "Sujetar fuertemente e intentar ponerlo de pie",
+      "Darle líquidos inmediatamente",
+      "Esperar a que recupere la conciencia y hablarle"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_052",
+    "topic": "Medicina Aeronáutica",
+    "text": "Después de realizar submarinismo, el tiempo mínimo antes de volar es:",
+    "options": ["2 horas", "12 horas", "24 horas", "72 horas"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_053",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Cuál de los siguientes no es parte de una neurona?",
+    "options": ["Núcleo", "Axón", "Nefrona", "Dendrita"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_054",
+    "topic": "Medicina Aeronáutica",
+    "text": "El tratamiento correcto del esguince consiste en:",
+    "options": [
+      "Elevar el miembro, aplicar hielo, inmovilizar y reposo",
+      "Aplicar calor local",
+      "Mantener el miembro apoyado",
+      "Escayolar directamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_055",
+    "topic": "Medicina Aeronáutica",
+    "text": "Factores que predisponen a la aerocolia:",
+    "options": [
+      "Masticar chicle, comer deprisa y comidas flatulentas",
+      "Comer despacio, fumar y beber alcohol",
+      "No beber durante el vuelo",
+      "Comer bocadillos y comidas picantes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_056",
+    "topic": "Medicina Aeronáutica",
+    "text": "Para valorar la superficie quemada en un niño se usa:",
+    "options": ["Regla de Wallace", "Regla de los bebés", "Regla de la mano", "Regla del pie"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_057",
+    "topic": "Medicina Aeronáutica",
+    "text": "Ante una persona con un objeto clavado debemos:",
+    "options": [
+      "Inmovilizar sin extraerlo y trasladar urgentemente",
+      "Extraerlo y presionar la herida",
+      "Aplicar torniquete y extraerlo",
+      "Colocar oxígeno y tranquilizar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_058",
+    "topic": "Medicina Aeronáutica",
+    "text": "El intestino delgado está compuesto por:",
+    "options": ["Esófago y duodeno", "Colon ascendente, transverso y descendente", "Duodeno, yeyuno e íleon", "Apéndice y ciego"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_059",
+    "topic": "Medicina Aeronáutica",
+    "text": "Los 'Bends' son:",
+    "options": [
+      "Signos pulmonares de la enfermedad descompresiva",
+      "Signos articulares de la enfermedad descompresiva",
+      "Signos neurológicos de la enfermedad descompresiva",
+      "Signos cutáneos de la enfermedad descompresiva"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_060",
+    "topic": "Medicina Aeronáutica",
+    "text": "Si notas calor al acercarte al fuego, es por acción de nervios:",
+    "options": ["Eferentes", "Aferentes", "Sensitivos", "Motores"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_061",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué tipo de oxígeno proporcionan las máscaras de oxígeno fijo de la cabina de pasajeros?",
+    "options": [
+      "Oxígeno a demanda y oxígeno continuo",
+      "Solo oxígeno de flujo continuo",
+      "Solo oxígeno a demanda",
+      "En la cabina de pasajeros no hay sistemas fijos de oxígeno"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_062",
+    "topic": "Medicina Aeronáutica",
+    "text": "La alteración más común en vuelo, debida a turbulencias, es:",
+    "options": ["La ansiedad", "La claustrofobia", "El infarto", "Los desmayos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_063",
+    "topic": "Medicina Aeronáutica",
+    "text": "La trombosis venosa profunda consiste en una oclusión en la zona venosa profunda que se manifiesta como:",
+    "options": [
+      "Dolor agudo y constante en el punto de la oclusión",
+      "Incapacidad de movimiento temporal",
+      "Taquicardia con dificultad respiratoria",
+      "Pérdida de consciencia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_064",
+    "topic": "Medicina Aeronáutica",
+    "text": "En vuelos de 3 horas, la cantidad mínima de agua a bordo por pasajero no debe ser inferior a:",
+    "options": ["2,5 litros", "0,5 litros", "1,5 litros", "2 litros"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_065",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué significan las siglas EMK?",
+    "options": [
+      "Botiquín de Primeros Auxilios",
+      "Desfibrilador semiautomático",
+      "Botiquín médico de emergencia",
+      "Radiobaliza de emergencia"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_066",
+    "topic": "Medicina Aeronáutica",
+    "text": "Una fractura abierta es:",
+    "options": [
+      "Herida y fractura comunicadas con el exterior",
+      "Una fractura desplazada",
+      "Una fractura que requiere cirugía",
+      "No existe ese tipo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_067",
+    "topic": "Medicina Aeronáutica",
+    "text": "En el tratamiento de la hiperventilación, lo correcto es:",
+    "options": [
+      "Administrar oxígeno y controlar el ritmo respiratorio",
+      "Usar una bolsa de papel para inhalar CO2 y controlar la respiración si no hay hipoxia",
+      "No hacer nada salvo si el pasajero está cianótico",
+      "Colocar en posición anti-shock"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_068",
+    "topic": "Medicina Aeronáutica",
+    "text": "Para evitar la cinetosis en pasajeros se recomienda:",
+    "options": [
+      "Indicar que no haga movimientos bruscos y ofrecer pastillas antimareo",
+      "Darles comida abundante",
+      "Animarles a pasear por el avión",
+      "Pedir que cierren los ojos y se tumben"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_069",
+    "topic": "Medicina Aeronáutica",
+    "text": "El intercambio gaseoso se realiza en:",
+    "options": ["Alvéolos pulmonares", "Bronquios", "Tráquea", "Pulmones en general"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_070",
+    "topic": "Medicina Aeronáutica",
+    "text": "Para prevenir los efectos de una despresurización, el avión debe llevar:",
+    "options": [
+      "Sistema de oxígeno de emergencia, mascarillas en cada asiento y oxígeno portátil para TCP",
+      "Mascarillas en cada asiento y oxígeno portátil",
+      "Oxígeno portátil únicamente",
+      "Mascarillas suplementarias sin sistema de emergencia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_071",
+    "topic": "Medicina Aeronáutica",
+    "text": "El jet lag se produce por:",
+    "options": [
+      "Vuelos norte-sur",
+      "Desplazamientos rápidos en aviones a reacción con cambio horario",
+      "No descansar adecuadamente",
+      "Vuelos nocturnos únicamente"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_072",
+    "topic": "Medicina Aeronáutica",
+    "text": "La cinetosis es:",
+    "options": [
+      "Mareo por movimiento o 'mal del movimiento'",
+      "Desorientación espacial",
+      "Enfermedad descompresiva",
+      "Cefalea intensa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_073",
+    "topic": "Medicina Aeronáutica",
+    "text": "Para prevenir la trombosis venosa profunda se recomienda:",
+    "options": [
+      "Permitirle pasear y beber agua con frecuencia",
+      "Beber alcohol moderadamente",
+      "Ejercicios intensos a bordo",
+      "Dormir durante todo el vuelo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_074",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué son los Chokes?",
+    "options": [
+      "Síntomas respiratorios de la enfermedad descompresiva",
+      "Síntomas articulares de la EDC",
+      "Síntomas neurológicos de la EDC",
+      "Síntomas cutáneos de la EDC"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_075",
+    "topic": "Medicina Aeronáutica",
+    "text": "El reajuste del ritmo biológico tras un desfase horario es más difícil cuando el vuelo es hacia:",
+    "options": ["Este", "Oeste", "Norte", "Sur"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_076",
+    "topic": "Medicina Aeronáutica",
+    "text": "El procedimiento 'Blocks Away' se utiliza en:",
+    "options": ["Desinsectación", "Desinfección", "Desratización", "Desalinizacion"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_077",
+    "topic": "Medicina Aeronáutica",
+    "text": "La cadena de huesecillos (martillo, yunque y estribo) se encuentra en:",
+    "options": ["Oído interno", "Oído medio", "Oído externo", "Senos nasales"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_078",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Cuántas compresiones por minuto debemos realizar en un masaje cardíaco?",
+    "options": ["60", "80", "100", "150"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_079",
+    "topic": "Medicina Aeronáutica",
+    "text": "Las vacunas son:",
+    "options": [
+      "Una forma de inmunización",
+      "Un tratamiento químico",
+      "Una manifestación higiénica",
+      "Un síntoma de enfermedad"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_080",
+    "topic": "Medicina Aeronáutica",
+    "text": "Las convulsiones son el signo típico de:",
+    "options": ["Epilepsia", "Parkinson", "Alzheimer", "Cirrosis"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_081",
+    "topic": "Medicina Aeronáutica",
+    "text": "En caso de hemorragia externa, ¿qué debemos hacer?",
+    "options": [
+      "Colocar un torniquete distalmente si el sangrado es venoso",
+      "Colocar gasas sobre la herida y revisarlas para comprobar que ya no sangra",
+      "Realizar presión directa sobre el punto de sangrado y no revisar la herida",
+      "Colocar un torniquete proximal si el sangrado es arterial"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_082",
+    "topic": "Medicina Aeronáutica",
+    "text": "Cuando en una hemorragia la sangre procede de la nariz hablamos de:",
+    "options": ["Epistaxis", "Hematemesis", "Otorragias", "Metrorragias"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_083",
+    "topic": "Medicina Aeronáutica",
+    "text": "Si una mujer está embarazada de 39 semanas, hay que saber que:",
+    "options": [
+      "Es un parto prematuro con riesgo para la madre y el niño",
+      "El niño está perfectamente formado para vivir",
+      "Un niño tan pequeño no sobreviviría a la presión de cabina",
+      "El niño aún no está formado, por lo que no permitiremos el parto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_084",
+    "topic": "Medicina Aeronáutica",
+    "text": "La maniobra de Valsalva debe efectuarse:",
+    "options": ["Generalmente durante el descenso", "Solo durante el ascenso", "Cuando el dolor de oídos sea insoportable", "Siempre en ascenso y descenso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_085",
+    "topic": "Medicina Aeronáutica",
+    "text": "La célula básica fundamental del SNC es:",
+    "options": ["La piel", "Los sentidos", "La neurona", "La nefrona"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_086",
+    "topic": "Medicina Aeronáutica",
+    "text": "La aerocinetosis está relacionada con:",
+    "options": ["Los gases internos", "La falta de humedad", "La respiración lenta", "Mareos repentinos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_087",
+    "topic": "Medicina Aeronáutica",
+    "text": "Un TCP que viaja a zonas tropicales debe estar vacunado contra:",
+    "options": ["Cólera", "Fiebre amarilla", "Viruela", "Tos ferina"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_088",
+    "topic": "Medicina Aeronáutica",
+    "text": "Al tratar una congelación se evitará:",
+    "options": [
+      "Calentar progresivamente al sujeto",
+      "Envolver la zona en ropas calientes",
+      "Administrar bebidas calientes",
+      "Recortar las ampollas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_089",
+    "topic": "Medicina Aeronáutica",
+    "text": "El lado derecho del corazón (aurícula y ventrículo derechos) lleva sangre:",
+    "options": ["Con O₂", "Con CO₂", "Con H₂O", "Con O₃"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_090",
+    "topic": "Medicina Aeronáutica",
+    "text": "Según el mecanismo lesional, las heridas se pueden clasificar en:",
+    "options": ["1º, 2º y 3º grado", "Punzantes, incisas y contusas", "Profundas o superficiales", "Abrasivas o sangrantes"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_091",
+    "topic": "Medicina Aeronáutica",
+    "text": "Si un pasajero está inconsciente pero respira, hay que:",
+    "options": ["Dejarle tranquilo y taparle con una manta", "Ponerle en decúbito prono", "Ponerle en decúbito supino", "Ponerle en posición lateral de seguridad (PLS)"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_092",
+    "topic": "Medicina Aeronáutica",
+    "text": "Ante un cuerpo extraño en el ojo debemos:",
+    "options": [
+      "Intentar extraerlo con una gasa estéril",
+      "Mandarle que se frote enérgicamente el ojo",
+      "Echar colirio del botiquín y tapar ambos ojos",
+      "Lavar con suero para facilitar que lo expulse y tapar con gasa"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_093",
+    "topic": "Medicina Aeronáutica",
+    "text": "La malaria es una enfermedad que:",
+    "options": [
+      "Se contagia por el agua y provoca diarreas",
+      "La propagan los mosquitos mediante su picadura",
+      "Es poco importante y existe una vacuna muy eficaz",
+      "Es la misma que el paludismo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_094",
+    "topic": "Medicina Aeronáutica",
+    "text": "Si un pasajero presenta falta de aire, mareo, manos frías, boca seca y dolor torácico moderado lo más probable es que:",
+    "options": [
+      "Tenga una indigestión alimentaria",
+      "Padezca lumbago",
+      "Quiera llamar la atención",
+      "Esté sufriendo una crisis de ansiedad o pánico"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_095",
+    "topic": "Medicina Aeronáutica",
+    "text": "Ante un accidente aéreo, la prioridad de atención debe dirigirse a las personas clasificadas como:",
+    "options": ["Prioridad 0", "Prioridad 1", "Prioridad 2", "Prioridad 3"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_096",
+    "topic": "Medicina Aeronáutica",
+    "text": "El contagio directo se produce por:",
+    "options": [
+      "Contacto de persona sana con persona sana",
+      "Contacto de persona sana con persona enferma",
+      "Contacto de persona enferma con persona enferma",
+      "Respirar aire viciado"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_097",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué síntomas nos hacen sospechar un paro respiratorio?",
+    "options": [
+      "Ausencia de movimientos torácicos y color azulado de la piel",
+      "Ausencia de pulso y palidez cutánea",
+      "Pupilas dilatadas y sin ruidos respiratorios",
+      "Pérdida de conciencia y ausencia de pulso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_098",
+    "topic": "Medicina Aeronáutica",
+    "text": "Debido a la baja humedad en cabina, los TCP que usan lentillas deberían:",
+    "options": [
+      "Llevar siempre unas gafas de repuesto",
+      "Hidratar los ojos con suero con frecuencia",
+      "Operarse para no llevar lentillas",
+      "Tener cuidado en despresurizaciones"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_099",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Cuál de los siguientes NO es un tipo reconocido de hipoxia?",
+    "options": ["Hipoxia hipóxica", "Hipoxia 'hipostéxica'", "Hipoxia anémica", "Hipoxia por estancamiento"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_100",
+    "topic": "Medicina Aeronáutica",
+    "text": "Un pasajero con angustia, dolor retroesternal irradiado a mandíbula y brazo probablemente sufra:",
+    "options": [
+      "Hiperventilación aguda",
+      "Síndrome tromboembólico",
+      "Edema pulmonar",
+      "Síndrome coronario agudo (angina o IAM)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_101",
+    "topic": "Medicina Aeronáutica",
+    "text": "La principal misión de los eritrocitos (glóbulos rojos) es:",
+    "options": [
+      "Participar en la coagulación",
+      "Defensa celular del organismo",
+      "Colaborar en la respuesta inmune",
+      "Transportar oxígeno por la sangre"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_102",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Cuál es el síntoma principal en una despresurización lenta?",
+    "options": ["Dolor de oídos", "Hiperventilación", "Hipoxia", "Pérdida de conocimiento"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_103",
+    "topic": "Medicina Aeronáutica",
+    "text": "Si una persona ha sufrido una lipotimia, ¿en qué postura la colocaremos?",
+    "options": [
+      "Cabeza más alta que los pies",
+      "Cabeza y pies al mismo nivel",
+      "Cabeza más baja y pies/ piernas elevados",
+      "En posición lateral de seguridad"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_104",
+    "topic": "Medicina Aeronáutica",
+    "text": "En caso de intoxicación alimentaria con diarrea y fiebre durante el vuelo, el tratamiento recomendado es:",
+    "options": [
+      "Enfriar al pasajero con envolturas húmedas",
+      "Rehidratarlo",
+      "Administrar antidiarreicos inmediatamente",
+      "No hacer nada"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_105",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿En qué momento debemos aplicar 'VER, OIR y SENTIR'?",
+    "options": [
+      "Al comprobar constantes vitales, en especial la respiración, durante una RCP",
+      "Durante la maniobra de Heimlich",
+      "Al poner en PLS a un pasajero",
+      "Durante la reanimación pulmonar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_106",
+    "topic": "Medicina Aeronáutica",
+    "text": "Sobre botiquines a bordo, ¿qué es correcto?",
+    "options": [
+      "No es recomendable llevar botiquines a bordo",
+      "Es obligatorio llevarlos en cualquier aeronave y comprobar su estado periódicamente",
+      "Es conveniente llevarlos y comprobar su estado periódicamente",
+      "Nunca se habla de botiquines a bordo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_107",
+    "topic": "Medicina Aeronáutica",
+    "text": "En el medio aeronáutico, la fase indiferente de la hipoxia se considera hasta:",
+    "options": ["10.000 ft", "15.000 ft", "15.000-18.000 ft", "Por encima de 20.000 ft"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_108",
+    "topic": "Medicina Aeronáutica",
+    "text": "Las vacunas son:",
+    "options": [
+      "Preparados sintéticos de laboratorio",
+      "Preparados de gérmenes vivos, atenuados o muertos",
+      "Mezclas de antibióticos",
+      "Mezcla de anticuerpos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_109",
+    "topic": "Medicina Aeronáutica",
+    "text": "El hematoma cerebral y la hemorragia cerebral pueden ser signos de:",
+    "options": ["ICTUS trombótico", "TVP", "ICTUS hemorrágico", "IAM"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_110",
+    "topic": "Medicina Aeronáutica",
+    "text": "Dentro de la higiene personal se incluye:",
+    "options": [
+      "Lavado de manos habitual",
+      "Estornudar sobre personas o comidas",
+      "Bañarse con antisépticos antes y después de vuelos",
+      "Dejar las heridas al aire para secar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_111",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Qué órgano tiene como función principal obtener oxígeno del aire y hacerlo llegar a los diferentes órganos?",
+    "options": ["El corazón", "Los pulmones", "El corazón y los pulmones", "Los alvéolos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_112",
+    "topic": "Medicina Aeráutica",
+    "text": "Indique cuál de las siguientes fases no pertenece al proceso de la respiración:",
+    "options": ["Ventilación", "Difusión", "Deglución", "Transporte"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_113",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Qué componente de la sangre se encarga de la defensa del organismo frente a los agentes infecciosos?",
+    "options": ["Los glóbulos blancos", "Las plaquetas", "Los glóbulos rojos", "El plasma sanguíneo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_114",
+    "topic": "Medicina Aeráutica",
+    "text": "El intestino delgado se compone de:",
+    "options": ["Duodeno, yeyuno e íleon", "Esófago y duodeno", "Ciego, apéndice y recto", "Colon ascendente y descendente"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_115",
+    "topic": "Medicina Aeráutica",
+    "text": "Los bronquios y la tráquea pertenecen al:",
+    "options": ["Sistema nervioso", "Sistema cardiorrespiratorio", "Sistema renal", "Sistema bucolaringeo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_116",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Cuál de las siguientes partes no pertenece al aparato digestivo?",
+    "options": ["Tráquea", "Esófago", "Colon", "Yeyuno"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_117",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Cuáles son las células sanguíneas encargadas de transportar el oxígeno hasta los tejidos?",
+    "options": ["Los hematíes", "Los glóbulos blancos", "Los leucocitos", "Las plaquetas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_118",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Qué célula sanguínea es más abundante?",
+    "options": ["Leucocitos", "Linfocitos", "Eritrocitos", "Trombocitos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_119",
+    "topic": "Medicina Aeráutica",
+    "text": "Respecto al aparato circulatorio, es cierto que:",
+    "options": [
+      "Está compuesto por corazón, vasos y sangre",
+      "Tiene función de termorregulación",
+      "Aporta oxígeno y nutrientes al tejido y retira desechos",
+      "Todas son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_120",
+    "topic": "Medicina Aeráutica",
+    "text": "Sobre el corazón, es cierto que:",
+    "options": [
+      "Tiene 4 cavidades: 2 aurículas y 2 ventrículos",
+      "Está formado por endocardio, miocardio y pericardio",
+      "La válvula tricúspide comunica la AD con el VD",
+      "Todas son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_121",
+    "topic": "Medicina Aeráutica",
+    "text": "El proceso respiratorio comprende las siguientes etapas:",
+    "options": ["Ventilación, difusión y transporte", "Inspiración, espiración y difusión", "Difusión, circulación y deglución", "Todas son correctas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_122",
+    "topic": "Medicina Aeráutica",
+    "text": "El aumento de la frecuencia y profundidad del ciclo respiratorio se denomina:",
+    "options": ["Taquicardia", "Hiperventilación", "Apnea", "Taquipnea"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_123",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Por cuál de estos órganos pasa primero el aire hasta llegar a los pulmones?",
+    "options": ["Lobulillos", "Tráquea", "Laringe", "Faringe"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_124",
+    "topic": "Medicina Aeráutica",
+    "text": "De las siguientes, ¿cuál no es una fase de la digestión?",
+    "options": ["Egestión", "Ingestión", "Absorción", "Nutrición"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_125",
+    "topic": "Medicina Aeráutica",
+    "text": "La arteria hepática lleva sangre:",
+    "options": ["Arterial", "Venosa", "Capilar", "Desoxigenada"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_126",
+    "topic": "Medicina Aeráutica",
+    "text": "El oxígeno circula por la sangre transportado por:",
+    "options": ["Los leucocitos", "El plasma", "Las plaquetas", "Los hematíes"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_127",
+    "topic": "Medicina Aeráutica",
+    "text": "Las células encargadas de la cicatrización son los:",
+    "options": ["Eritrocitos", "Osteocitos", "Trombocitos", "Leucocitos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_128",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Cómo se llama la válvula que separa la aurícula derecha del ventrículo derecho?",
+    "options": ["Válvula Prisdal", "Válvula Tricúspide", "Válvula Mitral", "Válvula Aórtica"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_129",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Dónde está el apéndice?",
+    "options": ["Colon ascendente", "Colon descendente", "Colon transverso", "Duodeno"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_130",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Cuántas respiraciones por minuto tiene un adulto?",
+    "options": ["14-20", "5-12", "20-25", "25-30"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_131",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Cuál de estos forma parte del aparato cardiovascular?",
+    "options": ["Arterias", "Plasma", "Globulina", "Venas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_132",
+    "topic": "Medicina Aeráutica",
+    "text": "A la persona que tiene más de 100 latidos/min se le dice que tiene:",
+    "options": ["Taquicardia", "Taquipnea", "Hipercardia", "Hiperventilación"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_133",
+    "topic": "Medicina Aeráutica",
+    "text": "Los vasos que llevan sangre con pulso son:",
+    "options": ["Venas", "Arterias", "Capilares", "Hematíes"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_134",
+    "topic": "Medicina Aeráutica",
+    "text": "El sistema circulatorio se divide en:",
+    "options": [
+      "Circulación pulmonar y sistémica",
+      "Circulación menor y circulación mayor",
+      "Circulación ventricular y sistémica",
+      "Circulación pulmonar y extrapulmonar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_135",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Qué células se encargan de la hemostasia (coagulación de la sangre)?",
+    "options": ["Hematíes", "Glóbulos rojos", "Leucocitos", "Plaquetas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_136",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Qué hormona segrega el estómago?",
+    "options": ["Insulina", "Glucagón", "A y B son correctas", "Ninguna es correcta"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_137",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Quién produce la bilis?",
+    "options": ["Estómago", "Hígado", "Vesícula biliar", "B y C son correctas"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_138",
+    "topic": "Medicina Aeráutica",
+    "text": "El órgano del equilibrio está situado en:",
+    "options": ["Trompa de Eustaquio", "Pabellón auricular", "Oído medio", "Oído interno"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_139",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Cuál no es un órgano del aparato genitourinario?",
+    "options": ["Riñón", "Vejiga", "Hígado", "Uréteres"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_140",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Cuál es el órgano funcional del aparato genitourinario?",
+    "options": ["Estómago", "Hígado", "Páncreas", "Riñón", "Boca"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_141",
+    "topic": "Medicina Aeráutica",
+    "text": "La parte del oído donde se encuentra el órgano de la audición es:",
+    "options": ["En los conductos semicirculares", "En el órgano de Corti (oído interno)", "En el oído medio", "En el hueso del peñasco"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_142",
+    "topic": "Medicina Aeráutica",
+    "text": "El órgano del equilibrio está situado en:",
+    "options": ["Cartílago externo", "Pabellón auricular", "Oído medio", "Oído interno"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_143",
+    "topic": "Medicina Aeráutica",
+    "text": "El intestino delgado se une al estómago en:",
+    "options": ["Cardias", "Píloro", "Epigastrio", "Apéndice"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_144",
+    "topic": "Medicina Aeráutica",
+    "text": "Si un pasajero se marea, probablemente es por alteración en:",
+    "options": ["Órgano de Corti", "Cóclea", "Conductos semicirculares", "Trompa de Eustaquio"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_145",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Dónde está el apéndice?",
+    "options": ["Colon ascendente, intestino grueso", "Colon descendente, intestino delgado", "Colon transverso", "Duodeno"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_146",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Cuál es la parte del ojo que tiene color?",
+    "options": ["Retina", "Iris", "Pupila", "Córnea"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_147",
+    "topic": "Medicina Aeráutica",
+    "text": "¿En qué capa de la piel están las terminaciones nerviosas?",
+    "options": ["Hipodermis", "Dermis", "Epidermis", "Muscular"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_148",
+    "topic": "Medicina Aeráutica",
+    "text": "¿De dónde sale la arteria aorta?",
+    "options": ["Aurícula derecha", "Ventrículo izquierdo", "Aurícula izquierda", "Ventrículo derecho"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_149",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Cuál de estas no es una capa de la piel?",
+    "options": ["Epidermis", "Hipodermis", "Hiperdermis", "Dermis"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_150",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Qué célula sanguínea es más abundante?",
+    "options": ["Leucocitos", "Linfocitos", "Eritrocitos", "Trombocitos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_151",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Cómo se llama la unión de estómago y esófago?",
+    "options": ["Píloro", "Apéndice", "Hernia de hiato", "Cardias"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_152",
+    "topic": "Medicina Aeráutica",
+    "text": "Si una víctima tiene menos de 80 latidos por minuto, se dice que tiene:",
+    "options": ["Taquicardia", "Bradicardia", "Bradipnea", "Todas son incorrectas"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_153",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Cómo se realizan las insuflaciones en el bebé?",
+    "options": ["Boca/boca", "Boca/nariz", "Nariz/boca", "Boca-boca/nariz"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_154",
+    "topic": "Medicina Aeráutica",
+    "text": "La sangre está compuesta por:",
+    "options": [
+      "Agua y sales minerales (plasma), eritrocitos, leucocitos y plaquetas",
+      "Agua y sales minerales, eritrocitos, leucocitos y linfocitos",
+      "Sales minerales, eritrocitos, plaquetas y hematíes",
+      "Ninguna es correcta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_155",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Qué es el DEA?",
+    "options": ["Agencia Antidroga Americana", "Desfibrilador Externo Automático", "Delta Emirates Airlines", "Decálogo Espacial Aeronáutico"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_156",
+    "topic": "Medicina Aeráutica",
+    "text": "¿Cómo se llama la válvula que separa la aurícula izquierda del ventrículo derecho?",
+    "options": ["Mitral", "Tricúspide", "No existe", "Aórtica"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_157",
+    "topic": "Medicina Aeráutica",
+    "text": "¿A dónde llega la vena cava?",
+    "options": ["Aurícula derecha", "Ventrículo izquierdo", "Aurícula izquierda"],
+    "correctIndex": 0
+  },
+{
+  "id": "med_158",
+  "topic": "Medicina Aeronáutica",
+  "text": "¿Qué patología está directamente relacionada con la Ley de Boyle en un entorno aeronáutico?",
+  "options": ["Hipoxia", "Barotitis", "Hipotermia", "Cinetosis"],
+  "correctIndex": 1
+},
+{
+"id": "med_159",
+"topic": "Medicina Aeronáutica",
+"text": "La presión parcial de oxígeno en una cabina presurizada a 8.000 pies de altitud es similar a la presión parcial de oxígeno a nivel del mar:",
+"options": ["Falso, es menor que a nivel del mar", "Verdadero, son iguales", "Solo en aviones de fuselaje estrecho", "Solo si la humedad es alta"],
+"correctIndex": 0
+},
+{
+"id": "med_160",
+"topic": "Medicina Aeronáutica",
+"text": "¿Cuál es la principal vía de transmisión del cólera?",
+"options": ["Picadura de mosquito", "Contacto directo con sangre", "Ingesta de agua o alimentos contaminados", "Contacto por vía aérea (tos o estornudos)"],
+"correctIndex": 2
+},
+{
+"id": "med_161",
+"topic": "Medicina Aeronáutica",
+"text": "En el triaje de víctimas de un accidente aéreo, el color VERDE (Prioridad 3) se asigna a:",
+"options": ["Fallecidos o con lesiones incompatibles con la vida", "Lesionados graves con alta probabilidad de supervivencia (atención inmediata)", "Lesionados leves que pueden caminar (atención demorable)", "Lesionados graves que requieren atención diferida"],
+"correctIndex": 2
+},
+{
+"id": "med_162",
+"topic": "Medicina Aeronáutica",
+"text": "La temperatura ideal para un confort térmico adecuado en cabina de pasajeros es de aproximadamente:",
+"options": ["15°C - 18°C", "20°C - 24°C", "25°C - 28°C", "10°C - 15°C"],
+"correctIndex": 1
+},
+{
+"id": "med_163",
+"topic": "Medicina Aeronáutica",
+"text": "¿Qué se debe hacer inmediatamente si se sospecha de un pasajero con un ataque al corazón (IAM)?",
+"options": ["Darle un antiácido", "Administrar oxígeno, aflojar ropa y contactar a un médico en tierra/bordo", "Pedirle que camine para relajarse", "Administrar bebidas azucaradas"],
+"correctIndex": 1
+},
+{
+"id": "med_164",
+"topic": "Medicina Aeronáutica",
+"text": "La apnea se define como:",
+"options": ["Respiración muy superficial", "Aumento del ritmo respiratorio", "Cese temporal de la respiración", "Dificultad para respirar"],
+"correctIndex": 2
+},
+{
+"id": "med_165",
+"topic": "Medicina Aeronáutica",
+"text": "Para asegurar la ventilación durante la RCP, el método más adecuado para la apertura de la vía aérea en un adulto sin traumatismo cervical es:",
+"options": ["Extensión de cuello (solo)", "Elevación del mentón (solo)", "Maniobra frente-mentón", "Maniobra de Heimlich"],
+"correctIndex": 2
+},
+{
+"id": "med_166",
+"topic": "Medicina Aeronáutica",
+"text": "La descompresión explosiva se caracteriza por producirse en un tiempo inferior a:",
+"options": ["10 segundos", "1 segundo", "5 segundos", "30 segundos"],
+"correctIndex": 1
+},
+{
+"id": "med_167",
+"topic": "Medicina Aeronáutica",
+"text": "¿Cuál es el principal factor de riesgo para el 'Jet Lag' o disritmia circadiana?",
+"options": ["Altitud de vuelo", "Cantidad de comidas a bordo", "El cruce rápido de múltiples husos horarios (especialmente de Oeste a Este)", "La baja humedad en cabina"],
+"correctIndex": 2
+},
+{
+"id": "med_168",
+"topic": "Medicina Aeronáutica",
+"text": "El Tiempo de Conciencia Útil (TUC) a 40.000 pies de altitud es de aproximadamente:",
+"options": ["10 - 15 minutos", "5 - 7 minutos", "15 - 20 segundos", "45 - 60 segundos"],
+"correctIndex": 2
+},
+{
+"id": "med_169",
+"topic": "Medicina Aeronáutica",
+"text": "La presión atmosférica disminuye al aumentar la altitud, de acuerdo con la Ley de:",
+"options": ["Charles", "Henry", "Dalton", "Boyle"],
+"correctIndex": 2
+},
+{
+"id": "med_170",
+"topic": "Medicina Aeronáutica",
+"text": "¿Cuál de estas dolencias es menos probable que empeore significativamente por la altitud o la presión en cabina?",
+"options": ["Aerotitis media", "Barosinusitis", "Gripe común no complicada", "Barodontalgia"],
+"correctIndex": 2
+},
+{
+"id": "med_171",
+"topic": "Medicina Aeronáutica",
+"text": "La fase de 'agitación' de la hipoxia (15.000-20.000 pies) se caracteriza por:",
+"options": ["Pérdida de conciencia repentina", "Euforia, irritabilidad y pérdida del juicio crítico", "Dolor de cabeza y visión borrosa", "Cianosis severa y convulsiones"],
+"correctIndex": 1
+},
+{
+"id": "med_172",
+"topic": "Medicina Aeronáutica",
+"text": "El riesgo de TVP (Trombosis Venosa Profunda) en vuelos de larga duración se debe principalmente a:",
+"options": ["La presión de cabina", "La inmovilización prolongada en posición sentada", "La baja humedad", "La temperatura en cabina"],
+"correctIndex": 1
+},
+{
+"id": "med_173",
+"topic": "Medicina Aeronáutica",
+"text": "En el caso de un sangrado arterial (rojo brillante, a chorro), la primera acción es:",
+"options": ["Aplicar un torniquete inmediatamente", "Presión directa firme sobre la herida", "Dar líquidos al paciente", "Elevar la extremidad y dejar que sangre"],
+"correctIndex": 1
+},
+{
+"id": "med_174",
+"topic": "Medicina Aeronáutica",
+"text": "Para tratar la hiperventilación por ansiedad, si no hay sospecha de hipoxia subyacente, se debe:",
+"options": ["Administrar oxígeno puro", "Pedir que tosa varias veces", "Tranquilizar al pasajero y controlar su respiración (respirar lentamente o con una bolsa)", "Colocarlo en decúbito prono"],
+"correctIndex": 2
+},
+{
+"id": "med_175",
+"topic": "Medicina Aeronáutica",
+"text": "El músculo cardíaco (miocardio) es un tipo de músculo:",
+"options": ["Liso e involuntario", "Estriado e involuntario", "Estriado y voluntario", "Liso y voluntario"],
+"correctIndex": 1
+},
+{
+"id": "med_176",
+"topic": "Medicina Aeronáutica",
+"text": "La relación de compresiones torácicas a ventilaciones para RCP en un adulto es:",
+"options": ["15:2", "30:2", "5:1", "10:1"],
+"correctIndex": 1
+},
+{
+"id": "med_177",
+"topic": "Medicina Aeronáutica",
+"text": "Los síntomas neurológicos de la Enfermedad Descompresiva (EDC) se conocen como:",
+"options": ["Bends", "Chokes", "Staggers", "Shock"],
+"correctIndex": 2
+},
+{
+"id": "med_178",
+"topic": "Medicina Aeronáutica",
+"text": "La presión arterial normal en un adulto sano se sitúa alrededor de:",
+"options": ["140/90 mmHg", "180/120 mmHg", "120/80 mmHg", "90/60 mmHg"],
+"correctIndex": 2
+},
+{
+"id": "med_179",
+"topic": "Medicina Aeronáutica",
+"text": "¿Qué gas es responsable de los síntomas de la Enfermedad Descompresiva (EDC) al formar burbujas en el organismo?",
+"options": ["Oxígeno (O₂)", "Dióxido de Carbono (CO₂)", "Nitrógeno (N₂)", "Monóxido de Carbono (CO)"],
+"correctIndex": 2
+},
+{
+"id": "med_180",
+"topic": "Medicina Aeronáutica",
+"text": "La condición conocida como 'Aerofagia' se refiere a:",
+"options": ["Miedo a volar", "Deglución excesiva de aire (gases)", "Problemas del oído por presión", "Inflamación de los senos paranasales"],
+"correctIndex": 1
+},
+{
+"id": "med_181",
+"topic": "Medicina Aeronáutica",
+"text": "¿Cuál es el principal riesgo al intentar reubicar un hueso en una luxación?",
+"options": ["Que no funcione", "Dolor leve", "Empeorar la lesión (daño nervioso o vascular)", "Retrasar el tratamiento"],
+"correctIndex": 2
+},
+{
+"id": "med_182",
+"topic": "Medicina Aeronáutica",
+"text": "La hipoglucemia se debe tratar inicialmente en un paciente consciente con:",
+"options": ["Insulina inyectable", "Glucosa oral (azúcar, zumo o dulces)", "Dar alimentos grasos", "Dejarlo dormir"],
+"correctIndex": 1
+},
+{
+"id": "med_183",
+"topic": "Medicina Aeronáutica",
+"text": "La desinfección de la aeronave ('disinsection') con 'Blocks Away' se realiza principalmente para prevenir la propagación de:",
+"options": ["Contaminación química", "Enfermedades transmitidas por vectores (como mosquitos)", "Riesgos de incendio", "Alergias comunes"],
+"correctIndex": 1
+},
+{
+"id": "med_184",
+"topic": "Medicina Aeronáutica",
+"text": "¿Qué estructura comunica el oído medio con la nasofaringe y ayuda a equilibrar la presión?",
+"options": ["Martillo", "Conductos semicirculares", "Caracol", "Trompa de Eustaquio"],
+"correctIndex": 3
+},
+{
+"id": "med_185",
+"topic": "Medicina Aeronáutica",
+"text": "El tiempo que la sangre tarda en coagularse (hemostasia) depende de las:",
+"options": ["Leucocitos", "Plaquetas (Trombocitos)", "Hematíes", "Plasma"],
+"correctIndex": 1
+},
+{
+"id": "med_186",
+"topic": "Medicina Aeronáutica",
+"text": "La condición en la que una persona respira muy lento (menos de 12 respiraciones/minuto en adulto) se denomina:",
+"options": ["Taquipnea", "Bradipnea", "Apnea", "Disnea"],
+"correctIndex": 1
+},
+{
+"id": "med_187",
+"topic": "Medicina Aeronáutica",
+"text": "¿Cuál de las siguientes es una quemadura de segundo grado?",
+"options": ["Solo enrojecimiento (Epidermis)", "Afectación de la Epidermis y Dermis con ampollas", "Afectación hasta el músculo", "Afectación superficial sin dolor"],
+"correctIndex": 1
+},
+{
+"id": "med_188",
+"topic": "Medicina Aeronáutica",
+"text": "La triada de la RCP básica es:",
+"options": ["Pulso, respiración, consciencia", "Comprimir, Ventilar, Desfibrilar", "Consciencia, Vía Aérea, Respiración", "Brazos, piernas, cabeza"],
+"correctIndex": 2
+},
+{
+"id": "med_189",
+"topic": "Medicina Aeronáutica",
+"text": "Un pasajero con dolor de cabeza, somnolencia, náuseas y cianosis leve a 15.000 pies probablemente sufra:",
+"options": ["Aerotitis", "Hipoxia", "Hiperventilación", "Cinetosis"],
+"correctIndex": 1
+},
+{
+"id": "med_190",
+"topic": "Medicina Aeronáutica",
+"text": "La deshidratación por la baja humedad en cabina puede hacer que las lentillas de contacto se sientan:",
+"options": ["Más suaves", "Más lubricadas", "Secas e incómodas", "Sin cambios"],
+"correctIndex": 2
+},
+{
+"id": "med_191",
+"topic": "Medicina Aeronáutica",
+"text": "Según la normativa, el kit médico de emergencia (EMK) solo puede ser utilizado por:",
+"options": ["Cualquier TCP", "El capitán", "Personal médico cualificado (o bajo su dirección en tierra)", "Pasajeros con formación en primeros auxilios"],
+"correctIndex": 2
+},
+{
+"id": "med_192",
+"topic": "Medicina Aeronáutica",
+"text": "La Maniobra de Heimlich se utiliza para tratar:",
+"options": ["Un infarto", "Una fractura", "Una obstrucción de vía aérea por cuerpo extraño (atragantamiento)", "Una hemorragia nasal"],
+"correctIndex": 2
+},
+{
+"id": "med_193",
+"topic": "Medicina Aeronáutica",
+"text": "El riesgo de sufrir aerotitis o barotitis media aumenta si el pasajero tiene:",
+"options": ["Diarrea", "Un resfriado o congestión nasal", "Hipertensión", "Dolor abdominal"],
+"correctIndex": 1
+},
+{
+"id": "med_194",
+"topic": "Medicina Aeronáutica",
+"text": "¿Qué posición es más adecuada para un pasajero que ha sufrido un síncope (desmayo) por falta de riego cerebral?",
+"options": ["Posición Fowler (sentado)", "Posición Lateral de Seguridad", "Posición de Trendelenburg (piernas elevadas)", "Decúbito prono"],
+"correctIndex": 2
+},
+{
+"id": "med_195",
+"topic": "Medicina Aeronáutica",
+"text": "En la 'Regla de los 9' para adultos, la cabeza y el cuello representan el:",
+"options": ["9%", "18%", "4.5%", "27%"],
+"correctIndex": 0
+},
+{
+"id": "med_196",
+"topic": "Medicina Aeronáutica",
+"text": "El color ROJO en el triaje de víctimas (Prioridad 1) indica que la víctima necesita atención:",
+"options": ["Inmediata y puede sobrevivir", "Diferida", "Mínima", "No necesita atención"],
+"correctIndex": 0
+},
+{
+"id": "med_197",
+"topic": "Medicina Aeronáutica",
+"text": "El latido normal del corazón en un adulto en reposo (frecuencia cardiaca) es de:",
+"options": ["40-60 latidos/minuto", "60-100 latidos/minuto", "100-120 latidos/minuto", "Más de 120 latidos/minuto"],
+"correctIndex": 1
+},
+{
+"id": "med_198",
+"topic": "Medicina Aeronáutica",
+"text": "¿Qué órgano produce la Insulina, hormona esencial para el metabolismo de los azúcares?",
+"options": ["Hígado", "Riñón", "Páncreas", "Estómago"],
+"correctIndex": 2
+},
+{
+"id": "med_199",
+"topic": "Medicina Aeronáutica",
+"text": "El término médico para el dolor de oídos causado por cambios de presión es:",
+"options": ["Barosinusitis", "Barodontalgia", "Barotitis (u otitis barotraumática)", "Aerocolia"],
+"correctIndex": 2
+},
+{
+"id": "med_200",
+"topic": "Medicina Aeronáutica",
+"text": "Los síntomas más comunes de la aerocolia (expansión de gases intestinales) son:",
+"options": ["Dolor de oídos y cabeza", "Dolor abdominal, hinchazón y flatulencias", "Visión borrosa y mareos", "Dolor en los dientes"],
+"correctIndex": 1
+},
+{
+"id": "med_201",
+"topic": "Medicina Aeronáutica",
+"text": "Si un pasajero epiléptico sufre una crisis (convulsiones) en el avión, la prioridad es:",
+"options": ["Sujetarle las extremidades para detener la convulsión", "Intentar despertarlo", "Proteger su cabeza y retirar objetos peligrosos del entorno", "Darle agua con azúcar"],
+"correctIndex": 2
+},
+{
+"id": "med_202",
+"topic": "Medicina Aeronáutica",
+"text": "En el caso de una fractura abierta (con herida), ¿cuál es la primera acción de primeros auxilios?",
+"options": ["Inmovilizar la fractura", "Intentar recolocar el hueso", "Detener la hemorragia y cubrir la herida", "Administrar antibióticos"],
+"correctIndex": 2
+},
+{
+"id": "med_203",
+"topic": "Medicina Aeronáutica",
+"text": "La anemia (Hipoxia Anémica) reduce la capacidad de la sangre para transportar oxígeno debido a una deficiencia de:",
+"options": ["Leucocitos", "Plaquetas", "Plasma", "Hemoglobina o Glóbulos Rojos"],
+"correctIndex": 3
+},
+{
+"id": "med_204",
+"topic": "Medicina Aeronáutica",
+"text": "Los vasos sanguíneos que transportan la sangre desde los tejidos de vuelta al corazón son:",
+"options": ["Arterias", "Capilares", "Venas", "Aorta"],
+"correctIndex": 2
+},
+{
+"id": "med_205",
+"topic": "Medicina Aeronáutica",
+"text": "La dosis de adrenalina (epinefrina) contenida en el auto-inyector (EpiPen) se usa para tratar:",
+"options": ["Crisis de asma leve", "Síncope", "Reacción anafiláctica grave", "Hipoglucemia"],
+"correctIndex": 2
+},
+{
+"id": "med_206",
+"topic": "Medicina Aeronáutica",
+"text": "¿Cuál es la complicación más grave de la Trombosis Venosa Profunda (TVP)?",
+"options": ["Un esguince", "Un dolor de cabeza", "Embolia pulmonar", "Hiperventilación"],
+"correctIndex": 2
+},
+{
+"id": "med_207",
+"topic": "Medicina Aeronáutica",
+"text": "La pérdida de conocimiento transitoria causada por la falta de flujo sanguíneo al cerebro se denomina:",
+"options": ["Convulsión", "Síncope (o lipotimia)", "Hipoxia", "Ictus"],
+"correctIndex": 1
+},
+  {
+    "id": "med_208",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Cuál es el principal efecto fisiológico de la baja humedad del aire en la cabina?",
+    "options": ["Aumento de la agresividad", "Sequedad de mucosas y piel", "Mayor riesgo de fracturas óseas", "Taquicardia"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_209",
+    "topic": "Medicina Aeronáutica",
+    "text": "La presión que se siente en la cabina (generalmente equivalente a 6.000-8.000 pies) es un ejemplo de:",
+    "options": ["Presurización diferencial", "Presión absoluta", "Presión parcial de oxígeno", "Presión atmosférica a nivel del mar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_210",
+    "topic": "Medicina Aeronáutica",
+    "text": "En el contexto de la hipoxia, la Ley de Dalton explica que:",
+    "options": ["El volumen de un gas se expande con la altitud", "La solubilidad de un gas disminuye con la altitud", "La presión total de una mezcla de gases es la suma de las presiones parciales", "El nitrógeno forma burbujas a baja presión"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_211",
+    "topic": "Medicina Aeronáutica",
+    "text": "La parálisis flácida (sin tono muscular) en la Enfermedad Descompresiva (EDC) es un síntoma de afectación:",
+    "options": ["Articular (Bends)", "Cutánea", "Gastrointestinal", "Neurológica"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_212",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué medicamento es esencial en el EMK para tratar un ataque cardíaco inminente?",
+    "options": ["Ibuprofeno", "Aspirina", "Diazepan", "Antihistamínicos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_213",
+    "topic": "Medicina Aeronáutica",
+    "text": "La barodontalgia es el dolor de dientes causado por:",
+    "options": ["Mala higiene dental", "Cambios en la presión atmosférica que afectan a gases atrapados en piezas dentales", "Comer dulces a bordo", "El aire frío de la ventilación"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_214",
+    "topic": "Medicina Aeronáutica",
+    "text": "En la atención de primeros auxilios, la 'P' de la conducta 'PAS' significa:",
+    "options": ["Prevenir (el peligro)", "Proteger (el lugar)", "Priorizar (la víctima)", "Presionar (la herida)"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_215",
+    "topic": "Medicina Aeronáutica",
+    "text": "Si el DEA recomienda una descarga, la tripulación debe asegurar que:",
+    "options": ["El paciente está en posición lateral de seguridad", "Nadie toca a la víctima ni está cerca", "La cabina está presurizada", "Se ha administrado oxígeno previamente"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_216",
+    "topic": "Medicina Aeronáutica",
+    "text": "Los síntomas del Jet Lag suelen ser peores cuando se vuela:",
+    "options": ["De Este a Oeste", "De Norte a Sur", "De Oeste a Este", "En vuelos cortos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_217",
+    "topic": "Medicina Aeronáutica",
+    "text": "La posición antishock o Trendelenburg modificada implica:",
+    "options": ["Elevar solo la cabeza", "Elevar las piernas 30-45 cm sobre el nivel del corazón", "Sentar a la víctima en posición Fowler", "Colocar a la víctima boca abajo (prono)"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_218",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Cuál es la función principal de los leucocitos (glóbulos blancos)?",
+    "options": ["Coagulación sanguínea", "Transporte de oxígeno", "Defensa del organismo contra infecciones", "Regulación de la temperatura corporal"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_219",
+    "topic": "Medicina Aeronáutica",
+    "text": "En el caso de un traumatismo craneal con posible lesión cervical, la apertura de la vía aérea se debe realizar con la maniobra de:",
+    "options": ["Frente-mentón (hiperextensión)", "Subluxación mandibular", "Heimlich modificada", "PLS"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_220",
+    "topic": "Medicina Aeronáutica",
+    "text": "La barosinusitis es la afectación de:",
+    "options": ["El oído interno", "Los senos paranasales", "Las articulaciones", "La piel"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_221",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Cuál es el tiempo de espera recomendado para viajar en avión después de haber sufrido un neumotórax reciente?",
+    "options": ["2 horas", "24 horas", "Al menos 7 días y confirmación médica", "No hay restricción"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_222",
+    "topic": "Medicina Aeronáutica",
+    "text": "La arteria que transporta sangre desoxigenada (con CO₂) es la:",
+    "options": ["Aorta", "Arteria pulmonar", "Arteria carótida", "Arteria femoral"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_223",
+    "topic": "Medicina Aeronáutica",
+    "text": "En la RCP pediátrica (niños) la secuencia de compresiones y ventilaciones es de:",
+    "options": ["30:2", "15:2", "5:1", "30:5"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_224",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué se debe hacer ante una hemorragia por amputación?",
+    "options": ["Aplicar un torniquete y esperar ayuda médica", "Presión directa, elevación y control de la hemorragia antes de la inmovilización", "Lavar el muñón con agua y jabón", "Dejar que la herida sangre libremente"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_225",
+    "topic": "Medicina Aeronáutica",
+    "text": "El color de la cianosis, indicativo de falta de oxígeno, es:",
+    "options": ["Amarillento", "Azulado", "Rojizo", "Verdoso"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_226",
+    "topic": "Medicina Aeronáutica",
+    "text": "La enfermedad descompresiva (EDC) es causada por la expansión de burbujas de **Nitrógeno** debido a:",
+    "options": ["Baja temperatura", "Ascenso demasiado rápido (bajada de presión)", "Alta humedad", "Consumo excesivo de alcohol"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_227",
+    "topic": "Medicina Aeronáutica",
+    "text": "En caso de quemadura química en los ojos, la acción inmediata es:",
+    "options": ["Tapar el ojo", "Frotar vigorosamente", "Lavar abundantemente con agua o suero fisiológico durante al menos 15-20 minutos", "Aplicar un ungüento"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_228",
+    "topic": "Medicina Aeronáutica",
+    "text": "La bradicardia es una frecuencia cardíaca:",
+    "options": ["Superior a 100 lpm", "Inferior a 60 lpm", "Normal para un atleta", "De 120 lpm"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_229",
+    "topic": "Medicina Aeronáutica",
+    "text": "El 'PAS' es un acrónimo para:",
+    "options": ["Procedimiento de Atención Sanitaria", "Proteger, Avisar, Socorrer", "Primeros Auxilios de Seguridad", "Posición, Alerta, Solución"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_230",
+    "topic": "Medicina Aeronáutica",
+    "text": "El dolor abdominal, náuseas, vómitos y fiebre de rápida aparición son síntomas típicos de:",
+    "options": ["Angina de pecho", "Trombosis venosa profunda", "Intoxicación o infección alimentaria (gastroenteritis)", "Barodontalgia"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_231",
+    "topic": "Medicina Aeronáutica",
+    "text": "La parte del sistema nervioso que regula las funciones involuntarias (respiración, latido cardíaco) es el:",
+    "options": ["Sistema nervioso periférico", "Sistema nervioso somático", "Sistema nervioso autónomo", "Cerebelo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_232",
+    "topic": "Medicina Aeronáutica",
+    "text": "La pérdida de audición temporal durante el vuelo puede ser un síntoma de:",
+    "options": ["Hipoxia hipóxica", "Barotitis media (Aerotitis)", "Jet Lag", "Hiperventilación"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_233",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué órgano produce la mayor parte de las enzimas digestivas?",
+    "options": ["Estómago", "Hígado", "Páncreas", "Intestino grueso"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_234",
+    "topic": "Medicina Aeronáutica",
+    "text": "En la 'Regla de la mano' para estimar quemaduras en niños, el área de la palma del paciente (más dedos) representa el:",
+    "options": ["1%", "3%", "5%", "9%"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_235",
+    "topic": "Medicina Aeronáutica",
+    "text": "La presión que ejerce la sangre contra las paredes de las arterias se conoce como:",
+    "options": ["Presión osmótica", "Frecuencia cardiaca", "Presión venosa", "Presión arterial"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_236",
+    "topic": "Medicina Aeronáutica",
+    "text": "El botiquín de primeros auxilios (FAK - First Aid Kit) debe ser accesible para:",
+    "options": ["Solo el capitán", "Solo el médico en tierra", "Todos los TCP para atención inmediata", "Solo el jefe de cabina"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_237",
+    "topic": "Medicina Aeronáutica",
+    "text": "La principal recomendación para un pasajero con síntomas de TVP es:",
+    "options": ["Caminar mucho por el pasillo", "Inmovilizar la pierna y notificar al capitán/personal médico", "Hacer ejercicios intensos con pesas", "Beber alcohol para diluir la sangre"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_238",
+    "topic": "Medicina Aeronáutica",
+    "text": "La hipoxia que se produce por un flujo sanguíneo inadecuado a los tejidos (como en el shock) es:",
+    "options": ["Hipóxica", "Anémica", "Por estancamiento (o circulatoria)", "Histotóxica"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_239",
+    "topic": "Medicina Aeronáutica",
+    "text": "La pérdida de conocimiento en un síncope se diferencia de una convulsión epiléptica en que el síncope es:",
+    "options": ["Más prolongado", "Generalmente corto y con recuperación rápida al tumbarse", "Siempre con movimientos tónico-clónicos", "Siempre causado por hipoglucemia"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_240",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué tipo de vendaje se utiliza para inmovilizar una extremidad fracturada?",
+    "options": ["Compresivo", "De cabestrillo o inmovilización", "Elástico", "Adhesivo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_241",
+    "topic": "Medicina Aeronáutica",
+    "text": "El Ictus (accidente cerebrovascular) se clasifica en dos tipos principales:",
+    "options": ["Anémico y Venoso", "Arterial y Capilar", "Trombótico y Embolico", "Isquémico (o trombótico) y Hemorrágico"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_242",
+    "topic": "Medicina Aeronáutica",
+    "text": "La 'Trompa de Eustaquio' se abre principalmente durante:",
+    "options": ["Dormir", "Comer alimentos picantes", "Tragar o bostezar", "La inmersión en agua"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_243",
+    "topic": "Medicina Aeronáutica",
+    "text": "El periodo de incubación es:",
+    "options": ["El tiempo que tarda una herida en cicatrizar", "El tiempo entre el contagio y la aparición de los primeros síntomas", "El tiempo de aislamiento de un paciente", "El tiempo que dura un vuelo largo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_244",
+    "topic": "Medicina Aeronáutica",
+    "text": "La principal causa de obstrucción de la vía aérea en un pasajero consciente (adulto) es:",
+    "options": ["La lengua", "Un coágulo de sangre", "Un cuerpo extraño (alimento)", "Secreciones"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_245",
+    "topic": "Medicina Aeronáutica",
+    "text": "Si una mujer tiene un parto inminente a bordo, la prioridad del TCP es:",
+    "options": ["Pedirle que espere la llegada a tierra", "Prestar apoyo, garantizar la intimidad y prepararse para asistir el parto", "Trasladarla inmediatamente al 'galley' más cercano", "Intentar detener las contracciones"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_246",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿A qué altitud desciende el piloto inmediatamente después de una despresurización de emergencia?",
+    "options": ["14.000 pies o inferior", "25.000 pies", "35.000 pies", "Nivel del mar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_247",
+    "topic": "Medicina Aeronáutica",
+    "text": "La 'Posición de Defensa' en RCP significa que el reanimador debe colocarse:",
+    "options": ["A los pies de la víctima", "A la cabeza de la víctima", "Al lado de la víctima, a la altura del tórax", "Lejos de la víctima"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_248",
+    "topic": "Medicina Aeronáutica",
+    "text": "En una quemadura leve, el uso de mantequilla o cremas grasas es:",
+    "options": ["Totalmente recomendado", "Solo si son estériles", "Desaconsejado, ya que retienen el calor y aumentan el riesgo de infección", "Obligatorio"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_249",
+    "topic": "Medicina Aeronáutica",
+    "text": "La diarrea y el vómito en vuelo pueden causar rápidamente:",
+    "options": ["Hipertensión", "Bradicardia", "Deshidratación y desequilibrio electrolítico", "Aerotitis"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_250",
+    "topic": "Medicina Aeronáutica",
+    "text": "El sistema encargado de transportar el oxígeno desde los pulmones a los tejidos es el:",
+    "options": ["Sistema nervioso", "Sistema digestivo", "Sistema circulatorio", "Sistema renal"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_251",
+    "topic": "Medicina Aeronáutica",
+    "text": "La ceguera nocturna o la visión de túnel son síntomas de hipoxia en la fase:",
+    "options": ["Indiferente", "Compensación", "Disturbio (o Agitación)", "Final (o Colapso)"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_252",
+    "topic": "Medicina Aeronáutica",
+    "text": "La aerogastria es la acumulación de gas en:",
+    "options": ["Los oídos", "Los senos paranasales", "El estómago", "Los pulmones"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_253",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué se debe hacer inmediatamente si se sospecha de un Ictus (ACV) en un pasajero?",
+    "options": ["Administrarle un analgésico", "Aplicar el protocolo FAST (Face, Arms, Speech, Time) y notificar al capitán", "Darle a beber café o té", "Hacer que se estire y duerma"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_254",
+    "topic": "Medicina Aeronáutica",
+    "text": "El componente más abundante de la sangre es:",
+    "options": ["Glóbulos Rojos", "Glóbulos Blancos", "Plaquetas", "Plasma"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_255",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Cuál es la función del desfibrilador externo automático (DEA)?",
+    "options": ["Dar un masaje cardíaco manual", "Estabilizar la presión arterial", "Detener una fibrilación ventricular mediante una descarga eléctrica", "Diagnosticar infartos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_256",
+    "topic": "Medicina Aeronáutica",
+    "text": "La diferencia entre una lipotimia y un síncope es que la lipotimia es:",
+    "options": ["Más grave", "Una pérdida de conciencia más profunda", "Una pérdida de conciencia parcial o inminente (presíncope)", "Más prolongada"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_257",
+    "topic": "Medicina Aeronáutica",
+    "text": "En la aerotitis media, ¿qué estructura del oído no logra compensar la diferencia de presión?",
+    "options": ["Caracol (Cóclea)", "Oído interno", "Trompa de Eustaquio", "Pabellón auricular"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_258",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Cuál es la principal precaución a tomar en un pasajero diabético que está inconsciente?",
+    "options": ["Administrarle insulina", "Asumir hipoglucemia y aplicar glucosa/glucagón según protocolo", "Ponerle en posición Fowler", "Hacerle caminar"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_259",
+    "topic": "Medicina Aeronáutica",
+    "text": "La Hipoxia Histotóxica es aquella causada por la incapacidad de los tejidos para utilizar el oxígeno, y es causada comúnmente por:",
+    "options": ["Baja presión en cabina", "Una hemorragia grave", "Intoxicación por cianuro o monóxido de carbono", "Inmovilidad prolongada"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_260",
+    "topic": "Medicina Aeronáutica",
+    "text": "Si un pasajero sufre una quemadura por frío (congelación), la acción incorrecta es:",
+    "options": ["Recalentar la zona con agua tibia (40-42°C)", "Frotar la zona congelada con las manos o nieve", "Cubrir con mantas y aplicar calor progresivo", "Evitar el contacto directo con hielo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_261",
+    "topic": "Medicina Aeronáutica",
+    "text": "En el protocolo de triaje, el color NEGRO (Prioridad 0) se asigna a las víctimas:",
+    "options": ["Con lesiones leves (caminantes)", "Que requieren atención inmediata", "Fallecidas o con lesiones incompatibles con la vida", "Que requieren atención diferida"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_262",
+    "topic": "Medicina Aeronáutica",
+    "text": "La arteria aorta sale directamente de la cavidad cardíaca denominada:",
+    "options": ["Aurícula derecha", "Ventrículo derecho", "Aurícula izquierda", "Ventrículo izquierdo"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_263",
+    "topic": "Medicina Aeronáutica",
+    "text": "El oxígeno a bordo en cabina de pasajeros se suministra a un flujo:",
+    "options": ["Continuo (generalmente 4 litros/minuto)", "A demanda (solo al inhalar)", "Variable según la altitud", "Siempre al 100%"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_264",
+    "topic": "Medicina Aeronáutica",
+    "text": "La presión intraocular puede aumentar en descenso en pacientes con:",
+    "options": ["Glaucoma agudo no controlado", "Cataratas", "Miopía leve", "Alergia ocular estacional"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_265",
+    "topic": "Medicina Aeronáutica",
+    "text": "Para un pasajero con cinetosis (mareo por movimiento), se recomienda que mantenga la vista:",
+    "options": ["En un punto fijo dentro de la cabina", "Cerrada y acostado en la medida de lo posible", "En el horizonte o hacia adelante a través de una ventana", "En objetos pequeños a su alrededor"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_266",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué órgano es el responsable de la producción de la bilis, esencial para la digestión de grasas?",
+    "options": ["Vesícula biliar", "Páncreas", "Hígado", "Estómago"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_267",
+    "topic": "Medicina Aeronáutica",
+    "text": "En la inspección de la víctima ('VER, OÍR, SENTIR') al evaluar la respiración, debemos confirmar que hay:",
+    "options": ["Pulso carotídeo fuerte", "Movimientos torácicos y ruidos respiratorios", "Coloración sonrosada de la piel", "Pupilas reactivas a la luz"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_268",
+    "topic": "Medicina Aeronáutica",
+    "text": "Si la tripulación debe realizar RCP a un lactante (menor de 1 año), las compresiones se realizan con:",
+    "options": ["El talón de una mano", "El talón de ambas manos", "Dos dedos en el centro del pecho", "Solo con los puños"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_269",
+    "topic": "Medicina Aeronáutica",
+    "text": "Los 'Chokes' son síntomas de la Enfermedad Descompresiva (EDC) que afectan principalmente a:",
+    "options": ["Las articulaciones (dolor)", "El sistema respiratorio (dolor torácico y tos)", "El sistema nervioso central", "La piel (picazón)"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_270",
+    "topic": "Medicina Aeronáutica",
+    "text": "El riesgo de trombosis venosa profunda (TVP) se agrava si el pasajero tiene antecedentes de:",
+    "options": ["Diabetes tipo 1", "Cirugía reciente, embarazo o uso de anticonceptivos orales", "Resfriados frecuentes", "Cinetosis"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_271",
+    "topic": "Medicina Aeronáutica",
+    "text": "La primera acción al atender una herida profunda con sangrado es:",
+    "options": ["Aplicar desinfectante", "Presión directa sobre la herida", "Cubrir con una venda", "Llamar al médico inmediatamente"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_272",
+    "topic": "Medicina Aeronáutica",
+    "text": "La hipoxia por estancamiento es causada por una falla en la:",
+    "options": ["Absorción pulmonar de oxígeno", "Capacidad de la sangre para transportar oxígeno", "Perfusión o circulación sanguínea (flujo)", "Utilización del oxígeno por las células"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_273",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Cuál es la fase de la hipoxia caracterizada por la pérdida total de la capacidad de juicio (aunque se siga consciente)?",
+    "options": ["Indiferente", "Compensación", "Disturbio", "Colapso"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_274",
+    "topic": "Medicina Aeronáutica",
+    "text": "El término médico para la hemorragia nasal es:",
+    "options": ["Otorragia", "Hematemesis", "Epistaxis", "Menorragia"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_275",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué se debe hacer en caso de atragantamiento total en un pasajero consciente (adulto)?",
+    "options": ["Solo RCP", "5 golpes en la espalda y 5 compresiones abdominales (Heimlich)", "Animarle a beber agua", "Colocarlo en PLS"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_276",
+    "topic": "Medicina Aeronáutica",
+    "text": "El esguince se produce por un daño en:",
+    "options": ["El hueso (fractura)", "Los ligamentos de una articulación", "El tendón (tendinitis)", "La médula espinal"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_277",
+    "topic": "Medicina Aeronáutica",
+    "text": "La función principal de la vena cava es llevar sangre con CO₂ a la cavidad cardíaca denominada:",
+    "options": ["Ventrículo izquierdo", "Aurícula derecha", "Ventrículo derecho", "Aurícula izquierda"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_278",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Cómo se llama la contracción del corazón (fase de expulsión de sangre)?",
+    "options": ["Diástole", "Sístole", "Pulsación", "Latido"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_279",
+    "topic": "Medicina Aeronáutica",
+    "text": "En el caso de una quemadura de 1er grado, el cuidado principal es:",
+    "options": ["Quitar la ropa rápidamente", "Enfriar la zona con agua fresca o suero", "Pinchar las ampollas", "Aplicar vaselina inmediatamente"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_280",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Cuál es el principal riesgo de la hiperventilación no controlada?",
+    "options": ["Aumento de la cianosis", "Aumento excesivo de CO₂ en sangre", "Alcalosis respiratoria y pérdida de conciencia", "Hipoglucemia"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_281",
+    "topic": "Medicina Aeronáutica",
+    "text": "El 'FAST' (Face, Arms, Speech, Time) es un protocolo de evaluación rápida para sospecha de:",
+    "options": ["Paro cardíaco", "Crisis diabética", "Ictus (ACV)", "Reacción alérgica"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_282",
+    "topic": "Medicina Aeronáutica",
+    "text": "La Ley de Boyle explica la expansión de los gases al:",
+    "options": ["Aumentar la temperatura", "Disminuir la presión (ascenso)", "Aumentar la presión (descenso)", "Disminuir la humedad"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_283",
+    "topic": "Medicina Aeronáutica",
+    "text": "El término médico para la dificultad respiratoria se conoce como:",
+    "options": ["Apnea", "Bradipnea", "Taquipnea", "Disnea"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_284",
+    "topic": "Medicina Aeronáutica",
+    "text": "En el EMK (Botiquín Médico de Emergencia), el bisturí y el catéter vesical son utilizados exclusivamente por:",
+    "options": ["TCP entrenado", "El capitán", "Personal médico cualificado (o bajo su dirección)", "Cualquier pasajero"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_285",
+    "topic": "Medicina Aeronáutica",
+    "text": "Si un pasajero está sufriendo un infarto agudo de miocardio (IAM), la acción principal de la tripulación es:",
+    "options": ["Administrar oxígeno, Aspirina y contactar con MEDLINK", "Hacer que el paciente tosa fuertemente", "Darle un café y un bocadillo", "Esperar a aterrizar sin hacer nada"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_286",
+    "topic": "Medicina Aeronáutica",
+    "text": "En la inmovilización de una fractura, la férula debe incluir:",
+    "options": ["Solo el punto exacto de la fractura", "La articulación proximal (más cercana)", "Las articulaciones inmediatamente proximal y distal (superior e inferior) a la lesión", "Solo la articulación distal (más lejana)"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_287",
+    "topic": "Medicina Aeronáutica",
+    "text": "El shock anafiláctico (reacción alérgica grave) se caracteriza por:",
+    "options": ["Solo urticaria leve", "Dolor de cabeza y visión doble", "Dificultad respiratoria, hinchazón y caída de la presión arterial", "Dolor de estómago y náuseas"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_288",
+    "topic": "Medicina Aeronáutica",
+    "text": "El tiempo de espera recomendado antes de volar para un pasajero con sinusitis aguda es:",
+    "options": ["Sin restricción", "Hasta que los síntomas se resuelvan (riesgo de barosinusitis)", "24 horas", "48 horas"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_289",
+    "topic": "Medicina Aeronáutica",
+    "text": "Una herida incisa se caracteriza por ser:",
+    "options": ["Producida por un objeto punzante (aguja)", "Bordes irregulares y contusión", "Bordes limpios y lineales (corte con cuchillo)", "Solo superficial"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_290",
+    "topic": "Medicina Aeronáutica",
+    "text": "La válvula que conecta la aurícula izquierda con el ventrículo izquierdo es la:",
+    "options": ["Tricúspide", "Aórtica", "Mitral (o Bicúspide)", "Pulmonar"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_291",
+    "topic": "Medicina Aeronáutica",
+    "text": "La Hipoxia Anémica es causada por la incapacidad de la sangre para:",
+    "options": ["Llevar la sangre a los tejidos", "Utilizar el oxígeno", "Disolver el oxígeno", "Transportar suficiente oxígeno (por falta de glóbulos rojos o hemoglobina)"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_292",
+    "topic": "Medicina Aeronáutica",
+    "text": "La desorientación espacial o vértigo en vuelo se debe a la interacción entre el sistema visual y el órgano del equilibrio situado en:",
+    "options": ["El cerebelo", "El oído externo", "El oído interno", "El bulbo raquídeo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_293",
+    "topic": "Medicina Aeronáutica",
+    "text": "La temperatura corporal normal en un adulto sano es de aproximadamente:",
+    "options": ["35°C", "36.5°C - 37.5°C", "38°C", "39°C"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_294",
+    "topic": "Medicina Aeronáutica",
+    "text": "Para evitar la propagación de infecciones a bordo, el TCP debe hacer hincapié en la higiene de:",
+    "options": ["La ropa de la cabina", "Las superficies metálicas", "Manos (lavado o desinfectante)", "La zona de asientos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_295",
+    "topic": "Medicina Aeronáutica",
+    "text": "Los síntomas de desorientación, euforia y pérdida de juicio por hipoxia se inician a partir de aproximadamente:",
+    "options": ["5.000 pies", "10.000 pies", "15.000 pies", "30.000 pies"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_296",
+    "topic": "Medicina Aeronáutica",
+    "text": "En el tratamiento del esguince, el acrónimo RICE significa:",
+    "options": ["Reposo, Inmovilización, Calor, Elevación", "Reposo, Hielo, Compresión, Elevación", "Respiración, Inmovilización, Compresión, Evacuación", "Recuperar, Intentar, Curar, Estirar"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_297",
+    "topic": "Medicina Aeronáutica",
+    "text": "Una fractura se considera 'cerrada' cuando:",
+    "options": ["El hueso está roto en muchos fragmentos", "No hay herida que comunique la fractura con el exterior", "El hueso no está desplazado", "Es una fractura en tallo verde"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_298",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué posición se debe usar para un pasajero con dolor abdominal intenso (sospecha de apendicitis, por ejemplo)?",
+    "options": ["Posición lateral de seguridad", "Posición fetal o de confort (con las rodillas flexionadas)", "Decúbito supino", "Posición antishock"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_299",
+    "topic": "Medicina Aeronáutica",
+    "text": "La presión atmosférica se mide en unidades de:",
+    "options": ["Gramos (g)", "Metros por segundo (m/s)", "Milímetros de Mercurio (mmHg) o hectopascales (hPa)", "Amperios (A)"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_300",
+    "topic": "Medicina Aeronáutica",
+    "text": "Un pasajero consciente con atragantamiento **parcial** (puede toser y hablar) debe ser animado a:",
+    "options": ["Toser enérgicamente", "Recibir la maniobra de Heimlich", "Beber agua a sorbos", "Acostarse boca arriba"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_301",
+    "topic": "Medicina Aeronáutica",
+    "text": "La descompresión **lenta** es peligrosa porque el inicio de la hipoxia es:",
+    "options": ["Inmediato y evidente", "Súbito y ruidoso", "Progresivo e insidioso (difícil de notar a tiempo)", "Solo afecta al oído"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_302",
+    "topic": "Medicina Aeronáutica",
+    "text": "Si una mujer tiene contracciones cada 5 minutos y el parto es inminente, el TCP debe considerar:",
+    "options": ["Que aún hay tiempo de aterrizar", "Solicitar asistencia médica y buscar un lugar adecuado para el parto", "Administrarle calmantes", "Pedirle que se aguante"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_303",
+    "topic": "Medicina Aeronáutica",
+    "text": "El riesgo de barotrauma (daño por presión) en el descenso es mayor en:",
+    "options": ["El oído externo", "El oído medio", "El oído interno", "Los conductos semicirculares"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_304",
+    "topic": "Medicina Aeronáutica",
+    "text": "La Ley de Henry, relevante en la enfermedad descompresiva, se refiere a la:",
+    "options": ["Expansión de gases", "Presión parcial de gases", "Solubilidad de un gas en un líquido a una presión dada", "Expansión del volumen del gas en los dientes"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_305",
+    "topic": "Medicina Aeronáutica",
+    "text": "La hipoxia por inmovilización (Hipoxia por estancamiento) puede ocurrir en los dedos si la persona tiene puesto:",
+    "options": ["Un anillo muy ajustado", "Una pulsera de metal", "Guantes de lana", "Esmalte de uñas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_306",
+    "topic": "Medicina Aeronáutica",
+    "text": "La primera acción de primeros auxilios ante un objeto clavado es:",
+    "options": ["Extraerlo suavemente", "Mover la herida para valorar el daño", "Inmovilizar el objeto para evitar que se mueva", "Presionar la herida por encima y debajo del objeto"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_307",
+    "topic": "Medicina Aeronáutica",
+    "text": "El término médico para la frecuencia respiratoria superior a 20 respiraciones por minuto es:",
+    "options": ["Bradipnea", "Taquicardia", "Taquipnea", "Hiperventilación"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_308",
+    "topic": "Medicina Aeronáutica",
+    "text": "Si un pasajero diabético consciente está hipoglucémico, pero es incapaz de tragar, el TCP debe:",
+    "options": ["Intentar darle agua forzadamente", "Colocarle en PLS y no darle nada por boca", "Administrarle glucagón inyectable (si está disponible y el protocolo lo permite)", "Hacerle caminar para estimular la circulación"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_309",
+    "topic": "Medicina Aeronáutica",
+    "text": "El tiempo de conciencia útil (TUC) disminuye al aumentar la altitud debido a:",
+    "options": ["Aumento de la temperatura en cabina", "Disminución de la presión parcial de oxígeno", "Aumento de la humedad", "Mayor turbulencia"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_310",
+    "topic": "Medicina Aeronáutica",
+    "text": "La Hipoxia se define como la falta de oxígeno en:",
+    "options": ["El aire respirado", "La sangre (anemia)", "Los tejidos del cuerpo", "Los pulmones"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_311",
+    "topic": "Medicina Aeronáutica",
+    "text": "En una emergencia de despresurización rápida, la caída de las máscaras de oxígeno ocurre automáticamente cuando la presión de cabina supera la altitud de:",
+    "options": ["8.000 pies", "10.000 pies", "14.000 pies", "25.000 pies"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_312",
+    "topic": "Medicina Aeronáutica",
+    "text": "La principal recomendación para prevenir la aerofagia durante el vuelo es:",
+    "options": ["Dormir", "Comer comidas pesadas", "Evitar bebidas carbonatadas y masticar chicle", "Hacer ejercicio intenso"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_313",
+    "topic": "Medicina Aeronáutica",
+    "text": "En el contexto de la aviación, la Ley de Charles describe que el volumen de un gas se expande al:",
+    "options": ["Disminuir la temperatura", "Aumentar la temperatura", "Aumentar la presión", "Disminuir la presión"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_314",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué órgano es la 'caja de resonancia' y contiene las cuerdas vocales?",
+    "options": ["Tráquea", "Faringe", "Laringe", "Esófago"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_315",
+    "topic": "Medicina Aeronáutica",
+    "text": "La maniobra de Valsalva es una técnica utilizada para aliviar la presión en:",
+    "options": ["El abdomen", "El tórax", "El oído medio (para prevenir la aerotitis)", "Las articulaciones"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_316",
+    "topic": "Medicina Aeronáutica",
+    "text": "La diferencia principal entre un síncope y un ictus (ACV) es que el síncope implica:",
+    "options": ["Un déficit neurológico permanente", "Una pérdida de conciencia temporal y rápida reversión", "Siempre convulsiones", "Dolor torácico"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_317",
+    "topic": "Medicina Aeronáutica",
+    "text": "El tratamiento inicial y principal para una contusión es:",
+    "options": ["Movilización forzada", "Masajear la zona", "Aplicar frío local e inmovilización (si es grave)", "Aplicar calor"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_318",
+    "topic": "Medicina Aeronáutica",
+    "text": "Si un pasajero tiene un objeto incrustado en el ojo, el TCP debe:",
+    "options": ["Intentar extraerlo rápidamente con una gasa", "Lavar vigorosamente con suero", "Cubrir ambos ojos con un protector y buscar ayuda médica", "Frotar el ojo opuesto"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_319",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué es la fibrilación ventricular (FV)?",
+    "options": ["Un latido cardíaco normal y fuerte", "Un ritmo cardíaco muy lento", "Contracciones caóticas e ineficaces del corazón que requieren desfibrilación", "Un dolor de pecho leve"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_320",
+    "topic": "Medicina Aeronáutica",
+    "text": "En la 'Regla de los 9' para grandes quemados, cada extremidad superior (brazo) representa:",
+    "options": ["4.5%", "9%", "18%", "1%"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_321",
+    "topic": "Medicina Aeronáutica",
+    "text": "Para la limpieza de una herida simple, se debe usar:",
+    "options": ["Alcohol o yodo (directamente)", "Agua oxigenada", "Agua y jabón suave o suero fisiológico", "Aceite"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_322",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué patología puede ser causa de una Hipoxia Anémica?",
+    "options": ["Aerotitis", "Enfermedad Descompresiva", "Hemorragia grave", "Barosinusitis"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_323",
+    "topic": "Medicina Aeronáutica",
+    "text": "Los síntomas de dolor torácico (tensión) y tos persistente en la EDC son conocidos como:",
+    "options": ["The Bends", "The Chokes", "The Staggers", "Skin Bends"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_324",
+    "topic": "Medicina Aeronáutica",
+    "text": "La inyección intramuscular (IM) se realiza en un ángulo de:",
+    "options": ["15 grados", "45 grados", "90 grados", "180 grados"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_325",
+    "topic": "Medicina Aeronáutica",
+    "text": "La fase del proceso digestivo que consiste en la absorción de nutrientes a la sangre es principalmente en:",
+    "options": ["Estómago", "Intestino grueso", "Intestino delgado", "Esófago"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_326",
+    "topic": "Medicina Aeronáutica",
+    "text": "El tiempo máximo que una persona puede estar en parada cardiorrespiratoria sin riesgo de daño cerebral irreversible es de aproximadamente:",
+    "options": ["1 minuto", "4 - 6 minutos", "10 - 15 minutos", "30 minutos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_327",
+    "topic": "Medicina Aeronáutica",
+    "text": "El riesgo de hipoxia aumenta en vuelo para pasajeros con:",
+    "options": ["Anemia severa o enfermedades respiratorias crónicas (EPOC)", "Gripe estacional", "Huesos rotos", "Diarrea"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_328",
+    "topic": "Medicina Aeronáutica",
+    "text": "La pérdida de tono muscular y el babeo son signos que pueden preceder a:",
+    "options": ["Un síncope o una crisis convulsiva", "Una fractura", "Una quemadura", "Una hemorragia nasal"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_329",
+    "topic": "Medicina Aeronáutica",
+    "text": "En el caso de un pasajero con dolor de oído persistente en el descenso, el TCP puede recomendar:",
+    "options": ["Dormir", "Masticar chicle, bostezar o usar gotas nasales descongestionantes", "Ponerse hielo", "Gritar"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_330",
+    "topic": "Medicina Aeronáutica",
+    "text": "La presión que queda en las arterias durante la relajación del corazón se conoce como:",
+    "options": ["Presión sistólica", "Presión diferencial", "Presión diastólica", "Presión venosa"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_331",
+    "topic": "Medicina Aeronáutica",
+    "text": "Si un DEA no puede analizar el ritmo cardíaco de la víctima, el TCP debe:",
+    "options": ["Esperar 10 minutos", "Continuar inmediatamente con las compresiones torácicas", "Aplicar otra descarga sin análisis", "Cambiar de DEA"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_332",
+    "topic": "Medicina Aeronáutica",
+    "text": "Los vasos sanguíneos más pequeños, donde se realiza el intercambio de oxígeno y nutrientes con los tejidos, son:",
+    "options": ["Arteriolas", "Vénulas", "Capilares", "Arterias"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_333",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué enfermedad se transmite principalmente por la picadura de mosquitos (vector)?",
+    "options": ["Tuberculosis", "Cólera", "Dengue o Malaria", "Hepatitis A"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_334",
+    "topic": "Medicina Aeronáutica",
+    "text": "En una quemadura eléctrica, el mayor peligro no es la quemadura visible sino el posible daño a:",
+    "options": ["El cabello", "Órganos internos y el corazón (arritmia)", "La ropa", "El hueso"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_335",
+    "topic": "Medicina Aeronáutica",
+    "text": "La condición de 'Shock' se define como:",
+    "options": ["Miedo extremo a volar", "Falla circulatoria que impide la perfusión adecuada de los tejidos", "Fiebre alta", "Una lesión en la cabeza"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_336",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué glándula produce la adrenalina (epinefrina)?",
+    "options": ["Tiroides", "Páncreas", "Suprarrenales", "Hipófisis"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_337",
+    "topic": "Medicina Aeronáutica",
+    "text": "El tiempo de demora máximo para la atención de una víctima Prioridad 1 (Roja) es:",
+    "options": ["6 horas", "1 hora", "Inmediata (minutos)", "24 horas"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_338",
+    "topic": "Medicina Aeronáutica",
+    "text": "La dilatación de las pupilas (midriasis) puede ser un signo de:",
+    "options": ["Visión normal", "Exceso de luz", "Hipoxia o estado de shock/muerte cerebral", "Reacción alérgica"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_339",
+    "topic": "Medicina Aeronáutica",
+    "text": "Para prevenir la TVP, el TCP debe alentar a los pasajeros a realizar ejercicios de:",
+    "options": ["Estiramiento de brazos y cuello", "Flexión y extensión de tobillos y rodillas", "Levantamiento de peso", "Caminar muy rápido"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_340",
+    "topic": "Medicina Aeronáutica",
+    "text": "La válvula que separa el ventrículo derecho de la arteria pulmonar es la:",
+    "options": ["Tricúspide", "Mitral", "Aórtica", "Pulmonar"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_341",
+    "topic": "Medicina Aeronáutica",
+    "text": "La sensación de 'hormigueo' (parestesia) en manos y cara durante la hiperventilación es causada por:",
+    "options": ["Falta de oxígeno", "Exceso de oxígeno", "Baja concentración de CO₂ en sangre", "Hipotermia"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_342",
+    "topic": "Medicina Aeronáutica",
+    "text": "El aparato digestivo comienza en:",
+    "options": ["Esófago", "Estómago", "Boca", "Faringe"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_343",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Cuál es la función principal del riñón?",
+    "options": ["Digestión de grasas", "Producción de insulina", "Filtración de la sangre y formación de orina", "Transporte de oxígeno"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_344",
+    "topic": "Medicina Aeronáutica",
+    "text": "El oído está dividido anatómicamente en:",
+    "options": ["Dos partes (externo e interno)", "Tres partes (externo, medio e interno)", "Cuatro partes (oído, nariz, garganta y senos)", "Cinco partes"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_345",
+    "topic": "Medicina Aeronáutica",
+    "text": "La hemorragia en 'sábana' (lenta, superficial) es característica de una hemorragia:",
+    "options": ["Arterial", "Venosa", "Capilar", "Interna"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_346",
+    "topic": "Medicina Aeronáutica",
+    "text": "Para inmovilizar una extremidad fracturada, se debe usar material:",
+    "options": ["Rígido y acolchado", "Elástico", "Solo pañuelos", "Muy pesado"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_347",
+    "topic": "Medicina Aeronáutica",
+    "text": "La fase de la hipoxia donde se puede experimentar juicio erróneo, falsa sensación de bienestar y euforia es la:",
+    "options": ["Fase indiferente", "Fase de compensación", "Fase de disturbio (o agitación)", "Fase de colapso"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_348",
+    "topic": "Medicina Aeronáutica",
+    "text": "El riesgo de barotrauma dental (barodontalgia) es mayor en piezas dentales con:",
+    "options": ["Blanqueamiento reciente", "Caries, empastes o tratamientos de conducto incompletos (aire atrapado)", "Brackets", "Dientes de leche"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_349",
+    "topic": "Medicina Aeronáutica",
+    "text": "La reanimación cardiopulmonar (RCP) se inicia cuando el paciente está:",
+    "options": ["Inconsciente y respira", "Consciente y tose", "Inconsciente y no respira normalmente (o pulso ausente/dudoso)", "Durmiendo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_350",
+    "topic": "Medicina Aeronáutica",
+    "text": "La Hipoxia por estancamiento o circulatoria se puede deber a:",
+    "options": ["Alta concentración de monóxido de carbono", "Vuelo a alta altitud", "Insuficiencia cardíaca o shock grave", "Falta de hierro"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_351",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué parte del ojo enfoca la luz en la retina?",
+    "options": ["Iris", "Pupila", "Cristalino", "Córnea"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_352",
+    "topic": "Medicina Aeronáutica",
+    "text": "El tiempo que debe transcurrir tras el buceo con botella, antes de volar, depende de la profundidad, pero generalmente se recomienda un mínimo de:",
+    "options": ["2 horas", "8 horas", "12 horas", "24 horas (para inmersiones múltiples o profundas)"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_353",
+    "topic": "Medicina Aeronáutica",
+    "text": "Los síntomas de un golpe de calor incluyen:",
+    "options": ["Sudoración abundante y piel fría", "Piel roja, caliente y seca, con alteración de la consciencia", "Escalofríos y temblores", "Hiperventilación"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_354",
+    "topic": "Medicina Aeronáutica",
+    "text": "La presión media en cabina durante un vuelo de crucero es similar a la altitud de una ciudad como:",
+    "options": ["Acapulco (cerca del mar)", "Ciudad de México (alta altitud)", "Denver (aproximadamente 5,280 pies)", "Londres (cerca del mar)"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_355",
+    "topic": "Medicina Aeronáutica",
+    "text": "Las vacunas estimulan al organismo para que produzca:",
+    "options": ["Más glóbulos rojos", "Anticuerpos (defensas)", "Adrenalina", "Glucosa"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_356",
+    "topic": "Medicina Aeronáutica",
+    "text": "La triada clásica de síntomas de TVP (Trombosis Venosa Profunda) es:",
+    "options": ["Dolor, enrojecimiento y calor en la extremidad", "Dolor, hormigueo y debilidad en el brazo", "Cianosis, tos y dolor torácico", "Fiebre, diarrea y vómitos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_357",
+    "topic": "Medicina Aeronáutica",
+    "text": "La vía aérea en un niño debe abrirse con la cabeza en posición:",
+    "options": ["Hiperextendida al máximo", "Neutro o ligeramente extendida", "Flexionada hacia el pecho", "Lateral de seguridad"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_358",
+    "topic": "Medicina Aeronáutica",
+    "text": "La Hipoxia Histotóxica es causada por la acción de ciertas toxinas que impiden el uso de oxígeno en el nivel:",
+    "options": ["Pulmonar", "Sanguíneo", "Celular o tisular", "Circulatorio"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_359",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Cuál es la altitud de cabina equivalente máxima permitida en aeronaves comerciales para vuelos normales?",
+    "options": ["4.000 pies", "8.000 pies", "10.000 pies", "14.000 pies"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_360",
+    "topic": "Medicina Aeronáutica",
+    "text": "La presión que se ejerce sobre las paredes del tímpano durante el descenso, si la Trompa de Eustaquio está bloqueada, se denomina:",
+    "options": ["Presión atmosférica", "Barotitis", "Barotrauma", "Barosinusitis"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_361",
+    "topic": "Medicina Aeronáutica",
+    "text": "Si un pasajero diabético hiperglucémico está consciente, el TCP debe administrarle:",
+    "options": ["Azúcar o zumo", "Insulina oral", "Agua y permitirle usar sus medicamentos (si es posible)", "Glucagón inyectable"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_362",
+    "topic": "Medicina Aeronáutica",
+    "text": "El tiempo de Conciencia Útil (TUC) a 25.000 pies de altitud es de aproximadamente:",
+    "options": ["Más de 10 minutos", "3 a 5 minutos", "1 minuto", "Menos de 10 segundos"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_363",
+    "topic": "Medicina Aeronáutica",
+    "text": "En el EMK (Emergency Medical Kit), ¿cuál de estos elementos no es un medicamento de administración obligatoria?",
+    "options": ["Adrenalina (Epinefrina)", "Analgésicos", "Sueros intravenosos", "Antihistamínicos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_364",
+    "topic": "Medicina Aeronáutica",
+    "text": "La principal recomendación para un pasajero que sufre cinetosis (mareo por movimiento) es:",
+    "options": ["Aislarlo completamente", "Mirar el horizonte o dormir, y sentarse sobre el ala (si es posible)", "Ver una película de acción", "Comer mucho"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_365",
+    "topic": "Medicina Aeronáutica",
+    "text": "El riesgo de Ictus Hemorrágico se asocia frecuentemente con:",
+    "options": ["Hipoglucemia", "Hipertensión arterial no controlada", "Trombosis venosa", "Fiebre baja"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_366",
+    "topic": "Medicina Aeronáutica",
+    "text": "En la evaluación de la vía aérea (A) de la RCP, la causa más común de obstrucción en un paciente inconsciente es:",
+    "options": ["Un cuerpo extraño", "La lengua que cae hacia atrás", "Secreciones", "Sangre"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_367",
+    "topic": "Medicina Aeronáutica",
+    "text": "La arteria que transporta sangre rica en oxígeno desde el ventrículo izquierdo al resto del cuerpo es:",
+    "options": ["Vena cava", "Arteria pulmonar", "Aorta", "Vena yugular"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_368",
+    "topic": "Medicina Aeronáutica",
+    "text": "El color AMARILLO en el triaje (Prioridad 2) indica que la atención debe ser:",
+    "options": ["Inmediata", "Diferida (las lesiones no son potencialmente mortales por el momento)", "Mínima", "No necesaria"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_369",
+    "topic": "Medicina Aeronáutica",
+    "text": "La enfermedad descompresiva (EDC) ocurre generalmente en la fase de vuelo de:",
+    "options": ["Ascenso y crucero (rápida despresurización o alta altitud)", "Descenso", "Rodaje en pista", "Embarque"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_370",
+    "topic": "Medicina Aeronáutica",
+    "text": "En un niño de 1 a 8 años con atragantamiento, las compresiones abdominales (Heimlich) se realizan:",
+    "options": ["Con la misma fuerza que un adulto", "Con menor fuerza y arrodillado detrás del niño", "Nunca se hace Heimlich en niños", "Solo golpes en la espalda"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_371",
+    "topic": "Medicina Aeronáutica",
+    "text": "La fiebre es un mecanismo de defensa del cuerpo que indica:",
+    "options": ["Deshidratación", "Hipoglucemia", "Lucha contra una infección o inflamación", "Hiperventilación"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_372",
+    "topic": "Medicina Aeronáutica",
+    "text": "La presión arterial baja (hipotensión) es un signo clave de:",
+    "options": ["Hiperglucemia", "Estado de shock", "Bradicardia", "Hiperventilación"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_373",
+    "topic": "Medicina Aeronáutica",
+    "text": "La piel en el estado de shock circulatorio suele ser:",
+    "options": ["Roja y caliente", "Pálida, fría y sudorosa", "Azulada y seca", "Normal"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_374",
+    "topic": "Medicina Aeronáutica",
+    "text": "La descompresión explosiva (en menos de 1 segundo) conlleva un riesgo crítico de:",
+    "options": ["Barodontalgia", "Barotrauma pulmonar (rotura)", "Dolor de dientes", "Aerocolia"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_375",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué se debe evitar darle por vía oral a un paciente inconsciente?",
+    "options": ["Medicamentos", "Agua o líquidos (riesgo de aspiración)", "Alimentos sólidos", "Todo lo anterior"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_376",
+    "topic": "Medicina Aeronáutica",
+    "text": "La función principal de los alvéolos pulmonares es:",
+    "options": ["Producir moco", "Filtrar el aire", "Realizar el intercambio gaseoso (O₂ y CO₂)", "Calentar el aire"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_377",
+    "topic": "Medicina Aeronáutica",
+    "text": "La posición fetal o de confort es ideal para un pasajero con:",
+    "options": ["Infarto", "Fractura de pierna", "Dolor abdominal intenso (ej. cólico renal)", "Hipoxia"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_378",
+    "topic": "Medicina Aeronáutica",
+    "text": "El tiempo que tarda el cuerpo en adaptarse a un nuevo huso horario se calcula aproximadamente como 1 día por cada:",
+    "options": ["Un huso horario cruzado", "Dos husos horarios cruzados", "Cinco husos horarios cruzados", "Diez husos horarios cruzados"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_379",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué cavidades cardíacas son las responsables de recibir la sangre de las venas?",
+    "options": ["Ventrículos", "Aurículas", "Arterias", "Capilares"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_380",
+    "topic": "Medicina Aeronáutica",
+    "text": "Los síntomas de dolor articular (en codos o rodillas) en la EDC se conocen como:",
+    "options": ["The Chokes", "The Bends", "The Staggers", "Barotitis"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_381",
+    "topic": "Medicina Aeronáutica",
+    "text": "En el tratamiento de la epistaxis (sangrado nasal), la técnica adecuada es:",
+    "options": ["Inclinar la cabeza hacia atrás", "Presionar el puente nasal y la fosa nasal sangrante, e inclinar la cabeza hacia adelante", "Aplicar calor en la nuca", "Introducir gasa en la nariz"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_382",
+    "topic": "Medicina Aeronáutica",
+    "text": "La hipoxia que se produce por la presencia de CO (monóxido de carbono) se clasifica como:",
+    "options": ["Hipóxica", "Anémica", "Por estancamiento", "Histotóxica"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_383",
+    "topic": "Medicina Aeronáutica",
+    "text": "La parte del intestino delgado que se conecta con el intestino grueso es:",
+    "options": ["Duodeno", "Yeyuno", "Íleon", "Píloro"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_384",
+    "topic": "Medicina Aeronáutica",
+    "text": "Un pasajero con dolor torácico (IAM o Angina) debe colocarse en posición:",
+    "options": ["Lateral de seguridad", "Decúbito supino (acostado) o semi-sentado (Fowler) si está consciente", "Trendelenburg", "De cúbito prono"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_385",
+    "topic": "Medicina Aeronáutica",
+    "text": "La desinfección ('disinsection') se realiza habitualmente en vuelos con origen o destino a zonas con riesgo de:",
+    "options": ["Contaminación acústica", "Enfermedades tropicales (ej. Malaria, Zika)", "Riesgos químicos", "Alta contaminación industrial"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_386",
+    "topic": "Medicina Aeronáutica",
+    "text": "La cianosis se observa mejor en las áreas de:",
+    "options": ["El pecho y la espalda", "Las uñas, labios y lóbulos de las orejas", "Las mejillas", "Las palmas de las manos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_387",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué capa de la piel contiene la mayoría de los vasos sanguíneos y receptores nerviosos?",
+    "options": ["Epidermis", "Dermis", "Hipodermis", "Capa basal"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_388",
+    "topic": "Medicina Aeronáutica",
+    "text": "La presión que se ejerce al auscultar el corazón y la respiración es parte de la fase de evaluación de:",
+    "options": ["El nivel de conciencia", "La respiración (VER, OÍR, SENTIR)", "El pulso y la presión arterial", "Las pupilas"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_389",
+    "topic": "Medicina Aeronáutica",
+    "text": "La válvula tricúspide evita el reflujo de sangre del ventrículo derecho a:",
+    "options": ["La arteria pulmonar", "La aurícula derecha", "El ventrículo izquierdo", "La aorta"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_390",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Cuál es el principal riesgo al dar líquidos a un paciente con diarrea y vómitos, pero que está muy débil?",
+    "options": ["Aumento de peso", "Hipoglucemia", "Aspiración pulmonar (si pierde la conciencia)", "Barotitis"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_391",
+    "topic": "Medicina Aeronáutica",
+    "text": "El desfibrilador (DEA) está diseñado para tratar la arritmia cardíaca conocida como:",
+    "options": ["Bradicardia", "Taquicardia sinusal", "Fibrilación ventricular (FV)", "Asistolia (parada sin actividad eléctrica)"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_392",
+    "topic": "Medicina Aeronáutica",
+    "text": "La pérdida de audición en vuelo por barotrauma (aerotitis) se clasifica médicamente como:",
+    "options": ["Sordera histotóxica", "Sordera neural", "Sordera conductiva (o transmisiva)", "Sordera hipóxica"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_393",
+    "topic": "Medicina Aeronáutica",
+    "text": "El tiempo promedio de latencia (aparición de síntomas) para la enfermedad descompresiva (EDC) es de:",
+    "options": ["Segundos (inmediata)", "Horas (generalmente 1 a 6 horas post-exposición)", "Días", "Semanas"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_394",
+    "topic": "Medicina Aeronáutica",
+    "text": "La arteria radial se utiliza frecuentemente para tomar el pulso, y se localiza en:",
+    "options": ["El cuello", "La ingle", "La muñeca", "El brazo (biceps)"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_395",
+    "topic": "Medicina Aeronáutica",
+    "text": "El páncreas tiene una doble función: producir enzimas digestivas y las hormonas:",
+    "options": ["Adrenalina y cortisol", "Tiroxina y parathormona", "Insulina y glucagón", "Bilis y HCl"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_396",
+    "topic": "Medicina Aeronáutica",
+    "text": "Una herida contusa es aquella producida por:",
+    "options": ["Un corte limpio", "Un golpe o impacto (bordes irregulares)", "Un objeto punzante", "Una quemadura"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_397",
+    "topic": "Medicina Aeronáutica",
+    "text": "La mejor manera de tratar un ataque de pánico a bordo, después de descartar una causa médica, es:",
+    "options": ["Ignorarlo", "Encerrarlo en un baño", "Técnicas de respiración lenta y tranquilización verbal", "Darle alcohol"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_398",
+    "topic": "Medicina Aeronáutica",
+    "text": "La presión parcial de oxígeno a 18.000 pies de altitud es aproximadamente la mitad de la presión parcial de oxígeno a:",
+    "options": ["36.000 pies", "8.000 pies", "Nivel del mar", "2.000 pies"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_399",
+    "topic": "Medicina Aeronáutica",
+    "text": "El órgano sensorial encargado del olfato es:",
+    "options": ["La faringe", "La nariz (bulbo olfatorio)", "La laringe", "El oído"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_400",
+    "topic": "Medicina Aeronáutica",
+    "text": "El síntoma 'The Bends' de la EDC se caracteriza por dolor intenso en:",
+    "options": ["La cabeza", "El pecho", "Las articulaciones y músculos", "El abdomen"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_401",
+    "topic": "Medicina Aeronáutica",
+    "text": "En el contexto de la aviación, los pasajeros con **gases atrapados** en su sistema digestivo pueden experimentar dolor en el ascenso debido a la Ley de:",
+    "options": ["Henry", "Dalton", "Boyle", "Charles"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_402",
+    "topic": "Medicina Aeronáutica",
+    "text": "La RCP de alta calidad en un adulto requiere una profundidad de compresión de aproximadamente:",
+    "options": ["1-2 cm", "3-4 cm", "Al menos 5 cm (máximo 6 cm)", "10 cm"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_403",
+    "topic": "Medicina Aeronáutica",
+    "text": "El sistema circulatorio menor (o pulmonar) se encarga de llevar sangre desoxigenada desde el corazón a:",
+    "options": ["El cerebro", "Los riñones", "Los pulmones", "El hígado"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_404",
+    "topic": "Medicina Aeronáutica",
+    "text": "Para clasificar una quemadura como de 3er grado se debe observar:",
+    "options": ["Solo enrojecimiento", "Ampollas y dolor intenso", "Piel carbonizada, blanca o seca, sin dolor (destrucción de terminaciones nerviosas)", "Solo la epidermis"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_405",
+    "topic": "Medicina Aeronáutica",
+    "text": "El Ictus Isquémico es causado por:",
+    "options": ["Rotura de un vaso sanguíneo", "Fiebre alta", "Obstrucción de un vaso sanguíneo (coágulo o trombo)", "Deshidratación"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_406",
+    "topic": "Medicina Aeronáutica",
+    "text": "La hiperglucemia (azúcar alto) es un signo de diabetes:",
+    "options": ["Hipoglicémica", "Descontrolada", "Controlada", "Normal"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_407",
+    "topic": "Medicina Aeronáutica",
+    "text": "La maniobra de Heimlich se realiza en el abdomen, específicamente en:",
+    "options": ["El esternón", "Debajo del ombligo", "Entre el ombligo y el esternón (región epigástrica)", "La espalda"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_408",
+    "topic": "Medicina Aeronáutica",
+    "text": "Los síntomas de dolor abdominal por expansión de gases atrapados son causados por la Ley de:",
+    "options": ["Henry", "Charles", "Boyle", "Dalton"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_409",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Qué hormona es esencial para que la glucosa ingrese a las células?",
+    "options": ["Glucagón", "Adrenalina", "Insulina", "Cortisol"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_410",
+    "topic": "Medicina Aeronáutica",
+    "text": "La parte del intestino grueso que almacena las heces antes de la evacuación es:",
+    "options": ["Ciego", "Colon ascendente", "Recto", "Duodeno"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_411",
+    "topic": "Medicina Aeronáutica",
+    "text": "El tiempo de Conciencia Útil (TUC) se acorta significativamente si el pasajero está realizando:",
+    "options": ["Durmiendo", "Leyendo", "Actividad física o estrés", "Comiendo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_412",
+    "topic": "Medicina Aeronáutica",
+    "text": "Para prevenir la TVP, los pasajeros deben evitar:",
+    "options": ["Tomar agua", "Sentarse con las piernas cruzadas o las rodillas dobladas bajo el asiento", "Hacer ejercicios con los tobillos", "Usar ropa cómoda"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_413",
+    "topic": "Medicina Aeronáutica",
+    "text": "El pulso carotídeo se toma en:",
+    "options": ["La muñeca", "La ingle", "El cuello", "El tobillo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_414",
+    "topic": "Medicina Aeronáutica",
+    "text": "En caso de vómito en un pasajero inconsciente, la acción inmediata es:",
+    "options": ["Darle agua", "Ponerlo en PLS (Posición Lateral de Seguridad)", "Intentar sentarlo", "RCP inmediata"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_415",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Cuál es la función del diafragma en la respiración?",
+    "options": ["Intercambio gaseoso", "Filtración de aire", "Músculo principal de la inspiración", "Producir la voz"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_416",
+    "topic": "Medicina Aeronáutica",
+    "text": "Los síntomas de un infarto (IAM) en mujeres a veces pueden ser atípicos, incluyendo:",
+    "options": ["Solo dolor de espalda y cuello", "Solo dolor de brazo izquierdo", "Fatiga extrema, náuseas y malestar general (sin dolor torácico clásico)", "Fiebre alta"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_417",
+    "topic": "Medicina Aeronáutica",
+    "text": "La hipoxia que se produce por un fallo en los pulmones para absorber suficiente oxígeno se clasifica como:",
+    "options": ["Hipóxica", "Anémica", "Por estancamiento", "Histotóxica"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_418",
+    "topic": "Medicina Aeronáutica",
+    "text": "El riesgo de barotrauma sinusal aumenta si el pasajero sufre de:",
+    "options": ["Cataratas", "Rinitis o sinusitis aguda", "Dolor de muelas", "TVP"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_419",
+    "topic": "Medicina Aeronáutica",
+    "text": "La posición adecuada para el tratamiento de la epistaxis (sangrado nasal) es:",
+    "options": ["Sentado, con la cabeza ligeramente inclinada hacia atrás", "Tumbado boca arriba, con la cabeza hacia atrás", "Sentado, con la cabeza inclinada hacia adelante", "De pie, con la nariz tapada"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_420",
+    "topic": "Medicina Aeronáutica",
+    "text": "La desfibrilación con el DEA está indicada solo en ritmos cardíacos de:",
+    "options": ["Bradicardia", "Taquicardia", "Fibrilación ventricular o taquicardia ventricular sin pulso", "Asistolia"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_421",
+    "topic": "Medicina Aeronáutica",
+    "text": "La velocidad normal de la frecuencia respiratoria en un adulto en reposo es de:",
+    "options": ["5-10 rpm", "12-20 rpm", "20-30 rpm", "30-40 rpm"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_422",
+    "topic": "Medicina Aeronáutica",
+    "text": "La membrana que recubre el interior de las cavidades cardíacas se llama:",
+    "options": ["Pericardio", "Miocardio", "Endocardio", "Epicardio"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_423",
+    "topic": "Medicina Aeronáutica",
+    "text": "El plasma sanguíneo está compuesto principalmente por:",
+    "options": ["Glóbulos rojos", "Plaquetas", "Agua", "Glóbulos blancos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_424",
+    "topic": "Medicina Aeronáutica",
+    "text": "¿Cuál es la función del colon?",
+    "options": ["Absorción de nutrientes", "Producción de bilis", "Absorción de agua y electrolitos (y formación de heces)", "Digestión de proteínas"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_425",
+    "topic": "Medicina Aeronáutica",
+    "text": "La piel se clasifica como una quemadura de segundo grado si presenta:",
+    "options": ["Solo enrojecimiento (eritema)", "Destrucción total de la piel", "Ampollas (flictenas) y dolor intenso", "Pérdida de sensibilidad"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_426",
+    "topic": "Medicina Aeronáutica",
+    "text": "El tiempo de retraso para la atención de una víctima Prioridad 3 (Verde) es:",
+    "options": ["Inmediato", "Menos de 1 hora", "Puede demorarse varias horas", "Nunca se atiende"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_427",
+    "topic": "Medicina Aeronáutica",
+    "text": "La Enfermedad Descompresiva (EDC) es una complicación rara en aviación que afecta principalmente a:",
+    "options": ["Pasajeros con gripe", "Pasajeros con implantes dentales", "Buceadores que vuelan muy poco después de una inmersión", "Ancianos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_428",
+    "topic": "Medicina Aeronáutica",
+    "text": "El 'PAS' de los primeros auxilios se inicia con la evaluación de:",
+    "options": ["El paciente", "El entorno y los peligros", "La respiración", "El pulso"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_429",
+    "topic": "Medicina Aeronáutica",
+    "text": "La arteria pulmonar transporta sangre:",
+    "options": ["Oxigenada", "Desoxigenada", "Plasma", "Solo nutrientes"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_430",
+    "topic": "Medicina Aeronáutica",
+    "text": "En el tratamiento de la hiperventilación, si se utiliza una bolsa, se debe hacer durante períodos cortos (30-60 segundos) para evitar:",
+    "options": ["Hipoxia", "Hiperoxia", "Aumento excesivo de CO₂ (asfixia)", "Deshidratación"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_431",
+    "topic": "Medicina Aeronáutica",
+    "text": "La maniobra de Heimlich se realiza en un niño (mayor de 1 año) con el reanimador:",
+    "options": ["Arrodillado y con menos fuerza", "De pie, con toda la fuerza", "Sentado", "De espaldas al niño"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_432",
+    "topic": "Medicina Aeronáutica",
+    "text": "La hipoxia que ocurre por intoxicación con monóxido de carbono se debe a que este gas se une al/a la:",
+    "options": ["Plasma", "Agua", "Hemoglobina (glóbulos rojos), impidiendo el transporte de O₂", "Plaquetas"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_433",
+    "topic": "Medicina Aeronáutica",
+    "text": "El síntoma de disnea (dificultad respiratoria) por edema pulmonar es un riesgo de:",
+    "options": ["Insuficiencia cardíaca congestiva", "Barodontalgia", "Aerofagia", "Fractura de tobillo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_434",
+    "topic": "Medicina Aeronáutica",
+    "text": "Las lentillas de contacto pueden volverse más incómodas y aumentar el riesgo de infección debido a:",
+    "options": ["El ruido del motor", "La baja humedad en cabina", "La velocidad del avión", "El cambio de presión"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_435",
+    "topic": "Medicina Aeronáutica",
+    "text": "La válvula mitral (o bicúspide) evita el reflujo de sangre del ventrículo izquierdo a:",
+    "options": ["La aurícula izquierda", "El ventrículo derecho", "La arteria aorta", "La aurícula derecha"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med_436",
+    "topic": "Medicina Aeronáutica",
+    "text": "El síntoma más común de la aerotitis (barotrauma del oído) es:",
+    "options": ["Sordera total", "Dolor intenso en el oído y sensación de taponamiento", "Sangrado abundante", "Fiebre alta"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_437",
+    "topic": "Medicina Aeronáutica",
+    "text": "Para tratar el sangrado de una herida simple, después de la presión, se debe aplicar un vendaje:",
+    "options": ["Elástico (compresión ligera)", "Compresivo (firme)", "Muy flojo", "De tela adhesiva solamente"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_438",
+    "topic": "Medicina Aeronáutica",
+    "text": "La diarrea del viajero se previene principalmente asegurando:",
+    "options": ["Comer muchos dulces", "Higiene personal y del consumo de agua y alimentos", "Dormir mucho", "Hacer ejercicio intenso"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_439",
+    "topic": "Medicina Aeronáutica",
+    "text": "El estómago es el principal lugar de digestión de:",
+    "options": ["Carbohidratos", "Grasas", "Proteínas", "Agua"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_440",
+    "topic": "Medicina Aeronáutica",
+    "text": "La 'Posición de Trendelenburg' tiene como objetivo aumentar el flujo sanguíneo hacia:",
+    "options": ["Los pies", "El estómago", "El cerebro y el corazón", "Los riñones"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_441",
+    "topic": "Medicina Aeronáutica",
+    "text": "La inyección de adrenalina (EpiPen) se debe realizar en el músculo:",
+    "options": ["Glúteo", "Deltoides (hombro)", "Vasto lateral (muslo externo)", "Bíceps"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_442",
+    "topic": "Medicina Aeronáutica",
+    "text": "Si un pasajero epiléptico sufre una crisis, se debe cronometrar el tiempo, ya que si dura más de 5 minutos, se considera:",
+    "options": ["Una crisis leve", "Status epiléptico (emergencia médica)", "Hipoxia anémica", "Síncope"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_443",
+    "topic": "Medicina Aeronáutica",
+    "text": "El riesgo de barotrauma es mayor si la persona tiene bloqueada la comunicación entre el oído medio y el exterior (como en un resfriado) durante el:",
+    "options": ["Ascenso", "Crucero", "Descenso", "Rodaje"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_444",
+    "topic": "Medicina Aeronáutica",
+    "text": "El cuerpo utiliza las grasas y proteínas como fuente de energía cuando se agotan las reservas de:",
+    "options": ["Agua", "Sales minerales", "Glucosa (carbohidratos)", "Vitaminas"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_445",
+    "topic": "Medicina Aeronáutica",
+    "text": "En la evaluación de la consciencia, el acrónimo AVPU (Alerta, Verbal, Dolor, Inconsciente) se utiliza para medir el nivel de:",
+    "options": ["Pulso", "Respiración", "Respuesta neurológica", "Temperatura"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_446",
+    "topic": "Medicina Aeronáutica",
+    "text": "La enfermedad más común transmitida por agua contaminada es:",
+    "options": ["Tifus", "Cólera o gastroenteritis", "Malaria", "Dengue"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_447",
+    "topic": "Medicina Aeronáutica",
+    "text": "La presión arterial es considerada 'Alta' (Hipertensión) si consistentemente supera los valores de:",
+    "options": ["100/60 mmHg", "120/80 mmHg", "140/90 mmHg", "200/120 mmHg"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_448",
+    "topic": "Medicina Aeronáutica",
+    "text": "La estructura del oído interno responsable de la audición es:",
+    "options": ["Canales semicirculares", "Martillo", "Yunque", "Cóclea (o Caracol)"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_449",
+    "topic": "Medicina Aeronáutica",
+    "text": "La Hipoxia por estancamiento es causada por:",
+    "options": ["Incapacidad del pulmón", "Incapacidad de la sangre", "Mala circulación sanguínea (ej. TVP, shock)", "Monóxido de carbono"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_450",
+    "topic": "Medicina Aeronáutica",
+    "text": "La cetoacidosis diabética es una complicación grave de la hiperglucemia que requiere:",
+    "options": ["Solo descanso", "Hidratación y atención médica urgente (insulina)", "Comer más azúcar", "Administrar glucagón"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_451",
+    "topic": "Medicina Aeronáutica",
+    "text": "La función principal de los glóbulos rojos (eritrocitos) es transportar el oxígeno gracias a la proteína:",
+    "options": ["Plasma", "Fibrinógeno", "Glucosa", "Hemoglobina"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med_452",
+    "topic": "Medicina Aeronáutica",
+    "text": "La condición de un pasajero post-convulsión (somnoliento, confundido) se llama período:",
+    "options": ["Comatoso", "Poscrisis", "Posictal", "Hipóxico"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_453",
+    "topic": "Medicina Aeronáutica",
+    "text": "El tratamiento de urgencia de la reacción anafiláctica (shock anafiláctico) es la administración de:",
+    "options": ["Antihistamínicos orales", "Epinefrina (Adrenalina)", "Ibuprofeno", "Glucosa"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med_454",
+    "topic": "Medicina Aeronáutica",
+    "text": "Si una fractura presenta una deformidad y dolor intenso, pero no hay herida, se clasifica como:",
+    "options": ["Abierta", "Conminuta", "Cerrada", "Simple"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_455",
+    "topic": "Medicina Aeronáutica",
+    "text": "La capa más superficial de la piel es la:",
+    "options": ["Dermis", "Hipodermis", "Epidermis", "Capa muscular"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_456",
+    "topic": "Medicina Aeronáutica",
+    "text": "La fase de la hipoxia donde la máscara de oxígeno es esencial para la supervivencia es la:",
+    "options": ["Fase indiferente (hasta 10.000 pies)", "Fase de compensación (10.000-15.000 pies)", "Fase de disturbio (15.000-20.000 pies) y superiores", "Fase de rehidratación"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med_457",
+    "topic": "Medicina Aeronáutica",
+    "text": "La frecuencia de compresiones torácicas durante la RCP en cualquier edad debe ser de:",
+    "options": ["60-80 por minuto", "80-100 por minuto", "100-120 por minuto", "120-140 por minuto"],
+    "correctIndex": 2
+  }
+]

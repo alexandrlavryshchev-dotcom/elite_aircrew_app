@@ -1,0 +1,4859 @@
+[
+  {
+    "id": "ent_001",
+    "text": "¿Cómo manejarías una situación de estrés con un pasajero?",
+    "options": [
+      "Ignorarlo hasta que se calme.",
+      "Mantener la calma, escuchar activamente y ofrecer soluciones empáticas.",
+      "Llamar inmediatamente a la policía.",
+      "Argumentar para demostrarle que está equivocado."
+    ],
+    "correctIndex": 1,
+    "topic": "Entrevistas"
+  },
+  {
+    "id": "ent_002",
+    "text": "¿Por qué quieres ser Tripulante de Cabina de Pasajeros (TCP)?",
+    "options": [
+      "Solo por viajar gratis.",
+      "Porque valoro la seguridad, el servicio al cliente y el trabajo en equipo.",
+      "Es un trabajo fácil y bien pagado.",
+      "Para conocer mucha gente."
+    ],
+    "correctIndex": 1,
+    "topic": "Entrevistas"
+  },
+  {
+    "id": "ent_003",
+    "text": "Describe una vez que tuviste que trabajar en equipo para resolver un problema.",
+    "options": [
+      "No tengo experiencia trabajando en equipo.",
+      "Cuando trabajé con mis compañeros para organizar un evento y cubrir todas las tareas de forma eficiente.",
+      "Una vez hice todo el trabajo solo.",
+      "No recuerdo ninguna situación relevante."
+    ],
+    "correctIndex": 1,
+    "topic": "Entrevistas"
+  },
+  {
+    "id": "ent_004",
+    "text": "¿Qué harías si un compañero de tripulación no sigue los procedimientos de seguridad?",
+    "options": [
+      "Nada, no es mi problema.",
+      "Informar de inmediato al Comandante y al Jefe de Cabina.",
+      "Corregirle discretamente y luego reportarlo a la base.",
+      "Dejarlo pasar por ser mi amigo."
+    ],
+    "correctIndex": 2,
+    "topic": "Entrevistas"
+  },
+  {
+    "id": "ent_005",
+    "text": "¿Cómo manejas la crítica constructiva?",
+    "options": [
+      "Me ofendo y me pongo a la defensiva.",
+      "La recibo como una oportunidad para mejorar y pregunto cómo puedo aplicar el feedback.",
+      "La ignoro si no estoy de acuerdo.",
+      "Solo la acepto si viene de un superior."
+    ],
+    "correctIndex": 1,
+    "topic": "Entrevistas"
+  },
+  {
+    "id": "ent1",
+    "text": "¿Cómo responderías a la pregunta: '¿Por qué quieres ser TCP?'",
+    "options": ["Porque me gusta viajar", "Porque es un trabajo fácil", "Porque me encanta ayudar a la gente", "Porque es obligatorio"],
+    "correctIndex": 2,
+    "topic": "Entrevistas"
+  },
+  {
+    "id": "ent2",
+    "text": "¿Qué harías en caso de un pasajero conflictivo?",
+    "options": ["Ignorarlo", "Llamar a seguridad", "Intentar calmarlo", "Regañarlo"],
+    "correctIndex": 2,
+    "topic": "Entrevistas"
+  },
+  {
+    "id": 1,
+    "topic": "entrevistas",
+    "text": "¿Por qué te gustaría trabajar con nosotros?",
+    "options": [
+      "Porque valoro vuestros valores, cultura y enfoque profesional en el sector.",
+      "Porque me queda cerca de casa.",
+      "Porque necesito un trabajo urgente.",
+      "Porque me lo recomendó un amigo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 2,
+    "topic": "entrevistas",
+    "text": "¿Cuáles son tus puntos fuertes?",
+    "options": [
+      "Soy una persona responsable, empática y con buena capacidad para trabajar en equipo.",
+      "No tengo ningún punto fuerte en especial.",
+      "Me gusta trabajar solo y no seguir órdenes.",
+      "Soy muy competitivo y no me gusta compartir tareas."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 3,
+    "topic": "entrevistas",
+    "text": "¿Tienes algún punto débil?",
+    "options": [
+      "Sí, a veces soy demasiado perfeccionista, pero trabajo en equilibrarlo para ser más eficiente.",
+      "No tengo ningún punto débil.",
+      "Sí, no me gusta trabajar bajo presión.",
+      "Sí, no suelo llevarme bien con los compañeros."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 4,
+    "topic": "entrevistas",
+    "text": "Háblanos sobre ti.",
+    "options": [
+      "Soy una persona proactiva, organizada y con gran vocación por el servicio y la atención al cliente.",
+      "Prefiero no hablar de mí.",
+      "Soy una persona que cambia mucho de trabajo.",
+      "No tengo mucha experiencia laboral."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 5,
+    "topic": "entrevistas",
+    "text": "¿Qué puedes aportar a la compañía?",
+    "options": [
+      "Compromiso, responsabilidad y una actitud positiva que contribuye al buen ambiente y al logro de objetivos.",
+      "Puedo aportar diversión y buen humor.",
+      "No lo sé exactamente, pero aprenderé.",
+      "Puedo seguir órdenes sin cuestionarlas."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 6,
+    "topic": "entrevistas",
+    "text": "¿Por qué deberíamos contratarte a ti y no a otra persona?",
+    "options": [
+      "Porque tengo las competencias, la motivación y la actitud necesarias para aportar valor desde el primer día.",
+      "Porque necesito el trabajo más que los demás.",
+      "Porque conozco a alguien en la empresa.",
+      "Porque estoy disponible inmediatamente."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 7,
+    "topic": "entrevistas",
+    "text": "¿Cómo te ves de aquí a cinco años?",
+    "options": [
+      "Creciendo profesionalmente dentro de la empresa y asumiendo más responsabilidades.",
+      "En otro país, probablemente.",
+      "No suelo planificar tanto tiempo.",
+      "Trabajando en cualquier cosa que aparezca."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 8,
+    "topic": "entrevistas",
+    "text": "¿Cuánto te gustaría cobrar?",
+    "options": [
+      "Me gustaría un salario acorde a mis responsabilidades y al convenio del sector.",
+      "Lo que sea, no importa el salario.",
+      "Lo máximo posible, sin importar el puesto.",
+      "No he pensado en eso todavía."
+    ],
+    "correctIndex": 0
+},
+{
+"id": 10,
+"topic": "entrevistas",
+"text": "¿Cómo te describirían tus compañeros de trabajo?",
+"options": [
+"Como una persona empática, responsable y siempre dispuesta a ayudar.",
+"Como alguien competitivo y exigente.",
+"Como una persona reservada que prefiere trabajar sola.",
+"Como alguien que evita los conflictos."
+],
+"correctIndex": 0
+},
+{
+"id": 11,
+"topic": "entrevistas",
+"text": "¿Qué harías si un pasajero se queja por el retraso del vuelo?",
+"options": [
+"Escucharía su queja con empatía, pediría disculpas en nombre de la compañía y ofrecería información clara y actualizada.",
+"Le diría que no es mi culpa.",
+"Ignoraría la queja para no discutir.",
+"Le pediría que hable con el comandante."
+],
+"correctIndex": 0
+},
+{
+"id": 12,
+"topic": "entrevistas",
+"text": "¿Por qué deberíamos contratarte para este puesto?",
+"options": [
+"Porque tengo las habilidades, la actitud positiva y la vocación de servicio que buscáis en un TCP.",
+"Porque me gusta viajar y conocer gente.",
+"Porque necesito el trabajo urgentemente.",
+"Porque tengo un amigo que trabaja aquí."
+],
+"correctIndex": 0
+},
+{
+"id": 13,
+"topic": "entrevistas",
+"text": "¿Cómo te prepararías antes de cada vuelo?",
+"options": [
+"Revisaría mi uniforme, documentación, material de emergencia y repasaría los procedimientos de seguridad.",
+"Solo comprobaría mi aspecto personal.",
+"Esperaría a que el jefe de cabina me dé instrucciones.",
+"No haría nada especial, solo embarcaría."
+],
+"correctIndex": 0
+},
+{
+"id": 14,
+"topic": "entrevistas",
+"text": "¿Qué harías si un pasajero se siente enfermo durante el vuelo?",
+"options": [
+"Avisaría al jefe de cabina, aplicaría primeros auxilios básicos y seguiría los protocolos establecidos.",
+"Le daría agua y esperaría a que se recupere.",
+"Le pediría que espere a aterrizar.",
+"Lo ignoraría si no parece grave."
+],
+"correctIndex": 0
+},
+{
+"id": 15,
+"topic": "entrevistas",
+"text": "¿Qué significa para ti la atención al cliente?",
+"options": [
+"Tratar a cada pasajero con respeto, empatía y profesionalidad para ofrecerle una experiencia segura y agradable.",
+"Cumplir con las normas básicas del servicio.",
+"Atender rápido y sin hablar mucho.",
+"Dar lo mínimo necesario mientras cumplo mis tareas."
+],
+"correctIndex": 0
+},
+  {
+    "id": 16,
+    "topic": "entrevistas",
+    "text": "¿Qué significa para ti trabajar en equipo dentro de la tripulación?",
+    "options": [
+      "Colaborar y apoyarnos mutuamente para garantizar seguridad, eficiencia y un buen ambiente en cabina.",
+      "Cumplir con mis tareas sin depender de los demás.",
+      "Dejar que el jefe de cabina tome todas las decisiones.",
+      "Competir para destacar ante los superiores."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 17,
+    "topic": "entrevistas",
+    "text": "Describe una situación en la que tuviste que resolver un conflicto con un compañero de trabajo.",
+    "options": [
+      "Hablé con él de forma calmada y profesional para aclarar el malentendido sin afectar al trabajo en equipo.",
+      "Evité hablar con él para no empeorar la situación.",
+      "Pedí a un superior que lo resolviera por mí.",
+      "Ignoré el problema hasta que desapareció solo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 18,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si un pasajero se niega a apagar su teléfono durante el despegue?",
+    "options": [
+      "Le explicaría amablemente las normas de seguridad y le insistiría con respeto hasta que lo haga.",
+      "Le quitaría el teléfono.",
+      "Le dejaría usarlo para evitar una discusión.",
+      "Le pediría a otro TCP que lo gestione."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 19,
+    "topic": "entrevistas",
+    "text": "¿Cómo te aseguras de mantener una imagen profesional en todo momento?",
+    "options": [
+      "Cuidando mi aspecto personal, uniforme, postura y forma de comunicarme, incluso en situaciones difíciles.",
+      "Solo preocupándome de la imagen al embarcar.",
+      "Evitando hablar demasiado con los pasajeros.",
+      "Manteniendo el uniforme aunque no esté limpio."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 20,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si un pasajero empieza a discutir contigo por la asignación de asientos?",
+    "options": [
+      "Escucharía su queja con calma, explicaría las políticas de la compañía y buscaría una solución si es posible.",
+      "Le diría que no puedo hacer nada y seguiría mi trabajo.",
+      "Le pediría que se calme sin ofrecerle alternativas.",
+      "Ignoraría la queja para evitar el conflicto."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 21,
+    "topic": "entrevistas",
+    "text": "¿Qué habilidades crees que debe tener un buen TCP?",
+    "options": [
+      "Comunicación, empatía, autocontrol, trabajo en equipo y orientación al cliente.",
+      "Rapidez al servir y buena memoria.",
+      "Autoridad y carácter fuerte.",
+      "Conocimiento técnico de motores."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 22,
+    "topic": "entrevistas",
+    "text": "¿Cómo reaccionarías ante una emergencia médica durante el vuelo?",
+    "options": [
+      "Avisaría al jefe de cabina, aplicaría primeros auxilios y seguiría los procedimientos establecidos.",
+      "Esperaría a que otro TCP se encargue.",
+      "Avisaría al comandante sin hacer nada más.",
+      "Llamaría por megafonía sin verificar la situación."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 23,
+    "topic": "entrevistas",
+    "text": "¿Qué te motiva a trabajar en el sector de la aviación?",
+    "options": [
+      "El deseo de ofrecer un servicio excelente, descubrir nuevas culturas y formar parte de un equipo internacional.",
+      "El deseo de viajar gratis.",
+      "El horario flexible y los días libres.",
+      "El prestigio del uniforme."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 24,
+    "topic": "entrevistas",
+    "text": "¿Qué significa para ti la palabra 'hospitality' aplicada a la aviación?",
+    "options": [
+      "Crear una experiencia cálida y profesional donde cada pasajero se sienta valorado y seguro.",
+      "Sonreír constantemente a todos los pasajeros.",
+      "Ofrecer comidas y bebidas sin errores.",
+      "Ser amable solo con los pasajeros VIP."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 25,
+    "topic": "entrevistas",
+    "text": "¿Cómo actuarías si un niño viaja solo y se siente nervioso?",
+    "options": [
+      "Le hablaría con empatía, le explicaría lo que va a pasar y me aseguraría de que se sienta acompañado durante el vuelo.",
+      "Le ofrecería un juguete y me marcharía.",
+      "Le dejaría tranquilo para que no moleste.",
+      "Le pediría a otro TCP que se encargue."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 26,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si un pasajero te hace una pregunta que no sabes responder?",
+    "options": [
+      "Le diría amablemente que voy a comprobar la información y se la comunicaré en cuanto pueda.",
+      "Le daría una respuesta cualquiera para no quedar mal.",
+      "Le diría que no lo sé y me iría.",
+      "Le pediría que pregunte al comandante."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 27,
+    "topic": "entrevistas",
+    "text": "¿Cómo mantienes la motivación cuando tienes varios vuelos seguidos o días largos de trabajo?",
+    "options": [
+      "Recordando que cada vuelo es una oportunidad para ayudar a personas y representar bien a la compañía.",
+      "Contando las horas para terminar.",
+      "Evitando hablar con los pasajeros.",
+      "Pensando solo en los días libres."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 28,
+    "topic": "entrevistas",
+    "text": "¿Qué importancia tiene la puntualidad para un TCP?",
+    "options": [
+      "Es esencial, ya que la operación aérea depende de la coordinación exacta de todo el equipo.",
+      "No mucha, mientras llegue antes del embarque.",
+      "Solo importa en vuelos internacionales.",
+      "Depende de la aerolínea."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 29,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si un pasajero intenta abrir una puerta en pleno vuelo?",
+    "options": [
+      "Intervendría de inmediato, informaría al jefe de cabina y aplicaría el procedimiento de seguridad correspondiente.",
+      "Le pediría que no lo haga y me alejaría.",
+      "Llamaría al comandante sin actuar.",
+      "Esperaría a que otro TCP intervenga."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 30,
+    "topic": "entrevistas",
+    "text": "¿Qué opinas sobre trabajar en horarios nocturnos, fines de semana o festivos?",
+    "options": [
+      "Es parte natural del trabajo de TCP y lo acepto con flexibilidad y actitud positiva.",
+      "Prefiero no hacerlo si puedo evitarlo.",
+      "Solo trabajaría de día.",
+      "No me importaría hacerlo ocasionalmente, pero no siempre."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 31,
+    "topic": "entrevistas",
+    "text": "Cuéntame una situación en la que ayudaste a un cliente enfadado y lograste calmarlo.",
+    "options": [
+      "Escuché con empatía, pedí disculpas por las molestias y busqué una solución práctica manteniendo la calma.",
+      "Le pedí que se calmara sin ofrecer ninguna solución.",
+      "Ignoré su actitud hasta que se tranquilizó solo.",
+      "Le remití directamente a mi jefe sin intentar ayudarlo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 32,
+    "topic": "entrevistas",
+    "text": "¿Cómo te prepararías antes de un vuelo para asegurar que todo está en orden?",
+    "options": [
+      "Revisaría uniformes, documentos, briefing de seguridad y detalles del vuelo antes del embarque.",
+      "Llegaría justo a tiempo para no esperar mucho.",
+      "Dependería de lo que el jefe de cabina me diga al momento.",
+      "Solo revisaría la parte de catering."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 33,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si un pasajero no habla tu idioma y necesita ayuda urgente?",
+    "options": [
+      "Intentaría comunicarme con gestos, lenguaje básico o pidiendo ayuda a un compañero que hable su idioma.",
+      "Ignoraría la situación porque no lo entiendo.",
+      "Le pediría que espere hasta que aterricemos.",
+      "Le diría que busque a otro TCP."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 34,
+    "topic": "entrevistas",
+    "text": "¿Qué importancia tiene la sonrisa para un TCP?",
+    "options": [
+      "Es una herramienta de comunicación clave que transmite seguridad, calma y amabilidad a los pasajeros.",
+      "Solo sirve para parecer simpático.",
+      "No es necesaria si haces bien tu trabajo.",
+      "Debe usarse solo al inicio del vuelo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 35,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si un pasajero con movilidad reducida necesita asistencia al embarcar?",
+    "options": [
+      "Le ofrecería ayuda con respeto y empatía, asegurando su comodidad y siguiendo los procedimientos de seguridad.",
+      "Esperaría a que el personal de tierra se encargue.",
+      "Le pediría que espere hasta que todos embarquen.",
+      "Le ofrecería ayuda solo si me lo pide explícitamente."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 36,
+    "topic": "entrevistas",
+    "text": "¿Qué haces si un pasajero no quiere seguir una instrucción de seguridad?",
+    "options": [
+      "Le explico calmadamente la razón y la importancia de la norma, insistiendo con educación hasta conseguir su cooperación.",
+      "Ignoro la situación para evitar conflicto.",
+      "Le hablo en tono autoritario para imponer respeto.",
+      "Le pido que baje del avión inmediatamente sin consultar."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 37,
+    "topic": "entrevistas",
+    "text": "¿Qué papel juega la empatía en el trabajo de un TCP?",
+    "options": [
+      "Permite entender las emociones y necesidades de los pasajeros para ofrecer un servicio humano y profesional.",
+      "No es relevante si cumples los procedimientos.",
+      "Solo sirve para calmar a niños o ancianos.",
+      "Debe usarse solo en situaciones de emergencia."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 38,
+    "topic": "entrevistas",
+    "text": "¿Cómo manejarías una situación en la que un compañero está estresado durante el vuelo?",
+    "options": [
+      "Le ofrecería apoyo, me encargaría de alguna tarea para aliviarle y mantendría el espíritu de equipo.",
+      "Le diría que se relaje sin ayudarlo.",
+      "Ignoraría la situación para no involucrarme.",
+      "Avisaría al comandante sin intentar resolverlo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 39,
+    "topic": "entrevistas",
+    "text": "¿Cómo describirías tu forma de trabajar bajo presión?",
+    "options": [
+      "Organizada, calmada y enfocada en las prioridades, sin dejar que el estrés afecte mi desempeño.",
+      "Intento hacer todo rápido aunque me equivoque.",
+      "Dependo de mis compañeros para tomar decisiones.",
+      "Prefiero evitar situaciones de presión."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 40,
+    "topic": "entrevistas",
+    "text": "¿Qué piensas sobre la atención al cliente en la aviación moderna?",
+    "options": [
+      "Debe ser personalizada, respetuosa y eficiente, incluso en vuelos cortos o con alto volumen de pasajeros.",
+      "Solo importa en clase business.",
+      "Es responsabilidad del jefe de cabina.",
+      "No influye mucho en la reputación de la aerolínea."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 41,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si un pasajero entra en pánico durante turbulencias?",
+    "options": [
+      "Le hablaría con calma, manteniendo contacto visual, explicándole que es una situación normal y que estamos seguros.",
+      "Le dejaría solo para que se calme.",
+      "Le diría que no hay motivo para preocuparse sin más explicación.",
+      "Le pediría que se siente y me marcharía."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 42,
+    "topic": "entrevistas",
+    "text": "¿Qué valoras más en una compañía aérea?",
+    "options": [
+      "Su compromiso con la seguridad, el servicio al cliente y el desarrollo profesional de la tripulación.",
+      "Los descuentos en billetes.",
+      "Las rutas internacionales.",
+      "El número de aviones que tiene."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 43,
+    "topic": "entrevistas",
+    "text": "¿Cómo describirías tu nivel de inglés y cómo lo mantienes activo?",
+    "options": [
+      "Tengo un nivel intermedio/avanzado y lo practico a diario viendo contenido, leyendo y hablando con personas extranjeras.",
+      "Lo estudié hace tiempo, pero no lo uso mucho.",
+      "Solo lo entiendo cuando es lento.",
+      "No lo necesito mucho en este trabajo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 44,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si el comandante te pide algo que contradice el manual de procedimientos?",
+    "options": [
+      "Le explicaría con respeto que los procedimientos existen por seguridad y propondría revisarlo juntos antes de actuar.",
+      "Cumpliría la orden sin cuestionarla.",
+      "Le diría que no pienso hacerlo y me iría.",
+      "Le preguntaría a otro TCP qué opina."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 45,
+    "topic": "entrevistas",
+    "text": "¿Qué te hace destacar frente a otros candidatos para este puesto?",
+    "options": [
+      "Mi actitud positiva, profesionalidad, empatía y vocación por ofrecer un servicio excepcional.",
+      "Mi deseo de viajar mucho.",
+      "Mi experiencia en hostelería únicamente.",
+      "Mi conocimiento técnico del avión."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 46,
+    "topic": "entrevistas",
+    "text": "¿Qué opinas del trabajo en turnos rotativos?",
+    "options": [
+      "Lo considero parte natural del rol de TCP y me adapto fácilmente a los cambios de horario.",
+      "Prefiero turnos fijos de mañana.",
+      "Solo trabajaría en horario diurno.",
+      "No me parece un aspecto importante del trabajo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 47,
+    "topic": "entrevistas",
+    "text": "¿Cómo reaccionarías si un pasajero se desmaya durante el servicio a bordo?",
+    "options": [
+      "Detendría el servicio, comprobaría signos vitales, avisaría al jefe de cabina y aplicaría primeros auxilios según el protocolo.",
+      "Esperaría a que despierte solo.",
+      "Le echaría agua fría en la cara.",
+      "Llamaría al comandante sin hacer nada más."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 48,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si un pasajero se queja del trato recibido por otro TCP?",
+    "options": [
+      "Escucharía con respeto, me disculparía por la experiencia y trasladaría la información al jefe de cabina.",
+      "Le diría que no puedo hacer nada.",
+      "Defendería automáticamente a mi compañero.",
+      "Ignoraría la queja para evitar problemas."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 49,
+    "topic": "entrevistas",
+    "text": "¿Qué significa para ti representar una aerolínea?",
+    "options": [
+      "Ser la imagen de la compañía en todo momento, reflejando sus valores y manteniendo profesionalidad dentro y fuera del avión.",
+      "Cumplir horarios y nada más.",
+      "Llevar el uniforme correctamente.",
+      "Tratar bien solo a los pasajeros VIP."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 50,
+    "topic": "entrevistas",
+    "text": "¿Qué haces para mantenerte motivado en un entorno con tantas rutinas repetitivas?",
+    "options": [
+      "Me enfoco en los pasajeros, en cada vuelo como una nueva experiencia y en seguir aprendiendo del equipo.",
+      "Intento desconectar y no pensar en el trabajo.",
+      "Solo me motivo cuando hay vuelos internacionales.",
+      "Dependo del ambiente del día."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "text": "¿Cómo reaccionarías ante un pasajero agresivo o conflictivo?",
+    "options": [
+      "Intentaría calmarlo y mediar pacíficamente",
+      "Ignoraría la situación hasta que pase",
+      "Llamaría inmediatamente a la seguridad",
+      "Me alteraría y confrontaría al pasajero"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 51,
+    "topic": "entrevistas",
+    "text": "Describe una situación en la que tuviste que trabajar bajo presión.",
+    "options": [
+      "Mantener la calma y priorizar tareas",
+      "Dejar que otros tomen decisiones",
+      "Evitar responsabilidades bajo presión",
+      "Actuar impulsivamente sin plan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 52,
+    "topic": "entrevistas",
+    "text": "¿Qué entiendes por servicio al cliente de alta calidad en aviación?",
+    "options": [
+      "Ser atento, cordial y eficiente",
+      "Cumplir solo con las normas básicas",
+      "Hacer lo que el pasajero pida sin límites",
+      "Evitar interacción con los pasajeros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 53,
+    "topic": "entrevistas",
+    "text": "Cuéntanos sobre una vez que tuviste que resolver un problema inesperado en el trabajo.",
+    "options": [
+      "Analizar la situación y buscar la mejor solución",
+      "Esperar a que alguien más lo resuelva",
+      "Ignorar el problema y continuar con la rutina",
+      "Pedir ayuda solo si es obligatorio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 54,
+    "topic": "entrevistas",
+    "text": "¿Cómo manejarías una emergencia médica a bordo si no eres profesional sanitario?",
+    "options": [
+      "Seguir los protocolos y asistir en lo que pueda",
+      "No intervenir y esperar a personal médico",
+      "Inventar soluciones sin base",
+      "Entrar en pánico y descontrolarme"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 55,
+    "topic": "entrevistas",
+    "text": "¿Cuál es tu experiencia trabajando en equipo y cómo la aplicas en un avión?",
+    "options": [
+      "Colaborar y comunicarme eficientemente",
+      "Trabajar solo sin consultar a nadie",
+      "Delegar todas las tareas a otros",
+      "Ignorar la opinión de mis compañeros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 56,
+    "topic": "entrevistas",
+    "text": "Describe una situación en la que tuviste que comunicar información complicada de forma clara.",
+    "options": [
+      "Simplificar el mensaje y asegurar comprensión",
+      "Decirlo rápido sin importar si lo entienden",
+      "Evitar comunicarlo",
+      "Dejar que otros expliquen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 57,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si un pasajero ignora las normas de seguridad?",
+    "options": [
+      "Recordarle las normas de manera firme y cordial",
+      "Ignorar su comportamiento",
+      "Regañarlo públicamente",
+      "Suspender el vuelo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 58,
+    "topic": "entrevistas",
+    "text": "¿Cómo mantienes la calma en situaciones estresantes?",
+    "options": [
+      "Respirando profundo y priorizando tareas",
+      "Entrando en pánico con los demás",
+      "Evadiendo responsabilidades",
+      "Criticando a los demás"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 59,
+    "topic": "entrevistas",
+    "text": "¿Qué importancia tiene la puntualidad y la organización en el trabajo de TCP?",
+    "options": [
+      "Es crucial para seguridad y eficiencia",
+      "No es tan importante mientras el vuelo salga",
+      "Depende solo del capitán",
+      "Solo afecta a los pasajeros menos exigentes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 60,
+    "topic": "entrevistas",
+    "text": "Cuéntanos sobre un momento en que tuviste que adaptarte rápidamente a un cambio de planes.",
+    "options": [
+      "Mantener flexibilidad y buscar soluciones rápidas",
+      "Rechazar el cambio",
+      "Ignorar la situación",
+      "Esperar a que otros solucionen todo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 61,
+    "topic": "entrevistas",
+    "text": "¿Cómo garantizarías la seguridad y confort de los pasajeros durante un vuelo turbulento?",
+    "options": [
+      "Siguiendo procedimientos y comunicando instrucciones claras",
+      "Dejar que los pasajeros se organicen solos",
+      "Ignorar la turbulencia",
+      "Solo asegurarme de cumplir mi turno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 62,
+    "topic": "entrevistas",
+    "text": "¿Qué habilidades crees que son esenciales para un TCP y por qué?",
+    "options": [
+      "Comunicación, trabajo en equipo y atención al detalle",
+      "Solo apariencia y simpatía",
+      "Capacidad de ignorar pasajeros difíciles",
+      "Hacer solo lo mínimo exigido"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 63,
+    "topic": "entrevistas",
+    "text": "Describe una situación en la que tuviste que mediar entre compañeros de trabajo.",
+    "options": [
+      "Escuchar a ambas partes y buscar solución justa",
+      "Ignorar el conflicto",
+      "Tomar partido sin analizar",
+      "Dejar que el conflicto escale"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 64,
+    "topic": "entrevistas",
+    "text": "¿Cómo te prepararías para un vuelo largo con pasajeros difíciles?",
+    "options": [
+      "Planificando actividades, manteniendo paciencia y siguiendo protocolos",
+      "Evitar interacción con los pasajeros",
+      "Quejarme constantemente",
+      "No hacer nada y esperar que todo salga bien"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 65,
+    "topic": "entrevistas",
+    "text": "¿Qué opinas sobre la diversidad cultural a bordo y cómo la gestionarías?",
+    "options": [
+      "Respetando diferencias y adaptando la comunicación",
+      "Ignorando las diferencias culturales",
+      "Tratar a todos igual sin consideración",
+      "Evitar interactuar con pasajeros de culturas diferentes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 66,
+    "topic": "entrevistas",
+    "text": "Cuéntanos un ejemplo de cómo priorizas tareas cuando todo parece urgente.",
+    "options": [
+      "Analizando urgencia e impacto para actuar estratégicamente",
+      "Hacer primero lo que me apetece",
+      "Ignorar prioridades",
+      "Esperar que alguien me diga qué hacer"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 67,
+    "topic": "entrevistas",
+    "text": "¿Cómo manejarías un incidente con equipaje perdido o dañado?",
+    "options": [
+      "Seguir procedimientos y mantener la calma",
+      "Culpar al pasajero",
+      "Ignorar la situación",
+      "Dejar que el pasajero solucione solo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 68,
+    "topic": "entrevistas",
+    "text": "¿Qué estrategias utilizas para mantener la motivación en turnos largos o vuelos nocturnos?",
+    "options": [
+      "Organizar descansos, cuidar alimentación y mantener actitud positiva",
+      "Quejarme y perder energía",
+      "Dormir durante el vuelo",
+      "Ignorar la motivación personal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 69,
+    "topic": "entrevistas",
+    "text": "Si un pasajero te hace una pregunta que no sabes responder, ¿cómo reaccionarías?",
+    "options": [
+      "Responderé con honestidad y buscaré la información adecuada",
+      "Inventar una respuesta",
+      "Ignorar la pregunta",
+      "Decir que no puedo ayudar sin más"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 70,
+    "topic": "entrevistas",
+    "text": "¿Cómo actuarías si un pasajero intenta abrir la puerta de emergencia durante el vuelo?",
+    "options": [
+      "Seguir los procedimientos de seguridad inmediatamente",
+      "Intentar razonar sin alertar a la tripulación",
+      "Ignorar la situación",
+      "Esperar a que otro lo solucione"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 71,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si un compañero no cumple con sus responsabilidades a bordo?",
+    "options": [
+      "Informar al capitán y ayudar a cubrir sus tareas",
+      "Ignorar el problema",
+      "Criticarlo delante de los pasajeros",
+      "Hacer como si no existiera"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 72,
+    "topic": "entrevistas",
+    "text": "Describe cómo manejarías un pasajero con miedo a volar.",
+    "options": [
+      "Brindar información y apoyo calmado",
+      "Evitar al pasajero",
+      "Decirle que no se preocupe sin más",
+      "Culparlo por su miedo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 73,
+    "topic": "entrevistas",
+    "text": "¿Qué pasos seguirías si detectas un incendio pequeño en la cabina?",
+    "options": [
+      "Usar el extintor y seguir protocolos de emergencia",
+      "Gritar a los pasajeros que se retiren",
+      "Intentar apagarlo con agua sin precaución",
+      "Ignorar y esperar que se apague solo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 74,
+    "topic": "entrevistas",
+    "text": "¿Cómo te aseguras de que los pasajeros entiendan las instrucciones de seguridad?",
+    "options": [
+      "Demostrando claramente y revisando comprensión",
+      "Solo dar las instrucciones rápidas",
+      "Evitar explicar detalles",
+      "Decirles que miren los folletos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 75,
+    "topic": "entrevistas",
+    "text": "Si un pasajero pierde la paciencia por retrasos del vuelo, ¿cómo actuarías?",
+    "options": [
+      "Escuchar, explicar y mantener la calma",
+      "Ignorar su frustración",
+      "Gritar o confrontarlo",
+      "Decir que no es problema tuyo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 76,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si un pasajero sufre un ataque de pánico en pleno vuelo?",
+    "options": [
+      "Calmarlo y seguir procedimientos de asistencia",
+      "Dejarlo solo",
+      "Criticar su comportamiento",
+      "Pretender que no ocurre nada"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 77,
+    "topic": "entrevistas",
+    "text": "¿Cómo manejarías un pasajero que no sigue las indicaciones de los TCP durante la comida?",
+    "options": [
+      "Recordarle las normas de manera amable pero firme",
+      "Ignorarlo",
+      "Forzar que cumpla inmediatamente",
+      "Evitar interactuar con él"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 78,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si hay un derrame de líquido en el pasillo durante el vuelo?",
+    "options": [
+      "Señalizar el área y limpiar de inmediato",
+      "Ignorar el derrame",
+      "Pedir a los pasajeros que lo limpien",
+      "Cerrar el pasillo y esperar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 79,
+    "topic": "entrevistas",
+    "text": "¿Cómo reaccionarías si un pasajero intenta colarse en primera clase?",
+    "options": [
+      "Explicarle amablemente y redirigirlo a su asiento",
+      "Ignorar la situación",
+      "Regañarlo frente a otros pasajeros",
+      "Dejar que se siente donde quiera"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 80,
+    "topic": "entrevistas",
+    "text": "¿Cómo te prepararías para un vuelo internacional con pasajeros que hablan varios idiomas?",
+    "options": [
+      "Aprender frases clave y usar señalización clara",
+      "Solo hablar en tu idioma",
+      "Ignorar la comunicación con ellos",
+      "Pedir que otro TCP se encargue"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 81,
+    "topic": "entrevistas",
+    "text": "¿Qué acciones tomarías si un pasajero se siente mal y no hay médico a bordo?",
+    "options": [
+      "Seguir protocolos de primeros auxilios y buscar ayuda",
+      "Ignorar su malestar",
+      "Decirle que espere hasta aterrizar",
+      "Pedirle que se levante y camine"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 82,
+    "topic": "entrevistas",
+    "text": "Si notas que un pasajero está contraviniendo las normas de equipaje, ¿cómo actuarías?",
+    "options": [
+      "Informarle y redirigirlo al cumplimiento de normas",
+      "Ignorar la situación",
+      "Tomar represalias sin aviso",
+      "Quitarle el equipaje sin decir nada"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 83,
+    "topic": "entrevistas",
+    "text": "¿Cómo actuarías si un pasajero se enferma repentinamente y requiere medicación?",
+    "options": [
+      "Proporcionar asistencia siguiendo protocolos y buscar ayuda médica",
+      "Ignorar el pedido",
+      "Dar cualquier medicamento disponible sin precaución",
+      "Decirle que espere hasta el destino"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 84,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si un pasajero se queja de comida o bebida a bordo?",
+    "options": [
+      "Escuchar, ofrecer soluciones según políticas y mantener calma",
+      "Ignorar la queja",
+      "Responder de forma grosera",
+      "Decir que no hay más opciones sin explicación"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 85,
+    "topic": "entrevistas",
+    "text": "¿Cómo mantendrías la calma si el capitán anuncia turbulencias inesperadas?",
+    "options": [
+      "Seguir protocolos y tranquilizar a los pasajeros",
+      "Entrar en pánico junto con ellos",
+      "Ignorar la situación",
+      "Salir corriendo del área de cabina"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 86,
+    "topic": "entrevistas",
+    "text": "Si un pasajero se siente discriminado o molesto por otro pasajero, ¿qué harías?",
+    "options": [
+      "Intervenir de forma justa y segura según protocolos",
+      "Ignorar la situación",
+      "Tomar partido sin evaluar",
+      "Regañar a ambos pasajeros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 87,
+    "topic": "entrevistas",
+    "text": "¿Cómo asegurarías que todos los pasajeros con necesidades especiales reciban la atención adecuada?",
+    "options": [
+      "Identificando necesidades y adaptando el servicio",
+      "Tratar a todos igual sin diferenciación",
+      "Ignorar sus necesidades",
+      "Delegar a otro TCP sin supervisión"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 88,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si descubres un objeto sospechoso en la cabina?",
+    "options": [
+      "Seguir procedimientos de seguridad y alertar al capitán",
+      "Ignorar el objeto",
+      "Tocar o mover el objeto sin precaución",
+      "Preguntar a los pasajeros si saben de qué se trata"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 89,
+    "topic": "entrevistas",
+    "text": "Si un pasajero intenta discutir con otro, ¿cómo actuarías?",
+    "options": [
+      "Separarlos y mediar para calmar la situación",
+      "Ignorar la disputa",
+      "Tomar partido por uno de los pasajeros",
+      "Dejar que se resuelvan solos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 90,
+    "topic": "entrevistas",
+    "text": "¿Cómo actuarías si un pasajero se niega a ponerse el cinturón de seguridad?",
+    "options": [
+      "Recordarle de manera firme y explicar riesgos",
+      "Ignorar su negativa",
+      "Forzar el cinturón físicamente",
+      "Discutir con él delante de otros pasajeros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 91,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si un pasajero rompe una norma de higiene en el avión?",
+    "options": [
+      "Recordarle la norma de forma educada y segura",
+      "Ignorar la situación",
+      "Regañarlo públicamente",
+      "Limpiarlo tú sin avisarle"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 92,
+    "topic": "entrevistas",
+    "text": "Si notas signos de estrés extremo en un compañero TCP, ¿cómo actuarías?",
+    "options": [
+      "Ofrecer apoyo y reportar si es necesario",
+      "Ignorar la situación",
+      "Criticar su desempeño",
+      "Dejar que lo resuelva solo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 93,
+    "topic": "entrevistas",
+    "text": "¿Cómo manejarías una situación en la que un pasajero insiste en usar su teléfono a pesar de las instrucciones?",
+    "options": [
+      "Recordarle las normas y explicar los riesgos",
+      "Ignorar su uso",
+      "Confiscar el dispositivo sin avisar",
+      "Dejar que use el teléfono sin restricciones"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 94,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si un pasajero requiere ayuda con movilidad reducida?",
+    "options": [
+      "Asistirle siguiendo procedimientos y asegurando confort",
+      "Ignorar su solicitud",
+      "Pedirle que se arregle solo",
+      "Delegar a otro sin supervisar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 95,
+    "topic": "entrevistas",
+    "text": "¿Cómo actuarías si detectas una discrepancia en la documentación de un pasajero?",
+    "options": [
+      "Informar al capitán y seguir protocolos de seguridad",
+      "Ignorar la discrepancia",
+      "Confrontar al pasajero sin procedimiento",
+      "Permitir el embarque sin revisión"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 96,
+    "topic": "entrevistas",
+    "text": "Si un pasajero se siente incómodo por el ruido de un equipo a bordo, ¿qué harías?",
+    "options": [
+      "Evaluar la situación y ofrecer solución",
+      "Ignorar la queja",
+      "Decir que el ruido es normal y punto",
+      "Criticar al pasajero por quejarse"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 97,
+    "topic": "entrevistas",
+    "text": "¿Cómo actuarías si detectas un comportamiento sospechoso que podría poner en riesgo la seguridad?",
+    "options": [
+      "Seguir protocolos de seguridad y alertar al capitán",
+      "Ignorarlo",
+      "Confrontar al pasajero sin procedimiento",
+      "Tomar medidas por cuenta propia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 98,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si un pasajero requiere asistencia con un niño pequeño durante el vuelo?",
+    "options": [
+      "Brindar asistencia según procedimientos y seguridad",
+      "Ignorar su solicitud",
+      "Dejar que el pasajero maneje solo al niño",
+      "Dar instrucciones confusas sin ayudar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 99,
+    "topic": "entrevistas",
+    "text": "¿Cómo reaccionarías si el entrevistador te pide describirte en tres palabras?",
+    "options": [
+      "Uso tres cualidades alineadas al puesto",
+      "Respondo con sarcasmo",
+      "Digo que no sé describirme",
+      "Cambio de tema"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 100,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por un conflicto laboral del pasado?",
+    "options": [
+      "Describo el conflicto con madurez y lo aprendido",
+      "Culpo completamente a los demás",
+      "Digo que nunca he tenido conflictos",
+      "Me quejo extensamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 101,
+    "topic": "entrevistas",
+    "text": "¿Cómo responderías si te preguntan cuál es tu mayor debilidad?",
+    "options": [
+      "Elijo una debilidad real y cómo la trabajo",
+      "Digo que no tengo debilidades",
+      "Invierto una fortaleza como 'perfeccionismo'",
+      "Hablo mal de mis compañeros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 102,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud es ideal al saludar al entrevistador?",
+    "options": [
+      "Mirar a los ojos y mostrar seguridad",
+      "Mirar al suelo",
+      "Dar un saludo extremadamente informal",
+      "Evitar saludar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 103,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si no entiendes una pregunta durante la entrevista?",
+    "options": [
+      "Pido que la repitan o aclaren",
+      "Respondo algo aleatorio",
+      "Me quedo en silencio",
+      "Cambio de tema"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 104,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que investigaste sobre la empresa?",
+    "options": [
+      "Hablar de su misión y proyectos",
+      "Decir que no tuve tiempo",
+      "Decir que no conozco la empresa",
+      "Preguntar qué venden"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 105,
+    "topic": "entrevistas",
+    "text": "Si te preguntan por tus expectativas salariales, ¿qué es más apropiado?",
+    "options": [
+      "Mencionar un rango razonable del mercado",
+      "Decir lo que gane el CEO",
+      "Decir que aceptarás cualquier cosa",
+      "Decir que no quieres hablar del tema"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 106,
+    "topic": "entrevistas",
+    "text": "¿Qué es importante al hablar de tus logros?",
+    "options": [
+      "Ser específico y dar contexto",
+      "Inventar logros",
+      "Presumir exageradamente",
+      "Evitar mencionar logros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 107,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud demuestra profesionalismo en una entrevista virtual?",
+    "options": [
+      "Conexión estable y entorno ordenado",
+      "Hacerla desde la cama",
+      "Tener ruido fuerte de fondo",
+      "Apagar la cámara sin aviso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 108,
+    "topic": "entrevistas",
+    "text": "¿Qué deberías hacer si el entrevistador te pide un ejemplo concreto?",
+    "options": [
+      "Usar la técnica STAR",
+      "Responder con un ejemplo no relacionado",
+      "Responder sin detalles",
+      "Decir que no recuerdas ninguno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 109,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si el entrevistador te pide hablar de un logro reciente?",
+    "options": [
+      "Describir un logro medible y relevante",
+      "Inventar algo impresionante",
+      "Responder que no recuerdas ninguno",
+      "Cambiar de tema rápidamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 110,
+    "topic": "entrevistas",
+    "text": "¿Cómo responder ante una pregunta inesperada o ilógica?",
+    "options": [
+      "Mantener calma y pedir aclaración",
+      "Reírse del entrevistador",
+      "Ignorar la pregunta",
+      "Dar una respuesta agresiva"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 111,
+    "topic": "entrevistas",
+    "text": "¿Qué deberías mostrar cuando te preguntan por tus objetivos profesionales?",
+    "options": [
+      "Ambición realista y alineada con el puesto",
+      "Objetivos inalcanzables",
+      "Que no tienes metas",
+      "Planes que nada tienen que ver con la empresa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 112,
+    "topic": "entrevistas",
+    "text": "¿Cómo reaccionar si el entrevistador te pregunta por un mal hábito?",
+    "options": [
+      "Mencionar uno real y cómo lo gestionas",
+      "Negar que tengas hábitos negativos",
+      "Criticar a antiguos compañeros",
+      "Responder con un chiste"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 113,
+    "topic": "entrevistas",
+    "text": "¿Cuál es la mejor forma de demostrar interés en el puesto?",
+    "options": [
+      "Hacer preguntas relevantes al final",
+      "Decir que te da igual el resultado",
+      "Mostrar desinterés",
+      "Mirar el móvil"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 114,
+    "topic": "entrevistas",
+    "text": "Si te preguntan cómo manejas la crítica, ¿qué respuesta es adecuada?",
+    "options": [
+      "Agradecerla y usarla para mejorar",
+      "Molestarte y discutir",
+      "Ignorarla siempre",
+      "Usarla para culpar a otros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 115,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra tu puntualidad al llegar a la entrevista?",
+    "options": [
+      "Compromiso y profesionalidad",
+      "Desorganización",
+      "Desinterés total",
+      "Que tu tiempo vale más que el del entrevistador"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 116,
+    "topic": "entrevistas",
+    "text": "Si el entrevistador te pregunta qué sabes de la empresa, ¿qué opción es correcta?",
+    "options": [
+      "Mencionar datos clave y valores",
+      "Decir que no investigaste",
+      "Responder con información inventada",
+      "Decir que no te interesa saber"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 117,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud demuestra seguridad durante la entrevista?",
+    "options": [
+      "Hablar con claridad y postura abierta",
+      "Mirar al suelo y murmurar",
+      "Interrumpir al entrevistador",
+      "Responder con monosílabos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 118,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por un proyecto que no salió bien?",
+    "options": [
+      "Contar lo sucedido y lo que aprendiste",
+      "Decir que fue culpa del jefe",
+      "Negar que haya ocurrido",
+      "Reírte de la situación"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 119,
+    "topic": "entrevistas",
+    "text": "¿Qué deberías evitar siempre en una entrevista?",
+    "options": [
+      "Hablar mal de antiguos empleadores",
+      "Responder con educación",
+      "Mostrar profesionalidad",
+      "Prepararte previamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 120,
+    "topic": "entrevistas",
+    "text": "¿Cómo debes responder si te preguntan por tus valores?",
+    "options": [
+      "Mencionar valores coherentes con el puesto",
+      "Inventar valores aleatorios",
+      "Decir que no tienes valores",
+      "Responder que no es importante"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 121,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te interrumpen repetidamente durante la entrevista?",
+    "options": [
+      "Mantener calma y seguir profesional",
+      "Responder con molestia",
+      "Pedir irte a casa",
+      "Contradecir todo lo que dicen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 122,
+    "topic": "entrevistas",
+    "text": "¿Cómo describirías tu forma de resolver problemas?",
+    "options": [
+      "Analítica y orientada a soluciones",
+      "Basada en improvisación total",
+      "Dejo que otros resuelvan",
+      "Evito enfrentar problemas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 123,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que tienes una buena actitud de aprendizaje?",
+    "options": [
+      "Estar abierto a nuevas habilidades",
+      "Rechazar todo lo nuevo",
+      "Quejarse constantemente",
+      "Negarte a recibir feedback"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 124,
+    "topic": "entrevistas",
+    "text": "¿Qué tipo de preguntas es apropiado hacer al entrevistador?",
+    "options": [
+      "Preguntar sobre funciones y cultura",
+      "Preguntar por chismes internos",
+      "Preguntar por vacaciones desde el primer día",
+      "Preguntar si puedes faltar a veces"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 125,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por tu disponibilidad?",
+    "options": [
+      "Responder con claridad y sinceridad",
+      "Responder vagamente",
+      "Decir que no puedes comprometerte",
+      "Evitar contestar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 126,
+    "topic": "entrevistas",
+    "text": "¿Qué deberías hacer si te ponen una prueba inesperada?",
+    "options": [
+      "Mantener calma y hacer lo mejor posible",
+      "Negarte y discutir",
+      "Abandonar la sala",
+      "Responder con sarcasmo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 127,
+    "topic": "entrevistas",
+    "text": "¿Qué señal indica una buena comunicación en la entrevista?",
+    "options": [
+      "Responder de forma clara y directa",
+      "Hablar en círculos",
+      "Responder sin escuchar",
+      "Interrumpir constantemente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 128,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan qué te motiva?",
+    "options": [
+      "Compartir motivaciones alineadas al puesto",
+      "Decir que nada te motiva",
+      "Responder de forma irrelevante",
+      "Decir que solo buscas dinero"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 129,
+    "topic": "entrevistas",
+    "text": "¿Qué es una mala práctica al negociar salario?",
+    "options": [
+      "Pedir una cifra sin investigar nada",
+      "Analizar el mercado",
+      "Adaptarse dentro de un rango razonable",
+      "Escuchar la propuesta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 130,
+    "topic": "entrevistas",
+    "text": "¿Cómo demostrar iniciativa?",
+    "options": [
+      "Dar ejemplos donde tomaste acción",
+      "Decir que prefieres no tomar decisiones",
+      "Evitar involucrarte",
+      "Depender siempre de otros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 131,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si no recuerdas un dato importante durante la entrevista?",
+    "options": [
+      "Reconocerlo con honestidad",
+      "Inventarlo",
+      "Cambiar de tema abruptamente",
+      "Quedarte en silencio largo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 132,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra ética laboral en la entrevista?",
+    "options": [
+      "Hablar de integridad y responsabilidad",
+      "Decir que haces 'lo mínimo'",
+      "Hablar de cómo evitas tareas",
+      "Explicar cómo culpas a otros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 133,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si cometes un error durante una dinámica de grupo?",
+    "options": [
+      "Asumirlo con naturalidad y continuar",
+      "Discutir con el grupo",
+      "Echar la culpa al moderador",
+      "Abandonar la actividad"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 134,
+    "topic": "entrevistas",
+    "text": "¿Qué indica falta de preparación en una entrevista?",
+    "options": [
+      "No conocer la empresa",
+      "Llevar preguntas listas",
+      "Escuchar atentamente",
+      "Respetar tiempos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 135,
+    "topic": "entrevistas",
+    "text": "¿Qué es clave al explicar tu experiencia previa?",
+    "options": [
+      "Relacionarla con el puesto actual",
+      "Hablar de temas irrelevantes",
+      "Describir tu vida personal",
+      "Ignorar lo que pide el puesto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 136,
+    "topic": "entrevistas",
+    "text": "¿Qué muestra madurez profesional?",
+    "options": [
+      "Asumir responsabilidad en desafíos",
+      "Culpar a terceros siempre",
+      "Quejarse sin parar",
+      "Evitar responsabilidades"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 137,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te hacen una pregunta personal inadecuada?",
+    "options": [
+      "Responder con educación y redirigir al ámbito profesional",
+      "Enfadarte y gritar",
+      "Responder agresivamente",
+      "Reírte del entrevistador"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 138,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud demuestra adaptabilidad?",
+    "options": [
+      "Aceptar cambios razonables con buena actitud",
+      "Rechazar todo cambio",
+      "Molestarse por ajustes mínimos",
+      "Solo aceptar cambios si te convienen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 139,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que eres puntual y organizado?",
+    "options": [
+      "Llegar antes y llevar documentos preparados",
+      "Llegar tarde sin avisar",
+      "Olvidar tu CV",
+      "Improvisar completamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 140,
+    "topic": "entrevistas",
+    "text": "¿Qué debes evitar al hablar de tu antiguo empleo?",
+    "options": [
+      "Criticar a tus jefes",
+      "Explicar tus funciones",
+      "Hablar de aprendizajes",
+      "Mencionar logros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 141,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra inteligencia emocional en una entrevista?",
+    "options": [
+      "Manejar emociones con control",
+      "Responder impulsivamente",
+      "Mostrarse agresivo",
+      "Burlarse del entrevistador"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 142,
+    "topic": "entrevistas",
+    "text": "¿Cómo mostrar trabajo en equipo?",
+    "options": [
+      "Dar ejemplos de colaboración real",
+      "Decir que prefieres trabajar solo siempre",
+      "Criticar a compañeros",
+      "Evitar mencionar proyectos comunes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 143,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud es adecuada si el entrevistador te interrumpe por error?",
+    "options": [
+      "Esperar y retomar con calma",
+      "Reprocharle",
+      "Mostrarse molesto",
+      "Cambiar la respuesta completamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 144,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra profesionalidad al final de la entrevista?",
+    "options": [
+      "Agradecer el tiempo y despedirte con cortesía",
+      "Salir sin decir nada",
+      "Exigir la contratación inmediata",
+      "Mostrar prisa por irte"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 145,
+    "topic": "entrevistas",
+    "text": "¿Qué es adecuado si te preguntan cómo manejas varias tareas a la vez?",
+    "options": [
+      "Explicar tu método de priorización",
+      "Responder que haces todo sin orden",
+      "Decir que no puedes manejar varias tareas",
+      "Cambiar el tema"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 146,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por un jefe difícil?",
+    "options": [
+      "Responder con respeto y enfoque profesional",
+      "Criticar su personalidad",
+      "Quejarte largo rato",
+      "Decir que fue su culpa"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 147,
+    "topic": "entrevistas",
+    "text": "¿Qué debes mostrar al explicar por qué dejaste tu empleo anterior?",
+    "options": [
+      "Claridad y profesionalidad",
+      "Hablar mal de todo el equipo",
+      "Inventar excusas dramáticas",
+      "Responder que no recuerdas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 148,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra compromiso?",
+    "options": [
+      "Hablar de metas a largo plazo",
+      "Decir que te irás rápido",
+      "Mostrar falta de interés",
+      "Evitar hablar de futuro"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 149,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si se hace un silencio largo durante la entrevista?",
+    "options": [
+      "Mantener serenidad y continuar",
+      "Ponerte nervioso y disculparte",
+      "Hablar sin sentido",
+      "Hacer bromas inapropiadas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 150,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por softwares que no dominas?",
+    "options": [
+      "Admitirlo y mencionar tu disposición a aprender",
+      "Decir que los conoces aunque no sea cierto",
+      "Evitar contestar",
+      "Hablar de algo que no tiene relación"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 151,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra pensamiento crítico?",
+    "options": [
+      "Analizar situaciones con lógica",
+      "Responder impulsivamente",
+      "Evitar analizar nada",
+      "Responder siempre con clichés"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 152,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud es correcta si te ofrecen agua o café?",
+    "options": [
+      "Aceptar o rechazar con cortesía",
+      "Responder de forma grosera",
+      "Exigir otra bebida",
+      "Ignorarlos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 153,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si el entrevistador malinterpreta algo que dijiste?",
+    "options": [
+      "Aclararlo con respeto",
+      "Discutir con fuerza",
+      "Dejar que quede mal entendido",
+      "Reírte de él"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 154,
+    "topic": "entrevistas",
+    "text": "¿Cómo mostrar liderazgo sin parecer arrogante?",
+    "options": [
+      "Dar ejemplos reales y balanceados",
+      "Presumir fuertemente",
+      "Interrumpir constantemente",
+      "Atribuirte logros de otros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 155,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por tu disponibilidad para viajar?",
+    "options": [
+      "Responder honestamente",
+      "Decir lo contrario de lo que piensas",
+      "Responder vagamente",
+      "Evitar la pregunta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 156,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra resiliencia?",
+    "options": [
+      "Seguir adelante tras dificultades",
+      "Rendirse ante el primer obstáculo",
+      "Evitar desafíos",
+      "Culpar a otros por todo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 157,
+    "topic": "entrevistas",
+    "text": "¿Cómo manejar un desacuerdo con un compañero en una entrevista grupal?",
+    "options": [
+      "Discutir con respeto",
+      "Gritarle",
+      "Contradecir todo lo que dice",
+      "Ignorarlo totalmente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 158,
+    "topic": "entrevistas",
+    "text": "¿Qué es buena práctica antes de entrar a la sala de entrevista?",
+    "options": [
+      "Apagar el móvil",
+      "Hablar por altavoz",
+      "Entrar sin pedir permiso",
+      "Interrumpir a otros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 159,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra escucha activa?",
+    "options": [
+      "Responder después de entender completamente",
+      "Responder sin haber escuchado",
+      "Interrumpir",
+      "Mirar hacia otra dirección"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 160,
+    "topic": "entrevistas",
+    "text": "¿Cómo responder si te preguntan por momentos de estrés laboral?",
+    "options": [
+      "Describir cómo los gestionas",
+      "Negar haberlos vivido",
+      "Decir que no sabes manejarlos",
+      "Culpar siempre a otros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 161,
+    "topic": "entrevistas",
+    "text": "¿Qué es adecuado si el entrevistador te pide una autoevaluación?",
+    "options": [
+      "Hablar de fortalezas con humildad",
+      "Presumir exageradamente",
+      "Decir que no tienes fortalezas",
+      "Evitar responder"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 162,
+    "topic": "entrevistas",
+    "text": "¿Qué debes hacer si te piden opinión sobre un tema que desconoces?",
+    "options": [
+      "Expresar tu punto de vista con honestidad y límites",
+      "Inventar datos",
+      "Responder con evasivas",
+      "Criticar la pregunta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 163,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra profesionalismo en tu vestimenta?",
+    "options": [
+      "Ropa adecuada y cuidada",
+      "Ropa demasiado informal",
+      "Ropa sucia o arrugada",
+      "No cuidar tu imagen"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 164,
+    "topic": "entrevistas",
+    "text": "¿Cómo mostrar que eres organizado?",
+    "options": [
+      "Dar ejemplos de tu metodología",
+      "Decir que organizas sobre la marcha",
+      "Evitar el tema",
+      "Responder vagamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 165,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud es adecuada en una prueba práctica?",
+    "options": [
+      "Leer instrucciones antes de actuar",
+      "Actuar impulsivamente",
+      "Ignorar lo que piden",
+      "Preguntar cosas innecesarias"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 166,
+    "topic": "entrevistas",
+    "text": "¿Qué es importante al hablar de tu educación?",
+    "options": [
+      "Relacionarla con el puesto",
+      "Hablar de materias irrelevantes",
+      "Inventar títulos",
+      "Describir tu vida personal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 167,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por un fracaso?",
+    "options": [
+      "Explicarlo y destacar lo aprendido",
+      "Negar haber fracasado nunca",
+      "Culpar a otros",
+      "Evadir completamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 168,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra buena gestión del tiempo?",
+    "options": [
+      "Planificación y priorización",
+      "Dejar todo para último momento",
+      "Trabajar sin orden",
+      "Depender de otros para organizarte"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 169,
+    "topic": "entrevistas",
+    "text": "¿Qué es esencial al analizar un problema en voz alta?",
+    "options": [
+      "Explicar tu proceso con claridad",
+      "Hablar sin estructura",
+      "Decir que no quieres pensar",
+      "Responder al azar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 170,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud demuestra madurez emocional?",
+    "options": [
+      "Aceptar críticas sin enfado",
+      "Responder con gritos",
+      "Hacer comentarios pasivo-agresivos",
+      "Cerrar la entrevista abruptamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 171,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por tus expectativas de crecimiento?",
+    "options": [
+      "Hablar de progreso realista",
+      "Pedir ascenso inmediato",
+      "Decir que no quieres crecer",
+      "Responder sin pensar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 172,
+    "topic": "entrevistas",
+    "text": "¿Qué es importante demostrar al hablar de proyectos personales?",
+    "options": [
+      "Conexión con habilidades útiles",
+      "Contar detalles irrelevantes",
+      "Hablar de temas personales delicados",
+      "Evitar responder"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 173,
+    "topic": "entrevistas",
+    "text": "¿Qué señal indica que preparaste la entrevista?",
+    "options": [
+      "Conoces la cultura y valores",
+      "Llegas sin saber nada",
+      "Haces preguntas impropias",
+      "Solo preguntas por vacaciones"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 174,
+    "topic": "entrevistas",
+    "text": "¿Cómo mostrar trato profesional?",
+    "options": [
+      "Tratar con respeto a todos",
+      "Hablar solo con el entrevistador",
+      "Ignorar al personal",
+      "Hacer bromas inapropiadas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 175,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por tareas que no te gustan?",
+    "options": [
+      "Responder con sinceridad sin sonar negativo",
+      "Criticar fuertemente",
+      "Decir que no harás esas tareas",
+      "Reírte del puesto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 176,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que sabes priorizar?",
+    "options": [
+      "Explicar tu método de jerarquización",
+      "Responder sin lógica",
+      "Hacer todo sin orden",
+      "Depender solo de otros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 177,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si el entrevistador te pide una situación donde actuaste rápido?",
+    "options": [
+      "Contar una situación real y concreta",
+      "Inventar un ejemplo impresionante",
+      "Decir que nunca actúas rápido",
+      "Responder con evasivas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 178,
+    "topic": "entrevistas",
+    "text": "¿Qué muestra capacidad de análisis?",
+    "options": [
+      "Evaluar datos y contexto",
+      "Responder impulsivamente",
+      "Ignorar información",
+      "Contestar sin pensar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 179,
+    "topic": "entrevistas",
+    "text": "¿Cómo responder si te preguntan cómo reaccionas ante cambios?",
+    "options": [
+      "Con flexibilidad y apertura",
+      "Con resistencia siempre",
+      "Con molestia constante",
+      "Con quejas hacia el equipo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 180,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud es adecuada si pierdes el hilo de tu respuesta?",
+    "options": [
+      "Pedir continuar y retomar",
+      "Callarte durante minutos",
+      "Decir que olvidaste y rendirte",
+      "Molestarte con el entrevistador"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 181,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra iniciativa?",
+    "options": [
+      "Tomar acción sin esperar órdenes",
+      "Esperar a que otros actúen siempre",
+      "Evitar responsabilidades",
+      "Depender de supervisión constante"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 182,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan qué te diferencia de otros candidatos?",
+    "options": [
+      "Hablar de cualidades únicas reales",
+      "Compararte negativamente",
+      "Decir que no tienes diferencia",
+      "Responder que no sabes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 183,
+    "topic": "entrevistas",
+    "text": "¿Qué muestra una respuesta profesional ante un error en tu CV?",
+    "options": [
+      "Reconocerlo y corregirlo",
+      "Negarlo rotundamente",
+      "Culpar al programa de edición",
+      "Molestarte con el entrevistador"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 184,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que puedes trabajar con clientes difíciles?",
+    "options": [
+      "Mantener calma y empatía",
+      "Responder con rudeza",
+      "Ignorar sus problemas",
+      "Discutir con ellos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 185,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por tu proceso de toma de decisiones?",
+    "options": [
+      "Describir pasos lógicos",
+      "Responder sin pensar",
+      "Inventar un proceso",
+      "Evitar contestar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 186,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud demuestra profesionalismo si no puedes asistir a una segunda entrevista?",
+    "options": [
+      "Avisar con tiempo y pedir reprogramación",
+      "No presentarte sin avisar",
+      "Ignorar el mensaje",
+      "Responder con enojo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 187,
+    "topic": "entrevistas",
+    "text": "¿Cómo demostrar que entiendes el rol que estás solicitando?",
+    "options": [
+      "Describir funciones clave del puesto",
+      "Hablar de un puesto diferente",
+      "Decir que no lo conoces",
+      "Evitar responder"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 188,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si en la entrevista grupal nadie habla?",
+    "options": [
+      "Participar con iniciativa moderada",
+      "Hablar sin parar",
+      "Quedarte totalmente callado",
+      "Criticar al grupo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 189,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra pensamiento orientado a resultados?",
+    "options": [
+      "Hablar de metas cumplidas",
+      "Evitar dar ejemplos",
+      "Describir solo problemas",
+      "Culpar a la empresa anterior"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 190,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por un logro del que estés orgulloso?",
+    "options": [
+      "Describirlo con detalles y contexto",
+      "Inventarlo",
+      "Hablar de un logro de otro",
+      "Responder con evasivas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 191,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra proactividad?",
+    "options": [
+      "Proponer mejoras cuando es necesario",
+      "Esperar instrucciones siempre",
+      "Evitar iniciativas",
+      "Quejarte sin aportar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 192,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por tu mayor fortaleza?",
+    "options": [
+      "Elegir una fortaleza real y útil",
+      "Decir que no tienes fortalezas",
+      "Elegir una inventada",
+      "Responder exageradamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 193,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra responsabilidad?",
+    "options": [
+      "Cumplir tareas y asumir consecuencias",
+      "Culpar a otros por todo",
+      "Evitar compromisos",
+      "Faltar sin aviso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 194,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por tu experiencia con equipos diversos?",
+    "options": [
+      "Hablar de cómo te adaptaste",
+      "Decir que no sabes trabajar con otros",
+      "Responder sin ejemplos",
+      "Decir que no te gusta la diversidad"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 195,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud es correcta si te preguntan si tienes preguntas?",
+    "options": [
+      "Hacer preguntas reales y profesionales",
+      "Decir que no te interesa saber nada",
+      "Preguntar sobre chismes internos",
+      "No decir nada"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 196,
+    "topic": "entrevistas",
+    "text": "¿Qué muestra que puedes trabajar bajo presión?",
+    "options": [
+      "Dar ejemplos de plazos cortos",
+      "Decir que no soportas presión",
+      "Evitar responder",
+      "Reaccionar con estrés extremo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 197,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por un desafío que superaste?",
+    "options": [
+      "Describir el desafío y cómo lo superaste",
+      "Decir que nunca tuviste desafíos",
+      "Inventar una historia irreal",
+      "Responder sin detalles"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 198,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que eres una persona confiable?",
+    "options": [
+      "Responsabilidad y honestidad",
+      "Evitar compromisos",
+      "Mentir para quedar bien",
+      "No cumplir promesas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 199,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si en una entrevista te preguntan algo que no sabes responder?",
+    "options": [
+      "Admitirlo y proponer cómo buscarías la solución",
+      "Inventar una respuesta",
+      "Cambiar de tema",
+      "Responder con evasivas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 200,
+    "topic": "entrevistas",
+    "text": "¿Qué cualidad es esencial demostrar durante una entrevista?",
+    "options": [
+      "Profesionalismo",
+      "Impaciencia",
+      "Desinterés",
+      "Indiferencia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 201,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si el entrevistador te hace una pregunta muy amplia?",
+    "options": [
+      "Pedir aclaración si es necesario",
+      "Responder cualquier cosa",
+      "Ignorar la pregunta",
+      "Cambiar el tema"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 202,
+    "topic": "entrevistas",
+    "text": "¿Cómo demostrar compromiso con el puesto al que postulas?",
+    "options": [
+      "Explicando por qué te interesa el rol",
+      "Hablando solo de salario",
+      "Diciendo que aceptas cualquier cosa",
+      "Mostrando apatía"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 203,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si el entrevistador te interrumpe?",
+    "options": [
+      "Detenerte con respeto y continuar cuando corresponda",
+      "Molestarte",
+      "Seguir hablando sin parar",
+      "Reprocharle la interrupción"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 204,
+    "topic": "entrevistas",
+    "text": "¿Cómo responder apropiadamente a '¿Qué te motiva?'",
+    "options": [
+      "Enfocarte en logros y objetivos profesionales",
+      "Responder que nada te motiva",
+      "Inventar algo al azar",
+      "Decir que no lo sabes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 205,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que investigaste sobre la empresa?",
+    "options": [
+      "Mencionar proyectos relevantes",
+      "Preguntar qué hace la empresa",
+      "Decir que no te interesa su historia",
+      "Inventar datos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 206,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud es apropiada al responder sobre tus debilidades?",
+    "options": [
+      "Ser honesto y explicar cómo las trabajas",
+      "Decir que no tienes ninguna",
+      "Responder con arrogancia",
+      "Exagerarlas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 207,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si el entrevistador te pide que describas un conflicto laboral?",
+    "options": [
+      "Explicar cómo lo resolviste de forma constructiva",
+      "Culpar a todos los demás",
+      "Afirmar que nunca has tenido conflictos",
+      "Inventar un caso irreal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 208,
+    "topic": "entrevistas",
+    "text": "¿Qué muestra que eres capaz de liderar?",
+    "options": [
+      "Dar ejemplos concretos de liderazgo",
+      "Hablar solo de logros individuales",
+      "Evitar mencionar equipos",
+      "Apropiarte del trabajo ajeno"
+    ],
+    "correctIndex": 0
+  },
+
+  {
+    "id": 209,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por un error reciente?",
+    "options": [
+      "Describir lo que aprendiste de él",
+      "Negarlo por completo",
+      "Culpar al entorno",
+      "Evitar responder"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 210,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud demuestra seguridad en una entrevista?",
+    "options": [
+      "Responder con claridad y calma",
+      "Hablar de forma agresiva",
+      "Responder sin pensar",
+      "Evitar contacto visual"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 211,
+    "topic": "entrevistas",
+    "text": "¿Cómo demostrarías que puedes trabajar con objetivos?",
+    "options": [
+      "Presentando ejemplos de metas cumplidas",
+      "Diciendo que no te gustan los objetivos",
+      "Mostrando desinterés",
+      "Evitando responsabilidades"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 212,
+    "topic": "entrevistas",
+    "text": "¿Qué es recomendable hacer al finalizar una entrevista?",
+    "options": [
+      "Agradecer y preguntar por próximos pasos",
+      "Salir sin despedirte",
+      "No decir nada",
+      "Pedir que te contraten inmediatamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 213,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra profesionalidad al hablar de un equipo anterior?",
+    "options": [
+      "Reconocer su aporte",
+      "Criticar su desempeño",
+      "Hablar mal de todos",
+      "Minimizar su trabajo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 214,
+    "topic": "entrevistas",
+    "text": "¿Qué es esencial al hablar de tus valores laborales?",
+    "options": [
+      "Relacionarlos con la empresa",
+      "Hablar solo de vida personal",
+      "Inventarlos",
+      "Responder vagamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 215,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si no escuchaste bien una pregunta?",
+    "options": [
+      "Pedir que la repitan",
+      "Responder cualquier cosa",
+      "Fingir que entendiste",
+      "Cambiar el tema"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 216,
+    "topic": "entrevistas",
+    "text": "¿Cómo demostrarías ética profesional?",
+    "options": [
+      "Dando ejemplos de decisiones responsables",
+      "Evitando responsabilidades",
+      "Justificando malas prácticas",
+      "Ignorando reglas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 217,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te piden describir un reto superado?",
+    "options": [
+      "Explicar el proceso y resultado",
+      "Responder con evasivas",
+      "Decir que no recuerdas nada",
+      "Exagerarlo de manera poco real"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 218,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud demuestra adaptabilidad?",
+    "options": [
+      "Aceptar cambios y aprender de ellos",
+      "Resistirte a todo cambio",
+      "Quejarte constantemente",
+      "Evitar nuevas tareas"
+    ],
+    "correctIndex": 0
+  },
+
+  {
+    "id": 219,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si la entrevista dura más de lo previsto?",
+    "options": [
+      "Mantener el interés hasta el final",
+      "Mostrar impaciencia",
+      "Mirar el reloj constantemente",
+      "Interrumpir para irte"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 220,
+    "topic": "entrevistas",
+    "text": "¿Qué debes evitar al hablar de tu jefe anterior?",
+    "options": [
+      "Criticarlo",
+      "Ser agradecido",
+      "Ser objetivo",
+      "Ser respetuoso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 221,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra creatividad?",
+    "options": [
+      "Aportar soluciones originales a problemas",
+      "Repetir siempre lo mismo",
+      "Evitar ideas nuevas",
+      "Decir que no te gusta innovar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 222,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si una pregunta te parece injusta?",
+    "options": [
+      "Responder con profesionalidad o preguntar su propósito",
+      "Molestarte abiertamente",
+      "Negarte con mala actitud",
+      "Interrumpir la entrevista"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 223,
+    "topic": "entrevistas",
+    "text": "¿Qué comunicarías al hablar de tu estilo de comunicación?",
+    "options": [
+      "Claridad y respeto",
+      "Falta de escucha",
+      "Tono agresivo",
+      "Desinterés"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 224,
+    "topic": "entrevistas",
+    "text": "¿Cómo demostrarías que sabes resolver problemas?",
+    "options": [
+      "Con ejemplos concretos",
+      "Con frases vacías",
+      "Evitando explicar detalles",
+      "Diciendo que nunca has tenido problemas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 225,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud transmite entusiasmo?",
+    "options": [
+      "Interés genuino y energía positiva",
+      "Hablar con desgano",
+      "Mostrarse distraído",
+      "Responder sin ganas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 226,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si el entrevistador te pide un ejemplo específico?",
+    "options": [
+      "Dar uno claro y real",
+      "Inventarlo",
+      "Responder de forma genérica",
+      "Evitar la explicación"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 227,
+    "topic": "entrevistas",
+    "text": "¿Qué cualidad es clave al trabajar de cara al público?",
+    "options": [
+      "Empatía",
+      "Impaciencia",
+      "Desinterés",
+      "Distancia excesiva"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 228,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que eres organizado?",
+    "options": [
+      "Explicar cómo planificas tareas",
+      "Depender del azar",
+      "No usar métodos",
+      "Mezclar prioridades"
+    ],
+    "correctIndex": 0
+  },
+
+  {
+    "id": 229,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por un proyecto en el que fracasaste?",
+    "options": [
+      "Hablar del aprendizaje obtenido",
+      "Negarlo",
+      "Culpar a todos",
+      "Evadir la pregunta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 230,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra capacidad de adaptación en un nuevo entorno?",
+    "options": [
+      "Aprender rápido las dinámicas",
+      "Quejarse de todo",
+      "Evitar conocer al equipo",
+      "Ignorar procedimientos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 231,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te piden hablar de tus logros?",
+    "options": [
+      "Mencionar los relevantes para el puesto",
+      "Listar todos sin filtro",
+      "Exagerarlos",
+      "Inventarlos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 232,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que puedes trabajar con poco tiempo?",
+    "options": [
+      "Priorizar y ejecutar con eficacia",
+      "Entrar en pánico",
+      "Abandonar tareas",
+      "Retrasar decisiones"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 233,
+    "topic": "entrevistas",
+    "text": "¿Qué muestra interés genuino en la entrevista?",
+    "options": [
+      "Escuchar activamente",
+      "Interrumpir",
+      "Responder distraído",
+      "Mirar el teléfono"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 234,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si no entiendes una parte del proceso de selección?",
+    "options": [
+      "Preguntar con respeto",
+      "Ignorar la duda",
+      "Molestarte",
+      "Abandonar el proceso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 235,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que sabes colaborar?",
+    "options": [
+      "Compartir responsabilidades",
+      "Evitar el trabajo conjunto",
+      "Competir destructivamente",
+      "Ignorar al equipo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 236,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por tus expectativas salariales?",
+    "options": [
+      "Dar un rango realista",
+      "Decir una cifra exagerada",
+      "Responder sin pensar",
+      "Negarte a hablar del tema"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 237,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que puedes trabajar sin supervisión constante?",
+    "options": [
+      "Dar ejemplos de autonomía",
+      "Evitar responsabilidades",
+      "Esperar instrucciones siempre",
+      "No tomar decisiones"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 238,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por un mal día en el trabajo?",
+    "options": [
+      "Explicar cómo lo gestionaste",
+      "Quejarte ampliamente",
+      "Culpar a otros",
+      "Exagerarlo"
+    ],
+    "correctIndex": 0
+  },
+
+  {
+    "id": 239,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud refleja madurez profesional?",
+    "options": [
+      "Aceptar errores y aprender",
+      "Evitar responsabilidades",
+      "Echar culpas",
+      "Mostrarse inmaduro"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 240,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que eres flexible?",
+    "options": [
+      "Adaptarte a cambios inesperados",
+      "Negarte a cambiar",
+      "Quejarte siempre",
+      "Poner excusas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 241,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si olvidas un detalle importante durante la entrevista?",
+    "options": [
+      "Mencionarlo más adelante con naturalidad",
+      "Entrar en pánico",
+      "Interrumpir bruscamente",
+      "Inventar algo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 242,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra buena actitud ante la presión?",
+    "options": [
+      "Mantener enfoque y priorizar",
+      "Actuar impulsivamente",
+      "Rendirse rápidamente",
+      "Reaccionar de forma agresiva"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 243,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si descubres que el puesto no es exactamente como esperabas?",
+    "options": [
+      "Preguntar detalles para aclararlo",
+      "Perder interés inmediatamente",
+      "Mostrar molestia",
+      "Interrumpir el proceso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 244,
+    "topic": "entrevistas",
+    "text": "¿Qué cualidad demuestra responsabilidad?",
+    "options": [
+      "Cumplir compromisos",
+      "Procrastinar siempre",
+      "Ignorar tareas",
+      "Evitar retos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 245,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te piden describir tu jornada ideal?",
+    "options": [
+      "Relacionarla con productividad y organización",
+      "Hablar solamente de ocio",
+      "Decir que no tienes rutina",
+      "Responder con ironía"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 246,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que sabes priorizar?",
+    "options": [
+      "Distinguir tareas urgentes de importantes",
+      "Hacer todo al azar",
+      "Postergar lo crítico",
+      "Ignorar deadlines"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 247,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si el entrevistador te pregunta por tus referentes?",
+    "options": [
+      "Mencionar personas que influyeron en tu profesión",
+      "Decir que no admiras a nadie",
+      "Inventar nombres",
+      "Responder sin sentido"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 248,
+    "topic": "entrevistas",
+    "text": "¿Qué muestra que manejas el estrés de forma adecuada?",
+    "options": [
+      "Aplicar técnicas y organización",
+      "Ignorar señales",
+      "Reaccionar impulsivamente",
+      "Agobiarte con facilidad"
+    ],
+    "correctIndex": 0
+  },
+
+  {
+    "id": 249,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por tu mayor fortaleza?",
+    "options": [
+      "Elegir una relevante y ejemplificar",
+      "Hablar durante varios minutos sin foco",
+      "Decir algo que no aplica al puesto",
+      "Inventar fortalezas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 250,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que sabes recibir feedback?",
+    "options": [
+      "Escucharlo y aplicarlo",
+      "Enojarte",
+      "Ignorarlo",
+      "Responder con mala actitud"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 251,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por una situación de estrés que hayas vivido?",
+    "options": [
+      "Describir cómo la gestionaste",
+      "Exagerarla",
+      "Inventarla",
+      "Evitar detalles importantes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 252,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud demuestra autenticidad?",
+    "options": [
+      "Ser honesto y coherente",
+      "Fingir para agradar",
+      "Contestar con frases copiadas",
+      "Responder sin sinceridad"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 253,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te piden explicar por qué eres adecuado para el puesto?",
+    "options": [
+      "Relacionar tus habilidades con el rol",
+      "Responder vagamente",
+      "Decir que no sabes",
+      "Contestar sin argumentos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 254,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que sabes comunicarte?",
+    "options": [
+      "Ser claro y directo",
+      "Usar jerga innecesaria",
+      "Responder sin orden",
+      "Evitar conversar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 255,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te piden definir éxito laboral?",
+    "options": [
+      "Relacionarlo con crecimiento y resultados",
+      "Responder con ironía",
+      "Evitar la pregunta",
+      "Hablar solo de dinero"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 256,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra capacidad analítica?",
+    "options": [
+      "Desglosar problemas y soluciones",
+      "Responder impulsivamente",
+      "No analizar información",
+      "Evitar detalles"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 257,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por una situación donde actuaste bajo presión?",
+    "options": [
+      "Dar un ejemplo real y claro",
+      "Inventar algo",
+      "Responder vagamente",
+      "Culpar a otros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 258,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra interés genuino por el crecimiento profesional?",
+    "options": [
+      "Buscar formaciones y nuevos retos",
+      "Evitar aprender",
+      "Rechazar capacitaciones",
+      "Desinteresarte del futuro"
+    ],
+    "correctIndex": 0
+  },
+
+  {
+    "id": 259,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si el entrevistador menciona un aspecto negativo de tu CV?",
+    "options": [
+      "Explicar el contexto profesionalmente",
+      "Molestarte",
+      "Negarlo",
+      "Hacer bromas fuera de lugar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 260,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra capacidad organizativa?",
+    "options": [
+      "Estructurar tareas de forma lógica",
+      "Trabajar caóticamente",
+      "Ignorar prioridades",
+      "Dejar todo para luego"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 261,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te piden un ejemplo de servicio al cliente?",
+    "options": [
+      "Describir una experiencia real",
+      "Inventarlo",
+      "Responder sin detalles",
+      "Cambiar de tema"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 262,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra inteligencia emocional?",
+    "options": [
+      "Gestionar emociones con equilibrio",
+      "Reaccionar impulsivamente",
+      "Evitar conflictos",
+      "Ignorar emociones ajenas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 263,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan qué opinan tus compañeros de ti?",
+    "options": [
+      "Responder con sinceridad basada en hechos",
+      "Inventar elogios",
+      "Decir que no lo sabes",
+      "Responder defensivamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 264,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra aprender de errores pasados?",
+    "options": [
+      "Implementar mejoras",
+      "Repetirlos sin reflexión",
+      "Evitar reconocerlos",
+      "Culpar siempre a otros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 265,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te piden describir tu mayor logro del año pasado?",
+    "options": [
+      "Elegir uno relevante y explicarlo",
+      "Responder sin contexto",
+      "Exagerarlo",
+      "Inventarlo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 266,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra iniciativa?",
+    "options": [
+      "Anticiparte a necesidades",
+      "Esperar órdenes siempre",
+      "Evitar tomar acción",
+      "Rechazar responsabilidades"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 267,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te piden describir cómo manejas varias tareas a la vez?",
+    "options": [
+      "Explicar cómo priorizas",
+      "Responder que improvisas",
+      "Evitar usar sistemas",
+      "Delegar todo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 268,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que sabes resolver conflictos?",
+    "options": [
+      "Buscar soluciones equilibradas",
+      "Ignorarlos",
+      "Tomar partido sin escuchar",
+      "Reaccionar agresivamente"
+    ],
+    "correctIndex": 0
+  },
+
+  {
+    "id": 269,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan sobre un periodo sin trabajar?",
+    "options": [
+      "Explicar el motivo de forma profesional",
+      "Inventar un empleo",
+      "Evitar responder",
+      "Responder con nerviosismo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 270,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra pensamiento estratégico?",
+    "options": [
+      "Visualizar el impacto de las decisiones",
+      "Actuar impulsivamente",
+      "No planificar",
+      "Evitar analizar información"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 271,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan cómo manejarías un cliente difícil?",
+    "options": [
+      "Con calma y empatía",
+      "Confrontándolo",
+      "Ignorándolo",
+      "Reaccionando negativamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 272,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra puntualidad en procesos de selección?",
+    "options": [
+      "Llegar a la hora exacta o antes",
+      "Llegar muy tarde",
+      "No avisar retrasos",
+      "Cambiar horarios sin avisar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 273,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si en la entrevista mencionan un área donde necesitas mejorar?",
+    "options": [
+      "Aceptar la observación y mostrar disposición",
+      "Molestarte",
+      "Negarlo",
+      "Responder con ironía"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 274,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra interés por aprender?",
+    "options": [
+      "Buscar retroalimentación",
+      "Rechazar nuevas ideas",
+      "Ignorar consejos",
+      "Evitar cambios"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 275,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te piden hablar sobre un logro no laboral?",
+    "options": [
+      "Elegir uno que demuestre habilidades transferibles",
+      "Hablar de algo sin relevancia",
+      "Exagerarlo",
+      "Inventarlo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 276,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que sabes comunicar malas noticias?",
+    "options": [
+      "Hacerlo con tacto y claridad",
+      "Decirlo de forma abrupta",
+      "Evitar comunicarlo",
+      "Culpar a terceros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 277,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te piden describir tu día de trabajo ideal?",
+    "options": [
+      "Incluir productividad y equilibrio",
+      "Hablar solo de descanso",
+      "Describir algo irreal",
+      "Responder vagamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 278,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra compromiso con un proyecto?",
+    "options": [
+      "Cumplir objetivos y plazos",
+      "Abandonarlo a medias",
+      "No colaborar",
+      "No comunicar avances"
+    ],
+    "correctIndex": 0
+  },
+
+  {
+    "id": 279,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por un trabajo en el que no tuviste buen desempeño?",
+    "options": [
+      "Explicar qué aprendiste",
+      "Negarlo",
+      "Inventar logros",
+      "Culpar a todos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 280,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra liderazgo positivo?",
+    "options": [
+      "Motivar y orientar al equipo",
+      "Imponer ideas",
+      "Ignorar propuestas",
+      "Tomar decisiones sin escuchar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 281,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan cómo reaccionas ante cambios repentinos?",
+    "options": [
+      "Adaptarte rápidamente",
+      "Molestarte",
+      "Resistirte al cambio",
+      "Ignorar instrucciones"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 282,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra habilidades interpersonales?",
+    "options": [
+      "Comunicación y empatía",
+      "Evitar contacto",
+      "No saber escuchar",
+      "Mostrar desinterés"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 283,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por tus mayores motivaciones?",
+    "options": [
+      "Relacionarlas con crecimiento profesional",
+      "Hablar solo de beneficios",
+      "Responder sin interés",
+      "Inventarlas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 284,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra capacidad de escucha?",
+    "options": [
+      "Responder basado en lo dicho",
+      "Interrumpir constantemente",
+      "Ignorar preguntas",
+      "Cambiar temas sin motivo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 285,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por una crítica que hayas recibido?",
+    "options": [
+      "Explicar cómo la aplicaste",
+      "Negarla",
+      "Justificarte de inmediato",
+      "Responder con molestia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 286,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra capacidad de análisis?",
+    "options": [
+      "Evaluar información antes de concluir",
+      "Responder impulsivamente",
+      "No cuestionar nada",
+      "Evitar revisar datos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 287,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si el entrevistador te pide describir un logro en equipo?",
+    "options": [
+      "Reconocer aportes de todos",
+      "Quedarte todo el crédito",
+      "Inventarlo",
+      "Evitar explicarlo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 288,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra profesionalidad en una reunión?",
+    "options": [
+      "Participar adecuadamente",
+      "Interrumpir",
+      "Desinteresarte",
+      "Hablar sin orden"
+    ],
+    "correctIndex": 0
+  },
+
+  {
+    "id": 289,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por un error en equipo?",
+    "options": [
+      "Asumir tu parte y explicar aprendizajes",
+      "Culpar al líder",
+      "Negarlo",
+      "Inventar excusas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 290,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra interés por el puesto?",
+    "options": [
+      "Hacer preguntas relevantes",
+      "Preguntar solo por vacaciones",
+      "Mostrar apatía",
+      "Responder sin ganas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 291,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan cómo te describirían tus compañeros?",
+    "options": [
+      "Responder basándote en hechos",
+      "Inventar opiniones",
+      "Responder vagamente",
+      "Cambiar de tema"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 292,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra madurez emocional?",
+    "options": [
+      "Gestionar conflictos sin perder control",
+      "Reaccionar impulsivamente",
+      "Evitar comunicarte",
+      "Responder con agresividad"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 293,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te piden hablar de un logro inesperado?",
+    "options": [
+      "Describirlo con claridad",
+      "Inventarlo",
+      "Responder sin detalles",
+      "Exagerarlo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 294,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra responsabilidad personal?",
+    "options": [
+      "Cumplir tareas sin supervisión",
+      "Esperar instrucciones siempre",
+      "Evitar obligaciones",
+      "Delegar todo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 295,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan cómo te adaptas a nuevos compañeros?",
+    "options": [
+      "Buscando comunicación y colaboración",
+      "Ignorándolos",
+      "Evitando integrarte",
+      "Mostrando distancia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 296,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra capacidad de planificación?",
+    "options": [
+      "Organizar pasos antes de actuar",
+      "Improvisar sin orden",
+      "Trabajar sin estructura",
+      "Evitar planificar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 297,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te piden un ejemplo de proactividad?",
+    "options": [
+      "Describir una acción tomada sin que te lo pidieran",
+      "Inventarlo",
+      "Responder sin contexto",
+      "Evitar explicar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 298,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra compromiso con la calidad del trabajo?",
+    "options": [
+      "Revisar y mejorar resultados",
+      "Hacer todo rápido sin cuidado",
+      "Ignorar errores",
+      "Evitar revisiones"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 299,
+    "topic": "entrevistas",
+    "text": "¿Cómo responderías si te preguntan qué te motiva en tu trabajo?",
+    "options": [
+      "Describir motivadores reales y alineados al puesto",
+      "Decir que nada te motiva",
+      "Responder sin pensar",
+      "Hablar solo de recompensas económicas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 300,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud muestra profesionalismo al recibir una crítica en la entrevista?",
+    "options": [
+      "Aceptar la observación con apertura",
+      "Responder a la defensiva",
+      "Ignorar al entrevistador",
+      "Tomarlo como un ataque personal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 301,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que sabes comunicarte bien?",
+    "options": [
+      "Explicar ideas claramente",
+      "Hablar sin estructura",
+      "Usar tecnicismos innecesarios",
+      "Responder con evasivas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 302,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si en una entrevista grupal alguien no deja hablar a los demás?",
+    "options": [
+      "Esperar y luego aportar con respeto",
+      "Interrumpir agresivamente",
+      "Quedarte callado todo el tiempo",
+      "Quejarte sobre el compañero"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 303,
+    "topic": "entrevistas",
+    "text": "¿Qué es recomendable al describir tus habilidades?",
+    "options": [
+      "Ofrecer ejemplos concretos",
+      "Exagerarlas",
+      "Inventarlas",
+      "Responder vagamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 304,
+    "topic": "entrevistas",
+    "text": "¿Cómo demostrar compromiso a largo plazo?",
+    "options": [
+      "Relacionando tu crecimiento con el puesto",
+      "Diciendo que no planeas quedarte mucho",
+      "Mostrando desinterés",
+      "Evadiendo la pregunta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 305,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud muestra interés sincero en el rol?",
+    "options": [
+      "Hacer preguntas específicas del trabajo",
+      "Preguntar solo por vacaciones",
+      "No preguntar nada",
+      "Mostrar desinterés"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 306,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que sabes resolver problemas?",
+    "options": [
+      "Dar ejemplos de soluciones que aplicaste",
+      "Evitar tareas complejas",
+      "Delegar siempre en otros",
+      "Actuar sin analizar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 307,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si la entrevista incluye una prueba inesperada?",
+    "options": [
+      "Mantener la calma y adaptarte",
+      "Panicarse y negarte",
+      "Abandonar la entrevista",
+      "Quejarte de la prueba"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 308,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud es apropiada al discutir tu experiencia pasada?",
+    "options": [
+      "Focalizar en logros relevantes",
+      "Desviar el tema",
+      "Dramatizar fracasos",
+      "Inventar responsabilidades"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 309,
+    "topic": "entrevistas",
+    "text": "¿Qué indica que sabes trabajar bajo presión?",
+    "options": [
+      "Organizarte incluso en situaciones difíciles",
+      "Perder el control habitualmente",
+      "Pedir que otros resuelvan todo",
+      "Entrar en pánico con facilidad"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 310,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que eres una persona con iniciativa?",
+    "options": [
+      "Proponer mejoras",
+      "Esperar órdenes siempre",
+      "Evitar responsabilidades",
+      "No tomar acciones"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 311,
+    "topic": "entrevistas",
+    "text": "¿Qué comunica responsabilidad en el entorno laboral?",
+    "options": [
+      "Cumplir con lo acordado",
+      "Ignorar tareas asignadas",
+      "Llegar tarde continuamente",
+      "No rendir cuentas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 312,
+    "topic": "entrevistas",
+    "text": "¿Cuál es una buena forma de presentarte en la entrevista?",
+    "options": [
+      "Dar un resumen breve y relevante",
+      "Hacer un discurso extenso",
+      "Hablar de temas irrelevantes",
+      "Evitar presentarte"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 313,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si el entrevistador te pide hablar de un conflicto laboral?",
+    "options": [
+      "Describirlo y resaltar cómo lo solucionaste",
+      "Ocultarlo completamente",
+      "Exagerarlo",
+      "Culpar a todos menos a ti"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 314,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud demuestra madurez emocional?",
+    "options": [
+      "Gestionar tus emociones ante situaciones tensas",
+      "Reaccionar impulsivamente",
+      "Enojarte fácilmente",
+      "Mostrar frustración abiertamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 315,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que eres una persona confiable?",
+    "options": [
+      "Cumplir tus compromisos",
+      "Olvidar tus tareas",
+      "No seguir instrucciones",
+      "Cambiar decisiones sin avisar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 316,
+    "topic": "entrevistas",
+    "text": "¿Cuál es una forma efectiva de hablar de tus metas?",
+    "options": [
+      "Relacionarlas con la empresa",
+      "Mencionarlas sin relación alguna",
+      "Expresarlas sin claridad",
+      "Evitar hablar del tema"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 317,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan qué te diferencia de otros candidatos?",
+    "options": [
+      "Resaltar tus fortalezas únicas",
+      "Decir que no eres diferente",
+      "Compararte de forma negativa",
+      "Responder sin pensar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 318,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud refleja profesionalismo al hablar de tu último empleo?",
+    "options": [
+      "Ser respetuoso",
+      "Criticar duramente",
+      "Exponer conflictos personales",
+      "Hablar de rumores"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 319,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra pensamiento crítico?",
+    "options": [
+      "Analizar antes de tomar decisiones",
+      "Actuar impulsivamente",
+      "Ignorar información importante",
+      "Elegir sin evaluar opciones"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 320,
+    "topic": "entrevistas",
+    "text": "¿Qué muestra disposición al aprendizaje?",
+    "options": [
+      "Aceptar nuevas tareas y conocimientos",
+      "Evitar todo lo nuevo",
+      "Rechazar retroalimentación",
+      "Mantener siempre los mismos métodos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 321,
+    "topic": "entrevistas",
+    "text": "¿Cómo mostrarías habilidades de liderazgo?",
+    "options": [
+      "Describiendo cómo inspiraste al equipo",
+      "Hablando solo de ti mismo",
+      "Mostrando autoritarismo",
+      "Ignorando a los demás"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 322,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud comunica energía positiva?",
+    "options": [
+      "Mantener una actitud abierta",
+      "Quejarte frecuentemente",
+      "Mostrar apatía",
+      "Responder de mala gana"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 323,
+    "topic": "entrevistas",
+    "text": "¿Qué es clave para comunicarte con claridad?",
+    "options": [
+      "Organizar tus ideas",
+      "Hablar atropelladamente",
+      "Usar jerga innecesaria",
+      "Responder sin estructura"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 324,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que puedes trabajar con clientes difíciles?",
+    "options": [
+      "Manejar la situación con calma",
+      "Responder con irritación",
+      "Evitar al cliente",
+      "Ignorar sus necesidades"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 325,
+    "topic": "entrevistas",
+    "text": "¿Qué deberías mencionar al hablar de un proyecto exitoso?",
+    "options": [
+      "Tu contribución específica",
+      "Detalles irrelevantes",
+      "Información confidencial",
+      "Historias no relacionadas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 326,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que sabes priorizar?",
+    "options": [
+      "Ordenar tareas según importancia",
+      "Hacer todo sin orden",
+      "Atender solo lo que te gusta",
+      "Ignorar los plazos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 327,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud muestra confianza en ti mismo?",
+    "options": [
+      "Responder con seguridad",
+      "Hablar con arrogancia",
+      "Evitar responder",
+      "Mirar al suelo constantemente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 328,
+    "topic": "entrevistas",
+    "text": "¿Cómo reaccionarías ante una pregunta muy difícil?",
+    "options": [
+      "Tomarte un segundo y responder con calma",
+      "Responder impulsivamente",
+      "Entrar en pánico",
+      "Negarte a responder"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 329,
+    "topic": "entrevistas",
+    "text": "¿Cómo demuestras que puedes trabajar con plazos ajustados?",
+    "options": [
+      "Organizando tiempos y cumpliendo fechas",
+      "Dejando todo para el final",
+      "Ignorando urgencias",
+      "Procrastinando frecuentemente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 330,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud muestra respeto en la entrevista?",
+    "options": [
+      "Escuchar activamente",
+      "Interrumpir constantemente",
+      "Hablar sobre otros temas",
+      "Mirar el móvil"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 331,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que manejas bien la frustración?",
+    "options": [
+      "Buscar soluciones sin perder la calma",
+      "Molestarte fácilmente",
+      "Abandonar las tareas",
+      "Culpar a los demás"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 332,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra la capacidad de negociación?",
+    "options": [
+      "Lograr acuerdos sin conflicto",
+      "Imponerte siempre",
+      "Ignorar a la otra parte",
+      "Ceder sin pensar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 333,
+    "topic": "entrevistas",
+    "text": "¿Qué es importante al hablar de un error profesional?",
+    "options": [
+      "Mostrar cómo lo corregiste",
+      "Negarlo totalmente",
+      "Culpar a otros",
+      "Inventarlo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 334,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si el entrevistador te interrumpe a mitad de respuesta?",
+    "options": [
+      "Escuchar y adaptarte",
+      "Hacer caso omiso",
+      "Molestarte",
+      "Seguir hablando encima"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 335,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud muestra empatía?",
+    "options": [
+      "Comprender la perspectiva del otro",
+      "Ignorar las emociones ajenas",
+      "Ridiculizar las preocupaciones",
+      "Responder sin escuchar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 336,
+    "topic": "entrevistas",
+    "text": "¿Qué dice de ti llegar antes de tiempo a la entrevista?",
+    "options": [
+      "Puntualidad y profesionalismo",
+      "Ansiedad excesiva",
+      "Falta de organización",
+      "Desinterés"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 337,
+    "topic": "entrevistas",
+    "text": "¿Qué muestra que eres capaz de dar y recibir feedback?",
+    "options": [
+      "Aceptar comentarios y aportar mejoras",
+      "Tomarlo como ofensa",
+      "Ignorar sugerencias",
+      "Evitar retroalimentar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 338,
+    "topic": "entrevistas",
+    "text": "¿Qué es recomendable al hablar de tus expectativas salariales?",
+    "options": [
+      "Investigar y ofrecer un rango realista",
+      "Pedir una cifra sin fundamento",
+      "Evitar responder siempre",
+      "Decir que no importa nada"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 339,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud muestra creatividad?",
+    "options": [
+      "Proponer soluciones originales",
+      "Repetir siempre lo mismo",
+      "Evitar cambios",
+      "Desestimar nuevas ideas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 340,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra capacidad de análisis?",
+    "options": [
+      "Evaluar datos antes de decidir",
+      "Elegir por impulso",
+      "Actuar sin información",
+      "Rechazar análisis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 341,
+    "topic": "entrevistas",
+    "text": "¿Cómo demostrarías tu ética profesional?",
+    "options": [
+      "Cumpliendo normas y principios",
+      "Saltándote reglas",
+      "Ocultando información",
+      "Manipulando resultados"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 342,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que sabes trabajar con objetivos?",
+    "options": [
+      "Planificar etapas y medir avances",
+      "Trabajar sin dirección",
+      "Ignorar los resultados",
+      "Cambiar de objetivo constantemente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 343,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si un entrevistador te pide ejemplos sobre trabajo en equipo?",
+    "options": [
+      "Compartir situaciones reales",
+      "Responder con frases genéricas",
+      "Inventar historias",
+      "Evitar contestar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 344,
+    "topic": "entrevistas",
+    "text": "¿Cómo demostrarías profesionalismo en una entrevista virtual?",
+    "options": [
+      "Tener buena iluminación y conexión",
+      "Conectarte desde la cama",
+      "Aparecer comiendo",
+      "Tener ruido excesivo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 345,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra habilidades de comunicación interpersonal?",
+    "options": [
+      "Escuchar y responder adecuadamente",
+      "Hablar encima de otros",
+      "Ignorar señales no verbales",
+      "Cortar conversaciones"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 346,
+    "topic": "entrevistas",
+    "text": "¿Cómo reaccionarías si el entrevistador te hace una pregunta inesperada?",
+    "options": [
+      "Responder con calma",
+      "Enfadarte",
+      "Rechazar la pregunta",
+      "Panicarse"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 347,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud muestra compromiso con el aprendizaje continuo?",
+    "options": [
+      "Formarte regularmente",
+      "Evitar aprender",
+      "Rechazar cursos",
+      "Ignorar tendencias"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 348,
+    "topic": "entrevistas",
+    "text": "¿Qué es clave al explicar cómo organizas tu día laboral?",
+    "options": [
+      "Describir tu método de planificación",
+      "Decir que improvisas todo",
+      "Responder sin detalles",
+      "Evitar contestar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 349,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si el entrevistador malinterpretara una respuesta tuya?",
+    "options": [
+      "Aclararla con calma",
+      "Dejarlo así",
+      "Responder molesto",
+      "Ignorar el comentario"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 350,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que sabes gestionar prioridades?",
+    "options": [
+      "Planificar según urgencia e impacto",
+      "Hacer tareas aleatorias",
+      "Atender solo lo que te gusta",
+      "Dejar todo para después"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 351,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud muestra profesionalismo al hablar de un fracaso?",
+    "options": [
+      "Explicar lo aprendido",
+      "Ocultarlo",
+      "Culpar a otros",
+      "Minimizarlo falsamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 352,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra capacidad de adaptación?",
+    "options": [
+      "Ajustarte rápidamente a lo nuevo",
+      "Resistirte a cambios",
+      "Ignorar nuevas tecnologías",
+      "Negarte a modificar procesos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 353,
+    "topic": "entrevistas",
+    "text": "¿Qué comunica seguridad al responder?",
+    "options": [
+      "Hablar con tono firme",
+      "Hablar con duda constante",
+      "Responder sin mirar",
+      "Titubear continuamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 354,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por un fallo en tu proceso de trabajo?",
+    "options": [
+      "Describir cómo lo corregiste",
+      "Negarlo",
+      "Culpar a otros",
+      "Inventar excusas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 355,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra habilidades de gestión del tiempo?",
+    "options": [
+      "Planificar tareas y cumplir plazos",
+      "Trabajar sin horarios",
+      "Olvidar tareas importantes",
+      "Improvizar constantemente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 356,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por un logro reciente del que estés orgulloso?",
+    "options": [
+      "Explicar el contexto y el impacto",
+      "Decir que no tienes logros",
+      "Exagerarlo",
+      "Inventarlo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 357,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud muestra capacidad para trabajar en equipo?",
+    "options": [
+      "Colaborar activamente",
+      "Evitar reuniones",
+      "Ignorar aportes",
+      "Trabajar solo siempre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 358,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra una buena toma de decisiones?",
+    "options": [
+      "Analizar opciones y elegir la mejor",
+      "Decidir sin pensar",
+      "Postergar siempre",
+      "Dejar que otros decidan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 359,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud te ayuda a manejar situaciones difíciles?",
+    "options": [
+      "Mantener la calma",
+      "Perder el control",
+      "Evitar todo conflicto",
+      "Reaccionar impulsivamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 360,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que eres flexible?",
+    "options": [
+      "Adaptarte a cambios de planes",
+      "Molestarte por cada cambio",
+      "Negarte a ajustar tareas",
+      "Hacer lo mismo siempre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 361,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si tu entrevistador está siendo muy directo?",
+    "options": [
+      "Responder con profesionalismo",
+      "Responder de manera agresiva",
+      "Ofenderte",
+      "Interrumpirlo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 362,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud refleja profesionalismo al hablar de tus metas?",
+    "options": [
+      "Ser claro y realista",
+      "Decir metas imposibles",
+      "Evitar responder",
+      "Responder con dudas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 363,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que eres analítico?",
+    "options": [
+      "Evaluar información antes de actuar",
+      "Actuar sin pensar",
+      "Seguir a otros siempre",
+      "Rechazar análisis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 364,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud muestra que sabes escuchar?",
+    "options": [
+      "Prestar atención a la pregunta",
+      "Interrumpir constantemente",
+      "Responder sin escuchar",
+      "Cambiar de tema"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 365,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por un momento difícil de tu carrera?",
+    "options": [
+      "Compartir lo aprendido",
+      "Exagerar la dificultad",
+      "Ocultarlo",
+      "Culpar a todos los demás"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 366,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra habilidades para resolver conflictos?",
+    "options": [
+      "Buscar soluciones justas",
+      "Ignorar el problema",
+      "Empeorar la situación",
+      "Evitar involucrarse siempre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 367,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud muestra seguridad laboral?",
+    "options": [
+      "Confiar en tus capacidades",
+      "Presumir excesivamente",
+      "Desvalorizarte",
+      "Compararte negativamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 368,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan qué esperas de un buen líder?",
+    "options": [
+      "Mencionar claridad, apoyo y dirección",
+      "Decir que no necesitas líder",
+      "Responder sin pensar",
+      "Evitar responder"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 369,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que eres una persona confiable?",
+    "options": [
+      "Cumplir tus compromisos",
+      "Ocultar información",
+      "Cambiar decisiones sin avisar",
+      "Actuar impulsivamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 370,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud muestra habilidad interpersonal?",
+    "options": [
+      "Escuchar y empatizar",
+      "Hablar sin escuchar",
+      "Ignorar a los demás",
+      "Criticar sin razón"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 371,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan sobre un cambio brusco de carrera?",
+    "options": [
+      "Explicar razones y habilidades transferibles",
+      "Decir que fue un capricho",
+      "Inventar razones",
+      "Evitar responder"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 372,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que sabes trabajar con autonomía?",
+    "options": [
+      "Gestionar tareas sin supervisión constante",
+      "Evitar decisiones",
+      "Preguntar todo sin necesidad",
+      "Depender de otros siempre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 373,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud demuestra profesionalismo ante un imprevisto?",
+    "options": [
+      "Adaptarte rápidamente",
+      "Molestarte con el entrevistador",
+      "Detener la entrevista",
+      "Quejarte repetidamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 374,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra iniciativa en el lugar de trabajo?",
+    "options": [
+      "Proponer soluciones sin que te lo pidan",
+      "Esperar instrucciones exactas",
+      "Evitar todo reto",
+      "Ignorar problemas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 375,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan qué te llevó a postular al puesto?",
+    "options": [
+      "Explicar tu interés en el rol y la empresa",
+      "Responder que fue al azar",
+      "Decir que postulas a todo",
+      "Evitar responder"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 376,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud demuestra que sabes recibir feedback?",
+    "options": [
+      "Agradecerlo y aplicarlo",
+      "Ignorarlo",
+      "Tomarlo como ofensa",
+      "Responder agresivamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 377,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra mentalidad de crecimiento?",
+    "options": [
+      "Aprender de desafíos",
+      "Evitar retos",
+      "Rendirte fácilmente",
+      "Creer que no puedes mejorar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 378,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te piden describir un día típico en tu trabajo anterior?",
+    "options": [
+      "Explicar tareas clave y responsabilidades",
+      "Hablar de asuntos irrelevantes",
+      "Inventar información",
+      "Evitar la pregunta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 379,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud demuestra pensamiento estratégico?",
+    "options": [
+      "Planificar a futuro",
+      "Solo enfocarte en el presente",
+      "Ignorar el impacto de tus decisiones",
+      "Tomar decisiones impulsivas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 380,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra inteligencia emocional?",
+    "options": [
+      "Gestionar tus emociones y entender las de otros",
+      "Ignorar los sentimientos ajenos",
+      "Reaccionar impulsivamente",
+      "Enojarte con facilidad"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 381,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si no entiendes una parte del proceso de selección?",
+    "options": [
+      "Preguntar con claridad",
+      "Quedarte callado",
+      "Inventar lo que crees que es",
+      "Molestarte"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 382,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra capacidad de autoevaluación?",
+    "options": [
+      "Reconocer tus áreas de mejora",
+      "Negar errores",
+      "Considerarte perfecto",
+      "Evitar reflexionar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 383,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud refleja profesionalismo al concluir la entrevista?",
+    "options": [
+      "Agradecer el tiempo y la oportunidad",
+      "Salir sin despedirte",
+      "Quejarte del proceso",
+      "Exigir una respuesta inmediata"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 384,
+    "topic": "entrevistas",
+    "text": "¿Cómo demostrarías habilidades de resolución de problemas?",
+    "options": [
+      "Mostrando ejemplos reales",
+      "Diciendo que nunca resuelves problemas",
+      "Inventando situaciones",
+      "Evadiendo la pregunta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 385,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud muestra ética laboral?",
+    "options": [
+      "Cumplir normas y actuar con integridad",
+      "Saltarte las reglas",
+      "Mentir para obtener beneficios",
+      "Ocultar errores"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 386,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra capacidad para trabajar con supervisión mínima?",
+    "options": [
+      "Completar tareas responsablemente",
+      "Esperar indicaciones para todo",
+      "Dejar tareas sin terminar",
+      "Evitar tomar decisiones"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 387,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan cómo manejas situaciones de frustración?",
+    "options": [
+      "Describir estrategias para mantener la calma",
+      "Decir que explotas fácilmente",
+      "Evitar contestar",
+      "Inventar historias"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 388,
+    "topic": "entrevistas",
+    "text": "¿Cómo demostrarías tu capacidad para aprender rápidamente?",
+    "options": [
+      "Dar ejemplos donde lo hiciste",
+      "Decir que aprendes lento",
+      "Inventar situaciones",
+      "Responder vagamente"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 389,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud muestra compromiso con el equipo?",
+    "options": [
+      "Colaborar activamente",
+      "Evitar reuniones",
+      "Criticar constantemente",
+      "Trabajar aislado"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 390,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por una decisión difícil que tomaste?",
+    "options": [
+      "Explicar el razonamiento detrás",
+      "Inventar la historia",
+      "Decir que nunca decides nada",
+      "Evitar el tema"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 391,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que eres una persona responsable?",
+    "options": [
+      "Cumplir tus tareas a tiempo",
+      "Evitar compromisos",
+      "Depender de otros constantemente",
+      "Ignorar plazos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 392,
+    "topic": "entrevistas",
+    "text": "¿Qué actitud muestra resiliencia laboral?",
+    "options": [
+      "Seguir adelante pese a dificultades",
+      "Rendirse ante el primer obstáculo",
+      "Evitar desafíos",
+      "Quejarse de todo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 393,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra visión a largo plazo?",
+    "options": [
+      "Planificar tu crecimiento",
+      "Actuar impulsivamente",
+      "Evitar objetivos claros",
+      "Vivir solo el presente laboral"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 394,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan por un logro que no pudiste completar?",
+    "options": [
+      "Explicar por qué y qué aprendiste",
+      "Culpar a otros",
+      "Inventar excusas",
+      "Evitar responder"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 395,
+    "topic": "entrevistas",
+    "text": "¿Qué muestra seguridad comunicativa?",
+    "options": [
+      "Expresarte con claridad",
+      "Hablar en voz muy baja",
+      "Titubear constantemente",
+      "Evitar responder"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 396,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra que eres capaz de mejorar en tu trabajo?",
+    "options": [
+      "Aceptar y aplicar feedback",
+      "Ignorar sugerencias",
+      "Negarte a aprender",
+      "Culpar a otros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 397,
+    "topic": "entrevistas",
+    "text": "¿Qué harías si te preguntan cómo manejas tareas simultáneas?",
+    "options": [
+      "Describir tu método de organización",
+      "Responder sin saber",
+      "Decir que no puedes manejar nada",
+      "Evitar contestar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 398,
+    "topic": "entrevistas",
+    "text": "¿Qué demuestra madurez profesional?",
+    "options": [
+      "Asumir responsabilidad por tus acciones",
+      "Culpar a otros siempre",
+      "Evitar decisiones",
+      "Negar errores"
+    ],
+    "correctIndex": 0
+  }
+]

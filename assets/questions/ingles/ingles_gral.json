@@ -1,0 +1,5241 @@
+[
+  {
+    "id": "enggen_001",
+    "topic": "Inglés General",
+    "text": "Choose the correct form: She usually _______ up at 7 a.m.",
+    "options": ["get", "gets", "getting", "got"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_002",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I’m looking forward _______ you.",
+    "options": ["to see", "seeing", "to seeing", "see"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_003",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: She is very good _______ math.",
+    "options": ["at", "in", "on", "with"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_004",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: If I _______ more time, I would learn French.",
+    "options": ["have", "had", "will have", "having"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_005",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I have been to Paris last year.",
+      "I went to Paris last year.",
+      "I go to Paris last year.",
+      "I have went to Paris last year."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_006",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He suggested _______ earlier to avoid traffic.",
+    "options": ["leave", "leaving", "to leave", "left"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_007",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: I prefer coffee _______ tea.",
+    "options": ["than", "to", "over", "instead of"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_008",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: She insists that he _______ the truth.",
+    "options": ["tells", "tell", "telling", "told"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_009",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I’m used to wake up early.",
+      "I’m used to waking up early.",
+      "I use to wake up early.",
+      "I used waking up early."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_010",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: She apologized _______ being late.",
+    "options": ["for", "to", "with", "about"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_011",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: I’m interested _______ learning Spanish.",
+    "options": ["on", "in", "at", "for"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_012",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: They decided _______ home because of the rain.",
+    "options": ["to go", "going", "go", "went"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_013",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I have seen that movie yesterday.",
+      "I saw that movie yesterday.",
+      "I have saw that movie yesterday.",
+      "I seen that movie yesterday."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_014",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I wish I _______ more patient.",
+    "options": ["was", "were", "am", "being"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_015",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: He can speak French _______ than his brother.",
+    "options": ["good", "better", "best", "well"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_016",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: It’s important _______ on time.",
+    "options": ["arrive", "arriving", "to arrive", "arrives"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_017",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "They have lived here since five years.",
+      "They have lived here for five years.",
+      "They live here since five years.",
+      "They live here for five years."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_018",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I can’t stand _______ in long queues.",
+    "options": ["wait", "waiting", "to wait", "waited"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_019",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: He is responsible _______ completing the project.",
+    "options": ["for", "of", "with", "at"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_020",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: If I had more time, I _______ a new hobby.",
+    "options": ["would start", "will start", "started", "start"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_021",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "He enjoys to read books.",
+      "He enjoys reading books.",
+      "He enjoy reading books.",
+      "He enjoys read books."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_022",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I would rather _______ at home tonight.",
+    "options": ["stay", "stayed", "staying", "to stay"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_023",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: I prefer swimming _______ running.",
+    "options": ["than", "to", "over", "instead of"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_024",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I had better _______ my homework before dinner.",
+    "options": ["do", "doing", "did", "done"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_025",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: She suggested _______ earlier.",
+    "options": ["leave", "leaving", "to leave", "left"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_026",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He promised _______ me his notes.",
+    "options": ["give", "giving", "to give", "gave"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_027",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I have been to London last year.",
+      "I went to London last year.",
+      "I go to London last year.",
+      "I have went to London last year."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_028",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I’m looking forward _______ from you.",
+    "options": ["to hear", "hearing", "to hearing", "hear"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_029",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: He apologized _______ being late.",
+    "options": ["for", "to", "with", "about"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_030",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I wish I _______ more confident.",
+    "options": ["was", "were", "am", "being"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_031",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "He is taller than me.",
+      "He is more tall than me.",
+      "He is tallest than me.",
+      "He is the taller than me."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_032",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: It’s important _______ the rules.",
+    "options": ["follow", "to follow", "following", "follows"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_033",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: He is the _______ student in the class.",
+    "options": ["more intelligent", "most intelligent", "intelligentest", "intelligent"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_034",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: They decided _______ to the park.",
+    "options": ["to go", "going", "go", "went"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_035",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: I didn’t know he was _______ a teacher.",
+    "options": ["being", "be", "been", "was"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_036",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He insisted that I _______ the truth.",
+    "options": ["tells", "tell", "telling", "told"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_037",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I have lived here since ten years.",
+      "I have lived here for ten years.",
+      "I lived here since ten years.",
+      "I live here for ten years."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_038",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I had better _______ now.",
+    "options": ["go", "going", "went", "gone"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_039",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: I prefer reading _______ watching TV.",
+    "options": ["than", "to", "over", "instead of"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_040",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: If it _______ tomorrow, we’ll stay home.",
+    "options": ["rains", "rain", "will rain", "rained"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_041",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "She is married with a doctor.",
+      "She is married to a doctor.",
+      "She is married at a doctor.",
+      "She is married by a doctor."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_042",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He is responsible _______ the accounts.",
+    "options": ["for", "of", "at", "with"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_043",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: I’m interested _______ art.",
+    "options": ["in", "on", "at", "with"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_044",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I would rather _______ home than go out tonight.",
+    "options": ["stay", "stayed", "staying", "to stay"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_045",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "He enjoys to play football.",
+      "He enjoys playing football.",
+      "He enjoy playing football.",
+      "He enjoys play football."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_046",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I can’t stand _______ in traffic.",
+    "options": ["wait", "waiting", "to wait", "waited"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_047",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: He is better _______ English than his brother.",
+    "options": ["in", "at", "on", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_048",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I hope she _______ soon.",
+    "options": ["arrives", "arrived", "will arrive", "arriving"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_049",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I have done my homework yesterday.",
+      "I did my homework yesterday.",
+      "I do my homework yesterday.",
+      "I done my homework yesterday."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_050",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: It’s essential _______ healthy food.",
+    "options": ["eat", "eating", "to eat", "eats"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_051",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: I am tired _______ working all day.",
+    "options": ["of", "with", "at", "for"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_052",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: She suggested _______ to the cinema.",
+    "options": ["go", "going", "to go", "went"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_053",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I have visited London last year.",
+      "I visited London last year.",
+      "I visit London last year.",
+      "I have visit London last year."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_054",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I wish I _______ more confident in meetings.",
+    "options": ["was", "were", "am", "being"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_055",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: He is better _______ playing chess than his brother.",
+    "options": ["in", "at", "on", "with"],
+    "correctIndex": 1
+  },
+    {
+      "id": "enggen_056",
+      "topic": "Inglés General",
+      "text": "Choose the correct phrase: I’m thinking _______ a new car.",
+      "options": ["to buy", "of buying", "buy", "buying"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_057",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: This is the man _______ helped me.",
+      "options": ["which", "who", "what", "whose"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_058",
+      "topic": "Inglés General",
+      "text": "Choose the correct word: She stopped _______ a minute to tie her shoe.",
+      "options": ["smoking", "to smoke", "smoke", "smoked"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_059",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: If she were here, she _______ what to do.",
+      "options": ["knows", "knew", "would know", "will know"],
+      "correctIndex": 2
+    },
+    {
+      "id": "enggen_060",
+      "topic": "Inglés General",
+      "text": "Choose the correct sentence:",
+      "options": [
+        "The house was built in 1990.",
+        "The house built in 1990.",
+        "The house has built in 1990.",
+        "The house is built in 1990."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "enggen_061",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: I avoid _______ the news before bed.",
+      "options": ["watching", "to watch", "watch", "watched"],
+      "correctIndex": 0
+    },
+    {
+      "id": "enggen_062",
+      "topic": "Inglés General",
+      "text": "Choose the correct word: He is afraid _______ spiders.",
+      "options": ["from", "of", "with", "at"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_063",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: By next year, I _______ my degree.",
+      "options": ["will finish", "will have finished", "finish", "am finishing"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_064",
+      "topic": "Inglés General",
+      "text": "Choose the correct sentence:",
+      "options": [
+        "There is few milk left.",
+        "There are a little milk left.",
+        "There is a little milk left.",
+        "There are few milk left."
+      ],
+      "correctIndex": 2
+    },
+    {
+      "id": "enggen_065",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: The concert was cancelled _______ the rain.",
+      "options": ["because", "because of", "so", "due"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_066",
+      "topic": "Inglés General",
+      "text": "Choose the correct word: This book is much _______ interesting than that one.",
+      "options": ["more", "most", "many", "much"],
+      "correctIndex": 0
+    },
+    {
+      "id": "enggen_067",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: They denied _______ the money.",
+      "options": ["steal", "to steal", "stealing", "stole"],
+      "correctIndex": 2
+    },
+    {
+      "id": "enggen_068",
+      "topic": "Inglés General",
+      "text": "Choose the correct sentence:",
+      "options": [
+        "Hardly I had left when it started raining.",
+        "Hardly had I left when it started raining.",
+        "I had hardly left when it started raining.",
+        "I hardly had left when it started raining."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_069",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: I regret _______ you about the secret.",
+      "options": ["tell", "to tell", "telling", "told"],
+      "correctIndex": 2
+    },
+    {
+      "id": "enggen_070",
+      "topic": "Inglés General",
+      "text": "Choose the correct word: She is accustomed _______ working long hours.",
+      "options": ["to", "at", "with", "for"],
+      "correctIndex": 0
+    },
+    {
+      "id": "enggen_071",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: I wonder _______ she will come.",
+      "options": ["if", "what", "that", "how"],
+      "correctIndex": 0
+    },
+    {
+      "id": "enggen_072",
+      "topic": "Inglés General",
+      "text": "Choose the correct sentence:",
+      "options": [
+        "The movie was bored.",
+        "The movie was boring.",
+        "The movie was bore.",
+        "The movie was bore to me."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_073",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: I wish I _______ a better car.",
+      "options": ["have", "had", "will have", "having"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_074",
+      "topic": "Inglés General",
+      "text": "Choose the correct phrase: Neither John _______ Mary came to the party.",
+      "options": ["or", "nor", "but", "and"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_075",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: He made me _______ the entire room.",
+      "options": ["clean", "to clean", "cleaning", "cleaned"],
+      "correctIndex": 0
+    },
+    {
+      "id": "enggen_076",
+      "topic": "Inglés General",
+      "text": "Choose the correct word: The news _______ surprising.",
+      "options": ["is", "are", "were", "be"],
+      "correctIndex": 0
+    },
+    {
+      "id": "enggen_077",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: Despite _______ hard, he failed the exam.",
+      "options": ["study", "to study", "studying", "studied"],
+      "correctIndex": 2
+    },
+    {
+      "id": "enggen_078",
+      "topic": "Inglés General",
+      "text": "Choose the correct sentence:",
+      "options": [
+        "She asked me where was the station.",
+        "She asked me where the station was.",
+        "She asked me where is the station.",
+        "She asked me where the station is."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_079",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: I used _______ a lot when I was a child.",
+      "options": ["play", "to play", "playing", "played"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_080",
+      "topic": "Inglés General",
+      "text": "Choose the correct word: I ran out _______ milk.",
+      "options": ["from", "of", "with", "at"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_081",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: The flight leaves _______ 10:30 a.m.",
+      "options": ["in", "on", "at", "for"],
+      "correctIndex": 2
+    },
+    {
+      "id": "enggen_082",
+      "topic": "Inglés General",
+      "text": "Choose the correct sentence:",
+      "options": [
+        "The car needs to repair.",
+        "The car needs repairing.",
+        "The car needs be repaired.",
+        "The car needs to be repair."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_083",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: She looks forward _______ her grandmother.",
+      "options": ["visit", "to visit", "visiting", "to visiting"],
+      "correctIndex": 3
+    },
+    {
+      "id": "enggen_084",
+      "topic": "Inglés General",
+      "text": "Choose the correct word: This is the restaurant _______ we met.",
+      "options": ["which", "that", "where", "what"],
+      "correctIndex": 2
+    },
+    {
+      "id": "enggen_085",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: It’s no use _______ about it now.",
+      "options": ["worry", "to worry", "worrying", "worried"],
+      "correctIndex": 2
+    },
+    {
+      "id": "enggen_086",
+      "topic": "Inglés General",
+      "text": "Choose the correct sentence:",
+      "options": [
+        "The less you eat, the more thin you get.",
+        "The less you eat, the thinner you get.",
+        "The less you eat, thinner you get.",
+        "Less you eat, thinner you get."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_087",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: If only I _______ the answer!",
+      "options": ["know", "knew", "will know", "have known"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_088",
+      "topic": "Inglés General",
+      "text": "Choose the correct word: He prevented me _______ leaving.",
+      "options": ["of", "from", "to", "at"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_089",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: They managed _______ the challenge.",
+      "options": ["overcome", "to overcome", "overcoming", "overcame"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_090",
+      "topic": "Inglés General",
+      "text": "Choose the correct sentence:",
+      "options": [
+        "I haven't eaten nothing today.",
+        "I haven't eaten anything today.",
+        "I ate nothing today.",
+        "I didn't ate anything today."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_091",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: She is keen _______ learning new things.",
+      "options": ["in", "on", "at", "with"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_092",
+      "topic": "Inglés General",
+      "text": "Choose the correct word: If you heat water, it _______.",
+      "options": ["boil", "boils", "will boil", "is boiling"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_093",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: I felt the ground _______.",
+      "options": ["to shake", "shaking", "shake", "shook"],
+      "correctIndex": 2
+    },
+    {
+      "id": "enggen_094",
+      "topic": "Inglés General",
+      "text": "Choose the correct sentence:",
+      "options": [
+        "He suggested to go to the park.",
+        "He suggested going to the park.",
+        "He suggested we go to the park.",
+        "Both B and C are correct."
+      ],
+      "correctIndex": 3
+    },
+    {
+      "id": "enggen_095",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: He is used to _______ in a noisy environment.",
+      "options": ["work", "to work", "working", "worked"],
+      "correctIndex": 2
+    },
+    {
+      "id": "enggen_096",
+      "topic": "Inglés General",
+      "text": "Choose the correct word: There is a lack _______ funding.",
+      "options": ["at", "of", "for", "with"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_097",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: She avoids _______ him.",
+      "options": ["to see", "seeing", "see", "saw"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_098",
+      "topic": "Inglés General",
+      "text": "Choose the correct sentence:",
+      "options": [
+        "He gave me a good advice.",
+        "He gave me a good piece of advice.",
+        "He gave me good advices.",
+        "He gave me a good advices."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_099",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: It’s high time you _______ your job.",
+      "options": ["look for", "looked for", "to look for", "look"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_100",
+      "topic": "Inglés General",
+      "text": "Choose the correct phrase: I wouldn't do that if I _______ you.",
+      "options": ["was", "were", "am", "be"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_101",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: He is famous _______ his inventions.",
+      "options": ["with", "for", "of", "about"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_102",
+      "topic": "Inglés General",
+      "text": "Choose the correct word: The film was surprisingly _______.",
+      "options": ["good", "well", "better", "best"],
+      "correctIndex": 0
+    },
+    {
+      "id": "enggen_103",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: She must _______ tired after the trip.",
+      "options": ["to be", "be", "being", "been"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_104",
+      "topic": "Inglés General",
+      "text": "Choose the correct sentence:",
+      "options": [
+        "The police is investigating the case.",
+        "The police are investigating the case.",
+        "The police investigates the case.",
+        "The police is investigate the case."
+      ],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_105",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: We look forward to _______ your response.",
+      "options": ["receive", "receiving", "to receive", "received"],
+      "correctIndex": 1
+    },
+    {
+      "id": "enggen_106",
+      "topic": "Inglés General",
+      "text": "Choose the correct word: I don't know _______ to solve this problem.",
+      "options": ["how", "what", "which", "when"],
+      "correctIndex": 0
+    },
+    {
+      "id": "enggen_107",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: It’s worth _______ the museum.",
+      "options": ["visit", "to visit", "visiting", "visited"],
+      "correctIndex": 2
+    },
+    {
+      "id": "enggen_108",
+      "topic": "Inglés General",
+      "text": "Choose the correct sentence:",
+      "options": [
+        "He’s lived here since 2005.",
+        "He’s lived here for 2005.",
+        "He lives here since 2005.",
+        "He lived here for 2005."
+      ],
+      "correctIndex": 0
+    },
+    {
+      "id": "enggen_109",
+      "topic": "Inglés General",
+      "text": "Complete the sentence: No sooner had I arrived _______ it started raining.",
+      "options": ["than", "when", "then", "that"],
+      "correctIndex": 0
+    },
+    {
+      "id": "enggen_110",
+      "topic": "Inglés General",
+      "text": "Choose the correct word: He insisted _______ paying the bill.",
+      "options": ["at", "on", "in", "with"],
+      "correctIndex": 1
+    },
+  {
+    "id": "enggen_111",
+    "topic": "Inglés General",
+    "text": "Choose the correct reported speech: \"I work in a bank,\" she said.",
+    "options": [
+      "She said she worked in a bank.",
+      "She said I worked in a bank.",
+      "She told me she works in a bank.",
+      "She said she works in a bank."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_112",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb: You should _______ that noise or you'll get in trouble.",
+    "options": ["look up", "turn off", "put out", "take over"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_113",
+    "topic": "Inglés General",
+    "text": "Complete the sentence with the Passive Voice: The book _______ by millions of people.",
+    "options": ["reads", "has read", "is being read", "is read"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_114",
+    "topic": "Inglés General",
+    "text": "Choose the correct relative pronoun: This is the artist _______ paintings are famous worldwide.",
+    "options": ["who", "whom", "whose", "which"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_115",
+    "topic": "Inglés General",
+    "text": "Complete the Mixed Conditional sentence: If I hadn't missed the bus, I _______ here now.",
+    "options": ["would be", "will be", "would have been", "had been"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_116",
+    "topic": "Inglés General",
+    "text": "Choose the correct quantifier: There isn't _______ time left to finish the test.",
+    "options": ["many", "a lot of", "much", "several"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_117",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for deduction: He _______ be very tired; he just ran a marathon.",
+    "options": ["must", "might", "can’t", "should"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_118",
+    "topic": "Inglés General",
+    "text": "Choose the correct connector: _______ he was rich, he was unhappy.",
+    "options": ["Despite", "However", "Although", "In spite of"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_119",
+    "topic": "Inglés General",
+    "text": "Complete the Causative structure: I need to _______ my hair cut this weekend.",
+    "options": ["have", "make", "do", "get"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_120",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb: I’m looking _______ my old school friend.",
+    "options": ["up", "for", "out", "on"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_121",
+    "topic": "Inglés General",
+    "text": "Choose the correct form: She didn't _______ smoke, but now she does.",
+    "options": ["used to", "use to", "be used to", "use to be"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_122",
+    "topic": "Inglés General",
+    "text": "Choose the correct comparative form: Travel by train is _______ than by bus.",
+    "options": ["more fast", "faster", "fast", "the fastest"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_123",
+    "topic": "Inglés General",
+    "text": "Complete the sentence with the correct verb form: Remember _______ the lights when you leave.",
+    "options": ["turning off", "to turn off", "turn off", "off turn"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_124",
+    "topic": "Inglés General",
+    "text": "Complete the sentence using the Subjunctive: The doctor recommended that she _______ a vacation.",
+    "options": ["takes", "take", "took", "is taking"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_125",
+    "topic": "Inglés General",
+    "text": "Choose the correct Tag Question: You are coming to the party, _______?",
+    "options": ["aren't you", "is it", "don't you", "didn't you"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_126",
+    "topic": "Inglés General",
+    "text": "Complete the sentence with the Future Perfect: By the time we arrive, the movie _______ started.",
+    "options": ["will have", "has", "is", "will be"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_127",
+    "topic": "Inglés General",
+    "text": "Choose the correct time conjunction: I'll call you _______ I get home.",
+    "options": ["as soon as", "while", "until", "for"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_128",
+    "topic": "Inglés General",
+    "text": "Choose the correct Adjective Order: They bought a _______ car.",
+    "options": [
+      "new blue fantastic",
+      "fantastic new blue",
+      "blue fantastic new",
+      "new fantastic blue"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_129",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence using Inversion: Never _______ such a beautiful sight.",
+    "options": [
+      "I have seen",
+      "have I seen",
+      "I saw",
+      "did I see"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_130",
+    "topic": "Inglés General",
+    "text": "Complete the sentence with the correct Reflexive Pronoun: The cat can clean _______ with its tongue.",
+    "options": ["himself", "itself", "herself", "itself's"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_131",
+    "topic": "Inglés General",
+    "text": "Choose the correct verb form for past regret: I wish I _______ studied harder for the exam.",
+    "options": ["had", "did", "have", "would"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_132",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb: She had to _______ the wedding because of her illness.",
+    "options": ["put off", "set up", "take in", "give out"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_133",
+    "topic": "Inglés General",
+    "text": "Choose the correct connector: _______ the bad weather, they went hiking.",
+    "options": ["Although", "Despite", "Because", "So"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_134",
+    "topic": "Inglés General",
+    "text": "Complete the sentence with the correct verb form: He stopped _______ and continued walking.",
+    "options": ["to talk", "talking", "talk", "talked"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_135",
+    "topic": "Inglés General",
+    "text": "Complete the Causative structure: I must _______ a plumber fix the leaky tap.",
+    "options": ["get", "have", "make", "let"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_136",
+    "topic": "Inglés General",
+    "text": "Choose the correct Relative Pronoun: The person to _______ you should address your questions is the manager.",
+    "options": ["who", "which", "that", "whom"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_137",
+    "topic": "Inglés General",
+    "text": "Choose the correct article: She is _______ best student in the class.",
+    "options": ["a", "an", "the", "no article"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_138",
+    "topic": "Inglés General",
+    "text": "Complete the Reported Question: She asked me _______ I was busy.",
+    "options": ["that", "what", "if", "how"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_139",
+    "topic": "Inglés General",
+    "text": "Complete the sentence with the correct tense: They _______ for three hours and they are still working.",
+    "options": ["worked", "have been working", "are working", "work"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_140",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for strong obligation: You _______ finish this report by Friday; it's mandatory.",
+    "options": ["might", "must", "could", "would"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_141",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb: He accidentally _______ his old wallet while cleaning the attic.",
+    "options": ["came across", "looked into", "put on", "turned down"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_142",
+    "topic": "Inglés General",
+    "text": "Complete the sentence with the Passive Voice: They believe the criminal _______ last night.",
+    "options": ["was caught", "caught", "is catching", "has caught"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_143",
+    "topic": "Inglés General",
+    "text": "Choose the correct word for Conditional Inversion: _______ I known the truth, I wouldn't have gone.",
+    "options": ["If", "Should", "Had", "Were"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_144",
+    "topic": "Inglés General",
+    "text": "Choose the correct Adverb form: He drives _______ carefully of all the drivers in the team.",
+    "options": ["more", "most", "the most", "the more"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_145",
+    "topic": "Inglés General",
+    "text": "Choose the correct compound noun: There has been a _______ in the project timeline.",
+    "options": ["break up", "break down", "break-in", "break-through"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_146",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I’m grateful _______ your help.",
+    "options": ["for", "to", "with", "about"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_147",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: It started _______ when we left the house.",
+    "options": ["raining", "to rain", "rain", "both a and b"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_148",
+    "topic": "Inglés General",
+    "text": "Choose the correct intensifier: It was _______ a difficult test that hardly anyone passed.",
+    "options": ["so", "such", "much", "enough"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_149",
+    "topic": "Inglés General",
+    "text": "Choose the correct quantifier: _______ of my friends enjoy watching horror movies.",
+    "options": ["None", "No one", "Neither", "No"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_150",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for polite permission: _______ I borrow your pen for a minute?",
+    "options": ["Must", "Should", "May", "Ought to"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_151",
+    "topic": "Inglés General",
+    "text": "Complete the sentence with the correct tense: When I got to the station, the train _______ already.",
+    "options": ["left", "was leaving", "has left", "had left"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_152",
+    "topic": "Inglés General",
+    "text": "Choose the correct adverb: She speaks English very _______, almost like a native.",
+    "options": ["good", "well", "better", "best"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_153",
+    "topic": "Inglés General",
+    "text": "Choose the correct conjunction: I can’t decide _______ to go to the mountains or the beach.",
+    "options": ["if", "whether", "that", "in case"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_154",
+    "topic": "Inglés General",
+    "text": "Complete the sentence with the Impersonal Passive Voice: It _______ that the economy is improving.",
+    "options": ["is believed", "believes", "believed", "has believed"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_155",
+    "topic": "Inglés General",
+    "text": "Choose the correct Relative Pronoun (Non-defining): My neighbor, _______ is a teacher, has three cats.",
+    "options": ["that", "who", "which", "whom"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_156",
+    "topic": "Inglés General",
+    "text": "Complete the sentence with the correct verb form: I tried _______ him, but he didn't answer.",
+    "options": ["calling", "to call", "call", "called"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_157",
+    "topic": "Inglés General",
+    "text": "Choose the correct word form: The _______ of the team depends on good communication.",
+    "options": ["success", "successful", "successfully", "succeed"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_158",
+    "topic": "Inglés General",
+    "text": "Complete the Reported Command: He ordered me _______ my project immediately.",
+    "options": ["finish", "to finish", "finishing", "finished"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_159",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I am fed up _______ this situation.",
+    "options": ["of", "with", "about", "at"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_160",
+    "topic": "Inglés General",
+    "text": "Choose the correct word for Conditional Inversion: _______ you require assistance, please call the number below.",
+    "options": ["If", "Had", "Were", "Should"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_161",
+    "topic": "Inglés General",
+    "text": "Choose the best synonym for 'Diligent'.",
+    "options": ["Lazy", "Hard-working", "Careless", "Slow"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_162",
+    "topic": "Inglés General",
+    "text": "Rewrite the sentence using Inversion: If I were rich, I would travel the world.",
+    "options": [
+      "Were I rich, I would travel the world.",
+      "Had I been rich, I would travel the world.",
+      "Should I be rich, I would travel the world.",
+      "I were rich, I would travel the world."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_163",
+    "topic": "Inglés General",
+    "text": "Identify the non-count noun:",
+    "options": ["Book", "Advice", "Car", "Tree"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_164",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: She made her son _______ his room.",
+    "options": ["clean", "to clean", "cleaning", "cleaned"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_165",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrase: He's getting married _______ June 15th.",
+    "options": ["in", "on", "at", "during"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_166",
+    "topic": "Inglés General",
+    "text": "Which word is the opposite (antonym) of 'Cautious'?",
+    "options": ["Careful", "Hesitant", "Reckless", "Wary"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_167",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: You _______ have told me you were coming! I would have prepared dinner.",
+    "options": ["must", "should", "might", "can't"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_168",
+    "topic": "Inglés General",
+    "text": "Choose the correct connector: She studied hard; _______, she failed the test.",
+    "options": ["therefore", "in addition", "otherwise", "nevertheless"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_169",
+    "topic": "Inglés General",
+    "text": "Choose the correct tense: How long _______ here?",
+    "options": [
+      "have you lived",
+      "are you living",
+      "do you live",
+      "did you live"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_170",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I don't feel like _______ out tonight.",
+    "options": ["to go", "going", "go", "went"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_171",
+    "topic": "Inglés General",
+    "text": "Rewrite using Passive Voice: Someone has stolen my bicycle.",
+    "options": [
+      "My bicycle was stolen.",
+      "My bicycle has been stolen.",
+      "My bicycle is stolen.",
+      "Someone's bicycle has been stolen."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_172",
+    "topic": "Inglés General",
+    "text": "Choose the sentence with the correct Adverb placement:",
+    "options": [
+      "He often reads in the library.",
+      "He reads often in the library.",
+      "Often he reads in the library.",
+      "He reads in the library often."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_173",
+    "topic": "Inglés General",
+    "text": "Which word means 'to agree to a demand'?",
+    "options": ["Refuse", "Comply", "Deny", "Avoid"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_174",
+    "topic": "Inglés General",
+    "text": "Complete the Conditional sentence (Type 3): If I had seen you, I _______ hello.",
+    "options": [
+      "would say",
+      "would have said",
+      "will say",
+      "had said"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_175",
+    "topic": "Inglés General",
+    "text": "Choose the correct Tag Question: It wasn't raining, _______?",
+    "options": ["wasn't it", "was it", "did it", "didn't it"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_176",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He denied _______ the money from the drawer.",
+    "options": ["take", "to take", "taking", "took"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_177",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for advice/recommendation: You _______ visit the Grand Canyon; it's magnificent.",
+    "options": ["must", "can", "should", "will"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_178",
+    "topic": "Inglés General",
+    "text": "Identify the part of speech of the underlined word: She drove **fast** down the highway.",
+    "options": ["Adjective", "Adverb", "Noun", "Verb"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_179",
+    "topic": "Inglés General",
+    "text": "Choose the correct Relative Clause structure: That is the house _______ I grew up.",
+    "options": ["in which", "which in", "that in", "where in"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_180",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I used to _______ a lot of video games when I was younger.",
+    "options": ["playing", "play", "to play", "played"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_181",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: She is very good _______ managing her time.",
+    "options": ["in", "at", "on", "for"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_182",
+    "topic": "Inglés General",
+    "text": "Choose the correct synonym for 'Obligatory'.",
+    "options": ["Optional", "Mandatory", "Voluntary", "Necessary"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_183",
+    "topic": "Inglés General",
+    "text": "Complete the sentence with the correct tense: He _______ until his mother called him.",
+    "options": ["didn't study", "wasn't studying", "hadn't studied", "hasn't studied"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_184",
+    "topic": "Inglés General",
+    "text": "Rewrite the sentence using Causative: The mechanic repaired my car.",
+    "options": [
+      "I had my car repaired by the mechanic.",
+      "I made the mechanic repair my car.",
+      "I got my car repair.",
+      "I had repair my car."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_185",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: The weather is much _______ today than yesterday.",
+    "options": ["warm", "warmer", "warmest", "more warm"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_186",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He’s the person _______ advice I trust the most.",
+    "options": ["who", "that", "whose", "whom"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_187",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb: Don't forget to _______ your seatbelt.",
+    "options": ["put on", "put out", "fasten up", "take off"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_188",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: It’s no good _______ about things you can't change.",
+    "options": ["worry", "to worry", "worrying", "worried"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_189",
+    "topic": "Inglés General",
+    "text": "Choose the correct connector: _______ her kindness, everyone loved her.",
+    "options": ["Because of", "Although", "In spite", "Despite of"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_190",
+    "topic": "Inglés General",
+    "text": "Complete the sentence with the correct verb: If I were you, I _______ that job.",
+    "options": ["will take", "would take", "take", "took"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_191",
+    "topic": "Inglés General",
+    "text": "Which word is the opposite (antonym) of 'Temporary'?",
+    "options": ["Short-term", "Brief", "Permanent", "Fleeting"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_192",
+    "topic": "Inglés General",
+    "text": "Choose the sentence using Inversion correctly: Only after finishing the work _______ go home.",
+    "options": [
+      "he did",
+      "did he",
+      "he could",
+      "could he"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_193",
+    "topic": "Inglés General",
+    "text": "Complete the Reported Question: They asked if _______ coming to dinner.",
+    "options": ["were we", "we were", "are we", "we are"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_194",
+    "topic": "Inglés General",
+    "text": "Choose the correct word form: The sudden _______ of the brakes was terrifying.",
+    "options": ["scream", "screaming", "screamed", "screamer"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_195",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I'm not good _______ remembering names.",
+    "options": ["in", "at", "on", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_196",
+    "topic": "Inglés General",
+    "text": "Choose the correct pronoun: Everyone brought _______ own lunch.",
+    "options": ["their", "his", "her", "it"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_197",
+    "topic": "Inglés General",
+    "text": "Choose the correct word to complete the idiom: He spilled the _______ and told everyone the secret.",
+    "options": ["beans", "milk", "tea", "coffee"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_198",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He _______ be home; the lights are off.",
+    "options": ["must", "can't", "should", "might"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_199",
+    "topic": "Inglés General",
+    "text": "Choose the correct Adjective Order: A _______ table.",
+    "options": [
+      "wooden large square",
+      "large square wooden",
+      "square large wooden",
+      "wooden square large"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_200",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I regret _______ harder in school.",
+    "options": ["not working", "to not work", "not to work", "don't work"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_201",
+    "topic": "Inglés General",
+    "text": "Choose the best definition for the phrasal verb 'To call off'.",
+    "options": ["To visit", "To cancel", "To shout", "To delay"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_202",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I’d rather you _______ me the truth.",
+    "options": ["tell", "to tell", "told", "telling"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_203",
+    "topic": "Inglés General",
+    "text": "Choose the correct quantifier: There are _______ people waiting outside.",
+    "options": ["a great deal of", "too much", "a lot of", "less"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_204",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I stopped to _______ a photo of the view.",
+    "options": ["take", "taking", "to take", "took"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_205",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: The flight was delayed _______ a technical problem.",
+    "options": ["due", "because", "due to", "so"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_206",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for lack of necessity in the past: You _______ have bought more milk; we have plenty.",
+    "options": ["mustn't", "didn't need to", "shouldn't", "wouldn't"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_207",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I object _______ so early.",
+    "options": ["to wake up", "to waking up", "wake up", "woke up"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_208",
+    "topic": "Inglés General",
+    "text": "Choose the correct word order: He said that he was going home, _______.",
+    "options": ["too", "either", "so", "as well"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_209",
+    "topic": "Inglés General",
+    "text": "Identify the word that can be used as both a noun and a verb:",
+    "options": ["Beautiful", "Quickly", "Walk", "Expensive"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_210",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: By the end of the month, she _______ at the company for five years.",
+    "options": [
+      "will work",
+      "will have been working",
+      "has been working",
+      "worked"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_211",
+    "topic": "Inglés General",
+    "text": "Identify the error: Despite of the cold weather, we went for a walk.",
+    "options": ["Despite of", "the cold weather", "we went", "for a walk"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_212",
+    "topic": "Inglés General",
+    "text": "Choose the best antonym for 'Transparent'.",
+    "options": ["Clear", "Opaque", "Visible", "See-through"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_213",
+    "topic": "Inglés General",
+    "text": "Rewrite: It is not necessary for you to wait. (Use a modal verb)",
+    "options": [
+      "You mustn't wait.",
+      "You don't have to wait.",
+      "You shouldn't wait.",
+      "You couldn't wait."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_214",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: If only she _______ here right now to help me.",
+    "options": ["is", "was", "were", "had been"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_215",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: We congratulated her _______ passing the exam.",
+    "options": ["for", "on", "at", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_216",
+    "topic": "Inglés General",
+    "text": "Which word is an irregular past participle?",
+    "options": ["Walked", "Slept", "Played", "Finished"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_217",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: The louder you shout, the _______ audible you are.",
+    "options": ["least", "less", "more", "most"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_218",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrase: She's used to _______ late.",
+    "options": ["work", "working", "used to work", "worked"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_219",
+    "topic": "Inglés General",
+    "text": "Identify the part of speech of the underlined word: This is **her** book.",
+    "options": ["Possessive Pronoun", "Possessive Adjective", "Object Pronoun", "Noun"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_220",
+    "topic": "Inglés General",
+    "text": "Choose the sentence where 'stop' is followed by an infinitive:",
+    "options": [
+      "He stopped running.",
+      "I stopped to admire the view.",
+      "She stopped talking about politics.",
+      "The machine stopped working."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_221",
+    "topic": "Inglés General",
+    "text": "Rewrite using Reported Speech: 'Don't touch that wire,' the electrician warned.",
+    "options": [
+      "The electrician warned me to not touch that wire.",
+      "The electrician warned me not to touch that wire.",
+      "The electrician said don't touch that wire.",
+      "The electrician warned me if I touched that wire."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_222",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for *impossibility* in the present: That story _______ be true; it sounds crazy.",
+    "options": ["mustn't", "can't", "might not", "shouldn't"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_223",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: Had I known, I _______ earlier.",
+    "options": ["would come", "would have come", "came", "have come"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_224",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb: I need to _______ the words I don't know in the dictionary.",
+    "options": ["put up", "look up", "turn down", "take off"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_225",
+    "topic": "Inglés General",
+    "text": "Identify the sentence that uses the Present Perfect Continuous correctly:",
+    "options": [
+      "I am working here since 2018.",
+      "I have been worked here since 2018.",
+      "I have been working here since 2018.",
+      "I worked here since 2018."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_226",
+    "topic": "Inglés General",
+    "text": "Choose the best synonym for 'Crucial'.",
+    "options": ["Minor", "Trivial", "Essential", "Optional"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_227",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: Not only did he finish the race, _______.",
+    "options": [
+      "but he also won",
+      "but also he won",
+      "he also won",
+      "but won he also"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_228",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: The government is devoted _______ improving public services.",
+    "options": ["to", "at", "for", "on"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_229",
+    "topic": "Inglés General",
+    "text": "Which word is a determiner?",
+    "options": ["Quickly", "Beautiful", "Both", "Run"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_230",
+    "topic": "Inglés General",
+    "text": "Rewrite: He is said to be the best singer. (Start with 'People...')",
+    "options": [
+      "People say he is the best singer.",
+      "People said he is the best singer.",
+      "People are saying he is the best singer.",
+      "People say he was the best singer."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_231",
+    "topic": "Inglés General",
+    "text": "Choose the correct relative pronoun for a place: That's the cafe _______ we first met.",
+    "options": ["which", "that", "where", "what"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_232",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I heard the baby _______ in the next room.",
+    "options": ["cry", "to cry", "cried", "crying"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_233",
+    "topic": "Inglés General",
+    "text": "Choose the word with a negative prefix:",
+    "options": ["Happy", "Possible", "Comfortable", "Discomfort"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_234",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: If I _______ more money, I would buy a house.",
+    "options": ["have", "had", "would have", "will have"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_235",
+    "topic": "Inglés General",
+    "text": "Choose the correct verb form: I am opposed _______ changing the schedule now.",
+    "options": ["to change", "to changing", "change", "changed"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_236",
+    "topic": "Inglés General",
+    "text": "Identify the error: He suggested us to watch the movie together.",
+    "options": ["He suggested", "us to watch", "the movie", "together"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_237",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: I think there are too _______ options here.",
+    "options": ["much", "little", "many", "less"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_238",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: It’s time we _______ a serious discussion about this.",
+    "options": ["have", "had", "are having", "will have"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_239",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for strong past regret/criticism: You _______ have been more careful with those fragile objects.",
+    "options": ["might", "would", "should", "must"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_240",
+    "topic": "Inglés General",
+    "text": "Choose the best synonym for 'Vast'.",
+    "options": ["Small", "Tiny", "Huge", "Narrow"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_241",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: The letter was typed and signed _______ the manager.",
+    "options": ["from", "by", "of", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_242",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrase: I had my luggage _______ at the airport.",
+    "options": ["weigh", "to weigh", "weighed", "weighing"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_243",
+    "topic": "Inglés General",
+    "text": "Rewrite using Inversion: Scarcely had I entered the room when the phone rang.",
+    "options": [
+      "I had scarcely entered the room when the phone rang.",
+      "Scarcely had I entered the room when the phone rang.",
+      "When the phone rang, scarcely I had entered the room.",
+      "Scarcely I entered the room when the phone rang."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_244",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: I don't know _______ to do next.",
+    "options": ["what", "that", "how", "which"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_245",
+    "topic": "Inglés General",
+    "text": "Identify the word that is an abstract noun:",
+    "options": ["Table", "Honesty", "Water", "Neighbor"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_246",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: I think she looks just _______ her mother.",
+    "options": ["like", "as", "such", "similar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_247",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: If the police catch him, he _______ prison.",
+    "options": ["goes to", "will go to", "would go to", "went to"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_248",
+    "topic": "Inglés General",
+    "text": "Choose the correct word form: The sudden _______ of the storm surprised everyone.",
+    "options": ["appear", "appearing", "appearance", "appeared"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_249",
+    "topic": "Inglés General",
+    "text": "Rewrite: He drives fast, but he is always safe. (Use 'although')",
+    "options": [
+      "He drives fast, although he is always safe.",
+      "Although he drives fast, he is always safe.",
+      "Although he drives fast, but he is always safe.",
+      "He is always safe, although he drives fast."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_250",
+    "topic": "Inglés General",
+    "text": "Choose the sentence with the correct use of definite articles:",
+    "options": [
+      "The Mount Everest is the highest mountain.",
+      "Mount Everest is the highest mountain.",
+      "Mount Everest is highest mountain.",
+      "The Mount Everest is highest mountain."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_251",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: They have been arguing _______ over an hour.",
+    "options": ["since", "for", "in", "from"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_252",
+    "topic": "Inglés General",
+    "text": "Choose the best synonym for 'Acknowledge'.",
+    "options": ["Ignore", "Deny", "Admit", "Reject"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_253",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: I prefer tea _______ coffee.",
+    "options": ["than", "to", "over", "instead of"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_254",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: The children were delighted _______ their new toys.",
+    "options": ["with", "by", "at", "for"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_255",
+    "topic": "Inglés General",
+    "text": "Identify the word that is an uncountable noun:",
+    "options": ["Chair", "Money", "Pen", "Coin"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_256",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrase: I’d rather _______ home than go out tonight.",
+    "options": ["stay", "to stay", "stayed", "staying"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_257",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: Hardly ever _______ so much pressure at work.",
+    "options": [
+      "I have felt",
+      "have I felt",
+      "I felt",
+      "did I felt"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_258",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for strong advice (past): You _______ have told her the truth immediately.",
+    "options": ["could", "must", "should", "might"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_259",
+    "topic": "Inglés General",
+    "text": "Complete the sentence with a Phrasal Verb: They had to _______ the meeting until next week.",
+    "options": ["put off", "take off", "look up", "turn on"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_260",
+    "topic": "Inglés General",
+    "text": "Choose the correct reported command: 'Clean your room!' he told me.",
+    "options": [
+      "He told me to clean my room.",
+      "He asked me to clean my room.",
+      "He said me to clean my room.",
+      "He told me clean my room."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_261",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrase: I’m thinking _______ accepting the new job offer.",
+    "options": ["about to", "of", "for", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_262",
+    "topic": "Inglés General",
+    "text": "Identify the word that means 'secret or mysterious':",
+    "options": ["Obvious", "Overt", "Covert", "Transparent"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_263",
+    "topic": "Inglés General",
+    "text": "Complete the sentence (Double Comparative): The _______ you practice, the _______ you become.",
+    "options": [
+      "more hard / most good",
+      "harder / better",
+      "more hard / better",
+      "hard / good"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_264",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for *past ability*: When I was young, I _______ swim very well.",
+    "options": ["could", "can", "must", "might"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_265",
+    "topic": "Inglés General",
+    "text": "Rewrite: They sold the painting for a high price. (Use Passive Voice)",
+    "options": [
+      "The painting has been sold for a high price.",
+      "The painting was sold for a high price.",
+      "The painting is sold for a high price.",
+      "The painting sold for a high price."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_266",
+    "topic": "Inglés General",
+    "text": "Choose the sentence with the correct Adjective Order:",
+    "options": [
+      "A leather black old jacket.",
+      "An old black leather jacket.",
+      "A black old leather jacket.",
+      "An old leather black jacket."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_267",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: If I knew her address, I _______ visit her.",
+    "options": ["will", "would", "can", "may"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_268",
+    "topic": "Inglés General",
+    "text": "Choose the correct connector: _______ her dedication, she quickly got a promotion.",
+    "options": ["Despite", "Although", "In spite of", "Because of"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_269",
+    "topic": "Inglés General",
+    "text": "Identify the word that is an irregular comparative adjective:",
+    "options": ["Slower", "Bigger", "Better", "Happier"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_270",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I avoid _______ him when he's angry.",
+    "options": ["talk to", "talking to", "to talk to", "talked to"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_271",
+    "topic": "Inglés General",
+    "text": "Choose the correct Tag Question: They haven't finished yet, _______?",
+    "options": ["have they", "haven't they", "do they", "don't they"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_272",
+    "topic": "Inglés General",
+    "text": "Rewrite using Inversion: Little did he realize the danger he was in.",
+    "options": [
+      "He little realized the danger he was in.",
+      "Little did he realize the danger he was in.",
+      "He did realize little the danger he was in.",
+      "Little he realized the danger he was in."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_273",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrase: I'm fed up _______ waiting for the bus.",
+    "options": ["of", "with", "at", "for"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_274",
+    "topic": "Inglés General",
+    "text": "Complete the Reported Question: He asked me where _______.",
+    "options": ["was my car", "my car was", "is my car", "my car is"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_275",
+    "topic": "Inglés General",
+    "text": "Identify the word that is an antonym of 'Abolish'.",
+    "options": ["Cancel", "Repeal", "Establish", "Destroy"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_276",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb: We need to _______ the date of the meeting.",
+    "options": ["call off", "put off", "take off", "look up"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_277",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He admitted _______ the vase.",
+    "options": ["break", "to break", "breaking", "broke"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_278",
+    "topic": "Inglés General",
+    "text": "Choose the correct article: _______ Eiffel Tower is in Paris.",
+    "options": ["A", "An", "The", "No article"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_279",
+    "topic": "Inglés General",
+    "text": "Complete the Causative structure: She got her assistant _______ the report.",
+    "options": ["write", "to write", "writing", "wrote"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_280",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: The flight was delayed _______ an hour.",
+    "options": ["for", "since", "during", "at"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_281",
+    "topic": "Inglés General",
+    "text": "Identify the error: She is waiting for me since 3 o'clock.",
+    "options": ["She is waiting", "for me", "since", "3 o'clock"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_282",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for strong deduction in the past: They arrived very late; they _______ missed their flight.",
+    "options": ["could have", "must have", "should have", "might have"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_283",
+    "topic": "Inglés General",
+    "text": "Complete the sentence (Future Perfect Continuous): By 2030, I _______ in this city for twenty years.",
+    "options": [
+      "will live",
+      "will have been living",
+      "will have lived",
+      "have been living"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_284",
+    "topic": "Inglés General",
+    "text": "Choose the correct intensifier: It was _______ beautiful a day that we decided to go hiking.",
+    "options": ["such", "so", "very", "too"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_285",
+    "topic": "Inglés General",
+    "text": "Choose the correct Relative Pronoun: The problem, _______ is complicated, requires careful thought.",
+    "options": ["that", "which", "what", "who"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_286",
+    "topic": "Inglés General",
+    "text": "Choose the best synonym for 'Concise'.",
+    "options": ["Lengthy", "Wordy", "Brief", "Detailed"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_287",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I wish I _______ speak French fluently.",
+    "options": ["can", "could", "would", "may"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_288",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: Neither the students _______ the teacher was ready.",
+    "options": ["or", "nor", "but", "and"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_289",
+    "topic": "Inglés General",
+    "text": "Identify the part of speech of the underlined word: The **fast** train arrived late.",
+    "options": ["Adverb", "Adjective", "Noun", "Verb"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_290",
+    "topic": "Inglés General",
+    "text": "Rewrite: 'Please sit down,' the host requested. (Use Reported Speech)",
+    "options": [
+      "The host asked us sit down.",
+      "The host asked us to sit down.",
+      "The host requested that we sat down.",
+      "The host said us to sit down."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_291",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrase: He's incapable _______ understanding complex instructions.",
+    "options": ["to", "at", "of", "for"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_292",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: It’s no use _______ to him; he never listens.",
+    "options": ["talk", "to talk", "talking", "talked"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_293",
+    "topic": "Inglés General",
+    "text": "Choose the correct Adverb form: She drove _______ than I did.",
+    "options": ["more slow", "slower", "more slowly", "slowlier"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_294",
+    "topic": "Inglés General",
+    "text": "Choose the correct word for Conditional Inversion (Type 1): _______ you change your mind, let me know.",
+    "options": ["Were", "Had", "Should", "If"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_295",
+    "topic": "Inglés General",
+    "text": "Identify the error: Although the rain, we still enjoyed the picnic.",
+    "options": ["Although", "the rain", "we still", "enjoyed"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_296",
+    "topic": "Inglés General",
+    "text": "Choose the best synonym for 'Ponder'.",
+    "options": ["Ignore", "Consider", "Rush", "Forget"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_297",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: She remembers _______ her first bicycle when she was five.",
+    "options": ["receive", "to receive", "receiving", "received"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_298",
+    "topic": "Inglés General",
+    "text": "Choose the correct word form: The sudden _______ in her voice was alarming.",
+    "options": ["loud", "loudness", "loudly", "louden"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_299",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: They managed _______ the highest mountain in the region.",
+    "options": ["climb", "to climb", "climbing", "climbed"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_300",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb: I will _______ the problem later this week.",
+    "options": ["look into", "look up", "put out", "get on"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_301",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb: I _______ run fast when I was a child, but I can't now.",
+    "options": ["should", "would", "used to", "must"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_302",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He pretended _______ ill so he wouldn't have to work.",
+    "options": ["to be", "being", "be", "was"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_303",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: The news _______ broadcast live every hour.",
+    "options": ["is", "are", "were", "be"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_304",
+    "topic": "Inglés General",
+    "text": "Identify the word that is an antonym of 'Meticulous'.",
+    "options": ["Thorough", "Precise", "Careful", "Careless"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_305",
+    "topic": "Inglés General",
+    "text": "Rewrite: It is mandatory for us to wear a uniform. (Use 'must')",
+    "options": [
+      "We must wore a uniform.",
+      "We must wear a uniform.",
+      "We must to wear a uniform.",
+      "We must wears a uniform."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_306",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: She's worried _______ her upcoming exam.",
+    "options": ["for", "at", "about", "with"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_307",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: This painting is attributed _______ Leonardo da Vinci.",
+    "options": ["by", "to", "with", "from"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_308",
+    "topic": "Inglés General",
+    "text": "Choose the correct pronoun: The money was divided equally between John and _______.",
+    "options": ["I", "me", "myself", "he"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_309",
+    "topic": "Inglés General",
+    "text": "Complete the sentence (Future Continuous): This time tomorrow, I _______ on the beach.",
+    "options": ["am laying", "will be lying", "will lie", "lie"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_310",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: We stayed at home, _______ it was raining heavily.",
+    "options": ["despite", "although", "because", "in spite of"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_311",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence: (Adjective Order)",
+    "options": [
+      "A black big old dog.",
+      "A big old black dog.",
+      "An old black big dog.",
+      "A big black old dog."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_312",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I would rather you _______ me next time.",
+    "options": ["call", "to call", "called", "calling"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_313",
+    "topic": "Inglés General",
+    "text": "Identify the word that means 'to make something less severe or unpleasant':",
+    "options": ["Aggravate", "Exacerbate", "Mitigate", "Worsen"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_314",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrase: I have lived here _______ 2010.",
+    "options": ["for", "since", "during", "from"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_315",
+    "topic": "Inglés General",
+    "text": "Complete the sentence (Third Conditional Inversion): _______ he asked for help, I would have helped him.",
+    "options": ["If", "Were", "Had", "Should"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_316",
+    "topic": "Inglés General",
+    "text": "Choose the correct verb form: I am committed _______ this project by the deadline.",
+    "options": ["finish", "to finishing", "to finish", "finishing"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_317",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for strong past possibility: He _______ have won the lottery, but it's unlikely.",
+    "options": ["must", "can't", "should", "might"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_318",
+    "topic": "Inglés General",
+    "text": "Rewrite: They say that the climate is changing rapidly. (Use Impersonal Passive)",
+    "options": [
+      "The climate is said to be changing rapidly.",
+      "It is said that the climate is changing rapidly.",
+      "The climate said to be changing rapidly.",
+      "It is said the climate is changing rapidly."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_319",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb: I need to _______ my notes before the exam.",
+    "options": ["go over", "come across", "get on", "put up"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_320",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I object to _______ treated like a child.",
+    "options": ["being", "be", "been", "was"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_321",
+    "topic": "Inglés General",
+    "text": "Choose the best synonym for 'Versatile'.",
+    "options": ["Unchanging", "Limited", "Adaptable", "Rigid"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_322",
+    "topic": "Inglés General",
+    "text": "Choose the correct quantifier: I bought _______ new clothes yesterday.",
+    "options": ["an", "a few", "a little", "much"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_323",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: The concert was cancelled, _______ meant we stayed home.",
+    "options": ["that", "which", "what", "where"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_324",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: He always speaks the truth, _______ is rare.",
+    "options": ["that", "which", "what", "who"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_325",
+    "topic": "Inglés General",
+    "text": "Identify the word that is an uncountable noun (related to furniture):",
+    "options": ["Chair", "Table", "Luggage", "Sofa"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_326",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: She insisted that he _______ the documents immediately.",
+    "options": ["signs", "sign", "signed", "to sign"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_327",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: We are dealing _______ a difficult situation.",
+    "options": ["of", "with", "at", "to"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_328",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: The harder you work, the _______ successful you become.",
+    "options": ["most", "more", "much", "very"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_329",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I got my jacket _______ at the dry cleaner's.",
+    "options": ["clean", "to clean", "cleaned", "cleaning"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_330",
+    "topic": "Inglés General",
+    "text": "Identify the error: The manager let us to leave early.",
+    "options": ["The manager", "let us", "to leave", "early"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_331",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb: They had to _______ the old factory to build a new one.",
+    "options": ["turn down", "pull down", "get over", "give up"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_332",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: He is afraid _______ flying.",
+    "options": ["of", "from", "at", "with"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_333",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: If I _______ more time, I would have gone to the concert.",
+    "options": ["had", "have", "had had", "would have"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_334",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrase: She apologised _______ breaking the window.",
+    "options": ["for", "to", "about", "with"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_335",
+    "topic": "Inglés General",
+    "text": "Identify the word that is an antonym of 'Vulnerable'.",
+    "options": ["Exposed", "Defenseless", "Susceptible", "Resilient"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_336",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: It’s high time they _______ the truth.",
+    "options": ["tell", "told", "to tell", "are telling"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_337",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: This is the museum _______ we saw the exhibition.",
+    "options": ["which", "that", "where", "what"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_338",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: She made an effort _______ all the work.",
+    "options": ["finish", "to finish", "finishing", "finished"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_339",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence: (Cleft Sentence)",
+    "options": [
+      "What he needs is a new computer.",
+      "He needs a new computer is what.",
+      "A new computer is what he needs.",
+      "Both A and C are correct."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_340",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: I’d rather _______ to the cinema than stay home.",
+    "options": ["go", "to go", "going", "went"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_341",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for strong past obligation: We _______ submit the application by the deadline, or it would be rejected.",
+    "options": ["must", "had to", "should", "might"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_342",
+    "topic": "Inglés General",
+    "text": "Identify the error: I’m thinking to travel to Italy next month.",
+    "options": ["I’m thinking", "to travel", "to Italy", "next month"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_343",
+    "topic": "Inglés General",
+    "text": "Choose the best synonym for 'Profound'.",
+    "options": ["Shallow", "Superficial", "Deep", "Trivial"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_344",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He denied _______ any knowledge of the crime.",
+    "options": ["have", "to have", "having", "had"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_345",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrase: He's incapable _______ running long distances.",
+    "options": ["to", "at", "of", "for"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_346",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: The noise from the party prevented us _______ sleeping.",
+    "options": ["of", "from", "to", "at"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_347",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence using Inversion: Never before _______ such kindness.",
+    "options": [
+      "I have been shown",
+      "have I been shown",
+      "I was shown",
+      "did I show"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_348",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: She is concerned _______ the environment.",
+    "options": ["for", "at", "with", "about"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_349",
+    "topic": "Inglés General",
+    "text": "Choose the correct tense: I can't talk right now; I _______ dinner.",
+    "options": ["am cooking", "cook", "cooked", "have cooked"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_350",
+    "topic": "Inglés General",
+    "text": "Choose the best definition for the phrasal verb 'To take up'.",
+    "options": ["To cancel", "To start a hobby", "To remove clothes", "To criticize"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_351",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: If I _______ more careful, I wouldn't have broken the vase.",
+    "options": ["was", "were", "had been", "have been"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_352",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrase: I look forward _______ my holiday.",
+    "options": ["to take", "taking", "to taking", "to be taking"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_353",
+    "topic": "Inglés General",
+    "text": "Identify the word that is an antonym of 'Hostile'.",
+    "options": ["Unfriendly", "Adverse", "Amiable", "Aggressive"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_354",
+    "topic": "Inglés General",
+    "text": "Choose the correct article: She is working as _______ English teacher.",
+    "options": ["a", "an", "the", "no article"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_355",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He appears _______ very happy.",
+    "options": ["to be", "being", "is", "be"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_356",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: He is delighted _______ his promotion.",
+    "options": ["for", "with", "about", "at"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_357",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: This is the man _______ dog was lost.",
+    "options": ["who", "whom", "that", "whose"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_358",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for *no need in the past*: We went to the shop, so you _______ have gone.",
+    "options": ["mustn't", "didn't need to", "needn't", "shouldn't"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_359",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I used to _______ my grandmother every Sunday.",
+    "options": ["visiting", "to visit", "visit", "visited"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_360",
+    "topic": "Inglés General",
+    "text": "Choose the correct connector: _______ her wealth, she lives in a small apartment.",
+    "options": ["Although", "Despite", "Because of", "Since"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_361",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence: (Adverb placement)",
+    "options": [
+      "He quietly opened the door.",
+      "He opened quietly the door.",
+      "Quietly he opened the door.",
+      "Both A and C are correct."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_362",
+    "topic": "Inglés General",
+    "text": "Identify the word that is an abstract noun:",
+    "options": ["Building", "Justice", "Money", "Finger"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_363",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I regret _______ harder in college.",
+    "options": ["not studying", "not to study", "not study", "don't study"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_364",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: The film was so _______ that I fell asleep.",
+    "options": ["bored", "boring", "bore", "bores"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_365",
+    "topic": "Inglés General",
+    "text": "Rewrite: Someone stole his phone yesterday. (Use Passive Voice)",
+    "options": [
+      "His phone was stolen yesterday.",
+      "His phone stole yesterday.",
+      "His phone has been stolen yesterday.",
+      "Someone's phone was stolen yesterday."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_366",
+    "topic": "Inglés General",
+    "text": "Choose the correct quantifier: I have _______ patience left.",
+    "options": ["a few", "many", "little", "several"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_367",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: She insisted _______ paying for the meal.",
+    "options": ["at", "on", "in", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_368",
+    "topic": "Inglés General",
+    "text": "Choose the correct word for Conditional Inversion (Type 2): _______ I be in your position, I would accept.",
+    "options": ["If", "Had", "Were", "Should"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_369",
+    "topic": "Inglés General",
+    "text": "Identify the error: She asked me what was my name.",
+    "options": ["She asked me", "what was", "my name", "no error"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_370",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I felt the building _______.",
+    "options": ["shook", "shaking", "to shake", "shaked"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_371",
+    "topic": "Inglés General",
+    "text": "Choose the best synonym for 'Ephemeral'.",
+    "options": ["Lasting", "Permanent", "Temporary", "Eternal"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_372",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: They decided _______ hiking despite the rain.",
+    "options": ["go", "to go", "going", "went"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_373",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He is addicted _______ watching TV.",
+    "options": ["to", "at", "for", "with"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_374",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrase: I had better _______ early tomorrow.",
+    "options": ["leave", "to leave", "leaving", "left"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_375",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence: (Inversion with 'No sooner')",
+    "options": [
+      "No sooner I had arrived than they left.",
+      "No sooner had I arrived than they left.",
+      "No sooner I arrived than they left.",
+      "No sooner I arrived when they left."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_376",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I wish I _______ a house by the sea.",
+    "options": ["own", "owned", "will own", "would own"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_377",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: He looks very _______ when he wears glasses.",
+    "options": ["serious", "seriously", "seriousness", "more serious"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_378",
+    "topic": "Inglés General",
+    "text": "Choose the best synonym for 'Abundant'.",
+    "options": ["Scarce", "Plentiful", "Insufficient", "Rare"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_379",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He’s the man _______ helped me move house.",
+    "options": ["which", "whose", "who", "what"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_380",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb: They _______ have left already; I see their car is gone.",
+    "options": ["can't", "must", "might", "should"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_381",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He suggested _______ a break.",
+    "options": ["take", "to take", "taking", "took"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_382",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrase: I’m accustomed _______ eating dinner late.",
+    "options": ["to", "at", "with", "for"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_383",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence: (Definite Article)",
+    "options": [
+      "I went to the school yesterday.",
+      "I went to school yesterday.",
+      "I went to school the yesterday.",
+      "I went to a school yesterday."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_384",
+    "topic": "Inglés General",
+    "text": "Rewrite: I regret not traveling more when I was younger. (Use 'If only')",
+    "options": [
+      "If only I traveled more when I was younger.",
+      "If only I had traveled more when I was younger.",
+      "If only I would travel more when I was younger.",
+      "If only I could travel more when I was younger."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_385",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: She avoided _______ eye contact.",
+    "options": ["make", "making", "to make", "made"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_386",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: The accident was caused _______ human error.",
+    "options": ["from", "by", "of", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_387",
+    "topic": "Inglés General",
+    "text": "Choose the best antonym for 'Perplexed'.",
+    "options": ["Confused", "Puzzled", "Bewildered", "Clear"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_388",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: We look forward to _______ your new book.",
+    "options": ["read", "reading", "to read", "be reading"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_389",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: He got angry _______ me.",
+    "options": ["at", "with", "to", "for"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_390",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: By the time he finishes his thesis, he _______ it for two years.",
+    "options": [
+      "will be working on",
+      "will have worked on",
+      "will have been working on",
+      "has been working on"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_391",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb: I need to _______ my old clothes; they don't fit anymore.",
+    "options": ["take off", "give away", "put on", "look up"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_392",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence: (Double Negative)",
+    "options": [
+      "I don't have no money.",
+      "I don't have any money.",
+      "I have no any money.",
+      "I haven't no money."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_393",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: She appears _______ the news.",
+    "options": ["watch", "to be watching", "to watch", "watching"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_394",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: He's the _______ successful businessman in the country.",
+    "options": ["more", "most", "much", "many"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_395",
+    "topic": "Inglés General",
+    "text": "Identify the word that is a gerund acting as a subject:",
+    "options": ["The running water is cold.",
+      "He enjoys running every day.",
+      "Running is good for your health.",
+      "They saw him running down the street."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_396",
+    "topic": "Inglés General",
+    "text": "Choose the correct Tag Question: Let's go to the cinema, _______?",
+    "options": ["shall we", "will we", "do we", "don't we"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_397",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: I’m disappointed _______ your performance.",
+    "options": ["with", "for", "at", "about"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_398",
+    "topic": "Inglés General",
+    "text": "Complete the sentence (Mixed Conditional): If he hadn't married her, he _______ divorced now.",
+    "options": ["won't be", "wouldn't be", "wouldn't have been", "isn't"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_399",
+    "topic": "Inglés General",
+    "text": "Choose the correct sentence: (Adjective form)",
+    "options": [
+      "The news was surprising.",
+      "The news was surprised.",
+      "I was surprising by the news.",
+      "The news were surprising."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_400",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: This is the time _______ we usually have lunch.",
+    "options": ["which", "when", "that", "where"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_401",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: She made us _______ until midnight.",
+    "options": ["wait", "to wait", "waiting", "waited"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_402",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: The cake was too sweet _______ my liking.",
+    "options": ["to", "for", "at", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_403",
+    "topic": "Inglés General",
+    "text": "Identify the word that is an antonym of 'Ambiguous'.",
+    "options": ["Vague", "Unclear", "Clear", "Doubtful"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_404",
+    "topic": "Inglés General",
+    "text": "Rewrite: It is claimed that he stole the jewels. (Use Impersonal Passive)",
+    "options": [
+      "He is claimed to steal the jewels.",
+      "It is claimed he stole the jewels.",
+      "He is claimed to have stolen the jewels.",
+      "It is claimed that the jewels were stole."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_405",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrase: I’m used to _______ in a big city.",
+    "options": ["live", "to live", "living", "lived"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_406",
+    "topic": "Inglés General",
+    "text": "Choose the correct quantifier: I don't have _______ money left.",
+    "options": ["much", "many", "a few", "a lot"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_407",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He couldn't help _______ at the joke.",
+    "options": ["laugh", "to laugh", "laughing", "laughed"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_408",
+    "topic": "Inglés General",
+    "text": "Choose the correct connector: _______ tired I was, I still finished the report.",
+    "options": ["However", "Despite", "Although", "Even though"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_409",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: This is the reason _______ he left.",
+    "options": ["which", "that", "why", "where"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_410",
+    "topic": "Inglés General",
+    "text": "Choose the best synonym for 'Feasible'.",
+    "options": ["Impossible", "Impractical", "Possible", "Difficult"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_411",
+    "topic": "Inglés General",
+    "text": "Choose the correct structure for the Mixed Conditional: If he _______ a better player, he _______ selected last year.",
+    "options": ["were / would have been", "had been / would have been", "was / would be", "were / would be"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_412",
+    "topic": "Inglés General",
+    "text": "Choose the best definition for the phrasal verb 'To catch up with'.",
+    "options": ["To criticize", "To reach the same level", "To ignore", "To cancel"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_413",
+    "topic": "Inglés General",
+    "text": "Identify the error: She drives **extreme** fast.",
+    "options": ["She drives", "extreme", "fast", "no error"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_414",
+    "topic": "Inglés General",
+    "text": "Rewrite: People consider him to be very rich. (Use Impersonal Passive starting with 'He...')",
+    "options": ["He is considered to be very rich.", "He is considered very rich.", "He is considered that he is very rich.", "He considers to be very rich."],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_415",
+    "topic": "Inglés General",
+    "text": "Choose the correct **noun** form of 'to decide'.",
+    "options": ["Decisive", "Decided", "Decision", "Decidedly"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_416",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I object **_______** your behavior.",
+    "options": ["to", "at", "for", "with"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_417",
+    "topic": "Inglés General",
+    "text": "Choose the antonym for **Apathy**.",
+    "options": ["Indifference", "Concern", "Lethargy", "Unconcern"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_418",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I can't stand **_______** to that noise anymore.",
+    "options": ["to listen", "listening", "listen", "listened"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_419",
+    "topic": "Inglés General",
+    "text": "Complete the sentence using Inversion: **Not only** did they apologize, **_______** offered a refund.",
+    "options": ["but they also", "they also but", "also they but", "but also they"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_420",
+    "topic": "Inglés General",
+    "text": "Choose the correct Causative structure: I had the documents **_______** by a professional.",
+    "options": ["to translate", "translating", "translate", "translated"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_421",
+    "topic": "Inglés General",
+    "text": "Choose the correct Relative Clause: That is the restaurant **_______** we met him.",
+    "options": ["which", "where", "that", "what"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_422",
+    "topic": "Inglés General",
+    "text": "Choose the correct quantifier: There is **_______** time to finish this project.",
+    "options": ["too much", "too little", "too many", "too few"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_423",
+    "topic": "Inglés General",
+    "text": "Choose the correct connector: **_______** the fact that it was raining, we went out.",
+    "options": ["Despite", "In spite", "Although", "However"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_424",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for **past criticism/regret**: You **_______** told me the truth earlier.",
+    "options": ["must have", "should have", "could have", "would have"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_425",
+    "topic": "Inglés General",
+    "text": "Complete the phrase: She's worth **_______** time with.",
+    "options": ["to spend", "spending", "spent", "spend"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_426",
+    "topic": "Inglés General",
+    "text": "Choose the sentence with the correct Adjective Order:",
+    "options": ["A red leather old sofa.", "An old red leather sofa.", "A leather old red sofa.", "A red old leather sofa."],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_427",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He drives **_______**, which is annoying.",
+    "options": ["slowly", "slow", "much slow", "more slow"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_428",
+    "topic": "Inglés General",
+    "text": "Choose the correct tense for a present wish: I wish I **_______** taller.",
+    "options": ["will be", "am", "was", "were"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_429",
+    "topic": "Inglés General",
+    "text": "Choose the synonym for **Eager**.",
+    "options": ["Indifferent", "Keen", "Reluctant", "Apathetic"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_430",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb meaning 'to stop doing something': I decided to **_______** smoking.",
+    "options": ["give up", "put up", "turn up", "take up"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_431",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I regret **_______** you that your application was unsuccessful. (Formal communication)",
+    "options": ["to inform", "informing", "inform", "informed"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_432",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I'm responsible **_______** the marketing campaign.",
+    "options": ["for", "of", "at", "with"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_433",
+    "topic": "Inglés General",
+    "text": "Choose the correct article: **_______** Amazon river is the longest river.",
+    "options": ["The", "A", "An", "No article"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_434",
+    "topic": "Inglés General",
+    "text": "Rewrite using Reported Speech: 'Are you coming?' she asked.",
+    "options": ["She asked if I was coming.", "She asked if was I coming.", "She asked if I am coming.", "She asked if I came."],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_435",
+    "topic": "Inglés General",
+    "text": "Identify the error: I got used to live in this quiet village.",
+    "options": ["I got used to", "to live", "in this", "quiet village"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_436",
+    "topic": "Inglés General",
+    "text": "Complete the sentence (Future Perfect Continuous): By next month, she **_______** here for five years.",
+    "options": ["will work", "will be working", "will have worked", "will have been working"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_437",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for **strong impossibility** in the present: He **_______** be ill; he was fine this morning.",
+    "options": ["can't", "mustn't", "shouldn't", "wouldn't"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_438",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: **_______** you study, you won't pass the exam.",
+    "options": ["Unless", "If", "Provided", "As long as"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_439",
+    "topic": "Inglés General",
+    "text": "Choose the word meaning 'brief and to the point'.",
+    "options": ["Lengthy", "Concise", "Verbose", "Extensive"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_440",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb meaning 'to review/check': I need to **_______** my presentation before the meeting.",
+    "options": ["look up", "go over", "put up", "call off"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_441",
+    "topic": "Inglés General",
+    "text": "Choose the correct connector: He's very clever; **_______**, he often makes mistakes.",
+    "options": ["therefore", "although", "in spite of", "however"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_442",
+    "topic": "Inglés General",
+    "text": "Rewrite using Reported Command: 'Finish your homework!' he ordered.",
+    "options": ["He ordered me to finish my homework.", "He ordered me finish my homework.", "He ordered me that I finished my homework.", "He ordered to finish my homework."],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_443",
+    "topic": "Inglés General",
+    "text": "Choose the correct adjective: I was very **_______** by the instructions.",
+    "options": ["confusing", "confused", "confuse", "confusions"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_444",
+    "topic": "Inglés General",
+    "text": "Complete the sentence using Inversion: **Never** **_______** such a beautiful sight.",
+    "options": ["I have seen", "I saw", "have I seen", "did I seen"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_445",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I'm keen **_______** learning new languages.",
+    "options": ["on", "in", "at", "with"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_446",
+    "topic": "Inglés General",
+    "text": "Choose the correct Causative structure (with 'have'): We had the builders **_______** the roof.",
+    "options": ["repaired", "repair", "to repair", "repairing"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_447",
+    "topic": "Inglés General",
+    "text": "Choose the word meaning 'having a harmful effect'.",
+    "options": ["Benign", "Beneficial", "Detrimental", "Constructive"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_448",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: The food tasted **_______**, so I ate it all.",
+    "options": ["good", "well", "well-ly", "better"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_449",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I stopped **_______** five years ago. (Quit a habit)",
+    "options": ["to smoke", "smoking", "smoke", "smoked"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_450",
+    "topic": "Inglés General",
+    "text": "Choose the correct pronoun: Everyone must hand in **_______** assignments by Friday.",
+    "options": ["their", "his", "her", "its"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_451",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for **past criticism**: You **_______** called me to let me know you were late.",
+    "options": ["might have", "could have", "should have", "must have"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_452",
+    "topic": "Inglés General",
+    "text": "Choose the correct Relative Clause: The day **_______** they got married was sunny.",
+    "options": ["which", "that", "when", "where"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_453",
+    "topic": "Inglés General",
+    "text": "Choose the correct **adjective** form of 'succeed'.",
+    "options": ["Success", "Succeeding", "Successful", "Successfully"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_454",
+    "topic": "Inglés General",
+    "text": "Choose the correct prepositions: I’m grateful **_______** you **_______** your help.",
+    "options": ["to / for", "for / to", "with / for", "to / with"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_455",
+    "topic": "Inglés General",
+    "text": "Complete the sentence (Double Comparative): The **_______** she learns, the **_______** she wants to travel.",
+    "options": ["most / most", "more / more", "better / more", "much / most"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_456",
+    "topic": "Inglés General",
+    "text": "Choose the correct Third Conditional: If she **_______** harder, she **_______** the test.",
+    "options": ["studied / would pass", "had studied / would have passed", "studies / will pass", "had studied / would pass"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_457",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb meaning 'to cancel': The meeting was **_______** due to the snow.",
+    "options": ["put off", "called off", "taken off", "given up"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_458",
+    "topic": "Inglés General",
+    "text": "Choose the correct Adverb Placement: I forget people's names.",
+    "options": ["always I forget", "I always forget", "I forget always", "I forget people's always"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_459",
+    "topic": "Inglés General",
+    "text": "Complete the sentence (Past Regret): If only I **_______** more money last year!",
+    "options": ["saved", "have saved", "had saved", "would save"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_460",
+    "topic": "Inglés General",
+    "text": "Choose the antonym for **Genuine**.",
+    "options": ["Authentic", "Real", "Fake", "True"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_461",
+    "topic": "Inglés General",
+    "text": "Complete the idiom: He passed the exam with flying **_______**.",
+    "options": ["colours", "feathers", "success", "marks"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_462",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrase: I'm used **_______** the cold weather.",
+    "options": ["to", "with", "at", "for"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_463",
+    "topic": "Inglés General",
+    "text": "Complete the Cleft Sentence: What I want is **_______**.",
+    "options": ["a cup of tea", "is a cup of tea", "I want a cup of tea", "a cup of tea is"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_464",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for **strong deduction in the present**: She **_______** be at home; her car is parked outside.",
+    "options": ["must", "can't", "might", "should"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_465",
+    "topic": "Inglés General",
+    "text": "Choose the correct conjunction: I lost my keys **_______** I couldn't get in the house.",
+    "options": ["so", "because", "as", "since"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_466",
+    "topic": "Inglés General",
+    "text": "Rewrite using Passive Voice: The bank will investigate the complaint.",
+    "options": ["The complaint will be investigated by the bank.", "The complaint is investigated by the bank.", "The complaint will investigate the bank.", "The complaint is going to be investigated by the bank."],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_467",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I regret **_______** her about the secret. (Action performed)",
+    "options": ["to tell", "telling", "tell", "told"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_468",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I'm proud **_______** my achievements.",
+    "options": ["of", "about", "with", "for"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_469",
+    "topic": "Inglés General",
+    "text": "Choose the correct adjective: I find spiders **_______**.",
+    "options": ["frightened", "frightening", "frightful", "frightens"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_470",
+    "topic": "Inglés General",
+    "text": "Complete the sentence using Inversion: **Only after** paying the bill **_______** the restaurant.",
+    "options": ["we left", "did we leave", "we did leave", "left we"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_471",
+    "topic": "Inglés General",
+    "text": "Choose the synonym for **Precarious**.",
+    "options": ["Stable", "Safe", "Dangerous", "Firm"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_472",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb meaning 'to search for information': I need to **_______** this word in the dictionary.",
+    "options": ["look up", "look into", "look for", "look out"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_473",
+    "topic": "Inglés General",
+    "text": "Rewrite using Reported Question: 'Where did you go last night?' he asked.",
+    "options": ["He asked where I went last night.", "He asked where did I go the night before.", "He asked where I had gone the night before.", "He asked where I went the night before."],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_474",
+    "topic": "Inglés General",
+    "text": "Choose the correct quantifier for a small, countable number: **_______** people know the answer to that question.",
+    "options": ["Little", "Much", "Few", "A little"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_475",
+    "topic": "Inglés General",
+    "text": "Identify the error in pronoun agreement: Every student must bring **their** own laptop.",
+    "options": ["Every student", "must bring", "their own", "laptop"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_476",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I can't afford **_______** a new car.",
+    "options": ["to buy", "buying", "buy", "bought"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_477",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I'm worried **_______** the presentation tomorrow.",
+    "options": ["of", "about", "for", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_478",
+    "topic": "Inglés General",
+    "text": "Choose the correct Causative structure (with 'get'): I got my sister **_______** me with the laundry.",
+    "options": ["help", "to help", "helped", "helping"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_479",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrase for **unfulfilled past intention**: I **_______** call you, but I forgot.",
+    "options": ["was going to", "must have", "should have", "would have"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_480",
+    "topic": "Inglés General",
+    "text": "Choose the antonym for **Abrupt**.",
+    "options": ["Sudden", "Gradual", "Immediate", "Quick"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_481",
+    "topic": "Inglés General",
+    "text": "Choose the correct Second Conditional: If I **_______** a garden, I **_______** vegetables.",
+    "options": ["had / would grow", "have / will grow", "would have / grow", "had / will grow"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_482",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb meaning 'to postpone': We had to **_______** the trip until next year.",
+    "options": ["call off", "put off", "take up", "set up"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_483",
+    "topic": "Inglés General",
+    "text": "Rewrite using Reported Speech (Advice): 'You should see a doctor,' she advised.",
+    "options": ["She advised me to see a doctor.", "She advised me that I should see a doctor.", "She advised me see a doctor.", "She advised me seeing a doctor."],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_484",
+    "topic": "Inglés General",
+    "text": "Choose the correct **adverb** form of 'easy'.",
+    "options": ["Easy", "Easer", "Easily", "Ease"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_485",
+    "topic": "Inglés General",
+    "text": "Choose the sentence with the correct Adjective Order:",
+    "options": ["A wooden small brown box.", "A small brown wooden box.", "A brown small wooden box.", "A small wooden brown box."],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_486",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I'm terrified **_______** spiders.",
+    "options": ["of", "about", "at", "with"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_487",
+    "topic": "Inglés General",
+    "text": "Complete the Cleft Sentence: It was **_______** that he bought last week.",
+    "options": ["the car", "that the car", "the car which", "the car is"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_488",
+    "topic": "Inglés General",
+    "text": "Complete the sentence using Inversion: **Hardly** had the meeting started **_______** the fire alarm rang.",
+    "options": ["when", "then", "than", "as soon as"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_489",
+    "topic": "Inglés General",
+    "text": "Choose the synonym for **Substantial**.",
+    "options": ["Tiny", "Minor", "Significant", "Slight"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_490",
+    "topic": "Inglés General",
+    "text": "Choose the correct Tag Question: You won't tell anyone, **_______**?",
+    "options": ["won't you", "will you", "do you", "don't you"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_491",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I remember **_______** her at a conference last year. (Past action)",
+    "options": ["meet", "to meet", "meeting", "met"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_492",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for **polite request**: **_______** you open the door for me?",
+    "options": ["Must", "Should", "Could", "Have to"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_493",
+    "topic": "Inglés General",
+    "text": "Choose the correct quantifier for a large, uncountable amount: There's **_______** sugar in this cake.",
+    "options": ["too much", "too many", "a great deal of", "a few"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_494",
+    "topic": "Inglés General",
+    "text": "Rewrite using Impersonal Passive: They believe the earth is round. (Start with 'The earth...')",
+    "options": ["The earth is believed to be round.", "It is believed the earth is round.", "The earth believes to be round.", "The earth is believed is round."],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_495",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I'm disappointed **_______** the results.",
+    "options": ["with", "at", "about", "for"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_496",
+    "topic": "Inglés General",
+    "text": "Rewrite using Reported Speech: 'We went to the beach yesterday,' they said.",
+    "options": ["They said they went to the beach yesterday.", "They said they had gone to the beach the day before.", "They said they went to the beach the day before.", "They said they have gone to the beach the day before."],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_497",
+    "topic": "Inglés General",
+    "text": "Complete the idiom: Don't judge a book by its **_______**.",
+    "options": ["paper", "spine", "title", "cover"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_498",
+    "topic": "Inglés General",
+    "text": "Choose the correct First Conditional: If it **_______**, we **_______** at home.",
+    "options": ["rains / will stay", "rained / would stay", "will rain / will stay", "is raining / stay"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_499",
+    "topic": "Inglés General",
+    "text": "Identify the error in verb pattern: I look forward to meet you next week.",
+    "options": ["I look forward", "to meet", "you", "next week"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_500",
+    "topic": "Inglés General",
+    "text": "Choose the antonym for **Meager**.",
+    "options": ["Scarce", "Abundant", "Small", "Insufficient"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_501",
+    "topic": "Inglés General",
+    "text": "Choose the correct **verb** form of 'long'.",
+    "options": ["Length", "Lengthy", "Lengthen", "Long"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_502",
+    "topic": "Inglés General",
+    "text": "Choose the correct Causative structure (with 'get' and past participle): She got her house **_______** last month.",
+    "options": ["paint", "to paint", "painted", "painting"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_503",
+    "topic": "Inglés General",
+    "text": "Choose the correct connector: She is tired **_______** lack of sleep.",
+    "options": ["due to", "because", "although", "in spite of"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_504",
+    "topic": "Inglés General",
+    "text": "Complete the sentence using Inversion: **Seldom** **_______** such delicious food.",
+    "options": ["I have eaten", "have I eaten", "I seldom have eaten", "Seldom I ate"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_505",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I'm worried **_______** my friend.",
+    "options": ["of", "about", "for", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_506",
+    "topic": "Inglés General",
+    "text": "Choose the correct Relative Clause: The reason **_______** he left is still a mystery.",
+    "options": ["which", "that", "why", "where"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_507",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for **strong certainty**: This **_______** be the right answer; all my calculations agree.",
+    "options": ["must", "can't", "might", "should"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_508",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I suggested **_______** to the cinema.",
+    "options": ["go", "to go", "going", "went"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_509",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: She speaks English **_______**.",
+    "options": ["fluent", "fluently", "much fluent", "good"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_510",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb meaning 'to reduce the volume': I will **_______** the volume.",
+    "options": ["turn down", "turn up", "turn off", "turn in"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_511",
+    "topic": "Inglés General",
+    "text": "Complete the sentence (Past Wish): I wish I **_______** so busy yesterday.",
+    "options": ["wasn't", "weren't", "hadn't been", "am not"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_512",
+    "topic": "Inglés General",
+    "text": "Identify the error in preposition usage: She relies **in** her parents for financial help.",
+    "options": ["She relies", "in", "her parents", "for financial help"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_513",
+    "topic": "Inglés General",
+    "text": "Choose the synonym for **Inevitable**.",
+    "options": ["Avoidable", "Certain", "Unlikely", "Optional"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_514",
+    "topic": "Inglés General",
+    "text": "Complete the sentence (Passive with 'get'): He **_______** for his bad behavior.",
+    "options": ["got punished", "was punished", "got punish", "get punished"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_515",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: They decided **_______** the trip.",
+    "options": ["postpone", "to postpone", "postponing", "postponed"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_516",
+    "topic": "Inglés General",
+    "text": "Complete the sentence (Double Comparative): The **_______** I read this book, the **_______** I understand it.",
+    "options": ["more / less", "most / least", "much / little", "more / fewer"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_517",
+    "topic": "Inglés General",
+    "text": "Choose the correct Mixed Conditional: If I **_______** to your advice, I **_______** rich now.",
+    "options": ["listened / would be", "had listened / would be", "listen / will be", "listen / would be"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_518",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I'm disappointed **_______** the low score.",
+    "options": ["with", "at", "about", "for"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_519",
+    "topic": "Inglés General",
+    "text": "Rewrite using Reported Command (Negative): 'Don't interrupt me,' she said.",
+    "options": ["She told me not to interrupt her.", "She told me don't interrupt her.", "She told me to not interrupt her.", "She told me that I didn't interrupt her."],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_520",
+    "topic": "Inglés General",
+    "text": "Choose the correct Adverb Placement: He arrives late.",
+    "options": ["always he arrives", "he always arrives", "he arrives always", "he arrives late always"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_521",
+    "topic": "Inglés General",
+    "text": "Choose the word meaning 'to waste time by delaying work'.",
+    "options": ["Procrastinate", "Expedite", "Hasten", "Accelerate"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_522",
+    "topic": "Inglés General",
+    "text": "Choose the correct **noun** form of 'deep'.",
+    "options": ["Deep", "Deeply", "Deepness", "Depth"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_523",
+    "topic": "Inglés General",
+    "text": "Complete the sentence (Non-defining Relative Clause): She has three brothers, **_______** are lawyers.",
+    "options": ["all of who", "all of them", "all of whom", "which"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_524",
+    "topic": "Inglés General",
+    "text": "Complete the sentence using Inversion: **No sooner** had I opened the door **_______** it started raining.",
+    "options": ["when", "then", "than", "as"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_525",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for **past deduction (negative)**: She **_______** forgotten; she wrote it down.",
+    "options": ["mustn't have", "couldn't have", "can't have", "shouldn't have"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_526",
+    "topic": "Inglés General",
+    "text": "Choose the correct connector: **_______** it was late, we managed to catch the last bus.",
+    "options": ["In spite of", "Despite", "Although", "However"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_527",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: She promised **_______** me the next day.",
+    "options": ["call", "to call", "calling", "called"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_528",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: He is accustomed **_______** the noise.",
+    "options": ["to", "with", "at", "for"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_529",
+    "topic": "Inglés General",
+    "text": "Choose the correct Causative structure (with 'make'): She made the children **_______** their rooms.",
+    "options": ["tidy", "to tidy", "tidied", "tidying"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_530",
+    "topic": "Inglés General",
+    "text": "Choose the antonym for **Vague**.",
+    "options": ["Clear", "Ambiguous", "Obscure", "Hazy"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_531",
+    "topic": "Inglés General",
+    "text": "Choose the sentence with the correct Adjective Order:",
+    "options": ["A beautiful big old white house.", "A big beautiful old white house.", "An old beautiful big white house.", "A beautiful old big white house."],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_532",
+    "topic": "Inglés General",
+    "text": "Rewrite using Reported Command: 'Can you help me?' she asked.",
+    "options": ["She asked if I could help her.", "She asked me to help her.", "She requested I help her.", "Both A and B are correct."],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_533",
+    "topic": "Inglés General",
+    "text": "Choose the correct quantifier for a small, uncountable amount: I have **_______** patience for this type of problem.",
+    "options": ["very few", "much", "very little", "many"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_534",
+    "topic": "Inglés General",
+    "text": "Choose the correct Second Conditional: If I **_______** you, I **_______** apologize.",
+    "options": ["was / would apologize", "were / would apologize", "am / will apologize", "was / apologize"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_535",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb meaning 'to have a good relationship with': I don't **_______** my neighbors.",
+    "options": ["get on with", "get over", "get away", "get by"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_536",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I miss **_______** football with my friends.",
+    "options": ["play", "to play", "playing", "played"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_537",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I'm amazed **_______** his courage.",
+    "options": ["of", "with", "at", "by"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_538",
+    "topic": "Inglés General",
+    "text": "Complete the idiom: It cost me an arm and a **_______**.",
+    "options": ["hand", "foot", "leg", "head"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_539",
+    "topic": "Inglés General",
+    "text": "Complete the sentence using Inversion: **So** happy **_______** she couldn't speak.",
+    "options": ["was she", "such was she", "did she", "she was"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_540",
+    "topic": "Inglés General",
+    "text": "Choose the synonym for **Inferior**.",
+    "options": ["Superior", "Excellent", "Worse", "Better"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_541",
+    "topic": "Inglés General",
+    "text": "Identify the error in modal usage: You needn't **to worry** about the exam.",
+    "options": ["You needn't", "to worry", "about", "the exam"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_542",
+    "topic": "Inglés General",
+    "text": "Rewrite using Reported Statement (Time change): 'I saw him two days ago,' he said.",
+    "options": ["He said he saw him two days ago.", "He said he had seen him two days before.", "He said he saw him two days before.", "He said he had seen him two days ago."],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_543",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: I don't feel **_______** today.",
+    "options": ["good", "well", "well-ly", "better"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_544",
+    "topic": "Inglés General",
+    "text": "Rewrite using Passive Voice (Double Object): They gave her a prize.",
+    "options": ["A prize was given to her by them.", "She was given a prize by them.", "Both A and B are correct.", "A prize was given her by them."],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_545",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: She is good **_______** drawing.",
+    "options": ["in", "at", "on", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_546",
+    "topic": "Inglés General",
+    "text": "Choose the correct Third Conditional Inversion: **_______** I known, I would have waited.",
+    "options": ["If", "Were", "Had", "Should"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_547",
+    "topic": "Inglés General",
+    "text": "Choose the correct **adjective** form of 'depend'.",
+    "options": ["Dependence", "Dependent", "Depend", "Dependently"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_548",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb meaning 'to tolerate': I need to **_______** the noise until the construction finishes.",
+    "options": ["put off", "put up with", "take up", "give up"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_549",
+    "topic": "Inglés General",
+    "text": "Choose the correct pronoun: The company offered a bonus to **_______** worked hard.",
+    "options": ["everyone who", "everyone whom", "everyone which", "anyone who"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_550",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal verb for **uncertainty/possibility**: He **_______** be at the gym; I'm not sure.",
+    "options": ["must", "can't", "might", "should"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_551",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He avoided **_______** my question.",
+    "options": ["answer", "to answer", "answering", "answered"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_552",
+    "topic": "Inglés General",
+    "text": "Choose the correct connector: **_______** the traffic, we arrived on time.",
+    "options": ["Despite", "Although", "Because", "In spite"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_553",
+    "topic": "Inglés General",
+    "text": "Choose the antonym for **Rigid**.",
+    "options": ["Flexible", "Strict", "Firm", "Stiff"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_554",
+    "topic": "Inglés General",
+    "text": "Complete the sentence (Past Wish): If only the train **_______** on time yesterday!",
+    "options": ["arrived", "had arrived", "would arrive", "arrives"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_555",
+    "topic": "Inglés General",
+    "text": "Choose the correct Causative structure (with 'get'): I got the waiter **_______** me the menu.",
+    "options": ["bring", "to bring", "brought", "bringing"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_556",
+    "topic": "Inglés General",
+    "text": "Choose the correct Relative Clause: The thing **_______** I need is more time.",
+    "options": ["which", "that", "where", "when"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_557",
+    "topic": "Inglés General",
+    "text": "Identify the error in article usage: She goes to the church every Sunday.",
+    "options": ["She goes", "to the church", "every Sunday", "no error"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_558",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I can't imagine **_______** without my phone.",
+    "options": ["live", "to live", "living", "lived"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_559",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I'm interested **_______** history.",
+    "options": ["of", "in", "at", "for"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_560",
+    "topic": "Inglés General",
+    "text": "Complete the sentence using Inversion: **Rarely** **_______** to the cinema anymore.",
+    "options": ["I rarely go", "rarely I go", "do I go", "rarely I do go"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_561",
+    "topic": "Inglés General",
+    "text": "Rewrite using Reported Speech: 'I'll help you tomorrow,' she promised.",
+    "options": ["She promised she helps me tomorrow.", "She promised she would help me tomorrow.", "She promised to help me the next day.", "She promised to help me tomorrow."],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_562",
+    "topic": "Inglés General",
+    "text": "Complete the sentence using Conditional Inversion: **Had** I known the answer, I **_______** told you.",
+    "options": ["would have", "will have", "would", "had"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_563",
+    "topic": "Inglés General",
+    "text": "Choose the antonym for **Obsolete**.",
+    "options": ["Old-fashioned", "Modern", "Antiquated", "Outdated"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_564",
+    "topic": "Inglés General",
+    "text": "Choose the phrasal verb meaning 'to establish/start': They plan to **_______** a new office next year.",
+    "options": ["set up", "set out", "set off", "set down"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_565",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He admitted **_______** the mistake.",
+    "options": ["make", "to make", "made", "making"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_566",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: She is accustomed **_______** working long hours.",
+    "options": ["with", "to", "at", "for"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_567",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal for **past deduction (possibility)**: They **_______** missed the bus; there's no other explanation.",
+    "options": ["must have", "should have", "could have", "might have"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_568",
+    "topic": "Inglés General",
+    "text": "Complete the Double Comparative: The **_______** the challenge, the **_______** the victory.",
+    "options": ["more big / more great", "bigger / greater", "most big / most great", "big / great"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_569",
+    "topic": "Inglés General",
+    "text": "Identify the error: She lives **at** London.",
+    "options": ["She lives", "at", "London", "no error"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_570",
+    "topic": "Inglés General",
+    "text": "Choose the correct **adverb** form of 'terrible'.",
+    "options": ["Terrible", "Terribly", "Terrified", "Terror"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_571",
+    "topic": "Inglés General",
+    "text": "Rewrite using Causative: The dentist is going to check my teeth. (I'm having...)",
+    "options": ["I'm having my teeth check.", "I'm having checked my teeth.", "I'm having my teeth checked.", "I'm having the dentist checked my teeth."],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_572",
+    "topic": "Inglés General",
+    "text": "Choose the synonym for **Ponder**.",
+    "options": ["Ignore", "Consider", "Rush", "Dismiss"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_573",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I wish I **_______** play the guitar. (Present ability)",
+    "options": ["can", "could", "would", "play"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_574",
+    "topic": "Inglés General",
+    "text": "Choose the correct connector: We enjoyed the party **_______** the rain.",
+    "options": ["although", "despite", "because of", "so"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_575",
+    "topic": "Inglés General",
+    "text": "Complete the Cleft Sentence: What he needs is **_______** to rest.",
+    "options": ["a week", "it a week", "the week", "a week is"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_576",
+    "topic": "Inglés General",
+    "text": "Choose the correct Adjective Order:",
+    "options": ["A round plastic small blue ball.", "A small round blue plastic ball.", "A blue small round plastic ball.", "A plastic small round blue ball."],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_577",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I'm fed up **_______** this constant noise.",
+    "options": ["of", "with", "about", "at"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_578",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb meaning 'to invent': He **_______** a story to excuse his lateness.",
+    "options": ["made up", "made out", "made off", "made over"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_579",
+    "topic": "Inglés General",
+    "text": "Complete the sentence using Inversion: **Under no circumstances** **_______** leave the building.",
+    "options": ["you should", "should you", "you must", "must you"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_580",
+    "topic": "Inglés General",
+    "text": "Choose the correct quantifier for a small, countable number: There are **_______** chairs left.",
+    "options": ["much", "a little", "few", "plenty"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_581",
+    "topic": "Inglés General",
+    "text": "Complete the phrase: It’s no use **_______** over spilled milk.",
+    "options": ["to cry", "crying", "cry", "cries"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_582",
+    "topic": "Inglés General",
+    "text": "Choose the correct Relative Clause: The woman **_______** car was stolen called the police.",
+    "options": ["who", "whom", "whose", "that"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_583",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal for **past criticism**: We **_______** taken a taxi instead of walking.",
+    "options": ["must have", "should have", "will have", "may have"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_584",
+    "topic": "Inglés General",
+    "text": "Rewrite using Passive Voice: They are renovating the old theatre.",
+    "options": ["The old theatre is being renovated.", "The old theatre is renovated.", "The old theatre is being renovating.", "The old theatre was being renovated."],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_585",
+    "topic": "Inglés General",
+    "text": "Choose the synonym for **Diligent**.",
+    "options": ["Lazy", "Careless", "Hard-working", "Indolent"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_586",
+    "topic": "Inglés General",
+    "text": "Identify the error in tense usage: She has been living there **since** ten years.",
+    "options": ["She has been living", "there", "since", "ten years"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_587",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I avoid **_______** sugar because of my diet.",
+    "options": ["eat", "to eat", "eating", "ate"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_588",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: This music sounds **_______** to me.",
+    "options": ["beautifully", "beautiful", "goodly", "well"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_589",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: He apologized **_______** being late.",
+    "options": ["for", "at", "to", "with"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_590",
+    "topic": "Inglés General",
+    "text": "Choose the correct Tag Question: Let's go to the cinema, **_______**?",
+    "options": ["do we", "shall we", "won't we", "don't we"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_591",
+    "topic": "Inglés General",
+    "text": "Choose the correct Zero Conditional: If you heat water, it **_______**.",
+    "options": ["boils", "will boil", "is boiling", "would boil"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_592",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb meaning 'to resemble': She **_______** her grandmother.",
+    "options": ["takes after", "looks after", "looks for", "puts up"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_593",
+    "topic": "Inglés General",
+    "text": "Choose the correct **noun** form of 'strong'.",
+    "options": ["Strongly", "Strengthen", "Strong", "Strength"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_594",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: **_______** he studies, he will pass.",
+    "options": ["If", "Unless", "As long as", "Despite"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_595",
+    "topic": "Inglés General",
+    "text": "Rewrite using Impersonal Passive: They expect the flight to arrive late. (Start with 'It...')",
+    "options": ["It is expected the flight to arrive late.", "It is expected that the flight will arrive late.", "It expects that the flight will arrive late.", "The flight is expected that it will arrive late."],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_596",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal for **past lack of necessity**: I **_______** gone to the meeting, but I went anyway.",
+    "options": ["mustn't have", "didn't need to", "needn't have", "shouldn't have"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_597",
+    "topic": "Inglés General",
+    "text": "Choose the correct article: **_______** majority of people agree with the decision.",
+    "options": ["A", "The", "An", "No article"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_598",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I don't mind **_______** to the opera occasionally.",
+    "options": ["go", "to go", "going", "gone"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_599",
+    "topic": "Inglés General",
+    "text": "Choose the antonym for **Trivial**.",
+    "options": ["Unimportant", "Frivolous", "Significant", "Minor"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_600",
+    "topic": "Inglés General",
+    "text": "Complete the idiom: A bird in the hand is worth two in the **_______**.",
+    "options": ["air", "tree", "bush", "sky"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_601",
+    "topic": "Inglés General",
+    "text": "Choose the correct Causative structure (with 'let'): She let her son **_______** out late.",
+    "options": ["to stay", "stay", "staying", "stayed"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_602",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I'm incapable **_______** lying.",
+    "options": ["of", "to", "with", "about"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_603",
+    "topic": "Inglés General",
+    "text": "Complete the sentence using Inversion: **So rarely** **_______** that we were surprised.",
+    "options": ["did it rain", "it rained", "it did rain", "does it rain"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_604",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrase for **past action, focus on result now**: She **_______** her leg, so she can't walk.",
+    "options": ["broke", "has broken", "had broken", "was breaking"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_605",
+    "topic": "Inglés General",
+    "text": "Choose the synonym for **Lucid**.",
+    "options": ["Confusing", "Clear", "Vague", "Obscure"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_606",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb meaning 'to start a hobby/activity': I decided to **_______** tennis.",
+    "options": ["take up", "give up", "put off", "turn down"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_607",
+    "topic": "Inglés General",
+    "text": "Rewrite using Reported Speech (Suggest): 'Why don't we go to the beach?' he said.",
+    "options": ["He suggested to go to the beach.", "He suggested that we go to the beach.", "He suggested going to the beach.", "Both B and C are correct."],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_608",
+    "topic": "Inglés General",
+    "text": "Choose the correct adjective: I am very **_______** by the news.",
+    "options": ["surprising", "surprised", "surprise", "surprises"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_609",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He denied **_______** any involvement in the crime.",
+    "options": ["have", "to have", "having", "had"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_610",
+    "topic": "Inglés General",
+    "text": "Choose the correct tense for a future plan/intention: I **_______** move to a new apartment next month.",
+    "options": ["will", "am going to", "would", "shall"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_611",
+    "topic": "Inglés General",
+    "text": "Choose the correct connector: We went to the meeting **_______** being ill.",
+    "options": ["although", "despite", "because of", "so"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_612",
+    "topic": "Inglés General",
+    "text": "Complete the phrase: I look forward to **_______** your response.",
+    "options": ["receive", "to receive", "receiving", "received"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_613",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal for **obligation/necessity**: You **_______** wear a helmet when cycling.",
+    "options": ["might", "would", "must", "should"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_614",
+    "topic": "Inglés General",
+    "text": "Choose the correct quantifier for a large, countable number: She has **_______** friends in the city.",
+    "options": ["much", "a great deal of", "a lot of", "little"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_615",
+    "topic": "Inglés General",
+    "text": "Choose the antonym for **Vulnerable**.",
+    "options": ["Defenseless", "Exposed", "Resilient", "Weak"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_616",
+    "topic": "Inglés General",
+    "text": "Complete the sentence using Inversion: **At no time** **_______** aware of the danger.",
+    "options": ["I was", "was I", "I did be", "did I was"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_617",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb meaning 'to investigate': The police are **_______** the matter.",
+    "options": ["looking up", "looking into", "looking after", "looking out"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_618",
+    "topic": "Inglés General",
+    "text": "Rewrite using Passive Voice (Object with Preposition): They talked about the issue.",
+    "options": ["The issue was talked about.", "The issue talked about by them.", "They were talked about the issue.", "The issue was been talked about."],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_619",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I'm delighted **_______** your success.",
+    "options": ["of", "at", "with", "for"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_620",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I wish you **_______** stop making that noise! (Annoyance/Criticism)",
+    "options": ["will", "would", "could", "had"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_621",
+    "topic": "Inglés General",
+    "text": "Choose the correct First Conditional (alternative): **_______** you need help, call me.",
+    "options": ["If", "Unless", "In case", "Provided"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_622",
+    "topic": "Inglés General",
+    "text": "Choose the synonym for **Cautious**.",
+    "options": ["Reckless", "Wary", "Bold", "Hasty"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_623",
+    "topic": "Inglés General",
+    "text": "Choose the correct form of the verb: I stopped **_______** the car to check the tires. (Purpose)",
+    "options": ["drive", "to drive", "driving", "drove"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_624",
+    "topic": "Inglés General",
+    "text": "Choose the correct Causative structure (with 'have'): I'll have the postman **_______** the package.",
+    "options": ["deliver", "to deliver", "delivered", "delivering"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_625",
+    "topic": "Inglés General",
+    "text": "Identify the error in pronoun agreement: Neither of the answers **is** correct.",
+    "options": ["Neither of", "the answers", "is", "correct"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_626",
+    "topic": "Inglés General",
+    "text": "Choose the correct Modal Perfect for **past certainty (negative)**: He **_______** understood; he looked confused.",
+    "options": ["must have", "can't have", "should have", "would have"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_627",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: He drives **_______** than his brother.",
+    "options": ["fast", "faster", "fastly", "more fast"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_628",
+    "topic": "Inglés General",
+    "text": "Complete the idiom: Speak of the **_______**.",
+    "options": ["angel", "devil", "man", "person"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_629",
+    "topic": "Inglés General",
+    "text": "Choose the correct adjective: This is a very **_______** book.",
+    "options": ["interested", "interesting", "interest", "interests"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_630",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I'm impressed **_______** her performance.",
+    "options": ["of", "by", "at", "for"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_631",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I don't recall **_______** that document.",
+    "options": ["sign", "to sign", "signing", "signed"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_632",
+    "topic": "Inglés General",
+    "text": "Choose the correct Mixed Conditional: If I **_______** more money, I **_______** bought that house last year.",
+    "options": ["have / would have", "had / would have", "were having / would have", "had / would"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_633",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb meaning 'to deal with/solve': We need to **_______** this problem immediately.",
+    "options": ["take on", "take off", "sort out", "sort in"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_634",
+    "topic": "Inglés General",
+    "text": "Choose the antonym for **Profound**.",
+    "options": ["Deep", "Shallow", "Intense", "Serious"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_635",
+    "topic": "Inglés General",
+    "text": "Rewrite using Impersonal Passive: People say he is the best chef. (Start with 'He...')",
+    "options": ["He is said to be the best chef.", "He is said that he is the best chef.", "He is said the best chef.", "It is said he is the best chef."],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_636",
+    "topic": "Inglés General",
+    "text": "Complete the Cleft Sentence: The person **_______** I admire most is my mother.",
+    "options": ["who", "whom", "that", "which"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_637",
+    "topic": "Inglés General",
+    "text": "Choose the correct article: **_______** Sun rises in the East.",
+    "options": ["The", "A", "An", "No article"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_638",
+    "topic": "Inglés General",
+    "text": "Choose the correct **adjective** form of 'envy'.",
+    "options": ["Envy", "Envious", "Enviably", "Enviable"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_639",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He denied **_______** the money. (Use perfect gerund)",
+    "options": ["steal", "to steal", "having stolen", "stolen"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_640",
+    "topic": "Inglés General",
+    "text": "Complete the sentence using Inversion: **Only then** **_______** the seriousness of the situation.",
+    "options": ["I realized", "did I realize", "I did realize", "realized I"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_641",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I'm terrible **_______** remembering names.",
+    "options": ["at", "in", "on", "with"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_642",
+    "topic": "Inglés General",
+    "text": "Choose the correct Tag Question (Imperative): Close the door, **_______**?",
+    "options": ["do you", "will you", "don't you", "won't you"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_643",
+    "topic": "Inglés General",
+    "text": "Choose the correct Relative Clause: He showed me his photo album, **_______** was very old.",
+    "options": ["that", "which", "who", "where"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_644",
+    "topic": "Inglés General",
+    "text": "Choose the synonym for **Ephemeral**.",
+    "options": ["Permanent", "Fleeting", "Eternal", "Enduring"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_645",
+    "topic": "Inglés General",
+    "text": "Identify the error: He suggested **me to wait** until next week.",
+    "options": ["He suggested", "me to wait", "until", "next week"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_646",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I don't know **_______** to do next.",
+    "options": ["what", "how", "if", "that"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_647",
+    "topic": "Inglés General",
+    "text": "Choose the correct modal for **past possibility/permission**: I **_______** stayed longer, but I had to leave.",
+    "options": ["must have", "should have", "could have", "would have"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_648",
+    "topic": "Inglés General",
+    "text": "Choose the correct Adjective Order:",
+    "options": ["A square ancient marble statue.", "An ancient square marble statue.", "A marble ancient square statue.", "An ancient marble square statue."],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_649",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb meaning 'to fill in a form': Please **_______** this application form.",
+    "options": ["fill up", "fill out", "fill in", "Both B and C are correct."],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_650",
+    "topic": "Inglés General",
+    "text": "Choose the antonym for **Ambiguous**.",
+    "options": ["Vague", "Unclear", "Explicit", "Obscure"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_651",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: The air felt **_______** after the rain.",
+    "options": ["freshly", "fresh", "fresher", "goodly"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_652",
+    "topic": "Inglés General",
+    "text": "Rewrite using Reported Speech: 'Don't go near the water!' he warned.",
+    "options": ["He warned not go near the water.", "He warned me not to go near the water.", "He warned me to don't go near the water.", "He warned me that I didn't go near the water."],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_653",
+    "topic": "Inglés General",
+    "text": "Complete the Double Comparative: The **_______** you wait, the **_______** it gets.",
+    "options": ["long / cold", "longer / colder", "most long / most cold", "more long / more cold"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_654",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I'm good **_______** Maths.",
+    "options": ["in", "at", "on", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_655",
+    "topic": "Inglés General",
+    "text": "Choose the correct Third Conditional Inversion: **_______** they offered me the job, I would have accepted.",
+    "options": ["If", "Were", "Had", "Should"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_656",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I don't approve **_______** your behavior.",
+    "options": ["at", "of", "with", "for"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_657",
+    "topic": "Inglés General",
+    "text": "Complete the idiom: Get out of bed on the wrong **_______**.",
+    "options": ["hand", "side", "foot", "leg"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_658",
+    "topic": "Inglés General",
+    "text": "Choose the correct **verb** form of 'broad'.",
+    "options": ["Broadly", "Broadness", "Broaden", "Broader"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_659",
+    "topic": "Inglés General",
+    "text": "Choose the correct connector: The weather was cold; **_______**, we didn't enjoy the picnic.",
+    "options": ["therefore", "although", "in spite of", "however"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_660",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I regret **_______** the opportunity. (Action not performed)",
+    "options": ["miss", "to miss", "missing", "missed"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_661",
+    "topic": "Inglés General",
+    "text": "Choose the correct Modal Perfect for **past unfulfilled expectation**: The bus **_______** arrived an hour ago.",
+    "options": ["must have", "should have", "might have", "can't have"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_662",
+    "topic": "Inglés General",
+    "text": "Complete the sentence using Inversion: **So successful** **_______** they expanded quickly.",
+    "options": ["were they", "they were", "did they were", "had they been"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_663",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb meaning 'to look after/take care of': Can you **_______** my cat while I'm away?",
+    "options": ["look up", "look into", "look after", "look out"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_664",
+    "topic": "Inglés General",
+    "text": "Choose the correct quantifier for a small, uncountable amount: There is **_______** salt in the soup.",
+    "options": ["too much", "too many", "too few", "too little"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_665",
+    "topic": "Inglés General",
+    "text": "Choose the synonym for **Lethargic**.",
+    "options": ["Energetic", "Sluggish", "Vigorous", "Active"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_666",
+    "topic": "Inglés General",
+    "text": "Choose the correct Relative Clause: She works for a company **_______** headquarters is in Tokyo.",
+    "options": ["which", "that", "whose", "where"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_667",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I'm grateful **_______** the opportunity.",
+    "options": ["to", "for", "with", "of"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_668",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I can't imagine **_______** such an expensive trip.",
+    "options": ["afford", "to afford", "affording", "afforded"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_669",
+    "topic": "Inglés General",
+    "text": "Choose the correct Modal Perfect for **past strong possibility**: She **_______** been rich, but I doubt it.",
+    "options": ["must have", "should have", "might have", "can't have"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_670",
+    "topic": "Inglés General",
+    "text": "Choose the correct Adjective Order:",
+    "options": ["A magnificent new Italian leather suitcase.", "A new magnificent Italian leather suitcase.", "An Italian magnificent new leather suitcase.", "A magnificent Italian new leather suitcase."],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_671",
+    "topic": "Inglés General",
+    "text": "Complete the sentence (Future Perfect Continuous): By 8 p.m., I **_______** my project for five hours.",
+    "options": ["will finish", "will be working", "will have finished", "will have been working on"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_672",
+    "topic": "Inglés General",
+    "text": "Choose the antonym for **Harsh**.",
+    "options": ["Cruel", "Severe", "Gentle", "Strict"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_673",
+    "topic": "Inglés General",
+    "text": "Rewrite using Reported Speech: 'He didn't tell me the secret,' she complained.",
+    "options": ["She complained he didn't tell her the secret.", "She complained that he hadn't told her the secret.", "She complained he wouldn't tell her the secret.", "She complained that he told her no the secret."],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_674",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb meaning 'to examine/review a process': We need to **_______** the budget.",
+    "options": ["go over", "go off", "go through", "go up"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_675",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I decided **_______** her immediately.",
+    "options": ["to call", "calling", "call", "called"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_676",
+    "topic": "Inglés General",
+    "text": "Choose the correct Causative structure (with 'get'): I got my car **_______** last week.",
+    "options": ["fix", "to fix", "fixing", "fixed"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_677",
+    "topic": "Inglés General",
+    "text": "Choose the correct connector: **_______** the delay, the presentation was a success.",
+    "options": ["In spite of", "Although", "Because", "Therefore"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_678",
+    "topic": "Inglés General",
+    "text": "Choose the correct Second Conditional Inversion: **Were** I to win the lottery, I **_______** travel the world.",
+    "options": ["will", "would", "had", "can"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_679",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: He is involved **_______** a new project.",
+    "options": ["in", "at", "on", "with"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_680",
+    "topic": "Inglés General",
+    "text": "Choose the synonym for **Clumsy**.",
+    "options": ["Graceful", "Awkward", "Agile", "Dexterous"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_681",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: The cake smells **_______**.",
+    "options": ["sweetly", "sweet", "well", "goodly"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_682",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I stopped **_______** the beautiful view. (Purpose)",
+    "options": ["admire", "to admire", "admiring", "admired"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_683",
+    "topic": "Inglés General",
+    "text": "Choose the correct Modal Perfect for **past unfulfilled possibility/ability**: We **_______** finished earlier, but we ran out of time.",
+    "options": ["must have", "should have", "could have", "would have"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_684",
+    "topic": "Inglés General",
+    "text": "Choose the correct Relative Clause: I saw the film **_______** you recommended.",
+    "options": ["which", "who", "that", "Both A and C are correct."],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_685",
+    "topic": "Inglés General",
+    "text": "Complete the idiom: Don't beat around the **_______**.",
+    "options": ["bush", "tree", "plant", "garden"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_686",
+    "topic": "Inglés General",
+    "text": "Choose the correct **noun** form of 'admit'.",
+    "options": ["Admitted", "Admission", "Admitting", "Admissible"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_687",
+    "topic": "Inglés General",
+    "text": "Choose the correct Tag Question: There is a problem, **_______**?",
+    "options": ["isn't it", "is there", "isn't there", "there is"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_688",
+    "topic": "Inglés General",
+    "text": "Identify the error in word choice: She is a very **sensible** person, she cries easily.",
+    "options": ["She is", "a very", "sensible", "she cries easily"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_689",
+    "topic": "Inglés General",
+    "text": "Choose the correct phrasal verb meaning 'to return to an earlier topic': Let's **_______** to what we were discussing.",
+    "options": ["get on", "get to", "get back to", "get over"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_690",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I'm concerned **_______** his health.",
+    "options": ["of", "about", "for", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_691",
+    "topic": "Inglés General",
+    "text": "Complete the sentence using Inversion: **Not until** later **_______** the truth.",
+    "options": ["I discovered", "did I discover", "I did discover", "discover I did"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_692",
+    "topic": "Inglés General",
+    "text": "Choose the correct word: The film was **_______** boring.",
+    "options": ["extremely", "extreme", "much", "very"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_693",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: He postponed **_______** his flight.",
+    "options": ["book", "to book", "booking", "booked"],
+    "correctIndex": 2
+  },
+  {
+    "id": "enggen_694",
+    "topic": "Inglés General",
+    "text": "Choose the synonym for **Oblivious**.",
+    "options": ["Aware", "Conscious", "Mindful", "Unaware"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_695",
+    "topic": "Inglés General",
+    "text": "Rewrite using Passive Voice: Someone has stolen my wallet.",
+    "options": ["My wallet has been stolen.", "My wallet is stolen.", "My wallet has stolen.", "They have stolen my wallet."],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_696",
+    "topic": "Inglés General",
+    "text": "Choose the correct Mixed Conditional: If he **_______** fluent English, he **_______** this job last year.",
+    "options": ["were / would have gotten", "had / would get", "was / would have gotten", "were / would get"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_697",
+    "topic": "Inglés General",
+    "text": "Complete the Cleft Sentence: The thing that bothers me most is **_______**.",
+    "options": ["his lateness", "his lateness is", "that his lateness", "it is his lateness"],
+    "correctIndex": 0
+  },
+  {
+    "id": "enggen_698",
+    "topic": "Inglés General",
+    "text": "Choose the correct preposition: I'm passionate **_______** music.",
+    "options": ["with", "at", "on", "about"],
+    "correctIndex": 3
+  },
+  {
+    "id": "enggen_699",
+    "topic": "Inglés General",
+    "text": "Complete the sentence: I regret **_______** to inform you of the changes. (Formal communication, like 431)",
+    "options": ["inform", "to inform", "informing", "informed"],
+    "correctIndex": 1
+  },
+  {
+    "id": "enggen_700",
+    "topic": "Inglés General",
+    "text": "Choose the antonym for **Feasible**.",
+    "options": ["Possible", "Impractical", "Achievable", "Viable"],
+    "correctIndex": 1
+  }
+]

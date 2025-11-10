@@ -1,0 +1,59 @@
+name: adv_formacion
+description: Aplicación de formación aeronáutica para ADV Formación.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Paquetes
+  cupertino_icons: ^1.0.6
+  flutter_native_splash: ^2.3.2
+  firebase_core: ^3.5.0
+  firebase_auth: ^5.2.0
+  cloud_firestore: ^5.0.0
+  provider: ^6.0.5
+  intl: ^0.19.0
+  percent_indicator: ^4.2.2
+  fl_chart: ^1.1.1
+  confetti: ^0.7.0
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/adv-logo.png
+    - assets/questions/examenaesa.json
+    - assets/questions/entrevistas.json
+    - assets/questions/ingles/
+    - assets/questions/roleplay/roleplay.json
+    - assets/questions/tcp/conocimientos_teoricos.json
+    - assets/questions/tcp/normativa.json
+    - assets/questions/tcp/asistencia.json
+    - assets/questions/tcp/medicina.json
+    - assets/questions/tcp/mercancias.json
+    - assets/questions/tcp/seguridad_nav.json
+    - assets/questions/tcp/incendios.json
+    - assets/questions/tcp/supervivencia.json
+    - assets/images/student_avatar.png
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+
+
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.

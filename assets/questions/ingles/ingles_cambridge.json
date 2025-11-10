@@ -1,0 +1,4847 @@
+[
+  {
+    "id": "cambridge_001",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct form: She _______ to the gym every morning.",
+    "options": ["go", "goes", "going", "gone"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_002",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I have never _______ to Paris.",
+    "options": ["been", "go", "went", "gone"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_003",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I’m looking forward _______ you next week.",
+    "options": ["see", "seeing", "to see", "saw"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_004",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the word that best completes the sentence: If I _______ enough money, I would buy a new car.",
+    "options": ["have", "had", "has", "having"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_005",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He is interested _______ learning Spanish.",
+    "options": ["in", "on", "at", "for"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_006",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "She can sings very well.",
+      "She can sing very well.",
+      "She can sang very well.",
+      "She can singing very well."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_007",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct form: By the time he arrived, we _______ dinner.",
+    "options": ["finished", "had finished", "have finished", "finishing"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_008",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the question: _______ you ever tried sushi?",
+    "options": ["Did", "Do", "Have", "Had"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_009",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The movie was not interesting; it was rather _______.",
+    "options": ["bored", "boring", "excited", "exciting"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_010",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: We arrived ______ the airport on time.",
+    "options": ["to", "at", "in", "on"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_011",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish I _______ more time to finish my homework.",
+    "options": ["have", "had", "has", "having"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_012",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: She speaks English _______ than her brother.",
+    "options": ["good", "better", "best", "well"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_013",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the question: How long _______ you been learning English?",
+    "options": ["did", "have", "has", "had"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_014",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct form: He said he _______ the book the day before.",
+    "options": ["reads", "read", "had read", "has read"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_015",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: They are looking forward _______ their new teacher.",
+    "options": ["meet", "to meet", "meeting", "met"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_016",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I’m interesting in art.",
+      "I’m interested in art.",
+      "I’m interest in art.",
+      "I’m interests in art."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_017",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He acts _______ he owns the place.",
+    "options": ["as if", "like", "such as", "as though"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_018",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb: I need to _______ my notes before the exam.",
+    "options": ["look after", "look up", "look over", "look for"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_019",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: She is the _______ person I know.",
+    "options": ["kind", "kinder", "kindest", "more kind"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_020",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: We were _______ tired after the long journey.",
+    "options": ["so", "such", "very", "too"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_021",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I’m not used _______ so much noise in the city.",
+    "options": ["to", "for", "at", "with"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_022",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct form: If she _______ earlier, she would have caught the bus.",
+    "options": ["leaves", "left", "had left", "was leaving"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_023",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He can’t have done it. He _______ at home all evening.",
+    "options": ["is", "was", "has been", "had been"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_024",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I suggest to go to the cinema.",
+      "I suggest going to the cinema.",
+      "I suggest going at the cinema.",
+      "I suggest go to the cinema."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_025",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: By next year, I _______ my degree.",
+    "options": ["will complete", "will have completed", "completed", "am completing"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_026",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I don’t mind _______ your homework.",
+    "options": ["to do", "do", "doing", "did"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_027",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I regret _______ you the wrong information.",
+    "options": ["giving", "to give", "gave", "gives"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_028",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "He is used to get up early.",
+      "He used to get up early.",
+      "He is used to getting up early.",
+      "He was used to get up early."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_029",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the question: How long _______ they been married?",
+    "options": ["have", "has", "did", "do"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_030",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I’m not very good at math, but I’m better _______ English.",
+    "options": ["at", "in", "on", "with"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_031",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: She enjoys _______ to music in her free time.",
+    "options": ["listen", "listening", "to listen", "listened"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_032",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: This is the most _______ movie I have ever seen.",
+    "options": ["interesting", "interested", "interest", "interestingly"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_033",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I _______ you, I would accept the offer.",
+    "options": ["am", "were", "was", "be"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_034",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "She is married with a doctor.",
+      "She is married to a doctor.",
+      "She married with a doctor.",
+      "She married to a doctor."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_035",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I can’t stand _______ in traffic jams.",
+    "options": ["be", "being", "to be", "been"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_036",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: They are looking forward _______ their holiday next month.",
+    "options": ["to start", "starting", "start", "to starting"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_037",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He insisted that she _______ on time.",
+    "options": ["arrives", "arrived", "arrive", "will arrive"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_038",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I look forward to meet you.",
+      "I look forward to meeting you.",
+      "I look forward meeting you.",
+      "I look forward to met you."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_039",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: You should _______ more water to stay healthy.",
+    "options": ["drink", "drank", "drinking", "drinks"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_040",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: We had a _______ time at the party yesterday.",
+    "options": ["good", "well", "better", "best"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_041",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish you _______ me about the problem earlier.",
+    "options": ["tell", "told", "have told", "would tell"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_042",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "She’s interested on learning Spanish.",
+      "She’s interested in learning Spanish.",
+      "She’s interested to learn Spanish.",
+      "She’s interested for learning Spanish."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_043",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I’d rather you _______ me the truth.",
+    "options": ["tell", "told", "have told", "would tell"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_044",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He’s been living in Paris _______ 2010.",
+    "options": ["for", "since", "from", "by"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_045",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I’m not very good at tennis, but I’m _______ than my brother.",
+    "options": ["good", "better", "best", "well"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_046",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I’m used to work late.",
+      "I’m used to working late.",
+      "I used to working late.",
+      "I’m use to working late."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_047",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: She told me she _______ the book already.",
+    "options": ["reads", "read", "had read", "has read"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_048",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He drove _______ than his friend.",
+    "options": ["careful", "carefully", "more carefully", "most carefully"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_049",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If it _______ tomorrow, we will cancel the picnic.",
+    "options": ["rains", "rained", "rain", "will rain"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_050",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I look forward for seeing you.",
+      "I look forward to seeing you.",
+      "I look forward seeing you.",
+      "I look forward at seeing you."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_051",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: It’s high time you _______ your homework.",
+    "options": ["do", "did", "have done", "will do"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_052",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I have _______ friends than you.",
+    "options": ["many", "more", "most", "much"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_053",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: She is interested in _______ new languages.",
+    "options": ["learn", "learning", "to learn", "learned"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_054",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I suggested to go to the cinema.",
+      "I suggested going to the cinema.",
+      "I suggested go to the cinema.",
+      "I suggested going at the cinema."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_055",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I’m sure she _______ the answer correctly.",
+    "options": ["knows", "know", "knew", "has known"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_056",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He prefers coffee _______ tea.",
+    "options": ["than", "to", "over", "instead"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_057",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: By the time we arrive, the film _______.",
+    "options": ["will start", "will have started", "started", "has started"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_058",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I wish I know the answer.",
+      "I wish I knew the answer.",
+      "I wish I knowing the answer.",
+      "I wish I have known the answer."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_059",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: She is used to _______ early in the morning.",
+    "options": ["wake up", "waking up", "to wake up", "waked up"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_060",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I can’t _______ to see you next week.",
+    "options": ["wait", "stay", "look", "hold"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_061",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I would have helped you if I _______ about the problem.",
+    "options": ["know", "knew", "had known", "have known"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_062",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "She is taller than me.",
+      "She is more tall than me.",
+      "She is tallest than me.",
+      "She is the taller than me."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_063",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I prefer _______ in the morning.",
+    "options": ["to exercise", "exercise", "exercising", "exercised"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_064",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: She speaks English _______ than her brother.",
+    "options": ["good", "better", "best", "well"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_065",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: We will go out unless it _______.",
+    "options": ["rains", "rained", "will rain", "rain"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_066",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I’m looking forward to meet you.",
+      "I’m looking forward to meeting you.",
+      "I’m looking forward meeting you.",
+      "I’m looking forward at meeting you."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_067",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: It’s important that everyone _______ their seatbelt fastened.",
+    "options": ["keep", "keeps", "kept", "keeping"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_068",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I didn’t enjoy the film, _______?",
+    "options": ["did I", "don't I", "didn't I", "do I"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_069",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: She has been working here _______ five years.",
+    "options": ["since", "for", "by", "from"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_070",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I’m afraid I can’t come to the party.",
+      "I afraid I can’t come to the party.",
+      "I’m afraid I don’t come to the party.",
+      "I’m afraid can’t come to the party."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_071",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He promised _______ me the truth.",
+    "options": ["tell", "telling", "to tell", "told"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_072",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: We arrived late, _______ we missed the beginning of the show.",
+    "options": ["so", "but", "because", "although"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_073",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish I _______ more time to study English.",
+    "options": ["have", "had", "has", "having"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_074",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "He’s looking forward to his holiday.",
+      "He’s looking forward his holiday.",
+      "He’s looking forward for his holiday.",
+      "He’s looking forward in his holiday."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_075",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I _______ a lot of money, I would travel the world.",
+    "options": ["have", "had", "will have", "have had"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_076",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: She drives _______ than her sister.",
+    "options": ["safe", "safely", "more safely", "most safely"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_077",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I prefer tea _______ coffee.",
+    "options": ["than", "to", "over", "instead of"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_078",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "It’s too cold to go out.",
+      "It’s too cold go out.",
+      "It’s too cold for go out.",
+      "It’s too cold go to out."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_079",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I can’t believe he _______ so quickly.",
+    "options": ["ran", "run", "runs", "running"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_080",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: She has been learning English _______ three months.",
+    "options": ["since", "for", "by", "from"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_081",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I would like _______ to the manager about my complaint.",
+    "options": ["speak", "speaking", "to speak", "spoken"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_082",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "She’s the more intelligent girl in the class.",
+      "She’s the most intelligent girl in the class.",
+      "She’s more intelligent girl in the class.",
+      "She’s most intelligent girl in the class."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_083",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I’d rather you _______ smoking inside.",
+    "options": ["stop", "stopped", "stopping", "to stop"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_084",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: We are not used to _______ so much homework.",
+    "options": ["have", "having", "to have", "had"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_085",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: By next year, I _______ my driving license.",
+    "options": ["will get", "will have got", "get", "got"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_086",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "He said me he was tired.",
+      "He told me he was tired.",
+      "He said to me he was tired.",
+      "He told to me he was tired."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_087",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I didn’t see her, _______?",
+    "options": ["did I", "do I", "don’t I", "didn’t I"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_088",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: This hotel is _______ expensive than the other one.",
+    "options": ["much", "more", "most", "many"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_089",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If it had rained yesterday, we _______ at home.",
+    "options": ["stay", "stayed", "would have stayed", "would stay"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_090",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I’ve been working here since three months.",
+      "I’ve been working here for three months.",
+      "I’m working here since three months.",
+      "I’m working here for three months."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_091",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: She asked me _______ her a favour.",
+    "options": ["do", "doing", "to do", "did"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_092",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He arrived late _______ the traffic.",
+    "options": ["because", "although", "despite", "so"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_093",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I’m sure they _______ a good time at the party.",
+    "options": ["have", "had", "will have", "having"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_094",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "He enjoys play football.",
+      "He enjoys playing football.",
+      "He enjoy playing football.",
+      "He enjoys played football."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_095",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: It’s time we _______ home.",
+    "options": ["leave", "left", "leaves", "leaving"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_096",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He talks _______ than anyone else.",
+    "options": ["more loudly", "louder", "loudest", "loud"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_097",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I’m used to _______ early every day.",
+    "options": ["wake up", "waking up", "to wake up", "waked up"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_098",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I wish I can speak French.",
+      "I wish I could speak French.",
+      "I wish I may speak French.",
+      "I wish I speaking French."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_099",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I’ve been studying here _______ January.",
+    "options": ["since", "for", "from", "by"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_100",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He speaks English _______ than his father.",
+    "options": ["good", "better", "best", "well"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_101",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: She said she _______ late for the meeting.",
+    "options": ["was", "is", "will be", "be"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_102",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I have visited London last year.",
+      "I visited London last year.",
+      "I visit London last year.",
+      "I visiting London last year."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_103",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I were you, I _______ more careful.",
+    "options": ["am", "was", "were", "will be"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_104",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He’s interested in _______ French.",
+    "options": ["learn", "learning", "to learn", "learned"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_105",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I prefer reading novels _______ watching TV.",
+    "options": ["than", "to", "over", "instead of"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_106",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "She’s been working here since five years.",
+      "She’s been working here for five years.",
+      "She works here since five years.",
+      "She is working here for five years."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_107",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish I _______ earlier.",
+    "options": ["wake up", "woke up", "waking up", "will wake up"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_108",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He doesn’t like _______ late at night.",
+    "options": ["to work", "working", "work", "worked"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_109",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: We will leave as soon as he _______.",
+    "options": ["arrives", "arrived", "will arrive", "arriving"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_110",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "She can sings very well.",
+      "She can sing very well.",
+      "She can singing very well.",
+      "She can sang very well."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_111",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He didn’t come to the party, _______?",
+    "options": ["did he", "does he", "don’t he", "isn’t he"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_112",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I’m looking forward to _______ you.",
+    "options": ["see", "seeing", "to see", "saw"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_113",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He has been living in London _______ 2015.",
+    "options": ["for", "since", "by", "from"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_114",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "If I will see him, I will tell him.",
+      "If I see him, I will tell him.",
+      "If I saw him, I will tell him.",
+      "If I seen him, I will tell him."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_115",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He suggested _______ a break.",
+    "options": ["take", "taking", "to take", "took"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_116",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: She is the _______ student in the class.",
+    "options": ["more intelligent", "most intelligent", "intelligentest", "intelligent"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_117",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I would rather you _______ here now.",
+    "options": ["stay", "stayed", "staying", "to stay"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_118",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I am used to wake up early.",
+      "I am used to waking up early.",
+      "I am used waking up early.",
+      "I am used to woke up early."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_119",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: They decided _______ home because of the rain.",
+    "options": ["to go", "going", "go", "went"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_120",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I didn’t know he was _______ a doctor.",
+    "options": ["being", "be", "been", "was"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_121",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish I _______ more patient.",
+    "options": ["was", "were", "am", "being"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_122",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I have lived here since two years.",
+      "I have lived here for two years.",
+      "I am living here for two years.",
+      "I lived here since two years."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_123",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He insisted on _______ the truth.",
+    "options": ["tell", "telling", "to tell", "told"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_124",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The film was _______ than I expected.",
+    "options": ["more interesting", "most interesting", "interestinger", "interested"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_125",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: By the time you arrive, I _______ finished the work.",
+    "options": ["will have", "will has", "have", "has"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_126",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I look forward to meet you.",
+      "I look forward to meeting you.",
+      "I am looking forward meet you.",
+      "I am looking forward meeting to you."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_127",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He is too young _______ drive a car.",
+    "options": ["to", "for", "with", "at"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_128",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: She didn’t come to the party _______ she was ill.",
+    "options": ["because", "although", "despite", "so"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_129",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I had studied harder, I _______ passed the exam.",
+    "options": ["would", "would have", "will", "will have"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_130",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "He enjoys to read books.",
+      "He enjoys reading books.",
+      "He enjoy reading books.",
+      "He enjoys read books."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_131",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I’m not used to _______ up so early.",
+    "options": ["wake", "waking", "woke", "to wake"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_132",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I would rather you _______ at home tonight.",
+    "options": ["stay", "stayed", "staying", "to stay"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_133",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: We couldn’t go out because it _______ all day.",
+    "options": ["rains", "rained", "has rained", "was raining"],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_134",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "She has seen that movie last week.",
+      "She saw that movie last week.",
+      "She sees that movie last week.",
+      "She seeing that movie last week."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_135",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I have never _______ to Paris.",
+    "options": ["be", "been", "going", "go"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_136",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He’s more confident _______ his presentation than I am.",
+    "options": ["about", "at", "in", "on"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_137",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I _______ my homework before dinner yesterday.",
+    "options": ["finished", "finish", "was finishing", "finishing"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_138",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I have been living here for five years.",
+      "I have lived here since five years.",
+      "I am living here since five years.",
+      "I live here since five years."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_139",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He promised _______ me his notes.",
+    "options": ["give", "giving", "to give", "gave"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_140",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: We are looking forward _______ from you soon.",
+    "options": ["hearing", "to hear", "hear", "heard"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_141",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I had better _______ to the doctor.",
+    "options": ["go", "going", "went", "gone"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_142",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "He is taller than me.",
+      "He is more tall than me.",
+      "He is tallest than me.",
+      "He is the taller than me."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_143",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: She suggested _______ earlier to avoid traffic.",
+    "options": ["leave", "leaving", "to leave", "left"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_144",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I prefer swimming _______ running.",
+    "options": ["than", "to", "over", "instead of"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_145",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He insisted on _______ the truth.",
+    "options": ["tell", "telling", "to tell", "told"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_146",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I enjoy to read books.",
+      "I enjoy reading books.",
+      "I enjoys reading books.",
+      "I enjoyed reading books."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_147",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I have been learning English _______ six months.",
+    "options": ["for", "since", "from", "by"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_148",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He can speak French _______ than his brother.",
+    "options": ["good", "better", "best", "well"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_149",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If it _______ tomorrow, we will stay at home.",
+    "options": ["rains", "rained", "rain", "will rain"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_150",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I’ve been to Paris last year.",
+      "I went to Paris last year.",
+      "I go to Paris last year.",
+      "I am going to Paris last year."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_151",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: She asked me _______ her a favor.",
+    "options": ["do", "doing", "to do", "did"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_152",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "He has been working here since five years.",
+      "He has worked here for five years.",
+      "He is working here since five years.",
+      "He works here since five years."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_153",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I would rather _______ at home tonight.",
+    "options": ["stay", "stayed", "staying", "to stay"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_154",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He is responsible _______ completing the project.",
+    "options": ["for", "of", "with", "at"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_155",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I had more time, I _______ a new hobby.",
+    "options": ["would start", "will start", "started", "start"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_156",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I’m looking forward to meet you.",
+      "I’m looking forward to meeting you.",
+      "I am looking forward meeting to you.",
+      "I look forward meeting you."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_157",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: It’s important _______ on time for the interview.",
+    "options": ["arrive", "arriving", "to arrive", "arrives"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_158",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He suggested _______ early to avoid traffic.",
+    "options": ["leave", "leaving", "to leave", "left"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_159",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: She insisted that he _______ the truth.",
+    "options": ["tells", "tell", "telling", "told"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_160",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "They have been friends since many years.",
+      "They have been friends for many years.",
+      "They are friends since many years.",
+      "They are friends for many years."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_161",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I can’t stand _______ in long queues.",
+    "options": ["wait", "waiting", "to wait", "waited"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_162",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I prefer coffee _______ tea.",
+    "options": ["than", "to", "over", "instead of"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_163",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I would like _______ a cup of tea.",
+    "options": ["have", "to have", "having", "had"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_164",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I have saw that movie before.",
+      "I have seen that movie before.",
+      "I saw that movie before.",
+      "I seen that movie before."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_165",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He apologized _______ being late.",
+    "options": ["for", "to", "with", "about"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_166",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I’m interested _______ learning Spanish.",
+    "options": ["on", "in", "at", "for"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_167",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If it _______ tomorrow, we’ll stay at home.",
+    "options": ["rains", "rain", "will rain", "rained"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_168",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I’m used to wake up early.",
+      "I’m used to waking up early.",
+      "I’m used waking up early.",
+      "I use to wake up early."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_169",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: They decided _______ home because of the rain.",
+    "options": ["to go", "going", "go", "went"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_170",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I didn’t know he was _______ a doctor.",
+    "options": ["being", "be", "been", "was"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_171",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish I _______ more patient.",
+    "options": ["was", "were", "am", "being"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_172",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "He is taller than me.",
+      "He is more tall than me.",
+      "He is tallest than me.",
+      "He is the taller than me."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_173",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I had better _______ to the doctor.",
+    "options": ["go", "going", "went", "gone"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_174",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: She is the _______ student in the class.",
+    "options": ["more intelligent", "most intelligent", "intelligentest", "intelligent"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_175",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He promised _______ me his notes.",
+    "options": ["give", "giving", "to give", "gave"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_176",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: We are looking forward _______ from you soon.",
+    "options": ["hearing", "to hear", "hear", "heard"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_177",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I had better _______ my homework before dinner.",
+    "options": ["do", "doing", "did", "done"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_178",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "He enjoys to read books.",
+      "He enjoys reading books.",
+      "He enjoy reading books.",
+      "He enjoys read books."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_179",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I have been learning English _______ six months.",
+    "options": ["for", "since", "from", "by"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_180",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He can speak French _______ than his brother.",
+    "options": ["good", "better", "best", "well"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_181",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I can’t stand _______ in long queues.",
+    "options": ["wait", "waiting", "to wait", "waited"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_182",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I prefer swimming _______ running.",
+    "options": ["than", "to", "over", "instead of"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_183",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I would like _______ a cup of tea.",
+    "options": ["have", "to have", "having", "had"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_184",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I have saw that movie before.",
+      "I have seen that movie before.",
+      "I saw that movie before.",
+      "I seen that movie before."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_185",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He apologized _______ being late.",
+    "options": ["for", "to", "with", "about"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_186",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I’m interested _______ learning Spanish.",
+    "options": ["on", "in", "at", "for"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_187",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If it _______ tomorrow, we’ll stay at home.",
+    "options": ["rains", "rain", "will rain", "rained"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_188",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "I’m used to wake up early.",
+      "I’m used to waking up early.",
+      "I’m used waking up early.",
+      "I use to wake up early."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_189",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: They decided _______ home because of the rain.",
+    "options": ["to go", "going", "go", "went"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_190",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I didn’t know he was _______ a doctor.",
+    "options": ["being", "be", "been", "was"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_191",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish I _______ more patient.",
+    "options": ["was", "were", "am", "being"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_192",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "He is taller than me.",
+      "He is more tall than me.",
+      "He is tallest than me.",
+      "He is the taller than me."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_193",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I had better _______ to the doctor.",
+    "options": ["go", "going", "went", "gone"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_194",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: She is the _______ student in the class.",
+    "options": ["more intelligent", "most intelligent", "intelligentest", "intelligent"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_195",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He promised _______ me his notes.",
+    "options": ["give", "giving", "to give", "gave"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_196",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: We are looking forward _______ from you soon.",
+    "options": ["hearing", "to hear", "hear", "heard"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_197",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I had better _______ my homework before dinner.",
+    "options": ["do", "doing", "did", "done"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_198",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct sentence:",
+    "options": [
+      "He enjoys to read books.",
+      "He enjoys reading books.",
+      "He enjoy reading books.",
+      "He enjoys read books."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_199",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I have been learning English _______ six months.",
+    "options": ["for", "since", "from", "by"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_200",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He can speak French _______ than his brother.",
+    "options": ["good", "better", "best", "well"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_201",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: By the end of the month, she _______ here for ten years.",
+    "options": ["will work", "will be working", "will have worked", "will have been working"],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_202",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct modal for **past certainty**: He _______ seen the film; he knows all the lines.",
+    "options": ["must have", "might have", "should have", "could have"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_203",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite using passive voice: They are repairing the roof.",
+    "options": ["The roof is repaired.", "The roof is being repaired.", "The roof was repaired.", "The roof being repaired."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_204",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct conditional: If I spoke German, I _______ the job.",
+    "options": ["will get", "would get", "would have got", "get"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_205",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I avoid _______ the news before breakfast.",
+    "options": ["read", "reading", "to read", "have read"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_206",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrase: It was _______ a difficult test that nobody passed.",
+    "options": ["so", "such", "too", "enough"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_207",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the reported speech: 'I saw him yesterday,' she said.",
+    "options": ["She said she saw him yesterday.", "She said she had seen him the day before.", "She said she saw him the day before.", "She said she has seen him yesterday."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_208",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: She succeeded _______ finding a solution.",
+    "options": ["at", "in", "on", "for"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_209",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: This music makes me feel very _______.",
+    "options": ["relaxing", "relaxed", "relaxation", "relax"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_210",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish I _______ flying.",
+    "options": ["didn't fear", "don't fear", "didn't fear about", "fear"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_211",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct structure: He made me _______ hard.",
+    "options": ["work", "to work", "working", "worked"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_212",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The higher the salary, the _______ the applicants.",
+    "options": ["better", "best", "more good", "more better"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_213",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The government insisted that the law _______ passed.",
+    "options": ["is", "be", "was", "has been"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_214",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct connector: _______ the heavy rain, we went for a walk.",
+    "options": ["Although", "In spite of", "Because", "Despite of"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_215",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I regret _______ harder for the exam. (Past regret)",
+    "options": ["not studying", "not to study", "not study", "no studying"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_216",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I don't feel like _______ out tonight.",
+    "options": ["go", "going", "to go", "went"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_217",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd rather you _______ the noise down.",
+    "options": ["turn", "turned", "turning", "will turn"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_218",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct modal for **past possibility (negative)**: She _______ at home; I saw her at the supermarket.",
+    "options": ["mustn't have been", "can't have been", "shouldn't have been", "wouldn't have been"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_219",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: We got lost, but luckily a local showed us _______ to go.",
+    "options": ["what", "which", "where", "how"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_220",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct structure: He is used to _______ lunch at 1 pm.",
+    "options": ["have", "having", "to have", "had"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_221",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct conditional: If I hadn't been late, I _______ the beginning of the movie.",
+    "options": ["would see", "would have seen", "will see", "saw"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_222",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He denied _______ the money.",
+    "options": ["take", "to take", "taking", "taken"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_223",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: They blamed him _______ causing the accident.",
+    "options": ["for", "of", "on", "at"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_224",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: My hair is short. (Use causative 'have')",
+    "options": ["I have cut my hair.", "I have my hair cut.", "I have my hair cutting.", "I had cut my hair."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_225",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: It's no use _______ about it now.",
+    "options": ["worry", "worrying", "to worry", "worried"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_226",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct relative clause: The man _______ lives next door is a doctor.",
+    "options": ["which", "whose", "who", "whom"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_227",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the question tag: You haven't finished yet, _______?",
+    "options": ["do you", "haven't you", "have you", "did you"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_228",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to invent or create': He _______ a brilliant solution.",
+    "options": ["came up with", "came across", "came down to", "came round"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_229",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word order: She speaks Italian _______.",
+    "options": ["fluently very", "very fluently", "fluent very", "very fluent"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_230",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I suggest _______ a taxi.",
+    "options": ["take", "to take", "taking", "took"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_231",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He stopped _______ his phone when the teacher entered. (Action interrupted)",
+    "options": ["use", "to use", "using", "used"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_232",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish I _______ speak French. (Present ability)",
+    "options": ["can", "could", "would", "speak"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_233",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: We are very keen _______ starting the project.",
+    "options": ["at", "on", "in", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_234",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct connector: _______ he is rich, he lives in a small apartment.",
+    "options": ["Despite", "Even though", "In spite of", "However"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_235",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: Someone broke the window last night. (Start with 'The window...')",
+    "options": ["The window broke last night.", "The window was broken last night.", "The window is broken last night.", "The window had been broken last night."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_236",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He risked _______ caught by the security guard.",
+    "options": ["be", "being", "to be", "been"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_237",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The news _______ surprising.",
+    "options": ["is", "are", "was", "were"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_238",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to postpone': We decided to _______ the meeting until next week.",
+    "options": ["put off", "put up", "put down", "put out"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_239",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd rather _______ out than stay at home.",
+    "options": ["go", "to go", "went", "going"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_240",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct modal for **past lack of necessity**: We _______ bought so much food; half of it is left.",
+    "options": ["mustn't have", "didn't need to", "needn't have", "shouldn't have"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_241",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If only I _______ studied harder for the final.",
+    "options": ["have", "had", "would have", "did"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_242",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: She drove _______ than I expected.",
+    "options": ["fast", "faster", "more fast", "most fast"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_243",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the reported question: 'Where did you go?' he asked.",
+    "options": ["He asked where I went.", "He asked where did I go.", "He asked where I had gone.", "He asked where had I gone."],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_244",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: There is _______ water left in the bottle.",
+    "options": ["few", "a few", "little", "many"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_245",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'm delighted _______ your success.",
+    "options": ["for", "at", "with", "about"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_246",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to start a journey': We decided to _______ early in the morning.",
+    "options": ["set up", "set out", "set off", "set down"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_247",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct structure: I finally managed _______ the package.",
+    "options": ["open", "to open", "opening", "opened"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_248",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The painting, _______ was painted in 1889, is very valuable.",
+    "options": ["that", "which", "who", "where"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_249",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: She is accustomed _______ the noise.",
+    "options": ["for", "with", "to", "at"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_250",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: It's high time the government _______ something about taxes.",
+    "options": ["do", "did", "does", "have done"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_251",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: _______ he works hard, he is unlikely to pass the exam.",
+    "options": ["Despite", "Although", "In spite of", "However"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_252",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I remember _______ my keys on the table. (Past action)",
+    "options": ["put", "to put", "putting", "putted"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_253",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct structure: They denied _______ the crime.",
+    "options": ["commit", "to commit", "committing", "committed"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_254",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd prefer _______ a relaxing holiday this year.",
+    "options": ["have", "to have", "having", "had"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_255",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He's going to retire soon, _______?",
+    "options": ["is he", "isn't he", "is not he", "will he"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_256",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I finally got used to _______ late.",
+    "options": ["sleep", "sleeping", "to sleep", "slept"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_257",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: Neither the teacher _______ the students were happy.",
+    "options": ["nor", "or", "and", "but"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_258",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He demanded that the project _______ immediately.",
+    "options": ["finished", "is finished", "finish", "be finished"],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_259",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to tolerate': I can't _______ this noise anymore.",
+    "options": ["put up", "put up with", "put off", "put down"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_260",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I had my phone _______ last week. (Causative)",
+    "options": ["repair", "to repair", "repaired", "repairing"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_261",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The film was so _______ that I fell asleep.",
+    "options": ["bored", "boring", "bore", "boredom"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_262",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I _______ more money, I would buy a yacht.",
+    "options": ["have", "had", "will have", "would have"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_263",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: She is obsessed _______ social media.",
+    "options": ["with", "by", "on", "at"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_264",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: It is said that he is a genius. (Start with 'He...')",
+    "options": ["He is said that he is a genius.", "He is said a genius.", "He is said to be a genius.", "He said to be a genius."],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_265",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I don't feel like _______ anything today.",
+    "options": ["do", "doing", "to do", "did"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_266",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct modal for **past advice/criticism**: You _______ studied harder for the test.",
+    "options": ["must have", "should have", "could have", "might have"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_267",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: _______ only you told me earlier!",
+    "options": ["If", "Unless", "If it", "If only"],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_268",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The less traffic there is, the _______ we will arrive.",
+    "options": ["sooner", "soonest", "more soon", "more sooner"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_269",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I stop _______ when I was 30. (Habit discontinued)",
+    "options": ["smoke", "to smoke", "smoking", "smoked"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_270",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to start, usually suddenly': The performance _______ late.",
+    "options": ["kicked in", "kicked off", "kicked out", "kicked over"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_271",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: She is accustomed to _______ a lot of criticism.",
+    "options": ["receive", "receiving", "to receive", "received"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_272",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct structure: I would prefer to travel by train _______ by bus.",
+    "options": ["than", "to", "rather than", "instead"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_273",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He advised me _______ the documents carefully.",
+    "options": ["read", "reading", "to read", "readed"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_274",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He's been here _______ an hour.",
+    "options": ["since", "for", "from", "by"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_275",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: They didn't allow him to leave. (Use passive form of 'allow')",
+    "options": ["He wasn't allowed to leave.", "He didn't allow to leave.", "He wasn't allowed leaving.", "He hadn't been allowed to leave."],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_276",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I regret _______ you the bad news. (Formal introduction)",
+    "options": ["to tell", "telling", "tell", "told"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_277",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The reason _______ I left was the salary.",
+    "options": ["why", "that", "for", "because"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_278",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He is such _______ honest person.",
+    "options": ["a", "an", "the", "no article"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_279",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to rely on': We always _______ our team for support.",
+    "options": ["look up to", "count on", "carry out", "turn down"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_280",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I _______ you, I wouldn't worry.",
+    "options": ["am", "was", "were", "be"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_281",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He seems very _______ about the decision.",
+    "options": ["confusing", "confused", "confusion", "confuse"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_282",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish I _______ to the party last night. (Past regret)",
+    "options": ["go", "went", "had gone", "would go"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_283",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: She is terrified _______ spiders.",
+    "options": ["of", "by", "from", "at"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_284",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: My boss made me work late. (Use causative 'get')",
+    "options": ["I got my boss to work late.", "I got worked late by my boss.", "I got my boss to made me work late.", "I got the work done late."],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_285",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I didn't mean _______ you.",
+    "options": ["offend", "to offend", "offending", "offended"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_286",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct relative clause: That's the house _______ I grew up.",
+    "options": ["where", "which", "that", "whose"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_287",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the question tag: Let's have dinner, _______?",
+    "options": ["do we", "shall we", "will we", "don't we"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_288",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He looks _______ he hasn't slept for days.",
+    "options": ["as", "like", "as if", "as though"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_289",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I can't afford _______ that expensive jacket.",
+    "options": ["buy", "to buy", "buying", "bought"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_290",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to review/examine': Please _______ the document for errors.",
+    "options": ["look up", "look over", "look after", "look into"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_291",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: By 2030, we _______ significant progress.",
+    "options": ["make", "will make", "will have made", "will be making"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_292",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The cake tasted absolutely _______.",
+    "options": ["deliciously", "delicious", "goodly", "well"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_293",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I had rather you _______ about this.",
+    "options": ["say nothing", "said nothing", "to say nothing", "saying nothing"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_294",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: He is incapable _______ managing a large team.",
+    "options": ["of", "for", "with", "at"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_295",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: You ought to apologize for your mistake. (Use 'should')",
+    "options": ["You should to apologize for your mistake.", "You should apologize for your mistake.", "You should to have apologized for your mistake.", "You should be apologized for your mistake."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_296",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: _______ you ask him, he won't help.",
+    "options": ["If", "Unless", "In case", "Provided that"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_297",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He spends _______ time playing video games.",
+    "options": ["many", "a lot", "too few", "too many"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_298",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: It's important that she _______ aware of the risks.",
+    "options": ["is", "be", "was", "will be"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_299",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrase: I stopped _______ milk from the shop. (Purpose)",
+    "options": ["buy", "to buy", "buying", "bought"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_300",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I hadn't missed the flight, I _______ there now. (Mixed conditional)",
+    "options": ["would be", "will be", "would have been", "am"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_301",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: She started studying at 8 a.m. and she's still studying. (Use 'since')",
+    "options": ["She is studying since 8 a.m.", "She has been studying since 8 a.m.", "She has studied since 8 a.m.", "She started studying since 8 a.m."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_302",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Diligent**.",
+    "options": ["Lazy", "Hard-working", "Careless", "Slow"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_303",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: You're not allowed to smoke here, so you _______.",
+    "options": ["mustn't", "don't have to", "needn't", "shouldn't have"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_304",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The film, _______ stars Leonardo DiCaprio, is highly recommended.",
+    "options": ["who", "that", "which", "whose"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_305",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I would rather travel by plane _______ by boat.",
+    "options": ["than", "to", "over", "instead"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_306",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the antonym for **Trivial**.",
+    "options": ["Minor", "Significant", "Small", "Insignificant"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_307",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: She advised him to see a doctor. (Use reported speech with 'suggest')",
+    "options": ["She suggested to see a doctor.", "She suggested he should see a doctor.", "She suggested him seeing a doctor.", "She suggested seeing a doctor."],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_308",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: _______ hard she tried, she couldn't open the jar.",
+    "options": ["However", "Despite", "Although", "In spite of"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_309",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to delay doing something': Don't _______ your homework.",
+    "options": ["put off", "put up", "put down", "put out"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_310",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He admitted _______ responsible for the damage.",
+    "options": ["be", "to be", "being", "been"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_311",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: This is _______ an interesting book that I can't put it down.",
+    "options": ["so", "such", "too", "enough"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_312",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The report is due tomorrow, so you _______ finish it today.",
+    "options": ["might", "must", "could", "would"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_313",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: She apologized _______ her mistake.",
+    "options": ["to", "for", "with", "at"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_314",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: He insisted on paying the bill. (Use 'pay')",
+    "options": ["He insisted that he paid the bill.", "He insisted that he pay the bill.", "He insisted to pay the bill.", "He insisted that he paying the bill."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_315",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish I _______ to the concert last night. (Past regret)",
+    "options": ["go", "went", "had gone", "would go"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_316",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I'm not used to _______ people I don't know.",
+    "options": ["meet", "meeting", "to meet", "met"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_317",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: She's the best runner _______ I know.",
+    "options": ["who", "whom", "that", "which"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_318",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Feasible**.",
+    "options": ["Impossible", "Impractical", "Achievable", "Unlikely"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_319",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd rather you _______ the television.",
+    "options": ["turn off", "turned off", "to turn off", "turning off"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_320",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to invent a story': She _______ a convincing excuse.",
+    "options": ["made up", "made out", "made off", "made over"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_321",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The problem, _______ we discussed yesterday, is still unsolved.",
+    "options": ["that", "which", "who", "whose"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_322",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: Neither of the cars _______ working properly.",
+    "options": ["is", "are", "were", "be"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_323",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: She agreed _______ the contract.",
+    "options": ["sign", "signing", "to sign", "signed"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_324",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct connector: The weather was terrible; _______, we stayed inside.",
+    "options": ["therefore", "although", "despite", "however"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_325",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'm not sure _______ to proceed with the project.",
+    "options": ["what", "how", "if", "that"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_326",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: She drove _______ carefully than her husband.",
+    "options": ["more", "most", "much", "very"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_327",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: It is not necessary to book in advance. (Use 'needn't')",
+    "options": ["You needn't to book in advance.", "You needn't book in advance.", "You needn't have booked in advance.", "You need to not book in advance."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_328",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The doctor advised him _______ smoking.",
+    "options": ["stop", "to stop", "stopping", "stopped"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_329",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I'm very aware _______ the dangers involved.",
+    "options": ["of", "about", "with", "at"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_330",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He seems happy, but he _______ be just pretending. (Weak possibility)",
+    "options": ["must", "can't", "might", "should"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_331",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to happen/turn up': I hope everything _______ well.",
+    "options": ["works out", "works off", "works up", "works in"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_332",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: Had I known, I _______ earlier.",
+    "options": ["will come", "would come", "would have come", "came"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_333",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Obsolete**.",
+    "options": ["Modern", "Ancient", "Outdated", "New"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_334",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the question tag: He barely speaks English, _______?",
+    "options": ["doesn't he", "does he", "isn't he", "has he"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_335",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct structure: What I want is _______ a new computer.",
+    "options": ["buy", "to buy", "buying", "bought"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_336",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish I _______ so rude to her. (Past regret)",
+    "options": ["wasn't", "weren't", "hadn't been", "wouldn't be"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_337",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The film was _______ long that I got bored.",
+    "options": ["so", "such", "too", "enough"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_338",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: He couldn't speak because he was too angry. (Use 'so... that')",
+    "options": ["He was so angry that he couldn't speak.", "He was too angry so he couldn't speak.", "He was such angry that he couldn't speak.", "He was so angry to speak."],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_339",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd rather you _______ here yesterday.",
+    "options": ["came", "come", "had come", "coming"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_340",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: She's very interested _______ classical music.",
+    "options": ["on", "at", "in", "with"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_341",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to resemble a family member': He _______ his father.",
+    "options": ["looks up to", "takes after", "looks after", "brings up"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_342",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I was made _______ the dishes. (Passive causative)",
+    "options": ["wash", "to wash", "washing", "washed"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_343",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He denied _______ the accident.",
+    "options": ["cause", "to cause", "causing", "caused"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_344",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The more you practice, the _______ you become.",
+    "options": ["better", "good", "best", "more good"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_345",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct modal for **obligation/necessity**: We _______ attend the meeting; it's mandatory.",
+    "options": ["might", "must", "should", "could"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_346",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: He hasn't got many friends here. (Use 'few')",
+    "options": ["He has few friends here.", "He has a few friends here.", "He got few friends here.", "He hasn't few friends here."],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_347",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'm not used to _______ for myself.",
+    "options": ["cook", "cooking", "to cook", "cooked"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_348",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The hotel was _______ cheap.",
+    "options": ["surprisingly", "surprising", "surprise", "surprises"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_349",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I decided _______ abroad next year.",
+    "options": ["study", "to study", "studying", "studied"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_350",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct connector: _______ the bad weather, the game was cancelled.",
+    "options": ["Although", "Despite", "Because of", "In spite of"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_351",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I look forward to _______ your new book.",
+    "options": ["read", "reading", "to read", "readed"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_352",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Ponder**.",
+    "options": ["Ignore", "Consider", "Hurry", "Dismiss"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_353",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish he _______ shout at me. (Annoyance)",
+    "options": ["didn't", "wouldn't", "can't", "doesn't"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_354",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: She is responsible _______ the budget.",
+    "options": ["of", "to", "for", "with"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_355",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: It is forbidden to use mobile phones here. (Use 'mustn't')",
+    "options": ["You mustn't use mobile phones here.", "You mustn't to use mobile phones here.", "You don't have to use mobile phones here.", "You shouldn't use mobile phones here."],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_356",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He stopped _______ when he retired. (Action discontinued)",
+    "options": ["work", "to work", "working", "worked"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_357",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: This is the man _______ car was stolen.",
+    "options": ["who", "whom", "whose", "that"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_358",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the question tag: He has lived here for years, _______?",
+    "options": ["hasn't he", "didn't he", "does he", "has he"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_359",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to save money': We are trying to _______ for a new car.",
+    "options": ["put off", "put up", "put aside", "put out"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_360",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I were rich, I _______ live in a mansion.",
+    "options": ["will", "would", "had", "can"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_361",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The results were highly _______.",
+    "options": ["disappointing", "disappointed", "disappointment", "disappoint"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_362",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He advised me _______ the documents carefully.",
+    "options": ["to check", "check", "checking", "checked"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_363",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct modal for **past possibility (positive)**: He _______ forgotten about the appointment.",
+    "options": ["must have", "should have", "might have", "can't have"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_364",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: It's ages since I last saw her. (Use 'haven't')",
+    "options": ["I haven't seen her since ages.", "I haven't seen her for ages.", "I haven't seen her since long.", "I haven't seen her long ago."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_365",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd rather _______ by car than by train.",
+    "options": ["travel", "to travel", "travelled", "traveling"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_366",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: This is _______ an old car that it keeps breaking down.",
+    "options": ["so", "such", "too", "enough"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_367",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: Neither English _______ French is his mother tongue.",
+    "options": ["or", "nor", "and", "but"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_368",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Conscientious**.",
+    "options": ["Careless", "Diligent", "Lazy", "Trivial"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_369",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The doctor recommended that she _______ a specialist.",
+    "options": ["sees", "see", "saw", "will see"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_370",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to examine/investigate': The committee will _______ the claims.",
+    "options": ["look up", "look over", "look after", "look into"],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_371",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'm incapable _______ solving this puzzle.",
+    "options": ["of", "for", "with", "at"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_372",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He's been here _______ three o'clock.",
+    "options": ["for", "since", "from", "by"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_373",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: We haven't been to a concert for a long time. (Use 'last')",
+    "options": ["The last time we went to a concert was long ago.", "The last time we go to a concert was long time.", "The last concert we saw was a long time.", "The last time we went to a concert is a long time ago."],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_374",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I avoid _______ spicy food.",
+    "options": ["eat", "to eat", "eating", "ate"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_375",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: She drove _______ I expected.",
+    "options": ["fast", "faster", "fastest", "as fast as"],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_376",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I _______ late, please start without me.",
+    "options": ["am", "will be", "be", "were"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_377",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct modal for **past criticism**: You _______ been so rude to her.",
+    "options": ["mustn't have", "needn't have", "shouldn't have", "couldn't have"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_378",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'm looking forward to _______ that movie.",
+    "options": ["watch", "to watch", "watching", "watched"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_379",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The view was _______ amazing.",
+    "options": ["absolutely", "absolute", "very", "much"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_380",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I had my watch _______ at the jeweler's. (Causative)",
+    "options": ["fix", "to fix", "fixed", "fixing"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_381",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to continue': Please _______ with your story.",
+    "options": ["carry on", "carry out", "carry off", "carry up"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_382",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If only I _______ the winning numbers!",
+    "options": ["know", "knew", "had known", "would know"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_383",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: This job is not demanding _______ to be stressful.",
+    "options": ["so", "such", "too", "enough"],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_384",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: He managed to finish the project on time. (Use 'succeeded')",
+    "options": ["He succeeded to finish the project on time.", "He succeeded in finishing the project on time.", "He succeeded to finishing the project on time.", "He succeeded finished the project on time."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_385",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd rather you _______ the noise down now.",
+    "options": ["turn", "turned", "to turn", "turning"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_386",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: She's addicted _______ chocolate.",
+    "options": ["at", "to", "with", "of"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_387",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The team, _______ consists of five members, won the competition.",
+    "options": ["that", "which", "who", "whom"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_388",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Elicit**.",
+    "options": ["Suppress", "Conceal", "Obtain", "Dismiss"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_389",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the question tag: He never complains, _______?",
+    "options": ["doesn't he", "does he", "is he", "has he"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_390",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct structure: He doesn't know _______ to apply for the job.",
+    "options": ["how", "what", "which", "if"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_391",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: By the time I retire, I _______ in this company for forty years.",
+    "options": ["will work", "will have worked", "will have been working", "will be working"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_392",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The decision was taken _______ the board.",
+    "options": ["of", "by", "from", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_393",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I remember _______ the letter before I left. (Past action)",
+    "options": ["post", "to post", "posting", "posted"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_394",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct modal for **past deduction (impossibility)**: He _______ been driving; his car is being repaired.",
+    "options": ["mustn't have", "can't have", "shouldn't have", "might not have"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_395",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: He gave up smoking three years ago. (Use 'for')",
+    "options": ["He hasn't smoked for three years.", "He didn't smoke for three years.", "He hasn't been smoking for three years ago.", "He stops smoking for three years."],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_396",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I insisted on _______ the truth.",
+    "options": ["know", "to know", "knowing", "knew"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_397",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He looks _______ his father.",
+    "options": ["as", "like", "as if", "as though"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_398",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd rather you _______ tomorrow.",
+    "options": ["come", "came", "to come", "coming"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_399",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to start living a quieter life': They decided to _______ in the countryside.",
+    "options": ["settle up", "settle down", "settle in", "settle out"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_400",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: She is too inexperienced _______ the job.",
+    "options": ["do", "to do", "doing", "did"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_401",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite using inversion: Only after the party did I realize my mistake.",
+    "options": ["Only after the party I realized my mistake.", "I realized my mistake only after the party.", "Only after the party did I realized my mistake.", "Only after the party I did realize my mistake."],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_402",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: She is involved _______ charity work.",
+    "options": ["at", "in", "on", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_403",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He postponed _______ a decision until next week.",
+    "options": ["make", "to make", "making", "made"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_404",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: We will leave at once, _______ the rain stops.",
+    "options": ["if", "unless", "as long as", "provided"],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_405",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish I _______ to the doctor yesterday. (Past action)",
+    "options": ["go", "went", "had gone", "would go"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_406",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Ambiguous**.",
+    "options": ["Clear", "Explicit", "Vague", "Precise"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_407",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The team, _______ performance was excellent, won the league.",
+    "options": ["which", "that", "whose", "who"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_408",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct modal for **unfulfilled past ability**: I _______ helped you, but I didn't know you needed it.",
+    "options": ["must have", "should have", "could have", "would have"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_409",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: My neighbour is fixing my bike. (Use causative 'get')",
+    "options": ["I'm getting my neighbour fix my bike.", "I'm getting my bike fixed by my neighbour.", "I'm getting fixed my bike.", "I'm getting my neighbour to fix my bike."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_410",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He used to _______ soccer every weekend.",
+    "options": ["play", "playing", "to play", "played"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_411",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: Not only _______ the food good, but the service was excellent too. (Inversion)",
+    "options": ["was", "is", "did", "had"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_412",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I finally managed to _______ the password.",
+    "options": ["recall", "recalling", "to recall", "recalled"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_413",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to start doing something new': He decided to _______ a new hobby.",
+    "options": ["take on", "take up", "take off", "take in"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_414",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: It's time the children _______ to bed.",
+    "options": ["go", "went", "have gone", "will go"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_415",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the antonym for **Vulnerable**.",
+    "options": ["Weak", "Exposed", "Defenseless", "Secure"],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_416",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I don't feel like _______ out tonight.",
+    "options": ["go", "going", "to go", "went"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_417",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He drives too _______.",
+    "options": ["fast", "fastly", "quick", "quickly"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_418",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: She regretted _______ the job offer. (Past action)",
+    "options": ["refuse", "to refuse", "refusing", "refused"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_419",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: She's worried _______ the exam results.",
+    "options": ["of", "about", "for", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_420",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: The police didn't start the investigation until Monday. (Use 'Not until...')",
+    "options": ["Not until Monday the police started the investigation.", "Not until Monday did the police start the investigation.", "Not until Monday the police did start the investigation.", "Not until Monday did the police started the investigation."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_421",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The presentation, _______ was very detailed, lasted two hours.",
+    "options": ["that", "which", "who", "whom"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_422",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct structure: I'd prefer _______ rather than walk.",
+    "options": ["drive", "to drive", "driving", "drove"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_423",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He demanded that his salary _______ immediately.",
+    "options": ["raises", "be raised", "raised", "is raised"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_424",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct modal for **strong belief**: This _______ be the right key; it fits perfectly.",
+    "options": ["might", "could", "must", "should"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_425",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: Although she was exhausted, she finished the race. (Use 'Despite')",
+    "options": ["Despite she was exhausted, she finished the race.", "Despite of being exhausted, she finished the race.", "Despite her exhaustion, she finished the race.", "Despite exhausted, she finished the race."],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_426",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I got used to _______ public transport.",
+    "options": ["use", "using", "to use", "used"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_427",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The more money you save, the _______ you become.",
+    "options": ["rich", "richer", "most rich", "more rich"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_428",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I can't imagine _______ in such a small flat.",
+    "options": ["live", "to live", "living", "lived"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_429",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to cancel': We had to _______ the meeting.",
+    "options": ["call off", "call up", "call in", "call on"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_430",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I _______ more time, I would have visited you. (Mixed Conditional)",
+    "options": ["have", "had", "were having", "had had"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_431",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: It was _______ a mistake to trust him.",
+    "options": ["so", "such", "too", "enough"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_432",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the question tag: Nobody was listening, _______?",
+    "options": ["was he", "were they", "wasn't he", "weren't they"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_433",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Spontaneous**.",
+    "options": ["Planned", "Impromptu", "Rehearsed", "Scheduled"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_434",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd rather you _______ the windows open.",
+    "options": ["not leave", "didn't leave", "don't leave", "hadn't left"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_435",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I'm not good _______ remembering names.",
+    "options": ["in", "at", "on", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_436",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite using passive voice: They believe that he started the fire.",
+    "options": ["He is believed to have started the fire.", "It is believed that he started the fire.", "He is believed that he started the fire.", "Both A and B are correct."],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_437",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If only the bus _______ earlier!",
+    "options": ["comes", "came", "would come", "had come"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_438",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The police demanded that he _______ the car.",
+    "options": ["stops", "stop", "stopped", "to stop"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_439",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I don't feel like _______ today.",
+    "options": ["cook", "to cook", "cooking", "cooked"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_440",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to start a relationship': They _______ quickly.",
+    "options": ["got on", "got off", "got out", "got together"],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_441",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd prefer to go to the cinema _______ watch TV.",
+    "options": ["than", "to", "rather than", "instead"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_442",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He's been here _______ ages.",
+    "options": ["since", "for", "from", "by"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_443",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite using inversion: Rarely does he complain about his job.",
+    "options": ["Rarely he complains about his job.", "Rarely does he complain about his job.", "He rarely does complain about his job.", "He complains rarely about his job."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_444",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I remember _______ my first concert. (Past action)",
+    "options": ["attend", "to attend", "attending", "attended"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_445",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: She is dedicated _______ her studies.",
+    "options": ["at", "to", "with", "of"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_446",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I _______ more, I would have been better.",
+    "options": ["practiced", "had practiced", "practice", "will practice"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_447",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: This is the restaurant _______ we met.",
+    "options": ["which", "that", "where", "whose"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_448",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The doctor let me _______ home early.",
+    "options": ["go", "to go", "going", "went"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_449",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct modal for **unfulfilled past plan**: I _______ gone to the gym, but I felt ill.",
+    "options": ["must have", "should have", "might have", "was going to have"],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_450",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Eradicate**.",
+    "options": ["Keep", "Preserve", "Eliminate", "Establish"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_451",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I stopped _______ milk from the shop. (Past action)",
+    "options": ["buy", "to buy", "buying", "bought"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_452",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He drives _______ recklessly that he always gets fines.",
+    "options": ["so", "such", "too", "enough"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_453",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd rather you _______ me next time.",
+    "options": ["call", "called", "to call", "calling"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_454",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to start to fail': The negotiations began to _______.",
+    "options": ["break off", "break up", "break down", "break out"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_455",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: He is too kind to refuse. (Use 'so... that')",
+    "options": ["He is so kind that he won't refuse.", "He is so kind that he can't refuse.", "He is such kind that he can't refuse.", "He is so kind not to refuse."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_456",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The higher the pressure, the _______ the risk.",
+    "options": ["greater", "great", "more great", "most great"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_457",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: Both the computer _______ the printer are broken.",
+    "options": ["nor", "or", "and", "but"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_458",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish I _______ the ticket earlier. (Past regret)",
+    "options": ["buy", "bought", "had bought", "would buy"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_459",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: He is delighted _______ his new job.",
+    "options": ["of", "at", "with", "for"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_460",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: _______ hard he works, he never complains.",
+    "options": ["Despite", "However", "Although", "In spite of"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_461",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: This is the worst film _______ I've ever seen.",
+    "options": ["which", "who", "that", "whose"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_462",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I don't recall _______ him before.",
+    "options": ["meet", "to meet", "meeting", "met"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_463",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct structure: He made me _______ the whole story.",
+    "options": ["tell", "to tell", "telling", "told"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_464",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: It's high time you _______ about the future.",
+    "options": ["think", "thought", "to think", "thinking"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_465",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Compulsory**.",
+    "options": ["Optional", "Voluntary", "Mandatory", "Free"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_466",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I _______ taller, I would join the basketball team.",
+    "options": ["am", "was", "were", "have been"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_467",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The results were _______ disappointing.",
+    "options": ["extreme", "extremely", "much", "very"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_468",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: Someone is going to mend the roof next week. (Use causative 'have')",
+    "options": ["I'm having someone mend the roof.", "I'm having the roof mended next week.", "I have mended the roof next week.", "I'm having the roof mend next week."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_469",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd rather you _______ that comment.",
+    "options": ["didn't make", "don't make", "not make", "haven't made"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_470",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to meet unexpectedly': I _______ an old friend yesterday.",
+    "options": ["came up with", "came across", "came down to", "came round"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_471",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: By this time next year, I _______ my exams.",
+    "options": ["will finish", "will have finished", "will be finishing", "finish"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_472",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The film was not interesting; it was rather _______.",
+    "options": ["tired", "tiring", "tire", "tiresome"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_473",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He advised me _______ the documents carefully.",
+    "options": ["to read", "read", "reading", "readed"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_474",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: She is keen _______ learning new things.",
+    "options": ["at", "on", "in", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_475",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: It wasn't necessary for you to wait. (Use 'needn't')",
+    "options": ["You didn't need to wait.", "You needn't to wait.", "You needn't have waited.", "You didn't need have waited."],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_476",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I regret _______ my time. (Past action)",
+    "options": ["waste", "to waste", "wasting", "wasted"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_477",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He looks _______ his mother.",
+    "options": ["as", "like", "as if", "as though"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_478",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the question tag: He hasn't finished, _______?",
+    "options": ["hasn't he", "has he", "did he", "doesn't he"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_479",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to raise children': She was _______ by her grandparents.",
+    "options": ["brought up", "brought on", "brought out", "brought in"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_480",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish I _______ the winning ticket.",
+    "options": ["have bought", "bought", "had bought", "would buy"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_481",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The more I learn, the _______ I realize I know.",
+    "options": ["less", "least", "lesser", "little"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_482",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: It's important that he _______ us the truth.",
+    "options": ["tells", "tell", "told", "will tell"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_483",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct structure: I finally managed _______ the job.",
+    "options": ["get", "to get", "getting", "got"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_484",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd rather you _______ me for help.",
+    "options": ["ask", "asked", "to ask", "asking"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_485",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Impeccable**.",
+    "options": ["Flawless", "Faulty", "Average", "Mediocre"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_486",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He denied _______ the money.",
+    "options": ["steal", "to steal", "stealing", "stole"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_487",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: _______ his qualifications, he didn't get the job.",
+    "options": ["Although", "Despite", "In spite of", "Both B and C are correct."],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_488",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He suggested _______ a break.",
+    "options": ["take", "taking", "to take", "took"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_489",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct modal for **past criticism**: We _______ wasted so much time.",
+    "options": ["mustn't have", "needn't have", "shouldn't have", "couldn't have"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_490",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite using inversion: At no time were they aware of the danger.",
+    "options": ["At no time they were aware of the danger.", "At no time were they aware of the danger.", "At no time they had been aware of the danger.", "At no time they did be aware of the danger."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_491",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I don't recall _______ him before. (Perfect Gerund)",
+    "options": ["meet", "to meet", "having met", "met"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_492",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The results were _______ satisfactory.",
+    "options": ["perfectly", "perfect", "much", "very"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_493",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The higher the rating, the _______ the price.",
+    "options": ["high", "higher", "most high", "more high"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_494",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: I'm delighted _______ your promotion.",
+    "options": ["of", "at", "with", "for"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_495",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: My neighbour is cutting my grass. (Use causative 'have')",
+    "options": ["I have my grass cut.", "I'm having my grass cut by my neighbour.", "I have cutting my grass.", "I have my grass cutting."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_496",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I can't imagine _______ without coffee.",
+    "options": ["work", "to work", "working", "worked"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_497",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to separate or end a relationship': They finally _______.",
+    "options": ["broke off", "broke up", "broke down", "broke out"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_498",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I _______, I would learn a new language.",
+    "options": ["had more time", "have more time", "would have more time", "was more time"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_499",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He looks _______ he is ill.",
+    "options": ["as", "like", "as if", "as though"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_500",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the question tag: Don't forget, _______?",
+    "options": ["do you", "will you", "don't you", "won't you"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_501",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Candid**.",
+    "options": ["Secretive", "Honest", "Reserved", "Indirect"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_502",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: By the end of the century, humans _______ climate change.",
+    "options": ["will solve", "will have solved", "will be solving", "solve"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_503",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite using reported speech: 'Why don't we go hiking?' she proposed.",
+    "options": ["She proposed we go hiking.", "She proposed going hiking.", "She proposed to go hiking.", "She proposed that we went hiking."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_504",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct modal for **past possibility (negative)**: She _______ finished the book; it's too long.",
+    "options": ["must have", "can't have", "shouldn't have", "might not have"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_505",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He finally got used to _______ public speaking.",
+    "options": ["do", "doing", "to do", "did"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_506",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: Neither the parents _______ the child were happy.",
+    "options": ["or", "nor", "and", "but"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_507",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd prefer _______ rather than cook tonight.",
+    "options": ["order takeaway", "to order takeaway", "ordering takeaway", "ordered takeaway"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_508",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to start to operate/become effective': The medication should _______ soon.",
+    "options": ["kick off", "kick up", "kick in", "kick down"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_509",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I remember _______ my keys before I left. (Purpose)",
+    "options": ["check", "to check", "checking", "checked"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_510",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: It was _______ a pleasant surprise that I cried.",
+    "options": ["so", "such", "too", "enough"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_511",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite using inversion: Seldom do we see such loyalty nowadays.",
+    "options": ["Seldom we see such loyalty nowadays.", "Seldom do we see such loyalty nowadays.", "We seldom do see such loyalty nowadays.", "Seldom we do see such loyalty nowadays."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_512",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish I _______ the time to learn German. (Present wish)",
+    "options": ["have", "had", "will have", "would have"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_513",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: She is concerned _______ her mother's health.",
+    "options": ["of", "about", "for", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_514",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He admitted _______ the mistake. (Perfect gerund)",
+    "options": ["make", "to make", "having made", "made"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_515",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The less time you spend, the _______ the results.",
+    "options": ["bad", "worse", "worst", "more bad"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_516",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: He managed to escape the fire. (Use 'succeeded')",
+    "options": ["He succeeded to escape the fire.", "He succeeded in escaping the fire.", "He succeeded to escaping the fire.", "He succeeded escaped the fire."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_517",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The higher the demands, the _______ the turnover.",
+    "options": ["low", "lower", "lowest", "more low"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_518",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct structure: I'd prefer _______ tomorrow.",
+    "options": ["to leave", "leave", "leaving", "left"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_519",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: It is vital that he _______ the documents today.",
+    "options": ["signs", "sign", "signed", "will sign"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_520",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to reduce/lower something': They had to _______ the price.",
+    "options": ["cut in", "cut off", "cut down", "cut out"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_521",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Precarious**.",
+    "options": ["Stable", "Secure", "Hazardous", "Firm"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_522",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I _______, I would apologize to her.",
+    "options": ["am you", "was you", "were you", "be you"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_523",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The noise made the patient feel very _______.",
+    "options": ["annoying", "annoyed", "annoyance", "annoy"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_524",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: They didn't start the concert until the rain stopped. (Use 'Only when...')",
+    "options": ["Only when the rain stopped, they started the concert.", "Only when the rain stopped did they start the concert.", "Only when the rain stopped, did they start the concert.", "Only when the rain had stopped did they start the concert."],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_525",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish he _______ here right now.",
+    "options": ["is", "was", "were", "had been"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_526",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct modal for **past criticism/advice**: You _______ told me you were coming.",
+    "options": ["must have", "should have", "could have", "might have"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_527",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd rather you _______ that comment.",
+    "options": ["didn't repeat", "don't repeat", "not repeat", "hadn't repeat"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_528",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: I'm very capable _______ handling the situation.",
+    "options": ["of", "for", "with", "at"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_529",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I finally got accustomed to _______ up early.",
+    "options": ["wake", "waking", "to wake", "waked"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_530",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to start a journey': We had to _______ at dawn.",
+    "options": ["set up", "set out", "set off", "set down"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_531",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Ineffectual**.",
+    "options": ["Effective", "Productive", "Futile", "Efficient"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_532",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He denied _______ the money. (Gerund)",
+    "options": ["take", "to take", "taking", "taken"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_533",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The car was _______ damaged in the accident.",
+    "options": ["bad", "badly", "good", "well"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_534",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: My boss made me sign the contract. (Use passive voice)",
+    "options": ["I was made to sign the contract by my boss.", "I was made sign the contract by my boss.", "I made to sign the contract by my boss.", "The contract was made to sign by me."],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_535",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He postponed _______ his report until the last minute.",
+    "options": ["write", "to write", "writing", "wrote"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_536",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: This is the fastest runner _______ I know.",
+    "options": ["who", "whom", "that", "which"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_537",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the question tag: Everyone enjoyed the party, _______?",
+    "options": ["didn't he", "didn't they", "did he", "did they"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_538",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: She is terrified _______ losing her job.",
+    "options": ["of", "by", "from", "at"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_539",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If only I _______ the keys! (Past regret)",
+    "options": ["didn't lose", "hadn't lost", "wouldn't lose", "don't lose"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_540",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to start to feel a strong emotion': I felt the panic _______.",
+    "options": ["set up", "set out", "set off", "set in"],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_541",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The more effort you put in, the _______ the reward.",
+    "options": ["greater", "great", "more great", "most great"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_542",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The film was _______ a success that they made a sequel.",
+    "options": ["so", "such", "too", "enough"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_543",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I don't recall _______ him the secret. (Past action)",
+    "options": ["tell", "to tell", "telling", "told"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_544",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct structure: I'd prefer _______ by bus than by train.",
+    "options": ["go", "to go", "going", "went"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_545",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: He had just arrived when the phone rang. (Use 'Hardly...when')",
+    "options": ["Hardly he had arrived when the phone rang.", "Hardly had he arrived when the phone rang.", "Hardly he arrived when the phone rang.", "Hardly did he arrive when the phone rang."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_546",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: It's important that they _______ the project on time.",
+    "options": ["finishes", "finish", "finished", "will finish"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_547",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct modal for **past deduction (certainty)**: They _______ missed the last bus; they are not here.",
+    "options": ["must have", "should have", "could have", "might have"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_548",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The building, _______ was destroyed in the fire, dated back to 1700.",
+    "options": ["that", "which", "who", "whom"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_549",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He drives too _______.",
+    "options": ["careful", "carefully", "more careful", "most careful"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_550",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I regret _______ my time. (Formal introduction)",
+    "options": ["to waste", "wasting", "waste", "wasted"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_551",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Mitigate**.",
+    "options": ["Aggravate", "Worsen", "Alleviate", "Increase"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_552",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd rather you _______ the noise down.",
+    "options": ["turned", "turn", "to turn", "turning"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_553",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: She is accustomed _______ working late.",
+    "options": ["for", "with", "to", "at"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_554",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: Someone broke into the house last night. (Passive voice)",
+    "options": ["The house was broken into last night.", "The house broke into last night.", "The house was been broken into last night.", "They broke into the house last night."],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_555",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He confessed to _______ the documents.",
+    "options": ["steal", "to steal", "stealing", "stole"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_556",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He looks _______ his favourite cartoon character.",
+    "options": ["as", "like", "as if", "as though"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_557",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I _______ more money, I would have bought the house. (Mixed conditional)",
+    "options": ["have", "had", "would have", "were having"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_558",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to look after/take care of': Can you _______ my dog while I'm away?",
+    "options": ["look up", "look over", "look after", "look into"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_559",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: By the time they arrived, we _______ the news.",
+    "options": ["will hear", "have heard", "had heard", "hear"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_560",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: It was _______ late to go to the cinema.",
+    "options": ["so", "such", "too", "enough"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_601",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The committee demanded that the investigation _______ completed.",
+    "options": ["is", "be", "was", "will be"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_602",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish I _______ the time to travel more. (Present wish)",
+    "options": ["have", "had", "will have", "would have"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_603",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: He is too inexperienced for the job. (Use 'not... enough')",
+    "options": ["He is not experienced enough for the job.", "He is not enough experienced for the job.", "He is too not experienced for the job.", "He is not enough experience for the job."],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_604",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Transient**.",
+    "options": ["Permanent", "Fleeting", "Eternal", "Constant"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_605",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I finally managed _______ the truth.",
+    "options": ["discover", "to discover", "discovering", "discovered"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_606",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The film was absolutely _______.",
+    "options": ["terrible", "terribly", "much terrible", "very terrible"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_607",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd rather you _______ about this yesterday.",
+    "options": ["said nothing", "say nothing", "had said nothing", "not say anything"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_608",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to visit someone informally': I'll _______ tomorrow.",
+    "options": ["call off", "call up", "call in", "call on"],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_609",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He denied _______ the report. (Perfect Gerund)",
+    "options": ["write", "to write", "having written", "wrote"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_610",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: She drove _______ I did.",
+    "options": ["faster than", "more fast than", "as fast", "as faster as"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_611",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite using inversion: Rarely has he traveled abroad.",
+    "options": ["Rarely he has traveled abroad.", "Rarely has he traveled abroad.", "He rarely has traveled abroad.", "Rarely he traveled abroad."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_612",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He looks as if he _______ a ghost.",
+    "options": ["saw", "sees", "has seen", "had seen"],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_613",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: She is disappointed _______ her exam results.",
+    "options": ["of", "about", "with", "for"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_614",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: By the end of the year, I _______ this book.",
+    "options": ["will read", "will have read", "will be reading", "read"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_615",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Cynical**.",
+    "options": ["Optimistic", "Hopeful", "Pessimistic", "Trusting"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_616",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I stopped _______ when I saw the traffic light turn red. (Purpose)",
+    "options": ["drive", "to drive", "driving", "drove"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_617",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: This is the man _______ dog bit me.",
+    "options": ["who", "whom", "whose", "that"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_618",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I _______, I would have accepted the offer. (Third conditional inversion)",
+    "options": ["knew", "had knew", "had known", "would know"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_619",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct modal for **past deduction (impossibility)**: He _______ at home; his lights are off.",
+    "options": ["must be", "can't be", "shouldn't be", "might be"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_620",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: He began working here in 2005. (Use 'has been')",
+    "options": ["He has been working here for 2005.", "He has been working here since 2005.", "He has worked here for 2005.", "He is working here since 2005."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_621",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I finally got used to _______ late at night.",
+    "options": ["study", "studying", "to study", "studied"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_622",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The more, the _______.",
+    "options": ["merry", "merrier", "most merry", "more merry"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_623",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: It's high time you _______ about your future.",
+    "options": ["think", "thought", "to think", "thinking"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_624",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: I'm grateful _______ your help.",
+    "options": ["to", "for", "with", "of"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_625",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: She recommended me to read the book. (Use 'suggest')",
+    "options": ["She suggested reading the book.", "She suggested me to read the book.", "She suggested that I read the book.", "Both A and C are correct."],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_626",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I don't feel like _______ today.",
+    "options": ["work", "to work", "working", "worked"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_627",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Inevitable**.",
+    "options": ["Avoidable", "Unlikely", "Certain", "Possible"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_628",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the question tag: Nobody phoned, _______?",
+    "options": ["did they", "didn't they", "did he", "didn't he"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_629",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to start to deal with': Let's _______ the issue now.",
+    "options": ["get to", "get on", "get over", "get off"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_630",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I _______ the money, I would have lent it to you. (Third conditional)",
+    "options": ["have had", "had had", "had", "would have"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_631",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The news was _______ surprising.",
+    "options": ["much", "very", "absolutely", "extremely"],
+    "correctIndex": 3
+  },
+  {
+    "id": "cambridge_632",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I remember _______ him at the conference last year. (Past action)",
+    "options": ["see", "to see", "seeing", "saw"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_633",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct structure: He made the children _______ their rooms.",
+    "options": ["tidy", "to tidy", "tidying", "tidied"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_634",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd rather you _______ the noise down now.",
+    "options": ["turned", "turn", "to turn", "turning"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_635",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: I'm very aware _______ the consequences.",
+    "options": ["of", "about", "with", "at"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_636",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: He finally escaped from the prison. (Use 'succeeded')",
+    "options": ["He succeeded to escape the prison.", "He succeeded in escaping the prison.", "He succeeded to escaping the prison.", "He succeeded escaped the prison finally."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_637",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If only he _______ here now! (Present wish)",
+    "options": ["is", "was", "were", "had been"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_638",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Coherent**.",
+    "options": ["Confusing", "Inconsistent", "Logical", "Vague"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_639",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He stopped _______ when he started a family. (Habit discontinued)",
+    "options": ["drink", "to drink", "drinking", "drank"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_640",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to invent or create a plan': They need to _______ a new strategy.",
+    "options": ["come up with", "come across", "come down to", "come round"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_641",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He's going to retire soon, _______?",
+    "options": ["is he", "isn't he", "does he", "doesn't he"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_642",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The children were _______ tired after the trip.",
+    "options": ["absolutely", "extremely", "very", "terribly"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_643",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If it _______ tomorrow, we'll go hiking.",
+    "options": ["doesn't rain", "didn't rain", "won't rain", "hadn't rain"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_644",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct structure: I'd prefer _______ rather than watch TV.",
+    "options": ["to read", "read", "reading", "to reading"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_645",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: It is generally thought that she is wealthy. (Start with 'She...')",
+    "options": ["She is thought generally to be wealthy.", "She is generally thought to be wealthy.", "She is generally thought that she is wealthy.", "She thought to be wealthy."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_646",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I don't recall _______ him before. (Gerund)",
+    "options": ["meet", "to meet", "meeting", "met"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_647",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He looks _______ he hasn't slept in days.",
+    "options": ["as", "like", "as if", "as though"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_648",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The more practice, the _______ the score.",
+    "options": ["high", "higher", "more high", "most high"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_649",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to tolerate/accept': I can't _______ this bad behaviour.",
+    "options": ["put off", "put up with", "put down", "put out"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_650",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If only he _______ the keys before leaving! (Past regret)",
+    "options": ["checks", "checked", "had checked", "would check"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_651",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Obstinate**.",
+    "options": ["Flexible", "Stubborn", "Agreeable", "Cooperative"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_652",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I finally got used to _______ spicy food.",
+    "options": ["eat", "eating", "to eat", "ate"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_653",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He drives _______ recklessly that he had an accident.",
+    "options": ["so", "such", "too", "enough"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_654",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: He started working at 9 a.m. and it's 5 p.m. now. (Use 'for')",
+    "options": ["He has been working for 9 a.m.", "He has been working since 8 hours.", "He has been working for 8 hours.", "He is working for 8 hours."],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_655",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd rather you _______ me for help.",
+    "options": ["ask", "asked", "to ask", "asking"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_656",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: I'm not good _______ driving in the city.",
+    "options": ["in", "at", "on", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_657",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The government insisted that the problem _______ solved.",
+    "options": ["is", "be", "was", "will be"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_658",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct modal for **past lack of necessity**: We _______ bought two loaves of bread; one was enough.",
+    "options": ["mustn't have", "didn't need to", "needn't have", "shouldn't have"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_659",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: She only realized her mistake when she got home. (Use 'Not until...')",
+    "options": ["Not until she got home she realized her mistake.", "Not until she got home did she realize her mistake.", "Not until she got home she did realize her mistake.", "Not until she got home, did she realize her mistake."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_660",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He denied _______ the report. (Gerund)",
+    "options": ["read", "to read", "reading", "wrote"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_661",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: He finally got used to _______ to the noise.",
+    "options": ["listen", "listening", "to listen", "listened"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_662",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The bigger the car, the _______ the insurance.",
+    "options": ["expensive", "expensiver", "more expensive", "most expensive"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_663",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Lucid**.",
+    "options": ["Vague", "Confusing", "Clear", "Obscure"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_664",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I finally managed _______ the package.",
+    "options": ["open", "to open", "opening", "opened"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_665",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: She is terrified _______ failure.",
+    "options": ["of", "by", "from", "at"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_666",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: The mechanic is fixing my car. (Use causative 'have')",
+    "options": ["I have my car fixed by the mechanic.", "I'm having my car fixed by the mechanic.", "I have fixed my car by the mechanic.", "I'm having the mechanic fixed my car."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_667",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish I _______ the time to learn German. (Past wish)",
+    "options": ["have had", "had had", "had", "would have"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_668",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The results were _______ impressive.",
+    "options": ["absolutely", "perfectly", "extremely", "very"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_669",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd rather you _______ me for help yesterday.",
+    "options": ["asked", "ask", "had asked", "to ask"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_670",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to start to deal with a problem': We need to _______ this quickly.",
+    "options": ["take on", "take up", "take off", "take in"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_671",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I _______ more money, I would travel the world. (Second conditional)",
+    "options": ["have", "had", "will have", "would have"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_672",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct structure: He denied _______ the money. (Perfect Gerund)",
+    "options": ["steal", "to steal", "having stolen", "stolen"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_673",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The team, _______ consists of nine players, won the match.",
+    "options": ["that", "which", "who", "whom"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_674",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Placid**.",
+    "options": ["Agitated", "Calm", "Furious", "Excited"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_675",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I finally managed _______ the solution.",
+    "options": ["find", "to find", "finding", "found"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_676",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The book was _______ interesting that I read it twice.",
+    "options": ["so", "such", "too", "enough"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_677",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd prefer _______ rather than watch TV.",
+    "options": ["read", "to read", "reading", "readed"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_678",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct modal for **past unfulfilled plan**: I _______ to go hiking, but it rained.",
+    "options": ["must have", "should have", "was going to", "might have"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_679",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He advised me _______ the report immediately.",
+    "options": ["to write", "write", "writing", "wrote"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_680",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: She is concerned _______ the lack of progress.",
+    "options": ["of", "about", "for", "with"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_681",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite: He had hardly started running when it rained. (Use 'No sooner...than')",
+    "options": ["No sooner he started running than it rained.", "No sooner had he started running than it rained.", "No sooner he had started running than it rained.", "No sooner did he start running than it rained."],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_682",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I finally managed to _______ the problem.",
+    "options": ["solve", "to solve", "solving", "solved"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_683",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The less money you spend, the _______ you save.",
+    "options": ["more", "most", "much", "many"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_684",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I wish I _______ the flight! (Past regret)",
+    "options": ["didn't miss", "hadn't missed", "wouldn't miss", "don't miss"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_685",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Elaborate**.",
+    "options": ["Simple", "Detailed", "Concise", "Brief"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_686",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: The higher the temperature, the _______ the risk.",
+    "options": ["high", "higher", "most high", "more high"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_687",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: The exam was _______ difficult.",
+    "options": ["absolutely", "very", "much", "a bit"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_688",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I finally got used to _______ late.",
+    "options": ["work", "working", "to work", "worked"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_689",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct phrasal verb meaning 'to start a journey': We need to _______ early.",
+    "options": ["set up", "set out", "set off", "set down"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_690",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I _______ you, I would take the opportunity.",
+    "options": ["am", "was", "were", "be"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_691",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct structure: I can't imagine _______ without music.",
+    "options": ["live", "to live", "living", "lived"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_692",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: I'd rather you _______ me for help immediately.",
+    "options": ["called", "call", "to call", "had called"],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_693",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct preposition: She is not interested _______ politics.",
+    "options": ["on", "at", "in", "with"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_694",
+    "topic": "Inglés Cambridge",
+    "text": "Rewrite using passive voice: They are going to build a new bridge next year.",
+    "options": ["A new bridge is going to be built next year.", "A new bridge is built next year.", "A new bridge will be built next year.", "They are built a new bridge next year."],
+    "correctIndex": 0
+  },
+  {
+    "id": "cambridge_695",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: He denied _______ the money. (Gerund)",
+    "options": ["take", "to take", "taking", "taken"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_696",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct word: This is the man _______ wife is a writer.",
+    "options": ["who", "whom", "whose", "that"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_697",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the question tag: Let's start the meeting, _______?",
+    "options": ["do we", "shall we", "will we", "don't we"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_698",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the synonym for **Persevere**.",
+    "options": ["Give up", "Quit", "Persist", "Stop"],
+    "correctIndex": 2
+  },
+  {
+    "id": "cambridge_699",
+    "topic": "Inglés Cambridge",
+    "text": "Complete the sentence: If I _______ the time, I would have visited you yesterday. (Mixed conditional)",
+    "options": ["have", "had", "were having", "had had"],
+    "correctIndex": 1
+  },
+  {
+    "id": "cambridge_700",
+    "topic": "Inglés Cambridge",
+    "text": "Choose the correct modal for **past possibility**: He _______ called earlier, but I doubt it.",
+    "options": ["must have", "should have", "might have", "can't have"],
+    "correctIndex": 2
+  }
+]

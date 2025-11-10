@@ -1,0 +1,3580 @@
+[
+  {
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué significa la sigla NOTAM?",
+    "options": ["Notice to Airmen", "National Traffic Alert Manual", "Navigation On Time And Maneuver", "None of the above"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué documento indica las restricciones temporales en un aeropuerto?",
+    "options": ["NOTAM", "PPR", "Flight Plan", "Weather Report"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El piloto automático puede desconectarse automáticamente cuando:",
+    "options": ["Hay turbulencia extrema o fallo de sistema", "Se enciende la luz de cabina", "El pasajero activa la alarma", "Cuando aterriza el avión"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Antes de iniciar el vuelo, la tripulación debe revisar:",
+    "options": ["Plan de vuelo, meteorología y NOTAM", "Solo la hora del despegue", "Solo la ruta prevista", "El catering"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La separación entre aeronaves en ruta se basa en:",
+    "options": ["Altitud, distancia horizontal y vertical", "Color del avión", "Peso del avión", "Número de pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los sistemas de alerta en cabina ayudan a:",
+    "options": ["Detectar obstáculos, colisiones o fallos de instrumentos", "Hacer anuncios a pasajeros", "Verificar catering", "Nada en particular"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un avión entra en espacio aéreo restringido, la tripulación debe:",
+    "options": ["Notificar a control de tráfico aéreo inmediatamente", "Ignorar la situación", "Continuar vuelo sin informar", "Aterrizar de inmediato"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué es un punto de notificación de posición?",
+    "options": ["Lugar donde se informa la posición del avión", "Lugar para cargar combustible", "Cabina de pilotos", "Sala de espera de pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los sistemas de navegación inercial sirven para:",
+    "options": ["Determinar posición y velocidad sin señales externas", "Medir temperatura de cabina", "Controlar catering", "Comunicar con pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La altitud de crucero se elige para:",
+    "options": ["Optimizar consumo, evitar tráfico y turbulencia", "Hacer el vuelo más lento", "Reducir pasajeros a bordo", "Evitar anuncios a pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué significa TCAS?",
+    "options": ["Traffic Collision Avoidance System", "Total Cargo Alert System", "Temporary Cabin Alert System", "None of the above"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si se detecta otra aeronave cercana, TCAS puede:",
+    "options": ["Emitir instrucciones de subida o descenso para evitar colisión", "Encender la luz de cabina", "Avisar a pasajeros", "Ignorar la situación"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los radares meteorológicos a bordo permiten:",
+    "options": ["Identificar tormentas y turbulencia", "Calcular combustible", "Medir altitud", "Controlar velocidad del avión"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Las cartas aeronáuticas se usan para:",
+    "options": ["Planificar rutas y aproximaciones", "Cocinar alimentos", "Contar pasajeros", "Verificar equipaje"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La comunicación con ATC debe ser:",
+    "options": ["Clara, concisa y según procedimientos", "Libre y sin protocolos", "Solo cuando hay problemas", "Opcional"],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_001",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Se entiende por Tripulante de Cabina de Pasajeros:",
+    "options": [
+      "Cualquier persona que ejerce sus funciones a bordo de una aeronave.",
+      "Aquella persona que, sin ser miembro de la tripulación de vuelo, desempeña funciones en la cabina de pasaje en beneficio de la seguridad.",
+      "Aquella persona que realiza alguna actividad para un operador aéreo.",
+      "Aquella persona que ofrece el servicio a los pasajeros a bordo de un avión."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_002",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cómo se denomina a los pasajeros que molestan, perturban a la tripulación y pasajeros del avión, poniendo en riesgo la seguridad del vuelo?",
+    "options": [
+      "Pasajeros indeseables",
+      "Pasajeros conflictivos",
+      "Pasajeros perturbadores",
+      "Pasajeros rebeldes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_003",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "En qué Convenio se reflejan las infracciones graves efectuadas por pasajeros durante un vuelo:",
+    "options": [
+      "Convenio de Tokio",
+      "Convenio de Varsovia",
+      "Convenio de Chicago",
+      "Convenio de Bruselas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_004",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Quién es la persona que autoriza a desembarcar a un pasajero, una vez que ya está a bordo de la aeronave:",
+    "options": [
+      "El sobrecargo",
+      "El comandante",
+      "El coordinador de tierra",
+      "El copiloto bajo supervisión del comandante"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_005",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los TCP deben vigilar y controlar que los pasajeros no fumen desde el momento en que:",
+    "options": [
+      "Desde que embarcan hasta que hayan desembarcado en el destino",
+      "Desde que el pasajero va al cuarto de baño",
+      "Desde el momento de armado de rampas",
+      "Desde el momento de cierre de puertas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_006",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Dónde se ubican las advertencias escritas sobre el comportamiento inaceptable de los pasajeros a bordo de una aeronave?",
+    "options": [
+      "En cabina de mando (cockpit)",
+      "En el rack delantero del avión",
+      "En los galleys",
+      "En el rack último del avión"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_007",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es el número máximo de pasajeros bajo custodia que podemos transportar en una aeronave?",
+    "options": [
+      "2, acompañados por 2 policías cada uno",
+      "3, acompañados por 3 policías cada uno",
+      "1, acompañado por 2 policías",
+      "Depende de la compañía aérea"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_008",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "En el transporte de pasajeros conflictivos, ¿qué significa las siglas INAD?",
+    "options": [
+      "Pasajero bajo los efectos del alcohol",
+      "Pasajero bajo los efectos de sustancias estupefacientes",
+      "Pasajero bajo custodia",
+      "Pasajero no admitido en destino"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "ags_009",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Pasajeros conflictivos, ¿qué significan las siglas DEPU?",
+    "options": [
+      "Pasajero deportado acompañado",
+      "Pasajero deportado no acompañado",
+      "Pasajero bajo custodia",
+      "Pasajero no admitido en destino"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_010",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Pasajeros conflictivos, ¿qué significan las siglas DEPA?",
+    "options": [
+      "Pasajero deportado acompañado",
+      "Pasajero deportado no acompañado",
+      "Pasajero bajo custodia",
+      "Pasajero no admitido en destino"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_011",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Puede un pasajero llevar consigo un arma de fuego a bordo?",
+    "options": [
+      "No, bajo ningún concepto",
+      "Sí, únicamente el personal armado autorizado y acreditado prestando servicio",
+      "Sí, siempre con autorización del Comandante",
+      "Sí, siempre que no exceda de 3 el número de personal armado a bordo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_012",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué son los PED?",
+    "options": [
+      "Equipos electromagnéticos de la Cabina de Mando",
+      "Equipos electromagnéticos de la Cabina de Pasaje",
+      "El equipo de entretenimiento a bordo",
+      "Dispositivos electrónicos portátiles"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "ags_013",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la definición de Interferencia Ilícita?",
+    "options": [
+      "Actos o tentativas destinados a comprometer la puntualidad en la Aviación Civil",
+      "Actos o tentativas destinados a comprometer la puntualidad en las Compañías Aéreas",
+      "Actos o tentativas destinados a comprometer la actuación de la Tripulación de Cabina",
+      "Actos o tentativas destinados a comprometer la seguridad de la Aviación Civil"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "ags_014",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es el anexo de la OACI que trata sobre la Seguridad en Vuelo?",
+    "options": [
+      "Anexo 18",
+      "Anexo 19",
+      "Anexo 17",
+      "Anexo 12"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_015",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué es la CEAC?",
+    "options": [
+      "Conferencia española de Aviación Civil",
+      "Conferencia europea de Aviación Civil",
+      "Conferencia americana de Aviación Civil",
+      "Conferencia estatal de Aviación Civil"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_016",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "En cuanto a Seguridad Aeroportuaria, ¿cuál es la Zona Pública?",
+    "options": [
+      "Es la zona de libre acceso tanto para pasajeros como para trabajadores y visitantes",
+      "Es la zona de acceso seguro tanto para pasajeros como para trabajadores y visitantes",
+      "Es la zona de acceso restringido tanto para pasajeros como para trabajadores y visitantes",
+      "Es la zona de libre acceso únicamente para pasajeros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_017",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "En cuanto a Seguridad Aeroportuaria a la Guardia Civil le corresponde la responsabilidad de:",
+    "options": [
+      "La seguridad de las zonas públicas, el control documental y la inmigración",
+      "La seguridad de las zonas públicas",
+      "Los controles de seguridad, la seguridad de las zonas restringidas y críticas, las aduanas y el control fiscal",
+      "Los controles de seguridad, las zonas públicas, el control documental y la inmigración"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_018",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "En cuanto a los pasajeros INAD, ¿existe limitación al transporte de estos pasajeros?",
+    "options": [
+      "Sí, únicamente 6 por cada vuelo",
+      "No, no hay limitación ninguna",
+      "Sí, dependiendo de su peligrosidad",
+      "Sí, dependiendo de su delito"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_019",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El código número dos de los pasajeros DEPU/DEPA significa actos:",
+    "options": [
+      "Actos delictivos",
+      "Actos ilegales",
+      "Actos penales",
+      "Actos ofensivos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_020",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "En cuanto a Seguridad Aeroportuaria, se considera Zona Restringida de Seguridad:",
+    "options": [
+      "La zona de libre acceso tanto para pasajeros como para trabajadores y visitantes",
+      "La zona cuyo acceso está sujeto a un control de seguridad",
+      "La zona cuyo acceso está sujeto a un control de Aduanas",
+      "La zona cuyo acceso está sujeto a un control de Inmigración"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_021",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿En qué año se fundó la CEAC y cuántos estados la componen?",
+    "options": [
+      "En 1955 y la componen 44 estados",
+      "En 1955 y la componen 55 estados",
+      "En 1957 y la componen 44 estados",
+      "En 1965 y la componen 44 estados"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_022",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los pasajeros deportados con código 3 siempre vuelan acompañados:",
+    "options": [
+      "Depende del manual de Seguridad en Vuelo de las Compañías Aéreas",
+      "Depende del grado de delito que hayan cometido",
+      "Sí, siempre",
+      "Depende del número de deportados que llevemos a bordo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_023",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿A qué organismo hacen referencia las siglas PNS?",
+    "options": [
+      "Programa Nacional de Servicio Aéreo",
+      "Programa Nacional de Servicio al Pasajero",
+      "Programa Nacional de Servicio a las Tripulaciones",
+      "Programa Nacional de Seguridad"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "ags_024",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es el ámbito de aplicación del PNS?",
+    "options": [
+      "Todos los aeropuertos que se utilicen con fines militares",
+      "Todos los aeropuertos que no se utilicen exclusivamente con fines militares",
+      "Todos los aeropuertos del territorio español",
+      "Todos los aeropuertos del territorio europeo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_025",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué significan las siglas AVSEC?",
+    "options": [
+      "Aviation Security",
+      "Aviation Safety",
+      "Aviation Sector",
+      "Aviation Secret"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_026",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "En cuanto a la Seguridad Aeroportuaria, al Cuerpo Nacional de Policía le corresponde la responsabilidad de:",
+    "options": [
+      "La seguridad de las zonas críticas, control documental y la inmigración",
+      "La seguridad de las zonas públicas, el control documental y el control fiscal",
+      "La seguridad de las zonas públicas, el control documental y la inmigración",
+      "La seguridad de las zonas públicas y las zonas restringidas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_027",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuándo deben hacer los TCPs un Security Check?",
+    "options": [
+      "Antes de cada embarque y desembarque si el avión procede de un aeropuerto fuera de la UE",
+      "Antes de cada desembarque si el avión procede de un aeropuerto dentro de la UE",
+      "Antes de cada embarque y desembarque si el avión procede de un aeropuerto de la UE",
+      "Antes de cada desembarque si el avión procede de un aeropuerto fuera de la UE"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_028",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Según el Programa Nacional de Seguridad para la Aviación Civil, la puerta de Cabina de Vuelo:",
+    "options": [
+      "Permanecerá cerrada desde que se cierran las puertas del avión y bloqueada en despegue y aterrizaje",
+      "Permanecerá cerrada y bloqueada hasta la aproximación final, luego solo cerrada",
+      "Permanecerá cerrada y bloqueada solo en caso de emergencia",
+      "Permanecerá cerrada y bloqueada desde que se cierran las puertas hasta que se paren los motores y se abran"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "ags_029",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La combinación de medidas, medios humanos y recursos materiales para proteger la Aviación Civil de actos de interferencia ilícita corresponde a:",
+    "options": [
+      "AESA",
+      "EASA",
+      "CEAC",
+      "Aviation Security"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "ags_030",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Por motivos de seguridad, ¿cada cuánto deben los TCPs entrar o ponerse en contacto con cockpit?",
+    "options": [
+      "30 minutos",
+      "15 minutos",
+      "40 minutos",
+      "60 minutos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_031",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuándo deben realizar los TCPs un Security Search?",
+    "options": [
+      "Siempre que el avión proceda de un aeropuerto dentro de la UE",
+      "Siempre que el avión proceda de un aeropuerto fuera de la UE",
+      "Siempre que el avión proceda de un aeropuerto dentro de España",
+      "Siempre, independientemente de la procedencia del avión"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_032",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Existe limitación para transportar líquidos, geles y aerosoles facturados?",
+    "options": [
+      "Sí, 7 litros",
+      "Sí, 10 litros",
+      "No",
+      "Sí, 5 litros"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_033",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La limitación para transportar líquidos, geles y aerosoles en cabina de pasaje es:",
+    "options": [
+      "5 litros en envases equivalentes o inferiores a 90 ml",
+      "6 litros en envases equivalentes o inferiores a 100 ml",
+      "4 litros en envases equivalentes o inferiores a 100 ml",
+      "5 litros en envases equivalentes o inferiores a 100 ml"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_034",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La limitación para transportar munición de caza facturada es:",
+    "options": [
+      "3 kilos",
+      "4 kilos",
+      "6 kilos",
+      "5 kilos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_035",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Se llama polizón a:",
+    "options": [
+      "Al que se apodera ilícitamente de un avión",
+      "Al que embarca con un billete de mayor precio",
+      "Al que no hace caso a los reglamentos de seguridad",
+      "Al que embarca clandestinamente en una aeronave"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "ags_036",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Quiénes están obligados a recibir información sobre materia de seguridad?",
+    "options": [
+      "Solo los tripulantes",
+      "Solo los pilotos",
+      "Todo el personal del aeropuerto que deba acceder a zonas restringidas, así como las tripulaciones",
+      "Todo el personal del aeropuerto que deba acceder a zonas restringidas, pero no las tripulaciones"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_037",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Se informa a los pasajeros qué artículos tienen prohibido transportar como equipaje de mano o facturado?",
+    "options": [
+      "No",
+      "Sí, debe acudir al BOE",
+      "Sí, mediante carteles en mostradores, controles de seguridad e información al comprar el billete",
+      "No, ya que deben saberlo previamente"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_038",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Dónde encontramos una máquina de rayos X?",
+    "options": [
+      "En el control de acceso",
+      "En el control de seguridad",
+      "En la salida",
+      "En la llegada"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_039",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué debe tener toda cabina de vuelo que disponga de puerta?",
+    "options": [
+      "Un megáfono",
+      "Un cerrojo que pueda cerrar desde dentro",
+      "Un hacha",
+      "Una puerta blindada"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_040",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿En qué momento se debe realizar el registro de seguridad de la aeronave?",
+    "options": [
+      "Una vez embarcados",
+      "Una vez desembarcados",
+      "Durante el rodaje",
+      "Una vez descargado el equipaje de bodega"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_041",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál de los siguientes artículos podría un pasajero transportar en cabina?",
+    "options": [
+      "Fusil de pesca",
+      "Pimienta con rociador",
+      "Un mechero con gas licuado",
+      "Spray de pimienta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_042",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Puede una persona llevar consigo en cabina una botella de oxígeno para uso medicinal?",
+    "options": [
+      "Sí",
+      "No",
+      "Sí, siempre que esté apagada",
+      "No, ya que es peligroso"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_043",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿En cuál de las siguientes disposiciones se establece un listado de artículos prohibidos por los pasajeros en la cabina de pasaje?",
+    "options": [
+      "Anexo 17 de la OACI",
+      "Convenio de Tokio de 1963",
+      "Adjunto C del PNS",
+      "Ley de Seguridad Aérea"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_044",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "En qué fases del vuelo se prohíbe entrar en la cabina de vuelo, excepto por razones de máxima urgencia?",
+    "options": [
+      "Aterrizaje y despegue",
+      "Ascenso",
+      "Descenso",
+      "Crucero"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_045",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Además de los miembros de la tripulación, en la cabina de vuelo podrán entrar al avión:",
+    "options": [
+      "Los directivos de la compañía",
+      "Cualquier persona",
+      "Los inspectores debidamente autorizados por la autoridad aeronáutica",
+      "Cualquier persona autorizada por el comandante previamente identificada"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_046",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Dónde se especifican los procedimientos de aplicación para facilitar los procesos de auditorías e inspecciones de seguridad en aeropuertos españoles?",
+    "options": [
+      "Código Civil",
+      "Ley de Navegación Aérea",
+      "Convenio de Tokio de 1963",
+      "Programa de Control de Calidad de Seguridad de Aviación Civil"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "ags_047",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Quiénes son los responsables de la seguridad?",
+    "options": [
+      "Todos: tripulantes, fuerzas de seguridad y vigilantes",
+      "Los tripulantes",
+      "Las fuerzas de seguridad",
+      "Los vigilantes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_048",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué hacer si encontramos una persona fumando?",
+    "options": [
+      "Avisar al comandante y buscar la colilla si la hay",
+      "Que siga fumando",
+      "Avisar al comandante",
+      "Dar un sermón"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_049",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cómo nos identifican a la tripulación en el control de seguridad?",
+    "options": [
+      "Con el ID de la compañía",
+      "Con la licencia",
+      "Con el pasaporte",
+      "Con el DNL"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_050",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los tripulantes estamos exentos de un control de seguridad:",
+    "options": [
+      "Mentira",
+      "Verdad",
+      "Jamás",
+      "Puede ser"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_051",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Puede una familia pasar por el control de pasajeros líquidos para su bebé o niño?",
+    "options": [
+      "No",
+      "Sí",
+      "Depende del personal de seguridad",
+      "Depende de la decisión de la Guardia Civil"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_052",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la función principal del TCP?",
+    "options": [
+      "La seguridad",
+      "El SAB",
+      "Las tareas de embarque",
+      "Los chequeos previos a vuelo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_053",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál de estos documentos te permite volar de extra-crew?",
+    "options": [
+      "ID de la compañía, licencia, pasaporte y cima",
+      "Tarjeta de embarque",
+      "Billete enviado por tu aerolínea",
+      "ID de la compañía, licencia, pasaporte"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_054",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Quién te proporciona el ID de tripulante?",
+    "options": [
+      "La compañía",
+      "AENA",
+      "AESA",
+      "El aeropuerto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_055",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Al pasar el control de seguridad, la alarma no suena pero se encienden los indicadores luminosos:",
+    "options": [
+      "Se le permitirá acceder a la persona",
+      "Identificar si la persona porta un objeto metálico",
+      "Las dos opciones anteriores son correctas",
+      "Se detiene el acceso automáticamente"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_056",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Tiene fecha de caducidad el ID de tripulante?",
+    "options": [
+      "Sí",
+      "No",
+      "Siempre será válido",
+      "Depende de la compañía"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_057",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué es un tripulante en situación?",
+    "options": [
+      "TCP llamado por su compañía para estar de incógnito en los vuelos",
+      "TCP que vuela como pasajero preparado para actuar en caso de emergencia",
+      "TCP en servicio en un vuelo, según lo solicitado por la compañía",
+      "TCP en tierra para control de seguridad"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_058",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Quién comete un acto de interferencia ilícita?",
+    "options": [
+      "Organizaciones terroristas",
+      "Un pasajero",
+      "Un pasajero con miopía",
+      "Un DEPU sin escolta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_059",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Quién hace los controles de seguridad de aduanas?",
+    "options": [
+      "Policía Local",
+      "Guardia Civil",
+      "Policía Nacional",
+      "Policía Canaria"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_060",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Quién hace el control de inmigración?",
+    "options": [
+      "Policía Local",
+      "Guardia Civil",
+      "Policía Nacional",
+      "Policía Canaria"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_061",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La tarjeta del parking de trabajadores, ¿quién la concede?",
+    "options": [
+      "AENA",
+      "La compañía",
+      "AESA",
+      "El aeropuerto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_062",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuáles son los registros de seguridad?",
+    "options": [
+      "Controlar acceso a la aeronave",
+      "Security check antes y después de embarcar",
+      "Security search cuando el avión proceda de un aeropuerto fuera de la UE",
+      "Todas las anteriores son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "ags_063",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué es un Pax INAD?",
+    "options": [
+      "Un pasajero admitido con su documentación en regla",
+      "Un pasajero que lleva un animal de compañía",
+      "Un pasajero NO admitido por falta de visado, pasaporte caducado o sospechoso",
+      "Un pasajero con asientos especiales"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_064",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Un DEPU puede llevar un máximo de:",
+    "options": [
+      "2 guardaespaldas",
+      "5 guardaespaldas",
+      "Ninguno",
+      "Depende del manual"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_065",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuántos pasajeros pueden estar bajo custodia en un mismo vuelo?",
+    "options": [
+      "7",
+      "2",
+      "1",
+      "Depende del operador"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_066",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Un TCP puede amordazar a un pasajero conflictivo en el avión:",
+    "options": [
+      "No",
+      "Sí",
+      "En algunas ocasiones",
+      "Solo con autorización del comandante"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_067",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Un TCP puede negarle o retirarle bebidas alcohólicas a un pasajero:",
+    "options": [
+      "Sí, negarle pero no retirarle",
+      "Sí, retirarle pero no negarle",
+      "Sí, puede retirarle y negarle en casos especiales",
+      "No"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_068",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Indique cuáles de los siguientes artículos NO están prohibidos para el pasajero y su equipaje de mano:",
+    "options": [
+      "Armas de fuego",
+      "Dispositivos para provocar descargas eléctricas",
+      "Patines de hielo",
+      "Secador de pelo"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "ags_069",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la normativa que establece las limitaciones sobre objetos prohibidos en aeronaves?",
+    "options": [
+      "Normativa europea sobre seguridad aérea",
+      "Normativa sobre aeronavegabilidad",
+      "Normativa sobre usuarios",
+      "Normativa sobre comercio de emisiones de aviación y ruido"
+    ],
+    "correctIndex": 0
+  },
+    {
+      "id": "ags_070",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Cuál es la función principal de la Autoridad Nacional de Aviación Civil (ANAC) en términos de seguridad?",
+      "options": ["Promocionar destinos turísticos", "Certificar aeronaves y personal, y supervisar el cumplimiento de la normativa", "Gestionar las operaciones de tierra en el aeropuerto", "Administrar las tiendas Duty-Free"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_071",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué principio de seguridad aérea se refiere a la necesidad de mantener a las aeronaves y personas alejadas de peligros conocidos?",
+      "options": ["Mitigación de riesgo", "Prevención de peligro", "Aseguramiento de la seguridad", "Gestión de la calidad"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_072",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "Según el Anexo 17 de OACI, ¿qué es un 'Acto de Interferencia Ilícita'?",
+      "options": ["Un retraso en el vuelo por mal tiempo", "Cualquier acto o tentativa destinado a comprometer la seguridad de la aviación civil", "Una discusión entre pasajeros a bordo", "Una huelga de personal de tierra"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_073",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Cuál es el propósito del **Reglamento (UE) 2015/1998** en la aviación civil europea?",
+      "options": ["Regular el precio de los billetes aéreos", "Establecer normas detalladas para la aplicación de las normas básicas sobre seguridad de la aviación", "Controlar la emisión de gases contaminantes", "Definir las rutas aéreas transcontinentales"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_074",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué se entiende por **'Cultura de Seguridad'** en una organización aérea?",
+      "options": ["El número de inspectores de seguridad que tiene la organización", "El conjunto de valores, actitudes y prácticas que influyen en la forma en que se abordan los riesgos de seguridad", "Las campañas de marketing sobre seguridad", "El uso de uniformes de alta visibilidad"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_075",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "La **Zona Restringida de Seguridad (ZRS)** del aeropuerto incluye:",
+      "options": ["Solo la zona de check-in", "Las zonas de acceso al público y tiendas", "Las zonas de embarque, plataforma, pistas, y el área de manejo de equipaje", "Únicamente la torre de control"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_076",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué es un **Punto Crítico de Control (PCC)** en el contexto de la seguridad aeroportuaria?",
+      "options": ["El punto más alto del aeropuerto", "Un lugar donde se aplican medidas de seguridad para detectar o prevenir actos de interferencia ilícita", "Una cafetería muy concurrida", "El lugar de estacionamiento de vehículos"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_077",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "El **ID de tripulante (Crew ID)** es un documento que acredita:",
+      "options": ["La nacionalidad y la licencia médica del tripulante.", "La condición de tripulante y autoriza el acceso a las Zonas Restringidas de Seguridad (ZRS).", "La antigüedad laboral en la compañía aérea.", "Únicamente la posesión de la licencia TCP."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_078",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué entidad en España es responsable de la supervisión y ejecución del **Programa Nacional de Seguridad para la Aviación Civil (PNS)**?",
+      "options": ["AENA (Aeropuertos Españoles y Navegación Aérea)", "IATA (Asociación Internacional de Transporte Aéreo)", "AESA (Agencia Estatal de Seguridad Aérea)", "Cuerpo Nacional de Policía"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_079",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Quién tiene la responsabilidad final de la seguridad de la aeronave y de todas las personas a bordo durante un vuelo?",
+      "options": ["El primer oficial (copiloto)", "El sobrecargo (jefe de cabina)", "El vigilante de seguridad de la aeronave, si lo hay", "El Comandante"],
+      "correctIndex": 3
+    },
+    {
+      "id": "ags_080",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "La inspección de seguridad del avión realizada por los TCPs antes de la entrada de pasajeros para detectar objetos sospechosos se denomina:",
+      "options": ["Briefing operacional", "Inspección de mantenimiento", "Security Check", "Recorrido de emergencia"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_081",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Cuándo debe realizar la tripulación de cabina el **Security Search** (registro completo y exhaustivo de seguridad) de la aeronave?",
+      "options": ["Antes de cada despegue, sin excepción.", "Cuando la aeronave procede de un aeropuerto situado fuera de la UE/EEE.", "Después de cada escala larga, independientemente de la procedencia.", "Solo si el Comandante lo solicita expresamente."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_082",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Cuál es el límite máximo de Líquidos, Aerosoles y Geles (**LAGs**) por envase que un pasajero puede llevar en su equipaje de mano?",
+      "options": ["200 ml", "100 ml", "50 ml", "No hay límite si se compra en tiendas del aeropuerto."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_083",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "Los envases de LAGs permitidos en cabina deben transportarse dentro de una bolsa de plástico transparente y resellable, con una capacidad máxima de:",
+      "options": ["0,5 litros", "1 litro", "2 litros", "La bolsa puede ser opaca, siempre que sea resellable."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_084",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Se permite el transporte de **medicamentos líquidos** y **comida para bebés** necesarios para el viaje en el equipaje de mano?",
+      "options": ["No, nunca, están sujetos a la norma de 100 ml.", "Sí, pero deben presentarse por separado en el control de seguridad y ser justificados.", "Solo si el vuelo es de largo recorrido.", "Solo si vienen precintados por una farmacia."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_085",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué significa el código **DEPU** en la gestión de pasajeros inadmitidos o deportados?",
+      "options": ["Pasajero con Documentación Pendiente de Aclaración.", "Deportado No Acompañado (Deported Unaccompanied).", "Deportado Acompañado (Deported Accompanied).", "Pasajero a Desembarcar Por Autoridad."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_086",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué es un pasajero **INAD**?",
+      "options": ["Pasajero en una lista de espera para embarcar.", "Pasajero no admitido en destino por las autoridades de inmigración.", "Pasajero que requiere asistencia médica a bordo.", "Pasajero con asiento Inadecuado."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_087",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "Ante un pasajero que se vuelve **perturbador o indisciplinado (Unruly Passenger)** a bordo, el primer paso de la tripulación debe ser:",
+      "options": ["Pedir a la policía que suba a bordo inmediatamente.", "Aplicar la fuerza física para inmovilizarlo.", "Aplicar técnicas de desescalada, comunicación y persuasión.", "Avisar por megafonía a todos los pasajeros de la situación."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_088",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "La puerta de la cabina de vuelo debe permanecer cerrada y bloqueada desde:",
+      "options": ["El último pasajero embarca.", "Se cierran las puertas del avión hasta que se abren en el punto de estacionamiento.", "Se alcanza la altitud de crucero.", "El Comandante lo decide."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_089",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "En vuelo, ¿cuál es el intervalo máximo de tiempo en el que los TCPs deben establecer contacto (visual o verbal) con la cabina de vuelo, según los procedimientos de seguridad?",
+      "options": ["Cada 60 minutos", "Cada 30 minutos", "Cada 15 minutos", "Solo en caso de que suene una alarma."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_090",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Cuál de los siguientes objetos **NO** está clasificado como artículo prohibido para el equipaje de mano?",
+      "options": ["Cuchillos con hojas de más de 6 cm.", "Cualquier tipo de arma de fuego.", "Navaja de afeitar de hoja libre.", "Máquina de afeitar eléctrica."],
+      "correctIndex": 3
+    },
+    {
+      "id": "ags_091",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué organismo internacional se encarga de estandarizar las prácticas de aviación civil a nivel mundial (estándares y métodos recomendados - SARPs)?",
+      "options": ["IATA (Asociación Internacional de Transporte Aéreo)", "EASA (Agencia Europea de Seguridad Aérea)", "OACI (Organización de Aviación Civil Internacional)", "FAA (Administración Federal de Aviación de EE. UU.)"],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_092",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Cuál es la finalidad del **Programa Nacional de Control de Calidad de Seguridad (PNCCS)** en España?",
+      "options": ["Garantizar que el servicio de catering cumple los estándares de higiene.", "Evaluar la eficacia del PNS (Programa Nacional de Seguridad) y asegurar el cumplimiento de las normas de seguridad.", "Controlar el nivel de ruido de las aeronaves en los aeropuertos.", "Medir la calidad del servicio a pasajeros."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_093",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "En caso de recibir una **amenaza de bomba** por cualquier medio (nota, llamada, etc.), ¿quién debe ser la primera persona a la que debe informar un TCP?",
+      "options": ["A la policía del aeropuerto.", "Al controlador de tráfico aéreo.", "Al Comandante (o al Jefe de Cabina para que este informe al Comandante).", "A los pasajeros para que se protejan."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_094",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "El transporte de munición de caza o deportiva en equipaje facturado está sujeto a una limitación de peso máxima de:",
+      "options": ["3 kg netos por persona.", "5 kg brutos por persona.", "10 kg brutos por persona.", "No está permitido bajo ningún concepto."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_095",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué documento legal internacional aborda las infracciones cometidas por personas a bordo de aeronaves, otorgando facultades al comandante?",
+      "options": ["Convenio de Chicago (1944)", "Convenio de Tokio (1963)", "Convenio de Montreal (1999)", "Convenio de La Haya (1970)"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_096",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Cuál de los siguientes **NO** es un miembro de la tripulación de vuelo (Flight Crew)?",
+      "options": ["El Comandante (piloto al mando)", "El Primer Oficial (copiloto)", "El Ingeniero de Vuelo (si aplica)", "El sobrecargo o jefe de cabina."],
+      "correctIndex": 3
+    },
+    {
+      "id": "ags_097",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué significan las siglas **CEAC**?",
+      "options": ["Comité Ejecutivo de Aviación Civil.", "Conferencia Europea de Aviación Civil.", "Compañía Estatal de Aviación Comercial.", "Centro de Entrenamiento de Aviación Civil."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_098",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Cuál es el procedimiento que debe seguir un TCP si encuentra un **objeto sospechoso o abandonado** en la cabina de pasajeros?",
+      "options": ["Abrirlo para verificar su contenido y evitar alarmar.", "Trasladarlo a una zona de almacenamiento segura (galley).", "No tocarlo, restringir el acceso a la zona e informar inmediatamente al Comandante.", "Llamar al dueño por megafonía."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_099",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "En el control de seguridad del aeropuerto, ¿qué cuerpo de seguridad español es responsable de los controles de **aduanas y fiscal**?",
+      "options": ["Cuerpo Nacional de Policía.", "Vigilantes de Seguridad Privada.", "Guardia Civil.", "Agentes de la Policía Local."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_100",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué cuerpo de seguridad español es responsable del control de **inmigración y documental** en las fronteras aeroportuarias?",
+      "options": ["Guardia Civil.", "Cuerpo Nacional de Policía.", "Policía Local.", "Vigilancia Aduanera."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_101",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "Una **Zona Crítica de Seguridad (ZCS)** es una parte de la ZRS donde los riesgos de seguridad se consideran:",
+      "options": ["Mínimos y despreciables.", "Elevados, y se aplican controles adicionales.", "Solo aplicables al personal de mantenimiento.", "Restringidos a los días festivos."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_102",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "Si un pasajero intenta llevar un objeto prohibido a través del control de seguridad, ¿quién toma la decisión final sobre si el objeto debe ser confiscado o desechado?",
+      "options": ["El Comandante del vuelo.", "El agente de la aerolínea en la puerta de embarque.", "El personal de seguridad aeroportuaria, bajo la autoridad competente.", "El vigilante de la Guardia Civil o Policía."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_103",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué debe hacer un TCP con su **ID de tripulante** cuando no está en servicio o dentro de una ZRS?",
+      "options": ["Dejarlo en el mostrador de facturación de la compañía.", "Guardarlo siempre visible en el uniforme.", "Debe guardarlo fuera de la vista para prevenir su uso indebido.", "Entregarlo al Jefe de Cabina."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_104",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué significa la sigla **SAB** para la tripulación de cabina?",
+      "options": ["Sistema de Alerta de Bombas.", "Servicio A Bordo.", "Seguridad y Asistencia Básica.", "Separación Aérea de Barcos."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_105",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "Los **PEDs** (Dispositivos Electrónicos Portátiles) que no tienen modo avión deben permanecer:",
+      "options": ["En modo silencio.", "Apagados y no utilizados durante todo el vuelo.", "Encendidos durante el despegue.", "En el compartimento superior."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_106",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué acción está explícitamente **prohibida** a un TCP con un pasajero indisciplinado, según los manuales de seguridad de la mayoría de aerolíneas?",
+      "options": ["Negarle el servicio de alcohol.", "Inmovilizarlo si es un riesgo grave.", "Darle un sermón moralizante en público.", "Utilizar esposas o elementos de sujeción no autorizados o improcedentes."],
+      "correctIndex": 3
+    },
+    {
+      "id": "ags_107",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "Se considera que un artículo es **'sospechoso'** si:",
+      "options": ["Tiene un color extraño.", "Está fuera de lugar, es inusual o su presencia no está justificada.", "Está etiquetado en un idioma extranjero.", "Pesa más de 5 kg."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_108",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "La **CEAC** (Conferencia Europea de Aviación Civil) fue fundada en:",
+      "options": ["1955", "1963", "1944", "1970"],
+      "correctIndex": 0
+    },
+    {
+      "id": "ags_109",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Cuál es el propósito principal del **Convenio de La Haya de 1970**?",
+      "options": ["La represión del apoderamiento ilícito de aeronaves.", "La regulación del transporte de mercancías peligrosas.", "La compensación a las víctimas de accidentes aéreos.", "La estandarización de las licencias de vuelo."],
+      "correctIndex": 0
+    },
+    {
+      "id": "ags_110",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué son las **SARPs** de la OACI?",
+      "options": ["Standards and Recommended Practices (Normas y Métodos Recomendados).", "Security and Rescue Plans.", "Safety Audit and Review Procedures.", "Standard Aircraft Repair Parts."],
+      "correctIndex": 0
+    },
+    {
+      "id": "ags_111",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué significa que el registro de seguridad (Security Check) debe realizarse **'al 100%'**?",
+      "options": ["Que solo se revisa el 100% de los asientos.", "Que el 100% de la tripulación debe participar.", "Que todas las partes y rincones accesibles de la cabina deben ser inspeccionados.", "Que debe hacerse en menos de 100 segundos."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_112",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "Si un pasajero lleva un fusil de pesca en cabina (artículo permitido, pero peligroso), ¿cómo debe transportarse?",
+      "options": ["Debe ser sujetado con el cinturón de seguridad.", "Debe ser asegurado por el Comandante en la cabina de vuelo.", "Debe ser asegurado por el TCP de forma que no pueda ser usado como arma (generalmente en bodega).", "Puede llevarlo bajo su asiento."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_113",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "La **Tarjeta de Embarque de la Tripulación (Crew Boarding Pass)** es necesaria para:",
+      "options": ["Acreditar la nacionalidad del tripulante.", "Acceder a la aeronave y pasar el control de seguridad cuando se vuela de 'extra-crew' o 'dead-head'.", "Verificar la licencia médica.", "Abrir las puertas de emergencia."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_114",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Cuál es la principal distinción entre la **Zona Pública (ZP)** y la **Zona Restringida de Seguridad (ZRS)** del aeropuerto?",
+      "options": ["La ZP tiene tiendas y la ZRS no.", "El acceso a la ZRS está sujeto a un control de seguridad.", "La ZP es solo para pasajeros y la ZRS para empleados.", "La ZRS tiene que ver con la pista y la ZP con la terminal."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_115",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué se entiende por 'Perfilado de Pasajeros' en el control de seguridad?",
+      "options": ["La asignación de asientos según el peso.", "El análisis de comportamiento y apariencia de los pasajeros para detectar intenciones ilícitas.", "La verificación del nombre y la edad en el billete.", "La medida de la altura del pasajero."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_116",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "En el caso de un deportado acompañado (**DEPA**), ¿cuántos agentes de escolta se requieren como mínimo por pasajero?",
+      "options": ["Ninguno, el deportado viaja solo.", "Dos agentes por deportado.", "Un agente por deportado.", "Depende del Comandante."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_117",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Cuál es el código de conducta que regula el comportamiento de los pasajeros y las consecuencias de las infracciones a bordo?",
+      "options": ["El manual de la aeronave.", "Las disposiciones del Convenio de Tokio (1963).", "Las normas de EASA sobre aeronavegabilidad.", "El Programa de Facilitación de la OACI."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_118",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "La principal responsabilidad de la **Guardia Civil** en la ZRS de los aeropuertos españoles incluye:",
+      "options": ["Control de pasaportes (inmigración) y seguridad de la aeronave.", "Seguridad de la zona pública y control de aduanas/fiscal.", "Mantenimiento de las pistas y plataformas.", "Inspección de las comidas de catering."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_119",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "Si un TCP observa que la puerta de cabina de vuelo no está correctamente bloqueada en vuelo, debe:",
+      "options": ["Ignorarlo si el vuelo es corto.", "Informar inmediatamente al Jefe de Cabina y/o al Comandante.", "Intentar cerrarla él mismo sin informar a nadie.", "Esperar a que se encienda la señal de cinturones."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_120",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "El término **'Polizón'** se refiere a una persona que:",
+      "options": ["Viaja en primera clase sin billete.", "Embarca clandestinamente en una aeronave sin el conocimiento del operador ni de las autoridades.", "Ha perdido su tarjeta de embarque.", "Es miembro de la tripulación en situación."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_121",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "La **protección de la aeronave** contra el acceso no autorizado se aplica desde:",
+      "options": ["La llegada al aeropuerto de origen.", "El momento en que comienza el embarque.", "El inicio de las comprobaciones de seguridad previas al vuelo y hasta el despegue.", "El inicio de las comprobaciones de seguridad previas al vuelo hasta el vuelo de destino."],
+      "correctIndex": 3
+    },
+    {
+      "id": "ags_122",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "En el contexto de seguridad, ¿qué son las **'medidas preventivas'**?",
+      "options": ["Las acciones tomadas después de un incidente.", "Las acciones destinadas a reducir la probabilidad de que ocurra un acto ilícito.", "Los ejercicios de evacuación de emergencia.", "Las inspecciones técnicas de mantenimiento."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_123",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Cuál es la entidad responsable de emitir las **'Directivas de Seguridad'** (Security Directives) en España?",
+      "options": ["AENA", "El Ministerio de Fomento.", "AESA (Agencia Estatal de Seguridad Aérea).", "La Dirección General de la Guardia Civil."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_124",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "El control de seguridad a la **tripulación** se realiza:",
+      "options": ["Solo si proceden de un país extracomunitario.", "Siempre, sin estar exentos de un control completo y aleatorio.", "Únicamente al inicio de su jornada.", "Solo si el comandante lo autoriza."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_125",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Cuál es el número máximo de **'Pasajeros Bajo Custodia'** que generalmente se permite transportar en una aeronave?",
+      "options": ["1", "2", "3", "5"],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_126",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "Si un pasajero está utilizando un **PED** que interfiere con los sistemas de navegación de la aeronave, el TCP debe:",
+      "options": ["Pedirle amablemente que lo baje de volumen.", "Pedirle que lo apague inmediatamente.", "Informar al Comandante y esperar instrucciones.", "Simplemente ignorarlo hasta la fase de crucero."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_127",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "La **revisión de la cabina** de pasajeros por parte de los TCPs tras el desembarque tiene como principal objetivo:",
+      "options": ["Recoger el equipaje abandonado y objetos de valor.", "Asegurar que no queden pasajeros a bordo.", "Detectar objetos sospechosos o artefactos explosivos.", "Verificar el estado de limpieza para el próximo vuelo."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_128",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué se entiende por **'Dead Head'** en la terminología de tripulaciones?",
+      "options": ["Un vuelo en el que solo viajan pilotos.", "Un miembro de la tripulación que viaja como pasajero para ser transportado a otro aeropuerto donde comenzará su servicio.", "Un pasajero en situación de riesgo.", "El primer vuelo de la jornada de un TCP."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_129",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "En las fases de **despegue y aterrizaje**, la tripulación de cabina debe ocupar su puesto y estar:",
+      "options": ["Realizando el Servicio A Bordo (SAB).", "Comprobando la documentación de los pasajeros.", "En 'posición de alerta' o 'posición de impacto'.", "Haciendo un briefing con los pilotos."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_130",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "Si un tripulante pierde su **ID de tripulante**, ¿cuál debe ser su acción inmediata?",
+      "options": ["Esperar a que aparezca.", "Notificarlo inmediatamente a la compañía y a la autoridad de seguridad del aeropuerto (normalmente Guardia Civil o Policía).", "Pedir un duplicado a un compañero.", "Usar su licencia TCP como sustituto."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_131",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "La **vigilancia del equipaje** de mano en los compartimentos superiores es responsabilidad:",
+      "options": ["Solo del pasajero dueño del equipaje.", "Exclusivamente del personal de tierra.", "Compartida entre los pasajeros y la tripulación de cabina.", "Únicamente del Jefe de Cabina."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_132",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿El personal armado autorizado puede portar sus armas en cabina?",
+      "options": ["Nunca.", "Sí, siempre que no estén prestando servicio.", "Sí, si están prestando servicio oficial y con conocimiento y autorización del Comandante.", "Solo si el arma está descargada."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_133",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "El objetivo principal de los controles de seguridad en los aeropuertos es:",
+      "options": ["Acelerar el proceso de embarque.", "Garantizar la comodidad de los pasajeros.", "Prevenir la introducción de artículos prohibidos a bordo de la aeronave.", "Recaudar impuestos mediante aduanas."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_134",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué se considera un **'acto de sabotaje'** en la aviación civil?",
+      "options": ["Una avería menor del motor.", "Cualquier acto destinado a causar daños físicos a una aeronave o instalación aeroportuaria para comprometer su seguridad.", "Un retraso operacional por falta de personal.", "La pérdida de una maleta facturada."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_135",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "La **caducidad del ID de tripulante** está ligada generalmente a:",
+      "options": ["La fecha de la última revisión médica.", "La fecha de caducidad del pasaporte.", "La finalización del contrato laboral con la compañía aérea.", "La antigüedad del TCP."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_136",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "Si se produce una amenaza de bomba o sabotaje en vuelo, la acción más urgente de la tripulación de cabina debe ser:",
+      "options": ["Intentar desalojar a los pasajeros.", "Comunicar la situación al Comandante e iniciar los procedimientos de seguridad y gestión de la amenaza.", "Servir bebidas calientes para calmar a los pasajeros.", "Localizar inmediatamente al responsable de la amenaza."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_137",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "Los controles de seguridad que se aplican a las mercancías y el correo se denominan:",
+      "options": ["Inspección Aduanera.", "Control Fiscal.", "Cribado de Carga y Correo.", "Control de Tráfico Aéreo."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_138",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué tipo de **PED** se permite usar en las fases de rodaje, despegue y aterrizaje?",
+      "options": ["Solo ordenadores portátiles con modo avión.", "Ninguno.", "Solo los PEDs pequeños (móviles) en modo avión.", "Solo reproductores de DVD."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_139",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "En una situación de **Interferencia Ilícita**, el TCP debe priorizar:",
+      "options": ["La evacuación inmediata de los pasajeros.", "La comunicación de la situación al Comandante, la protección de la cabina de vuelo y la seguridad de los pasajeros.", "El servicio a bordo para mantener la calma.", "La negociación directa con los agresores."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_140",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Se requiere que los pasajeros de la UE que se dirigen a un país Schengen pasen control de inmigración?",
+      "options": ["Sí, siempre.", "No, generalmente están exentos del control documental de personas (pero sí del control de seguridad).", "Solo si el vuelo es nocturno.", "Depende de la aerolínea."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_141",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "El **Programa de Seguridad de la Compañía Aérea** (Airline Security Programme) debe ser aprobado por:",
+      "options": ["El CEO de la compañía.", "La IATA.", "La Autoridad Nacional de Aviación Civil (ANAC) del Estado de la aerolínea (en España, AESA).", "El Comandante de la flota."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_142",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "El TCP que vuela como pasajero, pero está preparado para actuar en caso de emergencia, se denomina:",
+      "options": ["Tripulante extra-crew.", "Tripulante en situación o Pasajero de Seguridad.", "Personal de apoyo en tierra.", "Jefe de cabina sustituto."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_143",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Cuál es la norma que regula las medidas comunes en materia de seguridad de la aviación civil en la UE?",
+      "options": ["Reglamento (CE) nº 1107/2006 (PRM).", "Reglamento (UE) 2015/1998.", "Convenio de Varsovia.", "Reglamento (CE) nº 261/2004 (Denegación de Embarque)."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_144",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Se permite a un pasajero llevar un encendedor de gas en el bolsillo?",
+      "options": ["No, está prohibido.", "Sí, uno por persona, en el bolsillo, pero no en el equipaje de mano ni facturado.", "Sí, siempre que esté descargado.", "Solo en vuelos domésticos."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_145",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "El control de seguridad que se aplica al **Catering y Suministros** de a bordo tiene como objetivo:",
+      "options": ["Asegurar la calidad de los alimentos.", "Evitar la introducción de artículos prohibidos en la aeronave a través de estos suministros.", "Verificar el número de bandejas.", "Medir la temperatura de la comida."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_146",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué se considera la **'Zona de Acceso Controlado'** en un aeropuerto?",
+      "options": ["La zona VIP de la terminal.", "Las áreas donde solo se puede acceder con una acreditación o tarjeta de identificación.", "La pista de aterrizaje.", "El parking de larga estancia."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_147",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "El **Registro de Seguridad de la Aeronave** se debe realizar cada vez que el avión:",
+      "options": ["Aterriza en su base principal.", "Ha quedado desatendido o ha estado en una ZRS no controlada.", "Supera las 100 horas de vuelo.", "Cambia de tripulación."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_148",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Quién tiene la autoridad para negarse a transportar a un pasajero que represente un riesgo para la seguridad?",
+      "options": ["El Agente de Puerta (Gate Agent).", "El Jefe de Cabina (Sobrecargo).", "El Comandante.", "El personal de limpieza."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_149",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "La instrucción de seguridad que el TCP da a los pasajeros antes del despegue se conoce como:",
+      "options": ["Briefing de emergencia.", "SAB de bienvenida.", "Demostración de seguridad.", "Briefing de ruta."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_150",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "Las **armas Taser (dispositivos que provocan descargas eléctricas)** están clasificadas como:",
+      "options": ["Artículos permitidos con restricciones.", "Artículos prohibidos en cabina y facturado.", "Artículos permitidos solo para el personal de seguridad.", "Artículos permitidos solo si están sin baterías."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_151",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "El concepto de **'Detección de Amenazas'** en seguridad aérea se refiere a:",
+      "options": ["La revisión de la lista de pasajeros.", "El uso de equipos y procedimientos para identificar artículos prohibidos o sospechosos.", "El control de la velocidad del viento.", "La identificación de las nubes de tormenta."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_152",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "En el caso de un **secuestro** (apoderamiento ilícito) en curso, la tripulación de cabina debe evitar a toda costa:",
+      "options": ["Mantener la calma de los pasajeros.", "Iniciar una confrontación directa con los secuestradores, a menos que sea la única opción.", "Informar al comandante.", "Seguir las instrucciones del comandante."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_153",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Cuál es el propósito principal de la **Puerta de Cabina de Vuelo Blindada (FCD)**?",
+      "options": ["Reducir el ruido en cabina.", "Proteger a la tripulación de vuelo de interferencias ilícitas por parte de la cabina de pasajeros.", "Servir como salida de emergencia.", "Almacenar documentos de vuelo."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_154",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "La **formación inicial en AVSEC** que recibe un TCP antes de obtener su licencia es responsabilidad de:",
+      "options": ["El aeropuerto.", "El centro de formación aeronáutica (ATO).", "La aerolínea (operador).", "AENA."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_155",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué debe hacer un TCP si observa una persona sin acreditación intentando entrar en la ZRS?",
+      "options": ["Ofrecerle ayuda para encontrar su camino.", "Bloquear el acceso e informar inmediatamente al personal de seguridad.", "Advertirle que es una zona de pago.", "Dejarlo pasar si parece tener prisa."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_156",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "La **prohibición de fumar** en los aviones incluye:",
+      "options": ["Solo cigarrillos y puros.", "Solo en los lavabos.", "Cualquier producto que genere humo o vapor (cigarrillos electrónicos, vaporizadores) durante todo el tiempo a bordo.", "Solo durante el despegue y aterrizaje."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_157",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "El código **'DEPA'** implica que el deportado puede ser un riesgo para la seguridad, por lo que:",
+      "options": ["Debe sentarse siempre en primera clase.", "Debe ser inmovilizado con esposas durante el vuelo.", "Debe sentarse en la última fila y no cerca de salidas de emergencia.", "Debe recibir comida especial."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_158",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Cuál es el propósito del control de seguridad a los **suministros de la aerolínea** (materiales de limpieza, mantas, revistas)?",
+      "options": ["Asegurar que cumplen con el peso máximo.", "Evitar que sean utilizados para esconder artículos prohibidos.", "Verificar el inventario de la cabina.", "Comprobar la fecha de caducidad."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_159",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "La responsabilidad de la **seguridad del equipaje facturado** recae principalmente sobre:",
+      "options": ["El pasajero.", "El Comandante.", "El explotador (aerolínea) y el aeropuerto, que deben garantizar el cribado (screening).", "La tripulación de cabina."],
+      "correctIndex": 2
+    },
+    {
+      "id": "ags_160",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué significan las siglas **EASA**?",
+      "options": ["European Airport Security Agency.", "Agencia Europea de Seguridad Aérea.", "European Aviation Standards Association.", "European Airspace Services Authority."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_161",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "Si durante el embarque se detecta un **pasajero ebrio** o bajo los efectos de drogas, el TCP debe:",
+      "options": ["Negarle el embarque e informar al Comandante.", "Permitirle embarcar si paga un extra.", "Asignarle un asiento aislado.", "Darle un café fuerte y una manta."],
+      "correctIndex": 0
+    },
+    {
+      "id": "ags_162",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "La **Formación Periódica de Seguridad** para TCPs se lleva a cabo para:",
+      "options": ["Renovar su contrato laboral.", "Mantener la competencia y actualizar los conocimientos de seguridad y emergencias.", "Aprender un nuevo idioma.", "Practicar el servicio a bordo."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_163",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué se entiende por **'Blindaje de la Cabina de Vuelo'**?",
+      "options": ["El uso de cortinas opacas.", "El reforzamiento de la puerta de la cabina de vuelo para resistir impactos y disparos.", "El uso de cristales tintados.", "El aislamiento acústico de la cabina."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_164",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "En el contexto de seguridad, ¿cuál es el objetivo del **cribado (screening)**?",
+      "options": ["Medir la temperatura de los pasajeros.", "Determinar si una persona o un artículo representa una amenaza de seguridad.", "Asignar un asiento en el avión.", "Facturar el equipaje de los pasajeros."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_165",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Qué tipo de **fases del vuelo** se consideran **críticas** desde el punto de vista de la seguridad (puerta de cabina)?",
+      "options": ["Solo el crucero.", "Rodaje, despegue y aterrizaje.", "Solo la aproximación.", "El embarque y el desembarque."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_166",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "El **Programa Nacional de Seguridad (PNS)** tiene su ámbito de aplicación en:",
+      "options": ["Solo los aeropuertos de la capital.", "Todos los aeropuertos que no se utilicen exclusivamente con fines militares.", "Solo los vuelos internacionales.", "Únicamente en las aeronaves de carga."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_167",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "¿Cuál es la herramienta que utiliza el personal de seguridad para revisar el contenido del equipaje de mano sin abrirlo?",
+      "options": ["Escáner de huellas dactilares.", "Máquina de Rayos X (X-ray).", "Cámara de visión nocturna.", "Balanza de precisión."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_168",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "Si un pasajero lleva un **medicamento líquido** de más de 100 ml, ¿qué debe presentar en el control de seguridad?",
+      "options": ["Una factura de compra de farmacia.", "Una acreditación médica o receta que justifique su necesidad durante el vuelo.", "Un justificante de trabajo.", "Ningún documento es necesario."],
+      "correctIndex": 1
+    },
+    {
+      "id": "ags_169",
+      "topic": "Aspectos generales de seguridad en aviacion",
+      "text": "La **'Regla de los Dos'** (Two-Person Rule) en la cabina de vuelo se aplica cuando:",
+      "options": ["Hay dos pilotos a bordo en todo momento.", "Solo hay dos tripulantes de cabina en total.", "Uno de los pilotos abandona el puesto de pilotaje en vuelo (debe entrar otro miembro de la tripulación en su lugar).", "El comandante y el copiloto hacen su revisión pre-vuelo."],
+      "correctIndex": 2
+    },
+  {
+    "id": "ags_170",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Acreditación Aeroportuaria'**?",
+    "options": ["Un pase de autobús gratuito.", "Un documento oficial que permite el acceso a las Zonas Restringidas de Seguridad (ZRS) a personal autorizado.", "El billete de avión.", "La licencia de piloto."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_171",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un TCP es testigo de un **acceso no autorizado** a la aeronave durante la escala, su primera acción debe ser:",
+    "options": ["Intentar detener al intruso por la fuerza.", "Ignorar la situación y continuar con el 'Security Check'.", "Informar inmediatamente al Comandante y/o a la autoridad de seguridad del aeropuerto.", "Preguntar al intruso por su destino."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_172",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **OACI** (Organización de Aviación Civil Internacional) es un organismo dependiente de:",
+    "options": ["La Unión Europea (UE).", "Las Naciones Unidas (ONU).", "La IATA.", "La NASA."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_173",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la responsabilidad principal del **sobrecargo o Jefe de Cabina** en materia de seguridad?",
+    "options": ["Solo la venta de productos a bordo.", "Supervisar los procedimientos de seguridad y emergencias en la cabina y ser el enlace con el Comandante.", "Pilotar la aeronave.", "Hacer el control de inmigración."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_174",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El control de seguridad a los pasajeros se lleva a cabo en el **Punto de Control de Seguridad (PCS)**, situado en el límite entre:",
+    "options": ["La ZRS y la ZCS.", "La Zona Pública (ZP) y la Zona Restringida de Seguridad (ZRS).", "La terminal de pasajeros y la pista.", "El área de facturación y el área de aduanas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_175",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué debe hacer un TCP si un pasajero pide guardar en la cabina de vuelo un objeto que le fue confiscado en el control de seguridad?",
+    "options": ["Aceptarlo sin preguntar.", "Negarse rotundamente, explicando que es un artículo prohibido.", "Avisar al Comandante para que decida.", "Solo si el pasajero tiene buen aspecto."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_176",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **Registro de Seguridad (Security Search)** de la aeronave incluye la inspección de:",
+    "options": ["Solo los compartimentos superiores.", "El Cockpit, la cabina de pasajeros, los galleys y los aseos.", "Solo el equipaje de mano.", "Únicamente la bodega de carga."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_177",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si se encuentra una pequeña cantidad de **LAGs** sin la bolsa transparente reglamentaria en el equipaje de mano:",
+    "options": ["Se le confisca todo.", "Se le permite pasar si el TCP lo autoriza.", "Se le ofrece una bolsa para cumplir con la normativa, si está disponible, o se le confisca.", "Se le cobra una multa."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_178",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Un pasajero bajo custodia, a diferencia de un deportado, viaja porque:",
+    "options": ["No tiene visado.", "Está siendo trasladado por razones legales o policiales (detenido, preso).", "Se le ha negado el embarque por overbooking.", "Es un miembro de la tripulación en situación."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_179",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Se permite el transporte de **armas Taser** (Dispositivos que provocan descargas eléctricas) en el equipaje facturado?",
+    "options": ["Sí, si están sin baterías.", "No, están prohibidos tanto en cabina como en facturado.", "Sí, si se declaran en el check-in.", "Solo si son de uso militar."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_180",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es el objetivo de los programas de **concienciación en seguridad** para el personal aeroportuario?",
+    "options": ["Reducir el salario.", "Fomentar la vigilancia y la notificación de comportamientos o artículos sospechosos.", "Hacer publicidad de la aerolínea.", "Enseñar técnicas de pilotaje."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_181",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "En una situación de emergencia, ¿quién debe ser informado inmediatamente por el TCP antes de tomar cualquier acción drástica?",
+    "options": ["El pasajero más cercano.", "La Guardia Civil.", "El Comandante.", "El personal de tierra."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_182",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **Convenio de Chicago (1944)** estableció los principios rectores de:",
+    "options": ["El transporte marítimo.", "El transporte por carretera.", "El derecho aeronáutico internacional y creó la OACI.", "La seguridad alimentaria."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_183",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué medida de seguridad se aplica para evitar que los **Pasajeros NO Acompañados** (DEPU) se fuguen o causen problemas?",
+    "options": ["Se les cobra un billete más caro.", "Se les sienta al lado de la tripulación.", "Se les puede aplicar la inmovilización si es necesario, y generalmente no se les permite servir bebidas alcohólicas o cubiertos de metal.", "Se les da un asiento con mucho espacio para las piernas."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_184",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Inspección de las Áreas Remotas de la Aeronave** (ej. bodegas, compartimentos de equipos) es parte del:",
+    "options": ["Security Check.", "Security Search.", "Briefing de Tripulación.", "Control de Aduanas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_185",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Se requiere que la tripulación de cabina pase por los **arcos detectores de metales** en el control de seguridad?",
+    "options": ["No, están exentos.", "Solo si el Comandante lo ordena.", "Sí, junto con el resto de pasajeros, aunque puedan pasar por controles dedicados.", "Solo en vuelos internacionales."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_186",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El término **'Polizón'** se identifica como una amenaza para la seguridad porque:",
+    "options": ["Puede ocupar un asiento de pago.", "Puede esconder explosivos o ser un agente de interferencia ilícita.", "Puede comer mucho catering.", "Puede ser un pasajero conflictivo conocido."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_187",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la norma que exige que los **equipos electrónicos portátiles grandes (LIPEDs)** permanezcan apagados y guardados durante las fases críticas del vuelo?",
+    "options": ["Normativa de EASA sobre operación de aeronaves.", "Normativa de IATA sobre maletas.", "Reglamento (UE) 2015/1998.", "Convenio de Montreal."],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_188",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "En el caso de un **cuchillo de pesca** que un pasajero intenta llevar en cabina, ¿cuál es la limitación principal?",
+    "options": ["El peso total del equipaje de mano.", "La longitud de la hoja del cuchillo (generalmente más de 6 cm está prohibido).", "El color del mango.", "La antigüedad del cuchillo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_189",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Servicio A Bordo (SAB)'** en la aviación?",
+    "options": ["Solo la venta de productos.", "El conjunto de atenciones y servicios que la tripulación ofrece a los pasajeros (cuidado, comidas, etc.).", "Las tareas de pilotaje.", "La seguridad de la aeronave."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_190",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El TCP tiene la autoridad de **retirarle el alcohol** a un pasajero si:",
+    "options": ["El pasajero lo pide.", "El pasajero ha consumido demasiado y su comportamiento es o puede ser perturbador para la seguridad.", "Se acaba el alcohol a bordo.", "El Comandante está durmiendo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_191",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Regla de las Tres R's'** ante una amenaza de bomba a bordo (Reconocer, Restringir, Reportar) implica que:",
+    "options": ["El TCP debe tocar el objeto para reconocerlo.", "El TCP debe informar al Comandante después de reconocer el objeto y restringir el acceso a la zona.", "El TCP debe pedir ayuda por radio a un aeropuerto cercano.", "El TCP debe desarmar el artefacto."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_192",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se considera una **'Zona Estéril'** en un aeropuerto?",
+    "options": ["La pista de aterrizaje.", "El área entre el punto de control de seguridad y la puerta de embarque (área de embarque).", "El control de aduanas.", "La zona de carga de combustible."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_193",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Acreditación Aeroportuaria** es emitida por:",
+    "options": ["La aerolínea.", "La OACI.", "El gestor aeroportuario (ej. AENA en España) bajo la supervisión de la autoridad de seguridad (AESA).", "El sindicato de tripulantes."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_194",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un TCP observa que el **precinto de seguridad** de una puerta de la aeronave ha sido roto, debe:",
+    "options": ["Colocar un precinto nuevo y continuar.", "Ignorarlo si es un vuelo corto.", "Informar inmediatamente al Comandante, ya que indica una posible violación de seguridad.", "Preguntar al personal de limpieza si lo hicieron ellos."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_195",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué tipo de explosivo es el que suelen buscar los equipos de detección en los controles de seguridad?",
+    "options": ["Explosivos nucleares.", "Artefactos incendiarios improvisados y explosivos plásticos/militares (ej. C4, Semtex).", "Dinamita industrial.", "Pólvora de fuegos artificiales."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_196",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Línea Roja'** en seguridad de aviación se refiere a:",
+    "options": ["El borde de la pista de aterrizaje.", "El límite que no debe cruzar un pasajero indisciplinado o una persona armada en la cabina de pasajeros hacia la cabina de vuelo.", "El cinturón de seguridad.", "La línea de facturación."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_197",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se requiere para el transporte de un **arma de fuego deportiva** en el equipaje facturado?",
+    "options": ["Debe viajar descargada, embalada adecuadamente, declarada, y con autorización.", "Basta con declararla en el check-in.", "Puede viajar cargada, pero declarada.", "Solo se permiten si son pistolas de agua."],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_198",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Certificación de Seguridad'** de una compañía aérea la otorga:",
+    "options": ["El Ministerio de Defensa.", "La Autoridad Nacional de Aviación Civil (ANAC).", "La Asociación de Pilotos.", "La Asociación de Agencias de Viajes."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_199",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un pasajero fuma en el **aseo**, el TCP debe:",
+    "options": ["Dejarlo pasar si está en la fase de crucero.", "Abrir la puerta y ventilar.", "Notificar inmediatamente al Comandante y seguir los procedimientos de la compañía (documentación del incidente y gestión del fuego).", "Solo apagar el cigarrillo y advertirle."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_200",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la principal función del **detector de trazas de explosivos (ETD)** en el control de seguridad?",
+    "options": ["Medir la radiación del equipaje.", "Detectar partículas microscópicas de explosivos en superficies.", "Pesar el equipaje de mano.", "Verificar el pasaporte."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_201",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los **líquidos Duty-Free (LAGs)** comprados en el aeropuerto, ¿están sujetos a la restricción de 100 ml?",
+    "options": ["Sí, siempre.", "No, si están sellados en una bolsa de seguridad (STEB) con el recibo a la vista.", "Solo si el vuelo es internacional.", "Depende de la aerolínea."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_202",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es el principal objetivo del **Sistema de Gestión de la Seguridad (SMS)**?",
+    "options": ["Mejorar la eficiencia de las ventas a bordo.", "Proporcionar un enfoque sistemático para gestionar la seguridad operacional, incluyendo las estructuras organizativas, las responsabilidades, políticas y procedimientos.", "Controlar el gasto de combustible.", "Optimizar el tiempo de facturación."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_203",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Evaluación del Riesgo de Seguridad'** se realiza para:",
+    "options": ["Estimar el precio del billete.", "Determinar la probabilidad y el impacto potencial de las amenazas de seguridad.", "Decidir qué catering se servirá.", "Establecer la altitud de crucero."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_204",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si la alarma del **arco detector de metales** suena en el control de seguridad para un tripulante:",
+    "options": ["Se le permite pasar directamente.", "Debe pasar un control manual adicional.", "Debe ir a la oficina de la aerolínea.", "Se le permite un segundo intento sin revisión."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_205",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Equipaje NO Acompañado'**?",
+    "options": ["El equipaje de mano que cabe en el compartimento superior.", "El equipaje facturado que ha sido facturado por un pasajero, pero que no viaja con él.", "El equipaje perdido.", "El equipaje de un polizón."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_206",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **TCAS** (Traffic Collision Avoidance System) es un sistema de:",
+    "options": ["Seguridad (Safety).", "Seguridad (Security).", "Servicio a Bordo.", "Entretenimiento en Vuelo."],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_207",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué debe hacer un TCP con los **residuos de alimentos** de un vuelo internacional que deben ser eliminados en destino?",
+    "options": ["Tirarlos al cubo de la basura común.", "Guardarlos para el siguiente vuelo.", "Cumplir con los procedimientos de eliminación de residuos de riesgo biológico (normativa sanitaria y AVSEC).", "Regalarlos a los pasajeros."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_208",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la **función principal del TCP** a bordo de una aeronave?",
+    "options": ["Garantizar el confort de los pasajeros.", "Priorizar la seguridad y la asistencia a los pasajeros en caso de emergencia.", "Vender productos Duty-Free.", "Organizar el equipaje."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_209",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **inspección de la aeronave** antes de la llegada de los pasajeros es un acto de:",
+    "options": ["Mantenimiento.", "Seguridad (Security).", "Asistencia a Bordo (SAB).", "Control de Inmigración."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_210",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Escenario de Riesgo'** en AVSEC?",
+    "options": ["Una película de acción.", "Una descripción de una amenaza potencial y cómo podría materializarse.", "Un mapa de la cabina.", "Un itinerario de vuelo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_211",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **Convenio de Montreal de 1999** es importante porque:",
+    "options": ["Regula la venta de alcohol a bordo.", "Actualiza las normas sobre la responsabilidad civil del transportista aéreo por daños a pasajeros, equipaje y carga.", "Establece las reglas para la segregación de sexos.", "Define las rutas polares."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_212",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál de las siguientes **prohibiciones** es competencia del Comandante o del operador?",
+    "options": ["La prohibición de llevar sandalias.", "La prohibición de beber agua mineral.", "La prohibición de servir alcohol a una persona ebria.", "La prohibición de usar gafas de sol."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_213",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **Programa Nacional de Seguridad (PNS)** tiene como objetivo:",
+    "options": ["Establecer un sistema de control de calidad para el servicio a bordo.", "Proteger la aviación civil contra los actos de interferencia ilícita.", "Regular el tráfico aéreo.", "Gestionar la meteorología."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_214",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "En el caso de un **pasajero bajo custodia**, ¿quién asume la responsabilidad de su comportamiento a bordo?",
+    "options": ["El Jefe de Cabina.", "Los agentes de escolta (si los tiene) y el Comandante asume la autoridad sobre la aeronave.", "El personal de check-in.", "La aerolínea de forma exclusiva."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_215",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un pasajero introduce un objeto prohibido en la cabina **a pesar** de los controles, ¿quién asume la responsabilidad del fallo del control?",
+    "options": ["El Comandante.", "La tripulación de cabina.", "El gestor aeroportuario o la entidad responsable del control de seguridad.", "El pasajero únicamente."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_216",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **Security Check** debe realizarse siempre antes de:",
+    "options": ["Cada vuelo, antes del embarque de pasajeros.", "Cada comida a bordo.", "Cada despegue y aterrizaje.", "Solo en la escala de destino."],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_217",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se considera un **'PEE'** en el contexto de seguridad?",
+    "options": ["Pasajero con Equipaje Excesivo.", "Peligro de Explosión Excesiva.", "Procedimiento Específico de Emergencia.", "Programa de Evaluación de la Eficacia."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_218",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **Anexo 18 de la OACI** se centra en:",
+    "options": ["La seguridad de las pistas.", "El transporte sin riesgos de mercancías peligrosas por vía aérea.", "La licencia de TCP.", "La búsqueda y el salvamento."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_219",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué es un **'objeto sin compañía'** en la ZRS?",
+    "options": ["Un objeto facturado.", "Cualquier objeto encontrado en la ZRS que no esté bajo la vigilancia de un pasajero o trabajador.", "Un equipaje de mano.", "Una herramienta del personal de mantenimiento."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_220",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **formación de AVSEC** para la tripulación de cabina es:",
+    "options": ["Solo teórica.", "Inicial y periódica, con pruebas de competencia.", "Solo práctica.", "Opcional."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_221",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la medida de seguridad que se aplica para evitar el transporte de **equipaje no acompañado**?",
+    "options": ["El control de inmigración.", "La conciliación de equipaje y pasajero (Bag-to-Passenger Reconciliation).", "El control de aduanas.", "La inspección de la cabina de vuelo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_222",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un TCP es testigo de un **acto de sabotaje** en tierra, su primera acción debe ser:",
+    "options": ["Intentar desarmar al atacante.", "Informar inmediatamente al Comandante y/o a la autoridad aeroportuaria y de seguridad.", "Publicar una foto en redes sociales.", "Esconderse hasta que acabe el ataque."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_223",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El término **'Segregación'** de pasajeros se aplica a los deportados para:",
+    "options": ["Asegurar que no se sienten con sus familiares.", "Sentarlos en asientos específicos (generalmente en la parte trasera) para facilitar su vigilancia y reducir el riesgo.", "Colocarlos en asientos de primera clase.", "Asegurar que estén cerca de las salidas de emergencia."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_224",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se considera un **'Pasajero en Situación'** (In-Situ Crew)?",
+    "options": ["Un TCP volando de vacaciones.", "Un TCP que está preparado para actuar en una emergencia, volando como pasajero y cumpliendo funciones de seguridad (Air Marshal, etc.).", "Un TCP de baja laboral.", "Un TCP que acaba de terminar su servicio."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_225",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los **objetos punzantes o con filo** con una longitud de hoja de menos de 6 cm (como cortauñas o pequeñas tijeras) en el equipaje de mano:",
+    "options": ["Están prohibidos totalmente.", "Están permitidos, según la normativa de la UE.", "Depende del criterio del TCP.", "Solo están permitidos si son de plástico."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_226",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Autoridad Competente** en España para la Seguridad de la Aviación Civil es:",
+    "options": ["El Ministerio del Interior.", "El Consejo de Ministros.", "AESA.", "AENA."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_227",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "En el caso de un **'Polizón'** encontrado a bordo, el TCP debe:",
+    "options": ["Asignarle un asiento de primera clase.", "Mantenerlo vigilado, aislarlo si es posible y notificar al Comandante inmediatamente.", "Darle una bebida y un snack.", "Pedirle su billete."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_228",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué implica el código **DEPA 3** para un deportado?",
+    "options": ["Riesgo mínimo de seguridad.", "Riesgo moderado de seguridad.", "Riesgo alto de seguridad, generalmente debe volar siempre con escolta.", "Deportado por motivos económicos."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_229",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Vigilancia Pasajeros'** durante el vuelo es una función de seguridad del TCP para:",
+    "options": ["Asegurar que no roben el catering.", "Detectar comportamientos sospechosos o actos de interferencia ilícita.", "Verificar que todos duermen.", "Asegurar que todos lean el manual de seguridad."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_230",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El control de seguridad a los **suministros de combustible** es parte de:",
+    "options": ["El mantenimiento de la aeronave.", "La seguridad del aeropuerto.", "El control de calidad de la gasolina.", "El control de tráfico aéreo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_231",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Se pueden transportar **pequeñas cantidades de pintura en aerosol** en el equipaje facturado?",
+    "options": ["Sí, si se declaran.", "No, si contienen gases inflamables están prohibidos (Mercancías Peligrosas).", "Solo si es un vuelo corto.", "Depende del color de la pintura."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_232",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un pasajero intenta acceder a la cabina de vuelo sin autorización, el TCP debe:",
+    "options": ["Abrir la puerta y preguntarle qué quiere.", "Bloquearle el paso y notificar inmediatamente a la cabina de vuelo (Cockpit) y al Comandante.", "Ofrecerle un café.", "Ignorarlo y llamar a la policía."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_233",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué es un **'Artículo Prohibido'** en el contexto de seguridad?",
+    "options": ["Cualquier artículo que pueda causar daño a la aeronave, a las personas o que pueda ser utilizado para cometer un acto de interferencia ilícita.", "Un juguete de niño.", "Una revista antigua.", "Una prenda de vestir."],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_234",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Formación de Concienciación sobre Seguridad (AVSEC)** es obligatoria para:",
+    "options": ["Solo los pilotos.", "Todo el personal que accede a Zonas Restringidas de Seguridad (ZRS).", "Solo el personal de tierra.", "Únicamente el personal de limpieza."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_235",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Quién es la persona encargada de realizar el **cribado (screening)** a los pasajeros y al equipaje de mano?",
+    "options": ["El personal de la aerolínea.", "El personal de seguridad (vigilantes) habilitado por la autoridad competente.", "El Comandante.", "El personal de aduanas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_236",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si se detecta un objeto sospechoso en la ZRS de la aeronave (parte interior), el TCP debe:",
+    "options": ["Llevarlo a facturación.", "Aplicar la Regla de las Tres R's (Reconocer, Restringir, Reportar) e informar al Comandante.", "Esconderlo hasta el aterrizaje.", "Intentar abrirlo con cuidado."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_237",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los **TED** (Threat Evaluation Device) son dispositivos utilizados en el control de seguridad para:",
+    "options": ["Medir la altitud del avión.", "Evaluar el riesgo de una amenaza (aunque TED se refiere a los detectores de trazas de explosivos - ETD).", "Hacer anuncios a los pasajeros.", "Controlar el flujo de aire."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_238",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la norma general para el transporte de **material médico** (sondas, jeringuillas) en cabina?",
+    "options": ["Están totalmente prohibidos.", "Se permiten si son necesarios para el uso durante el viaje y se justifican médicamente.", "Solo si son de plástico.", "Solo si el vuelo es de larga distancia."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_239",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "En caso de un acto de interferencia ilícita, la **prioridad del TCP** es:",
+    "options": ["Proteger la puerta del Cockpit y la vida de los pasajeros.", "Garantizar la venta de Duty-Free.", "Negociar la liberación de rehenes.", "Pilotar la aeronave."],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_240",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **inspección de vehículos** que acceden a la ZRS de la aeronave es una medida de:",
+    "options": ["Mantenimiento.", "Seguridad Aeroportuaria.", "Control de Tráfico.", "Limpieza."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_241",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Conciliación de Equipaje'** (Bag-to-Passenger Reconciliation) se aplica para:",
+    "options": ["Asegurar que cada maleta llegue a su destino.", "Asegurar que todo el equipaje facturado corresponde a un pasajero que realmente ha embarcado en la aeronave.", "Verificar el peso del equipaje.", "Asegurar que las maletas están bien cargadas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_242",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Pasajero Bajo Custodia'** (CUPS)?",
+    "options": ["Un pasajero VIP.", "Una persona que viaja escoltada por fuerzas de seguridad por motivos legales (prisión, deportación peligrosa).", "Un niño viajando solo.", "Un pasajero con problemas de salud."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_243",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál de los siguientes artículos es un **PED**?",
+    "options": ["Un mechero.", "Un paraguas.", "Un teléfono móvil o una tablet.", "Un libro de papel."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_244",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Formación de Amenazas Específicas** es parte de la formación periódica del TCP e incluye:",
+    "options": ["Solo el servicio a bordo.", "El reconocimiento de explosivos, secuestro y amenazas de bomba.", "La gestión de equipaje.", "La contabilidad a bordo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_245",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué implica la **'Vigilancia Activa'** de los TCPs en la cabina?",
+    "options": ["Estar de pie en los galleys.", "Observar el comportamiento de los pasajeros e identificar cualquier anomalía o amenaza potencial.", "Dormir en el asiento.", "Leer un libro."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_246",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si se produce una **Amenaza de Bomba a Bordo** (Bomb Threat), la aeronave debe aterrizar:",
+    "options": ["En el aeropuerto de destino.", "En el aeropuerto más cercano y seguro, siguiendo los procedimientos de la compañía (divertirse).", "En un campo abierto.", "En un aeropuerto militar."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_247",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Lista de Artículos Prohibidos'** en cabina se encuentra en:",
+    "options": ["El menú de comidas.", "El Adjunto C del Reglamento (UE) 2015/1998.", "El manual de Mercancías Peligrosas.", "El Anexo 6 de OACI."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_248",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Se pueden llevar **bombas de baño** (bath bombs) en el equipaje de mano?",
+    "options": ["No, porque contienen pólvora.", "Sí, generalmente, ya que no son explosivas.", "Solo si se compran en el aeropuerto.", "Depende del aroma."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_249",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El control de seguridad a los pasajeros en el punto de embarque (Gate Screening) es:",
+    "options": ["Siempre obligatorio.", "Solo si el vuelo es a un destino de alto riesgo o si lo requiere el Estado de destino/origen (control adicional).", "Opcional y aleatorio.", "Nunca se hace."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_250",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Quién tiene la autoridad para ordenar la **apertura de un equipaje** para su inspección en el control de seguridad?",
+    "options": ["El personal de la aerolínea.", "El Comandante.", "El personal de seguridad habilitado.", "El TCP de la puerta de embarque."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_251",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El concepto de **'Acto de Interferencia Ilícita'** cubre:",
+    "options": ["Solo el secuestro.", "El sabotaje, la amenaza de bomba, el apoderamiento ilícito y otras formas de interferencia.", "Solo las discusiones a bordo.", "El retraso del vuelo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_252",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un TCP tiene dudas sobre si un artículo es **prohibido** o no, debe consultar:",
+    "options": ["A un pasajero frecuente.", "A su Manual de Seguridad y Mercancías Peligrosas (o al Comandante).", "Al personal de limpieza.", "Al piloto del avión de al lado."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_253",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es el riesgo de seguridad asociado al **equipaje no acompañado**?",
+    "options": ["Que se pierda.", "Que contenga un artefacto explosivo o material ilícito y no haya un pasajero que lo reclame.", "Que sea muy pesado.", "Que ocupe el espacio de un pasajero."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_254",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **briefing de seguridad** de la tripulación debe incluir la revisión de:",
+    "options": ["Las recetas de cocina.", "Los NOTAM de seguridad, los artículos prohibidos y las posibles amenazas conocidas.", "El historial de ventas del vuelo anterior.", "La lista de cumpleaños de la tripulación."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_255",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Se puede negar el embarque a un pasajero que se **niegue a cooperar** en el control de seguridad (ej. Cacheo manual)?",
+    "options": ["No, nunca.", "Sí, ya que no permite garantizar su seguridad y la del vuelo.", "Solo si lleva pasaporte caducado.", "Depende del sexo del pasajero."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_256",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Inspección de la Cabina de Vuelo'** antes del inicio del servicio es responsabilidad de:",
+    "options": ["El Jefe de Cabina.", "El personal de limpieza.", "El Comandante y/o el Primer Oficial.", "El personal de tierra."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_257",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué debe hacer un TCP con su **Acreditación Aeroportuaria** al abandonar el puesto de trabajo en la ZRS?",
+    "options": ["Dejarla visible.", "Guardarla de forma segura.", "Dársela a un compañero.", "Tirarla a la basura."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_258",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "En el contexto de seguridad, ¿qué es un **'Pase de Acceso'**?",
+    "options": ["La tarjeta de embarque.", "Una tarjeta o documento que permite el acceso a ciertas áreas restringidas del aeropuerto (no tripulantes).", "El permiso de vacaciones.", "El billete de tren."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_259",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **formación en AVSEC** del TCP debe renovarse con una periodicidad máxima de:",
+    "options": ["Cada 6 meses.", "Cada 1 año.", "Cada 2 años.", "Cada 5 años."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_260",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un pasajero está utilizando un **PED** en modo avión, ¿en qué fases del vuelo debe guardarlo por seguridad?",
+    "options": ["Solo en crucero.", "En rodaje, despegue y aterrizaje si es un PED grande (laptop).", "Solo en el embarque.", "Nunca es necesario guardarlo en modo avión."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_261",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la norma básica de seguridad para el transporte de **armas blancas de artes marciales** en un avión?",
+    "options": ["Se pueden llevar en cabina si están desafiladas.", "Están prohibidas en cabina y deben ser declaradas y transportadas en bodega.", "Se permiten si tienen menos de 6 cm.", "Se pueden llevar si están precintadas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_262",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El concepto de **'Detección de Intenciones Hostiles'** se refiere a:",
+    "options": ["Adivinar el pensamiento de los pasajeros.", "El perfilado (profiling) y la observación de los comportamientos de los pasajeros para identificar amenazas.", "Revisar los correos electrónicos de los pasajeros.", "Medir su ritmo cardíaco."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_263",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un TCP es testigo de un **incendio provocado** en cabina, esto se considera un acto de:",
+    "options": ["Mala suerte.", "Interferencia Ilícita (Sabotaje).", "Error operacional (Safety).", "Avería técnica."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_264",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Acreditación de Tripulante** permite acceder a las ZRS de:",
+    "options": ["Solo el aeropuerto base.", "Cualquier aeropuerto dentro de la UE/EEE para cumplir sus funciones.", "Cualquier aeropuerto del mundo.", "Solo el área de catering."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_265",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Pasajero Bajo Custodia'** (CUPS) Código 1?",
+    "options": ["Bajo custodia por delitos económicos.", "Bajo custodia por actos violentos o peligrosos (alto riesgo).", "Bajo custodia por infracciones administrativas.", "Bajo custodia por motivos de salud."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_266",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los **elementos de sujeción (esposas, bridas)** a bordo se utilizan en caso de:",
+    "options": ["Pasajero durmiendo.", "Pasajero perturbador que amenaza la seguridad del vuelo y la vida de los demás, como último recurso y con la aprobación del Comandante.", "Pasajero que no quiere comprar Duty-Free.", "Pasajero que pide un asiento con ventana."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_267",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la función del **Comandante** en la gestión de un acto de interferencia ilícita?",
+    "options": ["Transferir la responsabilidad a los TCPs.", "Tomar todas las decisiones relativas a la seguridad del vuelo y cooperar con las autoridades.", "Negarse a aterrizar.", "Ignorar la situación."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_268",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Autoridad de Seguridad'** en España es AESA, que es una agencia dependiente del:",
+    "options": ["Ministerio del Interior.", "Ministerio de Fomento (o la denominación actual de Transportes).", "Ministerio de Defensa.", "Ministerio de Hacienda."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_269",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los **Procedimientos Operativos Estándar (POE/SOPs)** de seguridad de una aerolínea son desarrollados para:",
+    "options": ["Permitir a cada TCP improvisar.", "Estandarizar y asegurar la aplicación coherente de las medidas de seguridad.", "Complicar la formación.", "Ser solo recomendaciones."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_270",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Zona de Acceso Público'** en el aeropuerto?",
+    "options": ["Área sujeta a control de seguridad.", "Área de acceso libre para pasajeros y público en general.", "Solo la pista de aterrizaje.", "Solo el área de facturación."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_271",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es el principal objetivo del **Control de Acceso** a las ZRS?",
+    "options": ["Vender billetes.", "Garantizar que solo personal y vehículos autorizados y examinados accedan a la zona.", "Controlar el ruido.", "Organizar el tráfico rodado."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_272",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Inspección de las Provisiones de Bordo (Catering)** debe hacerse para:",
+    "options": ["Verificar la fecha de caducidad de los alimentos.", "Detectar objetos prohibidos que puedan ser introducidos en la aeronave a través de los alimentos o equipos de catering.", "Controlar el peso de las bandejas.", "Evaluar la calidad de la comida."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_273",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **briefing de seguridad** de la tripulación antes del vuelo incluye la revisión de la lista de pasajeros para identificar:",
+    "options": ["Pasajeros VIP.", "Pasajeros Inadmitidos (INAD), Deportados (DEPU/DEPA) o bajo Custodia (CUPS).", "Pasajeros con alergias.", "Pasajeros que han perdido su equipaje."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_274",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un pasajero deja un equipaje de mano **sin vigilancia** en la cabina, el TCP debe:",
+    "options": ["Mover el equipaje a un asiento vacío.", "Identificar al dueño y, si no aparece, tratar el objeto como sospechoso (Regla de las 3 R's).", "Ponerle una etiqueta de 'perdido'.", "Esperar 30 minutos antes de hacer nada."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_275",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Se permite a los pasajeros transportar **muletas o bastones** en cabina?",
+    "options": ["No, deben ir facturados.", "Sí, si son necesarios para su movilidad (Artículos para la asistencia de movilidad).", "Solo si son de madera.", "Solo en vuelos domésticos."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_276",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **Convenio de Tokio (1963)** otorga la potestad de **suspender el servicio de alcohol** al Comandante si:",
+    "options": ["El vuelo se retrasa.", "El pasajero está perturbando el orden o la disciplina a bordo, o hay riesgo de que lo haga.", "Se agota el stock.", "Hace mucho frío."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_277",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un TCP está volando de **'Dead Head'** (pasajero para posicionamiento), ¿debe participar en el control de seguridad (Security Check/Search)?",
+    "options": ["Sí, si el Comandante lo requiere.", "No, ya que está fuera de servicio.", "Solo si es Jefe de Cabina.", "Solo si es un vuelo largo."],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_278",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **'Control de Identificación'** del personal de seguridad en las ZRS busca verificar:",
+    "options": ["Solo el color del uniforme.", "La validez de la acreditación aeroportuaria y la identidad de la persona.", "Si han comido.", "Su nivel de inglés."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_279",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la consecuencia de que un pasajero sea clasificado como **'INAD'**?",
+    "options": ["Se le sienta en primera clase.", "Se le deniega la entrada al Estado de destino y debe ser devuelto al punto de origen por la aerolínea.", "Se le da un descuento en el próximo vuelo.", "Se le permite un control de seguridad más rápido."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_280",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los **Sistemas de Inspección de Equipaje Facturado (HBS)** se encuentran:",
+    "options": ["En la puerta de embarque.", "En la zona de aduanas.", "En la zona de facturación (Check-in) y en la línea de manejo de equipaje.", "Solo en la terminal de carga."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_281",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **Programa Nacional de Seguridad (PNS)** en España es de aplicación obligatoria para:",
+    "options": ["Solo las aerolíneas extranjeras.", "Todos los aeropuertos y operadores aéreos en el territorio español (que no sean exclusivamente militares).", "Solo los pasajeros.", "Únicamente AENA."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_282",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Vigilancia Aleatoria'** en seguridad aérea?",
+    "options": ["Vigilar solo a quien parece sospechoso.", "Aplicar medidas de control adicionales y no anunciadas a personas o equipajes, sin patrón predecible.", "Vigilar al azar sin criterio alguno.", "Vigilar solo en horas punta."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_283",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **Registro de Seguridad (Security Check)** de la cabina de pasajeros debe ser realizado por:",
+    "options": ["El personal de limpieza.", "El personal de tierra.", "Los TCPs asignados al vuelo.", "Los pilotos."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_284",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los **Agentes de Seguridad de la Aeronave (Air Marshals)** son:",
+    "options": ["TCPs con más experiencia.", "Personal de seguridad armado, generalmente policial, que viaja de incógnito para proteger el vuelo.", "Los vigilantes de la puerta de embarque.", "Pilotos de carga."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_285",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Se pueden transportar **pequeños cartuchos de gas comprimido** (para chalecos salvavidas o infladores) en el equipaje de mano?",
+    "options": ["No, el gas está prohibido.", "Sí, si se declaran y cumplen con las limitaciones de las Mercancías Peligrosas (Anexo 18).", "Solo si están vacíos.", "Depende del fabricante."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_286",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "En caso de un **secuestro**, la tripulación de cabina debe evitar comunicar cualquier información a los secuestradores que pueda:",
+    "options": ["Informarles sobre la posición de otros miembros de la tripulación o la seguridad del Cockpit.", "El tipo de comida a bordo.", "El nombre del Comandante.", "La hora de llegada."],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_287",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Autoridad Nacional de Aviación Civil (ANAC)** en España es:",
+    "options": ["AENA.", "AESA.", "Guardia Civil.", "Policía Nacional."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_288",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué debe hacer un TCP con los **residuos de Duty-Free (STEBs)** generados a bordo?",
+    "options": ["Tirarlos a la basura común.", "Guardarlos en un lugar seguro hasta que se deshagan de ellos según el procedimiento de la compañía.", "Dárselos a los pasajeros.", "Dejarlos en el suelo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_289",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El control de seguridad a los **'Pasajeros con Necesidades Especiales (PRM)'** debe realizarse:",
+    "options": ["De forma más rápida y menos exhaustiva.", "Con el mismo rigor que al resto, pero con consideración especial a su dignidad y necesidades.", "Nunca se les controla.", "Solo si lo pide el personal de tierra."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_290",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la principal diferencia entre **'Vigilancia Activa'** y **'Vigilancia Pasiva'** de un TCP?",
+    "options": ["La vigilancia pasiva es mirar por la ventana, la activa es mirar a los pasajeros.", "La vigilancia activa implica la observación constante para detectar anomalías, mientras que la pasiva es la simple presencia disuasoria.", "La vigilancia pasiva es solo en tierra, la activa en vuelo.", "No hay diferencia, son lo mismo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_291",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Amenaza de Bomba a Bordo'** (Bomb Threat) se clasifica en los manuales de seguridad como:",
+    "options": ["Una avería técnica.", "Una situación de Interferencia Ilícita.", "Un problema de catering.", "Un retraso de vuelo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_292",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un pasajero intenta introducir un **artículo prohibido** en cabina por 'despiste', el TCP debe:",
+    "options": ["Permitírselo si lo guarda bajo su asiento.", "Notificarlo y remitir al pasajero al personal de seguridad/puerta de embarque para que se deshaga del objeto.", "Confiscarlo para sí mismo.", "Darle una advertencia y dejarlo pasar."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_293",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **Reglamento (UE) nº 300/2008** establece:",
+    "options": ["La política de tarifas aéreas.", "Las normas comunes en el ámbito de la seguridad de la aviación civil.", "La regulación de los drones.", "El control de aduanas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_294",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Cribado de Alta Seguridad'**?",
+    "options": ["Una inspección más rápida.", "Una inspección más exhaustiva con tecnología avanzada (ej. TAC) en el equipaje o personas, aplicable a zonas o vuelos de alto riesgo.", "Una inspección solo visual.", "Una inspección solo a los VIPs."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_295",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **pasajero que se niega a abrocharse el cinturón** en fase de despegue/aterrizaje se considera:",
+    "options": ["Un pasajero VIP.", "Un pasajero indisciplinado/perturbador.", "Un pasajero tranquilo.", "Un pasajero que necesita ayuda."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_296",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la norma de seguridad para el transporte de **botellas de oxígeno medicinal** en cabina?",
+    "options": ["Están prohibidas siempre.", "Se permiten si son necesarias para el pasajero, pero deben ser autorizadas y cumplir con las normas de Mercancías Peligrosas.", "Solo se permiten si son pequeñas.", "Solo si el vuelo es corto."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_297",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Lista de Observación'** (Watch List) en seguridad aérea es:",
+    "options": ["La lista de pasajeros VIP.", "Una lista de individuos conocidos por ser una amenaza potencial para la seguridad de la aviación.", "La lista de la tripulación.", "La lista de comidas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_298",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Pasajero de Seguridad'** (Security Passenger)?",
+    "options": ["Un pasajero con asiento de seguridad.", "Un tripulante de cabina que vuela en situación 'In-Situ' para funciones de seguridad.", "Un agente de aduanas.", "Un pasajero que ha pagado un seguro extra."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_299",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Formación de Concienciación sobre Seguridad** del personal de tierra que accede a la ZRS debe ser impartida por:",
+    "options": ["El personal de limpieza.", "Un instructor de seguridad certificado por la ANAC (AESA).", "Cualquier empleado.", "El Comandante del vuelo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_300",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la principal función del **Sistema de Gestión de la Seguridad (SMS)** de un operador aéreo?",
+    "options": ["Minimizar los retrasos.", "Identificar, evaluar y mitigar los riesgos de seguridad operacional de forma proactiva.", "Maximizar los beneficios.", "Gestionar los billetes."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_301",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Declaración del Comandante'** sobre la seguridad del vuelo es:",
+    "options": ["Opcional.", "Una responsabilidad legal que certifica que se han cumplido los procedimientos de seguridad antes de la salida.", "Un saludo a los pasajeros.", "Un informe meteorológico."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_302",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El control de seguridad a la **tripulación de carga** (Cargo Crew) que accede a la ZRS es:",
+    "options": ["Más laxo que el de pasajeros.", "El mismo que el de los pasajeros y la tripulación de cabina.", "Solo visual.", "Solo si el vuelo es de larga distancia."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_303",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Divertirse'** en el contexto de una amenaza de bomba?",
+    "options": ["Aterrizar en el aeropuerto de destino.", "Desviar la aeronave a un aeropuerto alternativo seguro.", "Hacer acrobacias aéreas.", "Entretener a los pasajeros."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_304",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los **Pasajeros en Silla de Ruedas** (WCHR) deben pasar el control de seguridad:",
+    "options": ["Con un tratamiento especial, a menudo con cacheo manual y/o cribado de trazas de explosivos.", "Solo si pueden caminar.", "Nunca.", "Solo si llevan equipaje de mano."],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_305",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un TCP observa un **comportamiento sospechoso** en la ZRS (ej. alguien fotografiando áreas restringidas), debe:",
+    "options": ["Pedirle que le haga una foto.", "Informar inmediatamente a la autoridad de seguridad aeroportuaria y al Comandante.", "No hacer nada.", "Darle las gracias."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_306",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Guardia Civil** en el aeropuerto, además de aduanas, es responsable de:",
+    "options": ["El control de la Torre.", "La seguridad de la zona pública.", "La facturación de equipajes.", "El servicio de catering."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_307",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la limitación para transportar **aerosoles no inflamables** (ej. laca de pelo) en el equipaje facturado?",
+    "options": ["Están prohibidos.", "Se permiten hasta 2 kg o 2 litros por persona, en envases de máximo 0,5 kg o 0,5 litros.", "No hay límite.", "Solo se permite uno por maleta."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_308",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **'Cacheo Manual'** de seguridad se realiza cuando:",
+    "options": ["El pasajero lo pide.", "La alarma del arco de metales o del escáner corporal se activa y no se puede resolver la alarma de otra manera.", "El vuelo se retrasa.", "El Comandante lo ordena."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_309",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los **Procedimientos de Apertura de la Puerta de Cabina de Vuelo** son responsabilidad de:",
+    "options": ["El Jefe de Cabina y el Comandante.", "Solo el personal de tierra.", "Cualquier TCP.", "Los pasajeros."],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_310",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Amenaza Creíble'** en AVSEC?",
+    "options": ["Una amenaza de retraso.", "Una amenaza de interferencia ilícita que se considera seria y con capacidad de materializarse.", "Un aviso de mal tiempo.", "Una queja de un pasajero."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_311",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **personal de seguridad** que realiza el cribado debe estar:",
+    "options": ["Vestido de uniforme.", "Formado, certificado y autorizado por la Autoridad Competente.", "Ser familiar del Comandante.", "Estar en su primer día de trabajo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_312",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un pasajero introduce **un PED** en cabina, ¿quién es el responsable de informar sobre las restricciones de su uso?",
+    "options": ["Solo el fabricante del PED.", "La tripulación de cabina, mediante anuncios y demostraciones.", "El personal de check-in.", "El personal de aduanas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_313",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la normativa europea que establece los **requisitos de formación y certificación** del personal de seguridad?",
+    "options": ["Reglamento (UE) 2015/1998.", "Anexo 17 de OACI.", "Convenio de Tokio.", "Reglamento (CE) nº 261/2004."],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_314",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **'Security Briefing'** del Comandante a la tripulación incluye:",
+    "options": ["Solo el plan de vuelo.", "Instrucciones específicas sobre seguridad para el vuelo, posibles amenazas y pasajeros especiales (DEPU/INAD).", "El menú del día.", "El resultado de la liga de fútbol."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_315",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un pasajero se niega a cumplir las instrucciones de seguridad, el TCP debe:",
+    "options": ["Llevarle a la cabina de vuelo.", "Informar al Comandante para que tome medidas (incluyendo la inmovilización o el desembarque).", "Discutir con él.", "Ofrecerle un regalo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_316",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Vigilancia de la Puerta de Embarque'** tiene como objetivo principal:",
+    "options": ["Vender Duty-Free.", "Garantizar que solo pasajeros y equipajes autorizados suban a la aeronave.", "Cobrar el exceso de equipaje.", "Verificar el estado de la pista."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_317",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Amenaza Específica'** en un aeropuerto?",
+    "options": ["Un retraso por huelga.", "Una amenaza de seguridad dirigida a un objetivo específico (vuelo, aerolínea, persona).", "Una amenaza meteorológica.", "Una avería del sistema."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_318",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **formación inicial del TCP** en seguridad incluye:",
+    "options": ["Solo el control de pasaportes.", "Concienciación sobre actos de interferencia ilícita, procedimientos de control de acceso y reconocimiento de artículos prohibidos.", "Solo el servicio de comidas.", "El pilotaje básico."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_319",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **pasajero que pide ir al lavabo** justo antes del despegue se considera un riesgo potencial para:",
+    "options": ["La comodidad de otros pasajeros.", "La seguridad, ya que podría estar intentando acceder a una zona sensible o retrasar el cierre de puertas.", "La limpieza del aseo.", "La hora de llegada."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_320",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué debe hacer un TCP si sospecha que una persona en la ZRS está tomando **fotografías** de las instalaciones críticas?",
+    "options": ["Pedirle que le haga una foto.", "Informar inmediatamente a la autoridad de seguridad (Guardia Civil/Policía) y al Comandante.", "No hacer nada.", "Preguntarle si es turista."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_321",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **uso de drones** en las inmediaciones del aeropuerto se considera una amenaza de:",
+    "options": ["Servicio a bordo.", "Interferencia Ilícita o Safety (riesgo de colisión).", "Limpieza.", "Comunicaciones."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_322",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Cultura Justa'** (Just Culture) en el SMS?",
+    "options": ["Un ambiente donde se fomenta la notificación de errores y problemas sin miedo a represalias, excepto en casos de negligencia grave.", "Una cultura donde todos son culpables.", "Una cultura de secreto.", "Una cultura de marketing."],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_323",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **inspección de las bodegas de carga** de la aeronave antes de la carga de equipaje es un acto de:",
+    "options": ["Control de tráfico aéreo.", "Security Check/Search.", "Control de aduanas.", "Mantenimiento."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_324",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si la **alarma de humo del aseo** se activa, y se sospecha que el pasajero está fumando, el TCP debe:",
+    "options": ["Apagar la alarma y ventilar.", "Seguir el procedimiento de la compañía para la gestión del fuego en el aseo y notificar al Comandante.", "Ignorarlo si es un cigarrillo electrónico.", "Pedir al pasajero que fume más rápido."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_325",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **protección de la información sensible de seguridad** (ej. manuales de seguridad) es responsabilidad de:",
+    "options": ["Solo el Comandante.", "Toda la tripulación y personal que tenga acceso a ella.", "Solo la empresa de informática.", "Solo la OACI."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_326",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la norma general para el transporte de **material de primeros auxilios** (ej. botiquín personal) en cabina?",
+    "options": ["Prohibido si contiene medicamentos.", "Permitido, si es necesario y no contiene artículos punzantes/líquidos prohibidos o se justifica médicamente.", "Solo si es grande.", "Solo si es para la tripulación."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_327",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Comunicación de Amenazas (Threat Communication)** a la tripulación debe ser:",
+    "options": ["Por escrito y pública.", "Clara, concisa, y reservada solo para quienes necesitan saberlo (Need to Know).", "Por señas.", "Solo al final del vuelo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_328",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué implica el código **DEPA 1** para un deportado?",
+    "options": ["Deportado de bajo riesgo, generalmente coopera.", "Deportado de alto riesgo.", "Deportado por motivos económicos.", "Deportado que viaja sin billete."],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_329",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **'Control de Trafico Rodado'** en la plataforma es una medida de:",
+    "options": ["Seguridad (Safety).", "Seguridad (Security).", "Servicio a Bordo.", "Ambos (Safety y Security)."],
+    "correctIndex": 3
+  },
+  {
+    "id": "ags_330",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un pasajero está utilizando un **PED** que no tiene modo avión, ¿cuándo debe estar apagado y guardado?",
+    "options": ["Solo en crucero.", "Durante todo el tiempo que la aeronave está en movimiento o en vuelo.", "Solo en el despegue.", "En el momento del embarque."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_331",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **Anexo 9 de OACI** se centra en:",
+    "options": ["La Búsqueda y Salvamento.", "La Facilitación (reducción de formalidades administrativas, ej. aduanas e inmigración).", "La Seguridad (AVSEC).", "Las comunicaciones."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_332",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Lista de Artículos Prohibidos'** en cabina se basa en criterios de:",
+    "options": ["El color del objeto.", "El potencial para causar lesiones o para ser utilizado para cometer un acto de interferencia ilícita.", "El precio del objeto.", "El país de origen."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_333",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Cribado de Carga'**?",
+    "options": ["El control de pasajeros.", "La inspección de la carga aérea para prevenir la introducción de artículos prohibidos a bordo.", "El control de equipaje facturado.", "El control de aduanas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_334",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si se encuentra un **objeto sospechoso** en la zona de facturación, ¿quién debe ser informado inmediatamente?",
+    "options": ["El personal de limpieza.", "La autoridad de seguridad aeroportuaria (Guardia Civil/Policía) y el gestor aeroportuario.", "El TCP.", "El piloto."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_335",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **'Comportamiento Sospechoso'** de un pasajero puede incluir:",
+    "options": ["Leer un libro en silencio.", "Moverse de forma errática, ignorar instrucciones, o mostrar un interés inusual en zonas restringidas.", "Dormir durante el vuelo.", "Comer un sándwich."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_336",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los **'Dispositivos de Inmovilización'** (ej. esposas) a bordo son:",
+    "options": ["Parte del botiquín de primeros auxilios.", "Herramientas de seguridad para la inmovilización de pasajeros extremadamente perturbadores, bajo control del Comandante.", "Artículos prohibidos para la tripulación.", "Usados para sujetar el equipaje."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_337",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la norma de seguridad para el transporte de **cenizas humanas (restos cremados)**?",
+    "options": ["Están prohibidas.", "Se permiten si se presentan en un recipiente hermético y la urna pasa el escáner de rayos X.", "Solo se permiten si se facturan.", "Solo si el vuelo es de carga."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_338",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **'Muro de Seguridad'** que separa la cabina de vuelo de la cabina de pasajeros es la:",
+    "options": ["Cocina (Galley).", "Puerta blindada del Cockpit.", "Cortina de la zona de primera clase.", "Salida de emergencia."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_339",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué implica la **'Vigilancia de la Carga'** en el aeropuerto?",
+    "options": ["Controlar el peso de la carga.", "Asegurar que la carga, una vez inspeccionada, no es objeto de manipulación o acceso no autorizado.", "Contar el número de paquetes.", "Verificar el destino."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_340",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Formación Periódica** de los TCPs en AVSEC se realiza con el fin de:",
+    "options": ["Reemplazar la formación inicial.", "Refrescar el conocimiento y la competencia sobre los procedimientos de seguridad.", "Obtener más salario.", "Aprender a cocinar."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_341",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Acreditación de Vehículo'** en la ZRS?",
+    "options": ["El permiso de conducir del conductor.", "Un documento que autoriza al vehículo a acceder a la ZRS y le asigna una zona.", "El seguro del vehículo.", "El permiso de la ITV."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_342",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los **Pasajeros NO Acompañados (DEPU)** son:",
+    "options": ["Niños viajando solos.", "Deportados que viajan sin escolta, lo que implica un riesgo potencial mayor.", "Pasajeros con equipaje perdido.", "Pasajeros con miedo a volar."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_343",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un TCP detecta un **artículo prohibido** en el equipaje de mano de un pasajero, debe:",
+    "options": ["Tirarlo a la basura.", "Notificar al personal de seguridad y seguir el procedimiento de la compañía (generalmente el objeto es confiscado o el pasajero debe deshacerse de él).", "Esconderlo en el galley.", "Dárselo a otro pasajero."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_344",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Responsabilidad del Operador'** (aerolínea) en seguridad incluye:",
+    "options": ["Solo el pilotaje.", "El desarrollo e implementación de un Programa de Seguridad de la Compañía (ASP) aprobado por la ANAC.", "La limpieza de la terminal.", "El control de aduanas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_345",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué es un **'Acto de Sabotaje'** en el contexto aeroportuario?",
+    "options": ["Una protesta de trabajadores.", "Un acto destinado a causar daños a la aeronave o instalaciones aeroportuarias para comprometer la seguridad (Interferencia Ilícita).", "Una avería menor.", "Un retraso por mal tiempo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_346",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Acreditación Aeroportuaria de la Tripulación** debe ser llevada de forma:",
+    "options": ["En el bolsillo, oculta.", "Visible en todo momento cuando se accede o se está en la ZRS.", "Solo en el equipaje de mano.", "Solo en el aeropuerto base."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_347",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Equipaje de Transferencia'**?",
+    "options": ["Equipaje que va a un destino diferente al pasajero.", "Equipaje que va de un vuelo a otro (con o sin control de conciliación).", "Equipaje perdido.", "Equipaje pesado."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_348",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **'Cribado de Carga'** debe realizarse con un nivel de seguridad igual o superior al aplicado al:",
+    "options": ["Correo ordinario.", "Equipaje facturado de pasajeros.", "Equipaje de mano.", "Catering."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_349",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la **temperatura máxima** a la que deben transportarse los LAGs en cabina?",
+    "options": ["70°C.", "100°C.", "No hay una restricción de temperatura específica en la normativa de LAGs, pero sí de Mercancías Peligrosas (Ej. congelados).", "30°C."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_370",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué tipo de explosivo es el que suelen buscar los equipos de detección en los controles de seguridad?",
+    "options": ["Explosivos nucleares.", "Artefactos incendiarios improvisados y explosivos plásticos/militares (ej. C4, Semtex).", "Dinamita industrial.", "Pólvora de fuegos artificiales."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_371",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los **líquidos Duty-Free (LAGs)** comprados en el aeropuerto, ¿están sujetos a la restricción de 100 ml?",
+    "options": ["Sí, siempre.", "No, si están sellados en una bolsa de seguridad (STEB) con el recibo a la vista.", "Solo si el vuelo es internacional.", "Depende de la aerolínea."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_372",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es el principal objetivo del **Sistema de Gestión de la Seguridad (SMS)**?",
+    "options": ["Mejorar la eficiencia de las ventas a bordo.", "Proporcionar un enfoque sistemático para gestionar la seguridad operacional, incluyendo las estructuras organizativas, las responsabilidades, políticas y procedimientos.", "Controlar el gasto de combustible.", "Optimizar el tiempo de facturación."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_373",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Evaluación del Riesgo de Seguridad'** se realiza para:",
+    "options": ["Estimar el precio del billete.", "Determinar la probabilidad y el impacto potencial de las amenazas de seguridad.", "Decidir qué catering se servirá.", "Establecer la altitud de crucero."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_374",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si la alarma del **arco detector de metales** suena en el control de seguridad para un tripulante:",
+    "options": ["Se le permite pasar directamente.", "Debe pasar un control manual adicional.", "Debe ir a la oficina de la aerolínea.", "Se le permite un segundo intento sin revisión."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_375",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Equipaje NO Acompañado'**?",
+    "options": ["El equipaje de mano que cabe en el compartimento superior.", "El equipaje facturado que ha sido facturado por un pasajero, pero que no viaja con él.", "El equipaje perdido.", "El equipaje de un polizón."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_376",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **TCAS** (Traffic Collision Avoidance System) es un sistema de:",
+    "options": ["Seguridad (Safety).", "Seguridad (Security).", "Servicio a Bordo.", "Entretenimiento en Vuelo."],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_377",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué debe hacer un TCP con los **residuos de alimentos** de un vuelo internacional que deben ser eliminados en destino?",
+    "options": ["Tirarlos al cubo de la basura común.", "Guardarlos para el siguiente vuelo.", "Cumplir con los procedimientos de eliminación de residuos de riesgo biológico (normativa sanitaria y AVSEC).", "Regalarlos a los pasajeros."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_378",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la **función principal del TCP** a bordo de una aeronave?",
+    "options": ["Garantizar el confort de los pasajeros.", "Priorizar la seguridad y la asistencia a los pasajeros en caso de emergencia.", "Vender productos Duty-Free.", "Organizar el equipaje."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_379",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **inspección de la aeronave** antes de la llegada de los pasajeros es un acto de:",
+    "options": ["Mantenimiento.", "Seguridad (Security).", "Asistencia a Bordo (SAB).", "Control de Inmigración."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_380",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Escenario de Riesgo'** en AVSEC?",
+    "options": ["Una película de acción.", "Una descripción de una amenaza potencial y cómo podría materializarse.", "Un mapa de la cabina.", "Un itinerario de vuelo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_381",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **Convenio de Montreal de 1999** es importante porque:",
+    "options": ["Regula la venta de alcohol a bordo.", "Actualiza las normas sobre la responsabilidad civil del transportista aéreo por daños a pasajeros, equipaje y carga.", "Establece las reglas para la segregación de sexos.", "Define las rutas polares."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_382",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál de las siguientes **prohibiciones** es competencia del Comandante o del operador?",
+    "options": ["La prohibición de llevar sandalias.", "La prohibición de beber agua mineral.", "La prohibición de servir alcohol a una persona ebria.", "La prohibición de usar gafas de sol."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_383",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **Programa Nacional de Seguridad (PNS)** tiene como objetivo:",
+    "options": ["Establecer un sistema de control de calidad para el servicio a bordo.", "Proteger la aviación civil contra los actos de interferencia ilícita.", "Regular el tráfico aéreo.", "Gestionar la meteorología."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_384",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "En el caso de un **pasajero bajo custodia**, ¿quién asume la responsabilidad de su comportamiento a bordo?",
+    "options": ["El Jefe de Cabina.", "Los agentes de escolta (si los tiene) y el Comandante asume la autoridad sobre la aeronave.", "El personal de check-in.", "La aerolínea de forma exclusiva."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_385",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un pasajero introduce un objeto prohibido en la cabina **a pesar** de los controles, ¿quién asume la responsabilidad del fallo del control?",
+    "options": ["El Comandante.", "La tripulación de cabina.", "El gestor aeroportuario o la entidad responsable del control de seguridad.", "El pasajero únicamente."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_386",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **Security Check** debe realizarse siempre antes de:",
+    "options": ["Cada vuelo, antes del embarque de pasajeros.", "Cada comida a bordo.", "Cada despegue y aterrizaje.", "Solo en la escala de destino."],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_387",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se considera un **'PEE'** en el contexto de seguridad?",
+    "options": ["Pasajero con Equipaje Excesivo.", "Peligro de Explosión Excesiva.", "Procedimiento Específico de Emergencia.", "Programa de Evaluación de la Eficacia."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_388",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **Anexo 18 de la OACI** se centra en:",
+    "options": ["La seguridad de las pistas.", "El transporte sin riesgos de mercancías peligrosas por vía aérea.", "La licencia de TCP.", "La búsqueda y el salvamento."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_389",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué es un **'objeto sin compañía'** en la ZRS?",
+    "options": ["Un objeto facturado.", "Cualquier objeto encontrado en la ZRS que no esté bajo la vigilancia de un pasajero o trabajador.", "Un equipaje de mano.", "Una herramienta del personal de mantenimiento."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_390",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **formación de AVSEC** para la tripulación de cabina es:",
+    "options": ["Solo teórica.", "Inicial y periódica, con pruebas de competencia.", "Solo práctica.", "Opcional."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_391",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la medida de seguridad que se aplica para evitar el transporte de **equipaje no acompañado**?",
+    "options": ["El control de inmigración.", "La conciliación de equipaje y pasajero (Bag-to-Passenger Reconciliation).", "El control de aduanas.", "La inspección de la cabina de vuelo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_392",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un TCP es testigo de un **acto de sabotaje** en tierra, su primera acción debe ser:",
+    "options": ["Intentar desarmar al atacante.", "Informar inmediatamente al Comandante y/o a la autoridad aeroportuaria y de seguridad.", "Publicar una foto en redes sociales.", "Esconderse hasta que acabe el ataque."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_393",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El término **'Segregación'** de pasajeros se aplica a los deportados para:",
+    "options": ["Asegurar que no se sienten con sus familiares.", "Sentarlos en asientos específicos (generalmente en la parte trasera) para facilitar su vigilancia y reducir el riesgo.", "Colocarlos en asientos de primera clase.", "Asegurar que estén cerca de las salidas de emergencia."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_394",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se considera un **'Pasajero en Situación'** (In-Situ Crew)?",
+    "options": ["Un TCP volando de vacaciones.", "Un TCP que está preparado para actuar en una emergencia, volando como pasajero y cumpliendo funciones de seguridad (Air Marshal, etc.).", "Un TCP de baja laboral.", "Un TCP que acaba de terminar su servicio."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_395",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los **objetos punzantes o con filo** con una longitud de hoja de menos de 6 cm (como cortauñas o pequeñas tijeras) en el equipaje de mano:",
+    "options": ["Están prohibidos totalmente.", "Están permitidos, según la normativa de la UE.", "Depende del criterio del TCP.", "Solo están permitidos si son de plástico."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_396",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Autoridad Competente** en España para la Seguridad de la Aviación Civil es:",
+    "options": ["El Ministerio del Interior.", "El Consejo de Ministros.", "AESA.", "AENA."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_397",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "En el caso de un **'Polizón'** encontrado a bordo, el TCP debe:",
+    "options": ["Asignarle un asiento de primera clase.", "Mantenerlo vigilado, aislarlo si es posible y notificar al Comandante inmediatamente.", "Darle una bebida y un snack.", "Pedirle su billete."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_398",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué implica el código **DEPA 3** para un deportado?",
+    "options": ["Riesgo mínimo de seguridad.", "Riesgo moderado de seguridad.", "Riesgo alto de seguridad, generalmente debe volar siempre con escolta.", "Deportado por motivos económicos."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_399",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Vigilancia Pasajeros'** durante el vuelo es una función de seguridad del TCP para:",
+    "options": ["Asegurar que no roben el catering.", "Detectar comportamientos sospechosos o actos de interferencia ilícita.", "Verificar que todos duermen.", "Asegurar que todos lean el manual de seguridad."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_400",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El control de seguridad a los **suministros de combustible** es parte de:",
+    "options": ["El mantenimiento de la aeronave.", "La seguridad del aeropuerto.", "El control de calidad de la gasolina.", "El control de tráfico aéreo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_401",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Se pueden transportar **pequeñas cantidades de pintura en aerosol** en el equipaje facturado?",
+    "options": ["Sí, si se declaran.", "No, si contienen gases inflamables están prohibidos (Mercancías Peligrosas).", "Solo si es un vuelo corto.", "Depende del color de la pintura."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_402",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un pasajero intenta acceder a la cabina de vuelo sin autorización, el TCP debe:",
+    "options": ["Abrir la puerta y preguntarle qué quiere.", "Bloquearle el paso y notificar inmediatamente a la cabina de vuelo (Cockpit) y al Comandante.", "Ofrecerle un café.", "Ignorarlo y llamar a la policía."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_403",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué es un **'Artículo Prohibido'** en el contexto de seguridad?",
+    "options": ["Cualquier artículo que pueda causar daño a la aeronave, a las personas o que pueda ser utilizado para cometer un acto de interferencia ilícita.", "Un juguete de niño.", "Una revista antigua.", "Una prenda de vestir."],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_404",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Formación de Concienciación sobre Seguridad (AVSEC)** es obligatoria para:",
+    "options": ["Solo los pilotos.", "Todo el personal que accede a Zonas Restringidas de Seguridad (ZRS).", "Solo el personal de tierra.", "Únicamente el personal de limpieza."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_405",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Quién es la persona encargada de realizar el **cribado (screening)** a los pasajeros y al equipaje de mano?",
+    "options": ["El personal de la aerolínea.", "El personal de seguridad (vigilantes) habilitado por la autoridad competente.", "El Comandante.", "El personal de aduanas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_406",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si se detecta un objeto sospechoso en la ZRS de la aeronave (parte interior), el TCP debe:",
+    "options": ["Llevarlo a facturación.", "Aplicar la Regla de las Tres R's (Reconocer, Restringir, Reportar) e informar al Comandante.", "Esconderlo hasta el aterrizaje.", "Intentar abrirlo con cuidado."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_407",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los **TED** (Threat Evaluation Device) son dispositivos utilizados en el control de seguridad para:",
+    "options": ["Medir la altitud del avión.", "Evaluar el riesgo de una amenaza (aunque TED se refiere a los detectores de trazas de explosivos - ETD).", "Hacer anuncios a los pasajeros.", "Controlar el flujo de aire."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_408",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la norma general para el transporte de **material médico** (sondas, jeringuillas) en cabina?",
+    "options": ["Están totalmente prohibidos.", "Se permiten si son necesarios para el uso durante el viaje y se justifican médicamente.", "Solo si son de plástico.", "Solo si el vuelo es de larga distancia."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_409",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "En caso de un acto de interferencia ilícita, la **prioridad del TCP** es:",
+    "options": ["Proteger la puerta del Cockpit y la vida de los pasajeros.", "Garantizar la venta de Duty-Free.", "Negociar la liberación de rehenes.", "Pilotar la aeronave."],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_410",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **inspección de vehículos** que acceden a la ZRS de la aeronave es una medida de:",
+    "options": ["Mantenimiento.", "Seguridad Aeroportuaria.", "Control de Tráfico.", "Limpieza."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_411",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Conciliación de Equipaje'** (Bag-to-Passenger Reconciliation) se aplica para:",
+    "options": ["Asegurar que cada maleta llegue a su destino.", "Asegurar que todo el equipaje facturado corresponde a un pasajero que realmente ha embarcado en la aeronave.", "Verificar el peso del equipaje.", "Asegurar que las maletas están bien cargadas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_412",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Pasajero Bajo Custodia'** (CUPS)?",
+    "options": ["Un pasajero VIP.", "Una persona que viaja escoltada por fuerzas de seguridad por motivos legales (prisión, deportación peligrosa).", "Un niño viajando solo.", "Un pasajero con problemas de salud."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_413",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál de los siguientes artículos es un **PED**?",
+    "options": ["Un mechero.", "Un paraguas.", "Un teléfono móvil o una tablet.", "Un libro de papel."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_414",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Formación de Amenazas Específicas** es parte de la formación periódica del TCP e incluye:",
+    "options": ["Solo el servicio a bordo.", "El reconocimiento de explosivos, secuestro y amenazas de bomba.", "La gestión de equipaje.", "La contabilidad a bordo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_415",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué implica la **'Vigilancia Activa'** de los TCPs en la cabina?",
+    "options": ["Estar de pie en los galleys.", "Observar el comportamiento de los pasajeros e identificar cualquier anomalía o amenaza potencial.", "Dormir en el asiento.", "Leer un libro."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_416",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si se produce una **Amenaza de Bomba a Bordo** (Bomb Threat), la aeronave debe aterrizar:",
+    "options": ["En el aeropuerto de destino.", "En el aeropuerto más cercano y seguro, siguiendo los procedimientos de la compañía (divertirse).", "En un campo abierto.", "En un aeropuerto militar."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_417",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Lista de Artículos Prohibidos'** en cabina se encuentra en:",
+    "options": ["El menú de comidas.", "El Adjunto C del Reglamento (UE) 2015/1998.", "El manual de Mercancías Peligrosas.", "El Anexo 6 de OACI."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_418",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Se pueden llevar **bombas de baño** (bath bombs) en el equipaje de mano?",
+    "options": ["No, porque contienen pólvora.", "Sí, generalmente, ya que no son explosivas.", "Solo si se compran en el aeropuerto.", "Depende del aroma."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_419",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El control de seguridad a los pasajeros en el punto de embarque (Gate Screening) es:",
+    "options": ["Siempre obligatorio.", "Solo si el vuelo es a un destino de alto riesgo o si lo requiere el Estado de destino/origen (control adicional).", "Opcional y aleatorio.", "Nunca se hace."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_420",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Quién tiene la autoridad para ordenar la **apertura de un equipaje** para su inspección en el control de seguridad?",
+    "options": ["El personal de la aerolínea.", "El Comandante.", "El personal de seguridad habilitado.", "El TCP de la puerta de embarque."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_421",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El concepto de **'Acto de Interferencia Ilícita'** cubre:",
+    "options": ["Solo el secuestro.", "El sabotaje, la amenaza de bomba, el apoderamiento ilícito y otras formas de interferencia.", "Solo las discusiones a bordo.", "El retraso del vuelo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_422",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un TCP tiene dudas sobre si un artículo es **prohibido** o no, debe consultar:",
+    "options": ["A un pasajero frecuente.", "A su Manual de Seguridad y Mercancías Peligrosas (o al Comandante).", "Al personal de limpieza.", "Al piloto del avión de al lado."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_423",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es el riesgo de seguridad asociado al **equipaje no acompañado**?",
+    "options": ["Que se pierda.", "Que contenga un artefacto explosivo o material ilícito y no haya un pasajero que lo reclame.", "Que sea muy pesado.", "Que ocupe el espacio de un pasajero."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_424",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **briefing de seguridad** de la tripulación debe incluir la revisión de:",
+    "options": ["Las recetas de cocina.", "Los NOTAM de seguridad, los artículos prohibidos y las posibles amenazas conocidas.", "El historial de ventas del vuelo anterior.", "La lista de cumpleaños de la tripulación."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_425",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Se puede negar el embarque a un pasajero que se **niegue a cooperar** en el control de seguridad (ej. Cacheo manual)?",
+    "options": ["No, nunca.", "Sí, ya que no permite garantizar su seguridad y la del vuelo.", "Solo si lleva pasaporte caducado.", "Depende del sexo del pasajero."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_426",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Inspección de la Cabina de Vuelo'** antes del inicio del servicio es responsabilidad de:",
+    "options": ["El Jefe de Cabina.", "El personal de limpieza.", "El Comandante y/o el Primer Oficial.", "El personal de tierra."],
+    "correctIndex": 2
+  },
+  {
+    "id": "ags_427",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué debe hacer un TCP con su **Acreditación Aeroportuaria** al abandonar el puesto de trabajo en la ZRS?",
+    "options": ["Dejarla visible.", "Guardarla de forma segura.", "Dársela a un compañero.", "Tirarla a la basura."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_428",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "En el contexto de seguridad, ¿qué es un **'Pase de Acceso'**?",
+    "options": ["La tarjeta de embarque.", "Una tarjeta o documento que permite el acceso a ciertas áreas restringidas del aeropuerto (no tripulantes).", "El permiso de vacaciones.", "El billete de tren."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_429",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **formación en AVSEC** del TCP debe renovarse con una periodicidad máxima de:",
+    "options": ["Cada 6 meses.", "Cada 1 año.", "Cada 2 años.", "Cada 5 años."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_430",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un pasajero está utilizando un **PED** en modo avión, ¿en qué fases del vuelo debe guardarlo por seguridad?",
+    "options": ["Solo en crucero.", "En rodaje, despegue y aterrizaje si es un PED grande (laptop).", "Solo en el embarque.", "Nunca es necesario guardarlo en modo avión."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_431",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la norma básica de seguridad para el transporte de **armas blancas de artes marciales** en un avión?",
+    "options": ["Se pueden llevar en cabina si están desafiladas.", "Están prohibidas en cabina y deben ser declaradas y transportadas en bodega.", "Se permiten si tienen menos de 6 cm.", "Se pueden llevar si están precintadas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_432",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El concepto de **'Detección de Intenciones Hostiles'** se refiere a:",
+    "options": ["Adivinar el pensamiento de los pasajeros.", "El perfilado (profiling) y la observación de los comportamientos de los pasajeros para identificar amenazas.", "Revisar los correos electrónicos de los pasajeros.", "Medir su ritmo cardíaco."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_433",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un TCP es testigo de un **incendio provocado** en cabina, esto se considera un acto de:",
+    "options": ["Mala suerte.", "Interferencia Ilícita (Sabotaje).", "Error operacional (Safety).", "Avería técnica."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_434",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Acreditación de Tripulante** permite acceder a las ZRS de:",
+    "options": ["Solo el aeropuerto base.", "Cualquier aeropuerto dentro de la UE/EEE para cumplir sus funciones.", "Cualquier aeropuerto del mundo.", "Solo el área de catering."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_435",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Pasajero Bajo Custodia'** (CUPS) Código 1?",
+    "options": ["Bajo custodia por delitos económicos.", "Bajo custodia por actos violentos o peligrosos (alto riesgo).", "Bajo custodia por infracciones administrativas.", "Bajo custodia por motivos de salud."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_436",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los **elementos de sujeción (esposas, bridas)** a bordo se utilizan en caso de:",
+    "options": ["Pasajero durmiendo.", "Pasajero perturbador que amenaza la seguridad del vuelo y la vida de los demás, como último recurso y con la aprobación del Comandante.", "Pasajero que no quiere comprar Duty-Free.", "Pasajero que pide un asiento con ventana."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_437",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la función del **Comandante** en la gestión de un acto de interferencia ilícita?",
+    "options": ["Transferir la responsabilidad a los TCPs.", "Tomar todas las decisiones relativas a la seguridad del vuelo y cooperar con las autoridades.", "Negarse a aterrizar.", "Ignorar la situación."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_438",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Autoridad de Seguridad'** en España es AESA, que es una agencia dependiente del:",
+    "options": ["Ministerio del Interior.", "Ministerio de Fomento (o la denominación actual de Transportes).", "Ministerio de Defensa.", "Ministerio de Hacienda."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_439",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Los **Procedimientos Operativos Estándar (POE/SOPs)** de seguridad de una aerolínea son desarrollados para:",
+    "options": ["Permitir a cada TCP improvisar.", "Estandarizar y asegurar la aplicación coherente de las medidas de seguridad.", "Complicar la formación.", "Ser solo recomendaciones."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_440",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **briefing pre-vuelo** del TCP con los pilotos debe incluir:",
+    "options": ["La discusión de la última película.", "Un repaso de los procedimientos de seguridad, el número de TCPs y la identificación de pasajeros especiales.", "La lista de música a poner.", "El historial de ventas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_441",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un pasajero lleva un **medicamento en jeringuilla** en cabina, el TCP debe:",
+    "options": ["Confiscarlo.", "Asegurarse de que el pasajero tiene una justificación médica (receta, certificado).", "Pedirle que lo tire a la basura.", "Llevarlo a la cabina de vuelo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_442",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se considera un **'Objeto Sospechoso'** en el equipaje de mano?",
+    "options": ["Cualquier objeto que la máquina de Rayos X no puede identificar o que tiene una densidad inusual.", "Un sándwich envuelto en papel de aluminio.", "Un libro de tapas duras.", "Una caja de zapatos."],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_443",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **'Control de Identificación'** para el personal que accede a la ZRS debe incluir:",
+    "options": ["Solo la foto del DNI.", "Verificación de la acreditación (ID de tripulante o pase aeroportuario) y confrontación con la persona que lo porta.", "Solo el color del pelo.", "Solo el nombre."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_444",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Formación Periódica en AVSEC** debe incluir pruebas de:",
+    "options": ["Resistencia física.", "Competencia práctica y teórica sobre los procedimientos de seguridad.", "Conocimiento de idiomas.", "Habilidades culinarias."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_445",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la norma de seguridad para el transporte de **pistolas de juguete o réplicas** en cabina?",
+    "options": ["Se permiten siempre.", "Están prohibidas en cabina (ya que pueden ser confundidas con armas reales) y deben ir en bodega.", "Solo se permiten si son de colores vivos.", "Solo si son pequeñas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_446",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **'Plan de Contingencia de Seguridad'** de un operador aéreo debe incluir procedimientos para:",
+    "options": ["Retrasos por mal tiempo.", "Responder a actos de interferencia ilícita (secuestro, bomba, sabotaje).", "Gestión de quejas de pasajeros.", "Cambios de ruta por viento."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_447",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Transferencia de Seguridad'**?",
+    "options": ["El cambio de un vuelo a otro.", "El proceso de entrega y recepción de una aeronave o su carga con la garantía de que se mantienen las medidas de seguridad.", "El cambio de tripulación.", "El control de aduanas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_448",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un pasajero está en la lista de **'Watch List'** (Observación), la aerolínea debe:",
+    "options": ["Darle un asiento VIP.", "Notificar a las autoridades y seguir las instrucciones específicas de vigilancia o denegación de embarque.", "Ignorarlo.", "Darle un billete gratis."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_449",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **protección del equipaje facturado** una vez cribado (screening) debe ser garantizada por:",
+    "options": ["Solo el pasajero.", "El aeropuerto y la aerolínea (evitando el acceso no autorizado).", "El personal de limpieza.", "El Comandante."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_450",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es el riesgo de seguridad principal del **'Catering No Cribado'**?",
+    "options": ["Que no sea de buena calidad.", "Que contenga explosivos u otros artículos prohibidos (Interferencia Ilícita).", "Que sea muy caro.", "Que se acabe la comida."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_451",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **'Reglamento (UE) 2015/1998'** es de aplicación directa en:",
+    "options": ["Solo en España.", "Todos los Estados miembros de la Unión Europea (UE).", "Solo en el Reino Unido.", "Solo en las islas Canarias."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_452",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un TCP observa un **objeto sospechoso** en el aseo (ej. un mechero camuflado), debe:",
+    "options": ["Tirarlo a la basura y ya está.", "Aplicar la Regla de las 3 R's, aislar la zona e informar al Comandante.", "Preguntar por megafonía de quién es.", "Dejarlo para que el personal de limpieza lo encuentre."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_453",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la limitación para transportar **termómetros de mercurio medicinal**?",
+    "options": ["Prohibidos.", "Solo en facturado y con embalaje protector (Mercancías Peligrosas).", "Permitidos en cabina.", "No hay límite."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_454",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Puerta de Cabina de Vuelo Blindada (FCD)** debe tener:",
+    "options": ["Una ventana grande.", "Múltiples pestillos que puedan ser cerrados y bloqueados desde el puesto de pilotaje.", "Un sistema de apertura automática.", "Un televisor."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_455",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **'Control de Identidad'** en la puerta de embarque tiene como objetivo:",
+    "options": ["Verificar el color del billete.", "Asegurar que la persona que embarca es la misma que la del billete (y que pasó el control de seguridad).", "Verificar la edad.", "Controlar el peso del pasajero."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_456",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Pasajero Bajo Custodia'** (CUPS) Código 3?",
+    "options": ["Alto riesgo de sabotaje.", "Bajo riesgo (infracción menor, generalmente viaja sin escolta si el riesgo lo permite).", "Riesgo medio de perturbación.", "Viaja por motivos económicos."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_457",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Cultura de No Castigo'** en el SMS se aplica a:",
+    "options": ["Solo la tripulación.", "Los errores y notificaciones de seguridad involuntarios o sin negligencia grave.", "Los actos ilícitos.", "Los incumplimientos deliberados."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_458",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la **autoridad final** para decidir el desembarque de un pasajero por motivos de seguridad?",
+    "options": ["El Jefe de Cabina.", "El Comandante.", "El Agente de Puerta.", "El personal de seguridad aeroportuaria."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_459",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **'Security Check'** debe incluir la inspección de:",
+    "options": ["Solo los asientos.", "Los compartimentos de los galleys, los lavabos, los asientos, las bolsas de los asientos y los compartimentos superiores.", "Solo el Cockpit.", "Solo los pasillos."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_460",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un pasajero lleva un **líquido de más de 100 ml** que no es medicamento ni comida de bebé, el TCP debe:",
+    "options": ["Permitirle embarcar.", "Rechazar el embarque del artículo y remitirlo al personal de seguridad para su confiscación.", "Ofrecerle guardarlo en cabina de vuelo.", "Cobrarle un extra."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_461",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **conciliación de equipaje y pasajero** es crítica en vuelos donde:",
+    "options": ["El vuelo es corto.", "El equipaje facturado podría contener un artefacto que se activa sin la presencia del pasajero a bordo.", "Solo se transporta carga.", "Solo se transporta equipaje de mano."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_462",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Aseguramiento de la Seguridad'** (Safety Assurance) en el SMS?",
+    "options": ["La fase de diseño del avión.", "El proceso para garantizar que el sistema de seguridad sigue siendo eficaz y se toman medidas correctoras.", "La contratación de personal.", "La publicidad de seguridad."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_463",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **Cuerpo Nacional de Policía** en los aeropuertos es responsable de:",
+    "options": ["El control de aduanas.", "El control de inmigración (Pasaportes y DNI) y la seguridad de las zonas críticas.", "La limpieza de la terminal.", "El control de tráfico aéreo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_464",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **'Vigilancia de la Plataforma'** (Ramp Security) tiene como objetivo:",
+    "options": ["Controlar el tráfico de coches.", "Evitar el acceso no autorizado a la aeronave, la carga y el equipaje en la plataforma.", "Verificar el estado del motor.", "Recoger basura."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_465",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "El **'Anexo 19 de OACI'** se centra en:",
+    "options": ["La seguridad (AVSEC).", "La Gestión de la Seguridad Operacional (SMS).", "Las comunicaciones.", "Las aerocartas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_466",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Qué se entiende por **'Pasajero Tranquilizado'** (Reassured Passenger)?",
+    "options": ["Un pasajero que ha sido sedado.", "Un pasajero que se calma con comunicación efectiva por parte de la tripulación en una situación de riesgo.", "Un pasajero que duerme.", "Un pasajero VIP."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_467",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "Si un TCP es requerido por la autoridad (Policía/Guardia Civil) en la ZRS, debe:",
+    "options": ["Negarse a cooperar.", "Colaborar plenamente, identificarse y seguir las instrucciones, informando al Comandante si es necesario.", "Llamar a su abogado.", "Esconderse."],
+    "correctIndex": 1
+  },
+  {
+    "id": "ags_468",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "La **Formación de Concienciación sobre Amenazas** se imparte para:",
+    "options": ["Enseñar a la tripulación a identificar la naturaleza y los métodos de las amenazas potenciales a la aviación civil.", "Aprender a cocinar.", "Conducir vehículos en plataforma.", "Hacer el control de pasaportes."],
+    "correctIndex": 0
+  },
+  {
+    "id": "ags_469",
+    "topic": "Aspectos generales de seguridad en aviacion",
+    "text": "¿Cuál es la norma de seguridad para el transporte de **armas paralizantes (ej. spray de pimienta)**?",
+    "options": ["Permitidas en cabina.", "Prohibidas en cabina y facturado por ser consideradas artículos de defensa o ataque.", "Solo en facturado.", "Solo si son de tamaño pequeño."],
+    "correctIndex": 1
+  }
+]

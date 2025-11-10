@@ -1,0 +1,3592 @@
+[
+  {
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es la primera acción al detectar un incendio en cabina?",
+    "options": ["Alertar a la tripulación y usar extintor", "Avisar a los pasajeros", "Cerrar puertas de cabina", "Encender luces de emergencia"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo en cabina puede indicar:",
+    "options": ["Fuego eléctrico o mecánico", "Problema con pasajeros", "Mal clima exterior", "Falla del sistema de entretenimiento"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de polvo químico seco se utiliza principalmente para:",
+    "options": ["Fuegos eléctricos o líquidos inflamables", "Cocina de alimentos", "Fuego en pasajeros", "Equipaje"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué se debe hacer si un incendio no puede ser controlado?",
+    "options": ["Informar al comandante y prepararse para evacuación", "Ignorarlo", "Cerrar la cabina y continuar vuelo", "Avisar solo a pasajeros cercanos"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los sistemas de detección de humo están diseñados para:",
+    "options": ["Alertar antes de que el fuego se propague", "Apagar fuego automáticamente", "Controlar la temperatura de la cabina", "Medir oxígeno de pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El uso de máscaras de oxígeno durante incendios sirve para:",
+    "options": ["Proteger de inhalación de humo", "Comunicar mejor con ATC", "Encender sistemas de ventilación", "Calmar pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Al manipular un extintor de CO2, se debe:",
+    "options": ["Apuntar a la base del fuego y evitar contacto con la piel", "Rociar al techo", "Apuntar a pasajeros", "Usarlo solo fuera de la cabina"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los incendios en compartimentos de carga suelen ser detectados por:",
+    "options": ["Sensores automáticos de humo", "Tripulación visual", "Pasajeros", "Sistema de entretenimiento"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante la evacuación por humo, la tripulación debe:",
+    "options": ["Guiar a pasajeros y mantener visibilidad baja", "Permitir que salgan solos", "Usar altavoces para música", "Cerrar puertas de emergencia"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué clase de fuego es más peligroso en aeronaves?",
+    "options": ["El eléctrico", "El de papel", "El de plástico en cabina", "El de combustible en motores"],
+    "correctIndex": 3
+  },
+  {
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo negro generalmente indica:",
+    "options": ["Combustión de materiales sintéticos o aceites", "Humo de vapor de agua", "Fuego controlado", "Alarma falsa"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es la mejor forma de evitar la propagación del fuego en cabina?",
+    "options": ["Cerrar compartimentos y usar extintores", "Abrir todas las puertas", "Ignorar y continuar vuelo", "Encender ventilación"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Las prácticas de simulacro de incendios son importantes porque:",
+    "options": ["Permiten a la tripulación actuar correctamente ante emergencias", "Solo cumplen normativa", "Sirven para entretener pasajeros", "Evitan inspecciones de seguridad"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los extintores de halón son efectivos contra:",
+    "options": ["Fuegos eléctricos y de líquidos inflamables", "Fuegos de papel", "Fuegos de alimentos", "Fuegos de pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Al finalizar la emergencia, la tripulación debe:",
+    "options": ["Informar al comandante y registrar el incidente", "Salir sin reportar", "Apagar luces de cabina", "Permitir que pasajeros informen"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_001",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es la principal fuente de oxígeno que alimenta un incendio en una aeronave?",
+    "options": ["El aire del ambiente", "El sistema de ventilación", "El combustible", "El aislamiento térmico"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_002",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es el elemento que debe eliminarse para extinguir un fuego según el triángulo del fuego?",
+    "options": ["Oxígeno", "Humo", "Luz", "CO2"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_003",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué tipo de fuego se clasifica como 'Clase A'?",
+    "options": ["Combustibles sólidos como madera o tela", "Líquidos inflamables", "Gases", "Metales"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_004",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los incendios eléctricos se clasifican como:",
+    "options": ["Clase C", "Clase B", "Clase D", "Clase A"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_005",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué tipo de extintor se usa preferentemente en incendios eléctricos a bordo?",
+    "options": ["CO2", "Agua", "Espuma", "Polvo seco"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_006",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El BCF (bromoclorodifluorometano) es eficaz porque:",
+    "options": ["Sofoca el fuego desplazando el oxígeno", "Enfría el fuego", "Absorbe el calor", "Actúa como espuma"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_007",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué debe hacerse antes de abrir una puerta o panel en una zona donde se sospecha fuego?",
+    "options": ["Comprobar la temperatura con el dorso de la mano", "Abrir rápidamente para ventilar", "Rociar agua antes de abrir", "Esperar instrucciones del comandante"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_008",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué riesgo principal genera el humo en un incendio a bordo?",
+    "options": ["Asfixia", "Explosión", "Quemaduras", "Despresurización"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_009",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En caso de fuego en un compartimento cerrado, lo primero es:",
+    "options": ["Cortar la fuente de oxígeno y electricidad", "Abrir para ventilar", "Pedir ayuda a los pasajeros", "Usar agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_010",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego en los lavabos se detecta mediante:",
+    "options": ["Detectores de humo automáticos", "Tripulación de cabina", "Pasajeros", "Sensores de temperatura"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_011",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Dónde se encuentran normalmente los extintores portátiles a bordo?",
+    "options": ["Distribuidos por toda la cabina y galley", "Solo en cockpit", "Junto a cada asiento", "En el compartimento de carga"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_012",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué debe hacer el TCP si un detector de humo en el lavabo se activa?",
+    "options": ["Verificar inmediatamente el lavabo", "Ignorarlo si no hay olor", "Esperar confirmación del comandante", "Desconectar la alarma"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_013",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué gas se libera en los extintores de CO2?",
+    "options": ["Dióxido de carbono", "Monóxido de carbono", "Nitrógeno", "Argón"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_014",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El uso de agua está prohibido en incendios eléctricos porque:",
+    "options": ["Conduce electricidad y puede causar descarga", "Produce gases tóxicos", "Apaga el extintor", "Despresuriza la cabina"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_015",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Un incendio en el compartimento de carga se combate con:",
+    "options": ["Sistema fijo de extinción y cierre de válvulas de ventilación", "Extintores portátiles", "Agua", "Oxígeno suplementario"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_016",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La duración aproximada de un extintor portátil BCF es de:",
+    "options": ["10 a 15 segundos", "30 a 60 segundos", "5 segundos", "1 minuto"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_017",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La fuente de ignición más frecuente en la cabina es:",
+    "options": ["Equipos eléctricos o fumar", "Motores", "Fricción del tren de aterrizaje", "Hornos apagados"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_018",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En un incendio, el TCP debe:",
+    "options": ["Luchar contra el fuego y proteger a los pasajeros", "Evacuar sin intentar apagarlo", "Esperar órdenes de tierra", "Cerrar todas las salidas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_019",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En la fase inicial de un fuego, la prioridad es:",
+    "options": ["Detectarlo y extinguirlo rápidamente", "Esperar al capitán", "Avisar a mantenimiento", "Aislar el compartimento"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_020",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué material de a bordo puede liberar gases tóxicos al arder?",
+    "options": ["Plásticos y aislamientos", "Metales", "Vidrios", "Telas naturales"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_021",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué debe hacer el TCP tras extinguir un fuego a bordo?",
+    "options": ["Vigilar la zona por posible reignición", "Abandonar el área inmediatamente", "Aplicar agua sobre el área", "Notificarlo solo tras el aterrizaje"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_022",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En caso de fuego en el horno del galley, la acción correcta es:",
+    "options": ["Cortar la corriente eléctrica y usar BCF", "Abrir la puerta del horno para enfriar", "Usar agua", "Avisar al comandante sin intervenir"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_023",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un extintor no funciona correctamente durante su uso, el TCP debe:",
+    "options": ["Sustituirlo por otro y continuar", "Esperar ayuda técnica", "Agitarlo fuertemente", "Dejar de actuar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_024",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo a bordo puede reducir la visibilidad en segundos, por lo que el TCP debe:",
+    "options": ["Usar la máscara protectora de humo (PBE)", "Esperar a que se disipe", "Agacharse sin protección", "Encender luces del galley"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_025",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La máscara PBE protege principalmente contra:",
+    "options": ["Inhalación de humo y gases tóxicos", "Presión de cabina", "Ruido del fuego", "Temperaturas extremas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_026",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué se debe hacer antes de utilizar un extintor BCF?",
+    "options": ["Quitar el pasador de seguridad y probar el chorro", "Agitarlo vigorosamente", "Encender una linterna", "Abrir la válvula de oxígeno"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_027",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es la distancia ideal de aplicación del extintor al fuego?",
+    "options": ["De 1 a 2 metros", "De 5 metros", "Tan cerca como sea posible", "Más de 3 metros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_028",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es la causa más habitual de incendios en el galley?",
+    "options": ["Corto circuito o sobrecalentamiento de hornos", "Uso de líquidos inflamables", "Caída de objetos pesados", "Fugas hidráulicas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_029",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si hay fuego debajo de un asiento, el TCP debe:",
+    "options": ["Usar el extintor en dirección horizontal hacia la base del fuego", "Sacar la estructura del asiento", "Echar agua directamente", "Esperar al mantenimiento"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_030",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo caliente tiende a:",
+    "options": ["Elevarse hacia la parte superior de la cabina", "Mantenerse a nivel del suelo", "Desaparecer rápidamente", "Condensarse en las paredes"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_031",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El objetivo principal del TCP durante un incendio en vuelo es:",
+    "options": ["Extinguir el fuego y mantener la seguridad de los pasajeros", "Evacuar inmediatamente", "Controlar la temperatura", "Esperar al aterrizaje"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_032",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los fuegos de líquidos inflamables como aceite o gasolina son de tipo:",
+    "options": ["Clase B", "Clase A", "Clase C", "Clase D"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_033",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La PBE (Protective Breathing Equipment) debe ser revisada:",
+    "options": ["Antes de cada vuelo por el TCP", "Una vez al mes", "Solo por mantenimiento", "Cada año"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_034",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es la duración aproximada de la PBE?",
+    "options": ["15 a 20 minutos", "5 minutos", "30 minutos", "1 hora"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_035",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante un incendio en cabina, la comunicación con el cockpit debe ser:",
+    "options": ["Clara, concisa y constante", "Solo al final del fuego", "Evitable para no distraer", "Mediante mensajes escritos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_036",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué debe hacer el TCP si el fuego no puede controlarse?",
+    "options": ["Informar al comandante inmediatamente", "Abandonar la cabina", "Cerrar las salidas", "Abrir puertas para ventilar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_037",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cómo debe aplicarse el agente extintor?",
+    "options": ["A la base del fuego, con movimientos de barrido", "Directamente a las llamas", "En el aire", "Desde la parte superior del humo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_038",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es el primer indicio de un fuego eléctrico oculto?",
+    "options": ["Olor a cable quemado o humo ligero", "Chispas visibles", "Explosión", "Aviso de pasajero"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_039",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En un incendio en el compartimento superior de equipaje, el TCP debe:",
+    "options": ["Usar BCF sin abrir completamente el compartimento", "Abrir de golpe y extinguir", "Usar agua", "Cerrar y dejar actuar el calor"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_040",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego de magnesio o titanio se clasifica como:",
+    "options": ["Clase D", "Clase C", "Clase B", "Clase A"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_041",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo tóxico en la cabina puede provocar:",
+    "options": ["Desorientación y pérdida de consciencia", "Despresurización", "Dolor muscular", "Hiperventilación leve"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_042",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Una señal visual de fuego en el galley puede ser:",
+    "options": ["Luces parpadeantes o humo en hornos", "Puertas trabadas", "Olor a combustible", "Ruido metálico"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_043",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante un incendio, el TCP debe colocarse:",
+    "options": ["Agachado para evitar el humo", "De pie cerca del techo", "Junto al comandante", "En la salida más cercana"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_044",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un pasajero fuma en el baño, el detector se activará y el TCP debe:",
+    "options": ["Verificar el lavabo e informar al comandante", "Ignorar si no hay humo visible", "Desactivar el sistema", "Esperar a que se apague solo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_045",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los sistemas fijos de extinción en compartimentos de carga utilizan principalmente:",
+    "options": ["Halón o agentes gaseosos", "Agua a presión", "Polvo seco manual", "CO2 líquido"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_046",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Un TCP observa humo proveniente del panel eléctrico. ¿Qué debe hacer?",
+    "options": ["Cortar la electricidad y aplicar BCF", "Rociar agua", "Abrir el panel", "Esperar confirmación del comandante"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_047",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Después de un incendio, se debe ventilar la cabina:",
+    "options": ["Solo si el comandante lo autoriza", "Inmediatamente", "Al aterrizar", "Después de 10 minutos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_048",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El triángulo del fuego está formado por:",
+    "options": ["Oxígeno, calor y combustible", "Humo, agua y aire", "CO2, energía y metal", "Combustible, nitrógeno y presión"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_049",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Un fuego en fase incipiente se caracteriza por:",
+    "options": ["Poca llama y fácil control", "Alta temperatura", "Fuerte humo negro", "Explosión inminente"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_050",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe informar al comandante de un incendio:",
+    "options": ["Tan pronto como lo detecte", "Solo si no logra apagarlo", "Después de 5 minutos", "Cuando haya humo visible en cabina"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_051",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué tipo de fuego requiere un extintor de clase C?",
+    "options": ["Fuego eléctrico", "Fuego de líquidos inflamables", "Fuego de madera", "Fuego de metales"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_052",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante un incendio en cabina, ¿cuál es la primera acción del TCP?",
+    "options": ["Alertar al comandante y proteger a los pasajeros", "Encender luces de emergencia", "Abrir las salidas de emergencia", "Buscar extintores en galley"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_053",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo negro intenso indica:",
+    "options": ["Combustible sintético ardiendo", "Fuego eléctrico", "Fuego de papel o madera", "Incendio químico controlado"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_054",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En un fuego de clase A, el agente extintor más adecuado es:",
+    "options": ["Agua o polvo seco", "CO2", "Halon", "Espuma líquida"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_055",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El procedimiento PAS (Pull, Aim, Squeeze, Sweep) se aplica a:",
+    "options": ["Extintores portátiles de mano", "PBE", "Detectores de humo", "Fuegos de metales"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_056",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Un fuego en un horno eléctrico de galley se extingue preferiblemente con:",
+    "options": ["Extintor de polvo químico seco (BCF)", "Agua", "CO2", "Ventilación de cabina"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_057",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si el fuego produce humo espeso y tóxico, el TCP debe:",
+    "options": ["Usar la máscara PBE y mantener la calma", "Agacharse sin protección", "Encender el sistema de ventilación", "Evacuar sin notificar al comandante"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_058",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La duración típica de la extinción con un extintor portátil BCF es:",
+    "options": ["8 a 12 segundos", "30 segundos", "1 minuto", "2 minutos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_059",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Para un fuego en un compartimento de equipaje, el TCP debe:",
+    "options": ["Usar el sistema fijo de extinción y mantener a los pasajeros alejados", "Abrir el compartimento y aplicar agua", "Esperar aterrizar", "Solo notificar al comandante"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_060",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es la función principal de un detector de humo en cabina?",
+    "options": ["Detectar incendios incipientes y alertar al TCP", "Medir la temperatura", "Controlar la ventilación", "Activar extintores automáticos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_061",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué indica humo blanco denso en cabina?",
+    "options": ["Posible incendio en material sintético o galley", "Fuego de papel o madera", "Fuego eléctrico", "Fuego químico controlado"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_062",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Antes de abrir un compartimento que pueda contener fuego, el TCP debe:",
+    "options": ["Evaluar riesgo y usar PBE si es necesario", "Abrir de inmediato para ventilar", "Ignorar y continuar servicio", "Rociar agua desde fuera"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_063",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La mejor posición para aplicar un extintor es:",
+    "options": ["A ras del suelo y barrido hacia la base del fuego", "Directamente sobre las llamas", "De pie al centro de la cabina", "Cerca del techo para atacar humo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_064",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe mantener la calma durante un incendio para:",
+    "options": ["Controlar la situación y guiar a los pasajeros", "Evacuar primero", "Avisar solo al comandante", "Solo protegerse a sí mismo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_065",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Un incendio eléctrico requiere evitar:",
+    "options": ["Agua", "Extintor BCF", "Uso de PBE", "Notificación al comandante"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_066",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego de clase B se caracteriza por:",
+    "options": ["Líquidos inflamables como combustible o aceite", "Madera, papel y textiles", "Equipos eléctricos", "Metales combustibles"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_067",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe realizar simulacros de incendio:",
+    "options": ["Regularmente según normativa", "Solo en el inicio de su carrera", "Cada 5 años", "Solo si hay fuego real"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_068",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un fuego se propaga rápidamente y no puede controlarse, el TCP debe:",
+    "options": ["Informar inmediatamente al comandante y preparar evacuación", "Continuar intentando apagarlo solo", "Esperar instrucciones de mantenimiento", "Cerrar el compartimento y abandonar pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_069",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La distancia de seguridad al aplicar un extintor de CO2 es:",
+    "options": ["1,5 a 2 metros", "0,5 metros", "5 metros", "Tan cerca como sea posible"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_070",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe revisar los extintores portátiles:",
+    "options": ["Antes de cada vuelo", "Solo cuando se use uno", "Cada año", "Cada 5 vuelos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_071",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un pasajero se quema ligeramente, el TCP debe:",
+    "options": ["Aplicar primeros auxilios y enfriar la zona", "Dejar que se enfríe solo", "Usar agua caliente", "Aplicar alcohol"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_072",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo puede causar desorientación por:",
+    "options": ["Falta de oxígeno y gases tóxicos", "Temperatura", "Sonidos fuertes", "Luces intermitentes"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_073",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Para prevenir incendios en vuelo, es esencial:",
+    "options": ["Revisar instalaciones eléctricas y galley", "Ignorar el galley hasta el despegue", "Dejar líquidos sin supervisión", "Usar agua en hornos eléctricos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_074",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe priorizar durante un fuego:",
+    "options": ["Seguridad de pasajeros y tripulación", "Buscar objetos de valor", "Apagar fuego sin protección", "Ventilar compartimento sin protección"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_075",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo caliente tiende a:",
+    "options": ["Subir hacia el techo", "Bajar al suelo", "Dispersarse lateralmente", "Condensarse en las ventanas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_076",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La revisión periódica de los sistemas de detección de humo se hace para:",
+    "options": ["Garantizar su funcionamiento correcto", "Solo cumplir normativa", "Verificar apariencia", "Ajustar iluminación"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_077",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Un fuego químico de clase D requiere:",
+    "options": ["Agente extintor específico para metales", "Extintor de agua", "Extintor CO2", "BCF estándar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_078",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un fuego se produce en el sistema eléctrico del avión, se recomienda:",
+    "options": ["Cortar la corriente y usar BCF", "Aplicar agua", "Abrir compartimento", "Usar ventilación forzada"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_079",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La formación periódica del TCP sobre incendios busca:",
+    "options": ["Mantener conocimientos y habilidades actualizadas", "Solo cumplir normativa", "Evitar evacuaciones", "Disminuir seguros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_080",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante un incendio, la comunicación entre TCP y comandante debe ser:",
+    "options": ["Constante, clara y concisa", "Solo cuando sea crítico", "Evitar por distracción", "Solo vía radio escrita"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_081",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un fuego se inicia en un equipamiento electrónico, no se debe usar:",
+    "options": ["Agua", "Extintor CO2", "BCF", "PBE"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_082",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los incendios en hornos de galley son generalmente de clase:",
+    "options": ["B", "A", "C", "D"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_083",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Un fuego eléctrico se identifica por:",
+    "options": ["Chispas, olor a quemado, humo blanco azulado", "Llamas rojas altas", "Explosión inmediata", "Humo negro denso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_084",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante un incendio, los pasajeros deben ser:",
+    "options": ["Guiados hacia zonas seguras por el TCP", "Dejados libres de movimiento", "Ignorados hasta aterrizar", "Retirados del avión"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_085",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En un simulacro de incendio, el objetivo principal es:",
+    "options": ["Practicar procedimientos y coordinación", "Encender fuego real", "Probar extintores nuevos", "Evaluar pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_086",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego de clase A incluye materiales como:",
+    "options": ["Madera, papel y textiles", "Combustible líquido", "Equipos eléctricos", "Metales combustibles"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_087",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego de clase C se refiere a:",
+    "options": ["Fuego eléctrico", "Fuego de madera", "Fuego de líquidos", "Fuego de metales"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_088",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe inspeccionar extintores portátiles:",
+    "options": ["Antes de cada vuelo", "Cada semana", "Cada mes", "Solo si se usan"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_089",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe conocer la ubicación de todos los extintores porque:",
+    "options": ["Permite intervención rápida ante un incendio", "Solo para cumplir normativa", "Para inspección técnica", "Para entrenamiento de pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_090",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante un incendio en cabina, el TCP debe proteger:",
+    "options": ["A los pasajeros, la tripulación y la aeronave", "Solo a la tripulación", "Solo a los pasajeros", "Solo la aeronave"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_091",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La formación en incendios incluye:",
+    "options": ["Uso de extintores, PBE y procedimientos de emergencia", "Solo PBE", "Solo extintores", "Solo evacuación de pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_092",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La correcta secuencia de acción ante fuego es:",
+    "options": ["Detectar, alertar, extinguir, informar", "Extinguir, informar, evacuar, detectar", "Evacuar, extinguir, alertar, informar", "Informar, detectar, extinguir, evacuar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_093",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La comunicación con pasajeros durante un incendio debe ser:",
+    "options": ["Clara, concisa y calmada", "Rápida y confusa", "No necesaria", "Solo por radio escrita"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_094",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe utilizar siempre PBE cuando:",
+    "options": ["Hay humo en la cabina", "Falta un pasajero", "Se abre la puerta de galley", "Se hace simulacro sin humo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_095",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego en líquidos inflamables debe extinguirse con:",
+    "options": ["BCF o espuma química", "Agua", "PBE", "CO2"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_096",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe inspeccionar compartimentos de galley para prevenir incendios:",
+    "options": ["Antes de cada vuelo", "Solo si hay reportes", "Solo en inspección anual", "Nunca"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_097",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El uso de un PBE protege principalmente contra:",
+    "options": ["Humo y gases tóxicos", "Llamas directas", "Fuego en líquidos inflamables", "Descargas eléctricas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_098",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si detectas humo en la cabina de pasajeros, el primer paso es:",
+    "options": ["Informar al comandante y activar procedimientos de emergencia", "Abrir las salidas de emergencia", "Rociar a los pasajeros con agua", "Evacuar sin informar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_099",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego de clase A incluye:",
+    "options": ["Materiales combustibles comunes: madera, papel, tela", "Combustibles líquidos", "Equipos eléctricos", "Metales combustibles"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_100",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Antes de usar un extintor portátil, el TCP debe:",
+    "options": ["Asegurarse de que no hay riesgo para pasajeros", "Apuntar directamente al fuego sin protección", "Abrir todas las salidas", "Esperar instrucciones del comandante sin evaluar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_101",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego de clase B se caracteriza por involucrar:",
+    "options": ["Líquidos inflamables y gases", "Madera y papel", "Equipos eléctricos", "Metales combustibles"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_102",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante un incendio, el humo tiende a concentrarse en:",
+    "options": ["Zonas altas de la cabina", "Suelo de la cabina", "Cerca de las ventanas", "Compartimentos de equipaje inferior"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_103",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Al usar un extintor químico seco BCF, el TCP debe:",
+    "options": ["Apuntar a la base del fuego", "Rociar sobre la parte superior del humo", "Apuntar a los pasajeros cercanos", "Solo activar sin apuntar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_104",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si el fuego se produce en la cocina del avión, nunca se debe usar:",
+    "options": ["Agua", "Extintor de polvo químico", "Sistema fijo de extinción", "PBE"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_105",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo de color gris o blanco normalmente indica:",
+    "options": ["Combustión de madera o papel", "Plásticos o materiales sintéticos", "Incendio eléctrico", "Fuego químico controlado"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_106",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "P.A.S.S., como procedimiento de uso de extintor significa:",
+    "options": ["Pull, Aim, Squeeze, Sweep", "Push, Apply, Spray, Stop", "Protect, Alert, Sweep, Spray", "Pull, Activate, Spray, Shield"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_107",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Un fuego eléctrico se clasifica como:",
+    "options": ["Clase C", "Clase A", "Clase B", "Clase D"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_108",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Antes de intentar apagar un fuego, el TCP debe:",
+    "options": ["Evaluar riesgos y proteger a los pasajeros", "Abrir el compartimento sin precaución", "Ignorar a los pasajeros", "Esperar a que el fuego se apague solo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_109",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si hay fuego y humo en la cabina, la prioridad es:",
+    "options": ["Evacuar pasajeros si es seguro y controlar fuego", "Solo apagar el fuego sin evacuar", "Avisar a los pasajeros sin actuar", "Esperar a que aterrice el avión"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_110",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Un fuego de metal se clasifica como:",
+    "options": ["Clase D", "Clase A", "Clase B", "Clase C"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_111",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe comunicarse con el comandante durante un incendio mediante:",
+    "options": ["Sistema de intercomunicador o radio de cabina", "Señales visuales desde ventanilla", "Gritos a pasajeros", "Teléfono móvil personal"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_112",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor BCF es adecuado para apagar:",
+    "options": ["Fuegos eléctricos y líquidos inflamables", "Solo madera y papel", "Metales combustibles", "Fuegos químicos de laboratorio"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_113",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante el entrenamiento, la simulación de humo enseña principalmente:",
+    "options": ["Procedimientos de evacuación y respiración segura", "Cómo rociar agua sobre el fuego", "Cómo usar teléfonos celulares en emergencia", "A abrir maletas de equipaje"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_114",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si el fuego ocurre en la bodega de equipaje, el TCP debe:",
+    "options": ["Notificar al comandante y usar el sistema de extinción de bodega", "Abrir la bodega para ventilar", "Rociar pasajeros con agua", "Ignorar hasta aterrizar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_115",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo tóxico puede causar:",
+    "options": ["Asfixia, intoxicación y desorientación", "Aumento de visibilidad", "Evitar incendios", "Solo molestias leves"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_116",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La cabina de pasajeros debe mantenerse libre de humo mediante:",
+    "options": ["Uso de PBE y procedimientos de evacuación", "Abrir todas las salidas de emergencia", "Rociar a los pasajeros con agua", "Ignorar la fuente de humo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_117",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un pasajero entra en pánico por fuego o humo, el TCP debe:",
+    "options": ["Guiarlo calmadamente hacia la salida más cercana", "Gritarle para que se mueva", "Ignorarlo mientras apaga fuego", "Permitir que salga solo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_118",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El sistema de detección de humo a bordo:",
+    "options": ["Se activa automáticamente y alerta a la tripulación", "Se activa manualmente solo en cabina de pilotos", "No existe en aeronaves comerciales", "Solo funciona en hangares"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_119",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe recordar que el fuego consume oxígeno y produce:",
+    "options": ["Humo y gases tóxicos", "Agua y vapor", "Niebla inofensiva", "Solo calor"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_120",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En caso de fuego en un compartimento de equipaje, el TCP debe:",
+    "options": ["Usar el sistema de extinción fijo y notificar al comandante", "Abrir la puerta para ventilar humo", "Rociar pasajeros con extintor portátil", "Esperar hasta aterrizar para actuar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_121",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego de clase C se produce en:",
+    "options": ["Equipos eléctricos energizados", "Materiales sólidos comunes", "Líquidos inflamables", "Metales combustibles"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_122",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante un incendio, la prioridad del TCP es:",
+    "options": ["Proteger a los pasajeros y controlar el fuego", "Rociar combustible para apagarlo", "Abrir todas las salidas sin orden", "Salir de la cabina primero"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_123",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de CO2 es ideal para:",
+    "options": ["Fuegos eléctricos y líquidos inflamables", "Fuegos de madera o papel", "Metales combustibles", "Combustibles sólidos con agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_124",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un pasajero sufre quemaduras leves, el TCP debe:",
+    "options": ["Enfriar la zona con agua y cubrir con gasa limpia", "Aplicar ungüento inflamable", "Ignorar la lesión", "Rociar con extintor químico"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_125",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo negro denso indica:",
+    "options": ["Plásticos o combustibles sintéticos en combustión", "Madera o papel", "Equipos eléctricos apagados", "Metales combustibles"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_126",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En caso de incendio en cocina, el TCP debe usar:",
+    "options": ["Extintor de CO2 o químico seco", "Agua directamente", "Teléfono móvil para llamar al comandante", "Evacuar pasajeros inmediatamente sin intentar apagar fuego"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_127",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El PBE proporciona protección contra:",
+    "options": ["Humo y gases tóxicos durante la entrada en zonas de fuego", "Fuego directo en la piel", "Descargas eléctricas", "Exposición a líquidos inflamables"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_128",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe guiar a los pasajeros durante humo intenso usando:",
+    "options": ["Técnicas de evacuación y comunicación clara", "Abrir todas las ventanas", "Rociar agua para disipar humo", "Ignorar a pasajeros y actuar solo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_129",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los incendios de líquidos inflamables se clasifican como:",
+    "options": ["Clase B", "Clase A", "Clase C", "Clase D"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_130",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Al usar un extintor, el TCP debe recordar P.A.S.S., que significa:",
+    "options": ["Pull, Aim, Squeeze, Sweep", "Push, Apply, Spray, Stop", "Protect, Alert, Sweep, Spray", "Pull, Activate, Spray, Shield"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_131",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante un incendio, la ventilación de humo debe realizarse:",
+    "options": ["Sólo si es seguro y autorizado por procedimientos", "Abriendo todas las salidas sin evaluar", "Ignorando los pasajeros", "Usando extintor para rociar humo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_132",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si el fuego ocurre en la bodega de equipaje, el TCP debe:",
+    "options": ["Usar sistema de extinción fijo y comunicar al comandante", "Abrir bodega para ventilar humo", "Rociar pasajeros con extintor", "Esperar aterrizaje sin actuar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_133",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo puede producir:",
+    "options": ["Asfixia, intoxicación y desorientación", "Aumento de visibilidad", "Solo molestias leves", "Disminución del riesgo de fuego"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_134",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego eléctrico debe apagarse con:",
+    "options": ["Extintor de CO2 o químico seco", "Agua", "Manta de papel", "Extintor de agua a presión"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_135",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego de clase A se apaga mejor con:",
+    "options": ["Agua o extintor de polvo químico", "CO2", "Extintor químico BCF solamente", "Nada, se deja consumir solo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_136",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Para prevenir inhalación de humo, el TCP debe:",
+    "options": ["Usar PBE y permanecer agachado si es necesario", "Abrir ventanas y rociar agua", "Ignorar humo", "Rociar pasajeros con extintor"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_137",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El entrenamiento de lucha contra incendios enseña principalmente:",
+    "options": ["Uso de extintores, evacuación y PBE", "Cómo manejar teléfonos celulares", "Rociar pasajeros con agua", "Abrir maletas durante fuego"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_138",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un pasajero entra en pánico por fuego, el TCP debe:",
+    "options": ["Guiarlo calmadamente hacia la salida más cercana", "Gritarle para que se mueva", "Ignorarlo mientras apaga fuego", "Permitir que salga solo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_139",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo negro indica normalmente:",
+    "options": ["Plásticos o combustibles sintéticos en combustión", "Madera o papel", "Metales combustibles", "Fuego controlado"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_140",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un TCP observa chispas o humo cerca de un equipo eléctrico, debe:",
+    "options": ["Usar extintor de CO2 y avisar al comandante", "Rociar agua directamente", "Ignorar hasta aterrizar", "Abrir compartimento sin precaución"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_141",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El sistema de detección de humo se activa:",
+    "options": ["Automáticamente y alerta a la tripulación", "Solo manualmente desde cabina de pilotos", "Solo cuando pasajeros lo activan", "No existe en aeronaves comerciales"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_142",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego de clase D involucra:",
+    "options": ["Metales combustibles", "Madera y papel", "Líquidos inflamables", "Equipos eléctricos energizados"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_143",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si el fuego está contenido en un compartimento, el TCP debe:",
+    "options": ["Usar extintor adecuado y no abrir compartimento innecesariamente", "Abrir de inmediato para ventilar", "Rociar pasajeros con agua", "Ignorar hasta aterrizar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_144",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En la cabina, el TCP debe identificar incendios mediante:",
+    "options": ["Olor, humo, alarma de fuego y signos visibles", "Solo por alarma sonora", "Preguntando a pasajeros", "Ignorando señales de alarma"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_145",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante fuego en la cocina, nunca se debe usar:",
+    "options": ["Agua directamente sobre aceite en combustión", "Extintor químico", "Sistema fijo de extinción", "PBE"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_146",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo reduce la visibilidad y puede causar:",
+    "options": ["Desorientación y asfixia", "Mayor percepción del entorno", "Evita incendios", "Solo irritación leve"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_147",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe usar la técnica de barrido (sweep) del extintor:",
+    "options": ["Moviendo el chorro de un lado a otro sobre la base del fuego", "Apuntando al humo sin tocar el fuego", "Rociando pasajeros", "Solo presionando sin mover el extintor"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_148",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La protección respiratoria durante humo intenso se logra con:",
+    "options": ["PBE o máscara respiratoria", "Agua pulverizada", "Gafas de sol", "Evitar cabina"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_149",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un fuego ocurre en compartimento de equipaje, el TCP debe:",
+    "options": ["Activar sistema de extinción y notificar al comandante", "Abrir compartimento sin precaución", "Ignorar hasta aterrizar", "Usar extintor sobre pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_150",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El objetivo principal del entrenamiento contra incendios para TCP es:",
+    "options": ["Salvar vidas y proteger la aeronave", "Evitar abrir maletas", "Rociar agua en pasajeros", "Ignorar incidentes menores"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_151",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego de clase B involucra:",
+    "options": ["Líquidos inflamables", "Madera y papel", "Equipos eléctricos", "Metales combustibles"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_152",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Antes de usar un extintor, el TCP debe verificar:",
+    "options": ["Que sea del tipo adecuado para el fuego", "Que esté cargado solo parcialmente", "Que esté en otra cabina", "Que tenga agua dentro"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_153",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En caso de fuego en el equipaje de cabina, el TCP debe:",
+    "options": ["Retirar el objeto y usar extintor químico", "Abrir todas las maletas", "Rociar pasajeros con agua", "Ignorar hasta aterrizar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_154",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante fuego en un asiento, el TCP debe:",
+    "options": ["Cubrirlo con manta ignífuga y usar extintor", "Rociar con agua a los pasajeros cercanos", "Abrir ventana inmediatamente", "Ignorar mientras se evacua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_155",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El PBE debe colocarse antes de entrar en zona con:",
+    "options": ["Humo visible o gases tóxicos", "Solo fuego sin humo", "Pasajeros", "Cabina de pilotos sin fuego"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_156",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe guiar a los pasajeros durante incendio usando:",
+    "options": ["Señales claras y comunicación calmada", "Gritos y presión física", "Extintor para hacer ruido", "Ignorar a los pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_157",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego de clase A se refiere a:",
+    "options": ["Materiales sólidos como madera y papel", "Equipos eléctricos", "Líquidos inflamables", "Metales combustibles"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_158",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante fuego, la ventilación de humo se realiza:",
+    "options": ["Solo cuando es seguro y autorizado", "Siempre inmediatamente", "Nunca", "Solo si hay pasajeros evacuando"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_159",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si el fuego involucra equipos eléctricos, el TCP debe:",
+    "options": ["Usar extintor CO2 o químico seco", "Usar agua", "Tapar con manta húmeda", "Evacuar sin apagar fuego"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_160",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Para apagar fuego en líquidos inflamables se usa:",
+    "options": ["Extintor químico seco o CO2", "Agua", "Manta ignífuga", "Ventilación directa"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_161",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un pasajero entra en pánico durante incendio, el TCP debe:",
+    "options": ["Calmarlo y guiarlo a la salida", "Gritarle para moverse", "Ignorarlo mientras apaga fuego", "Evacuarlo solo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_162",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La señal de alarma de humo indica al TCP:",
+    "options": ["Investigar y tomar acción inmediata", "Esperar confirmación de pasajeros", "Ignorar si no hay fuego visible", "Rociar agua en cabina"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_163",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En un fuego de clase D, el TCP debe usar:",
+    "options": ["Agentes especiales para metales combustibles", "Extintor de agua", "CO2", "Manta húmeda"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_164",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si el fuego ocurre en compartimento de carga, el TCP debe:",
+    "options": ["Activar sistema de extinción y notificar comandante", "Abrir compartimento de inmediato", "Ignorar hasta aterrizar", "Rociar pasajeros con agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_165",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo en cabina puede causar:",
+    "options": ["Desorientación, asfixia e intoxicación", "Aumento de visibilidad", "Solo irritación leve", "Evita propagación de fuego"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_166",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante un incendio, el TCP debe:",
+    "options": ["Proteger a los pasajeros y controlar el fuego", "Ignorar fuego hasta aterrizar", "Rociar agua sobre pasajeros", "Abrir todas las ventanas sin precaución"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_167",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El uso de extintor requiere:",
+    "options": ["Verificar tipo de fuego y agente correcto", "Correr sin pensar", "Rociar agua sin evaluar", "Abrir compartimentos al azar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_168",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El PBE se utiliza para:",
+    "options": ["Proteger al TCP de humo y gases tóxicos", "Extinguir fuego", "Cubrir pasajeros", "Proteger equipaje"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_169",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego de clase C involucra:",
+    "options": ["Equipos eléctricos energizados", "Madera y papel", "Líquidos inflamables", "Metales combustibles"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_170",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un fuego se propaga rápidamente, el TCP debe:",
+    "options": ["Evacuar pasajeros y alertar al comandante", "Abrir compartimento de inmediato", "Rociar agua en cabina sin control", "Ignorar hasta aterrizar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_171",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Para prevenir inhalación de humo, el TCP debe:",
+    "options": ["Usar PBE y permanecer agachado", "Abrir ventana y esperar", "Rociar pasajeros con agua", "Ignorar humo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_172",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El entrenamiento de incendios enseña:",
+    "options": ["Uso de extintores, evacuación y protección respiratoria", "Abrir maletas durante fuego", "Rociar pasajeros con agua", "Ignorar incidentes menores"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_173",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego de clase A se apaga mejor con:",
+    "options": ["Agua o extintor químico seco", "CO2", "Manta húmeda", "Extintor de polvo para líquidos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_174",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego de clase B se apaga mejor con:",
+    "options": ["Extintor químico seco o CO2", "Agua", "Manta húmeda", "Extintor de madera"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_175",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe aplicar P.A.S.S. al usar extintor, que significa:",
+    "options": ["Pull, Aim, Squeeze, Sweep", "Push, Apply, Spray, Stop", "Protect, Alert, Sweep, Spray", "Pull, Activate, Spray, Shield"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_176",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego de clase D requiere:",
+    "options": ["Agentes especiales para metales combustibles", "Agua", "Extintor CO2", "Extintor químico BCF"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_177",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante humo intenso, el TCP debe:",
+    "options": ["Usar PBE y guiar a pasajeros agachado", "Abrir todas las puertas sin control", "Rociar agua en pasajeros", "Ignorar humo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_178",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si hay fuego en la cocina, el TCP debe evitar:",
+    "options": ["Agua sobre aceite en combustión", "Extintor químico", "Sistema de extinción fijo", "PBE"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_179",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo puede causar:",
+    "options": ["Desorientación, intoxicación y asfixia", "Mayor visibilidad", "Solo molestias leves", "Evita incendio"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_180",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe guiar a los pasajeros durante incendio usando:",
+    "options": ["Señales claras y comunicación calmada", "Gritos y presión física", "Extintor para hacer ruido", "Ignorar a los pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_181",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante fuego en la bodega, el TCP debe:",
+    "options": ["Activar sistema de extinción y comunicar al comandante", "Abrir bodega de inmediato", "Ignorar hasta aterrizar", "Usar extintor sobre pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_182",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego eléctrico se apaga mejor con:",
+    "options": ["Extintor de CO2 o químico seco", "Agua", "Manta húmeda", "Extintor químico BCF"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_183",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe usar la técnica de barrido (sweep) del extintor:",
+    "options": ["Mover chorro de lado a lado sobre la base del fuego", "Apuntar al humo sin tocar fuego", "Rociar pasajeros", "Solo presionar sin mover extintor"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_184",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La prioridad durante incendio en vuelo es:",
+    "options": ["Proteger vidas de pasajeros y tripulación", "Apagar fuego primero sin importar pasajeros", "Abrir compartimentos al azar", "Esperar aterrizaje para actuar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_185",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego de clase C involucra:",
+    "options": ["Equipos eléctricos energizados", "Madera y papel", "Líquidos inflamables", "Metales combustibles"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_186",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Para apagar fuego en líquidos inflamables se usa:",
+    "options": ["Extintor químico seco o CO2", "Agua", "Manta ignífuga", "Ventilación directa"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_187",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe inspeccionar extintores:",
+    "options": ["Antes del vuelo y durante inspecciones rutinarias", "Nunca", "Solo si hay fuego", "Después de cada aterrizaje"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_188",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego de clase A involucra:",
+    "options": ["Materiales sólidos como madera, papel y tela", "Equipos eléctricos", "Líquidos inflamables", "Metales combustibles"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_189",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante incendio en cabina, la comunicación con pasajeros debe ser:",
+    "options": ["Calmada, clara y firme", "Gritando y rápido", "Ignorando su pánico", "Solo a través de cartas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_190",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El entrenamiento de incendios enseña principalmente:",
+    "options": ["Uso de extintores, técnicas de evacuación y PBE", "Abrir maletas", "Rociar pasajeros con agua", "Ignorar incidentes menores"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_191",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego de clase D involucra:",
+    "options": ["Metales combustibles", "Madera y papel", "Líquidos inflamables", "Equipos eléctricos energizados"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_192",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El PBE protege al TCP de:",
+    "options": ["Humo y gases tóxicos", "Fuego directo", "Descargas eléctricas", "Líquidos inflamables"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_193",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe evacuar pasajeros si el fuego es:",
+    "options": ["Incontrolable o amenaza directa", "Pequeño y contenido", "Solo humo visible", "El fuego está apagado por otros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_194",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante fuego, el TCP debe usar:",
+    "options": ["Extintor adecuado y PBE", "Teléfono móvil para selfies", "Rociar pasajeros con agua", "Ignorar pasajeros asustados"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_195",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego en bodega de equipaje se combate principalmente con:",
+    "options": ["Sistema fijo de extinción", "Abrir compartimento y ventilar", "Extintor de agua", "Rociar pasajeros con extintor"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_196",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego en cocina se apaga con:",
+    "options": ["Extintor químico adecuado o manta ignífuga", "Agua directamente", "Solo ventilación", "Ignorar hasta aterrizar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_197",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante incendio, el TCP debe guiar a los pasajeros usando:",
+    "options": ["Instrucciones claras y calma", "Gritos y presión física", "Extintor para hacer ruido", "Ignorar pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_198",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo negro indica combustión de:",
+    "options": ["Plásticos y sintéticos", "Madera y papel", "Metales combustibles", "Agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_199",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El fuego de clase C se combate con:",
+    "options": ["Extintor CO2 o químico seco", "Agua", "Manta húmeda", "Extintor de polvo para madera"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_200",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El objetivo del entrenamiento en lucha contra incendios para TCP es:",
+    "options": ["Proteger vidas y aeronave", "Rociar agua en pasajeros", "Ignorar incidentes menores", "Abrir maletas durante fuego"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_188",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué peligro presenta el uso de extintores de CO2 en espacios cerrados sin ventilación adecuada?",
+    "options": ["Riesgo de asfixia para la tripulación", "Aumento de temperatura", "Fuego de Clase D", "Mayor propagación del fuego"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_189",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué se debe hacer con el equipaje de mano si se detecta un incendio cerca de él?",
+    "options": ["Retirarlo y extinguir el fuego", "Mojarlo con agua y dejarlo", "Abrirlo para ver el contenido", "Ignorarlo y apagar el fuego del asiento"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_190",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La manta ignífuga (fire blanket) se utiliza principalmente para:",
+    "options": ["Sofocar pequeños fuegos y envolver a personas en llamas", "Extinguir fuegos de Clase C", "Ventilar la cabina", "Enfriar la botella de CO2"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_191",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cómo se comprueba si una puerta de lavabo está caliente antes de abrirla en caso de alarma de humo?",
+    "options": ["Tocando con el dorso de la mano", "Abriendo rápidamente un poco", "Usando el extintor directamente", "Mirando a través de la mirilla"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_192",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se detecta un pequeño fuego en la papelera del lavabo, ¿cuál es la primera acción del TCP?",
+    "options": ["Usar BCF o CO2 e inundar con agua después", "Abrir la papelera para sacar el contenido", "Llamar al comandante y esperar", "Ignorar si es pequeño"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_193",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Un 'fuego oculto' es aquel que:",
+    "options": ["Está detrás de un panel o dentro de un compartimento", "Es invisible a simple vista", "Solo ocurre en el exterior del avión", "No produce humo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_194",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los extintores de Halón (BCF) actúan principalmente:",
+    "options": ["Interrumpiendo la reacción en cadena del fuego", "Enfriando el combustible", "Sofocando el fuego", "Eliminando el combustible"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_195",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué se debe hacer si un pasajero está en llamas?",
+    "options": ["Sofocar las llamas con una manta y usar el extintor BCF", "Rociarlo con agua inmediatamente", "Decirle que corra al lavabo", "Ignorar las llamas pequeñas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_196",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En caso de humo denso en cabina, la tripulación de cabina debe moverse:",
+    "options": ["Agachada o a cuatro patas, donde el aire es más limpio", "De pie para ver mejor a los pasajeros", "Saltando para evitar el humo", "Cerca del techo de la cabina"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_197",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La 'reignición' es un riesgo después de un incendio, por lo que el TCP debe:",
+    "options": ["Vigilar la zona durante un tiempo prolongado", "Abrir todas las ventanas para ventilar", "Tocar el material con la mano desnuda", "Dejar el extintor usado en el lugar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_198",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es la principal fuente de combustible en un incendio de Clase A a bordo?",
+    "options": ["Asientos, cortinas, alfombras o papel", "Gasolina para motores", "Aceite hidráulico", "Equipos eléctricos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_199",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El CO2 es un agente extintor que actúa principalmente por:",
+    "options": ["Sofocación (desplazando el oxígeno)", "Enfriamiento", "Inhibición de la reacción química", "Emulsión"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_200",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué indica el olor a almendras amargas o a pescado en un incendio?",
+    "options": ["Fuego de origen eléctrico", "Fuego de gasolina", "Fuego de papel", "Fuego en los lavabos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_201",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un extintor de Halón se utiliza en un área pequeña, el TCP debe:",
+    "options": ["Abandonar el área rápidamente después de su uso para evitar gases residuales", "Permanecer en el lugar para ventilación", "Continuar usando hasta que el tanque esté vacío", "Pedir a los pasajeros que aplaudan"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_202",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El riesgo de un incendio en el galley se reduce con:",
+    "options": ["Inspección regular de hornos y equipos eléctricos", "Dejar los carros de servicio abiertos", "Almacenar objetos inflamables cerca de hornos", "Ignorar las alarmas de humo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_203",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué equipo protege la visión del TCP del humo y las altas temperaturas?",
+    "options": ["El PBE (Protective Breathing Equipment)", "La linterna de mano", "El chaleco salvavidas", "El megáfono"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_204",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los incendios de 'Clase K' o 'Clase F' (grasas y aceites de cocina) en aeronaves se combaten preferentemente con:",
+    "options": ["Extintores húmedos o BCF", "Agua", "Polvo seco para metales", "Mantas de papel"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_205",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un paquete de baterías de litio se incendia, la acción principal es:",
+    "options": ["Usar abundante agua para enfriar y BCF para extinguir las llamas", "Usar solo CO2", "Abrir la ventana para ventilar", "Cubrirlo con material sintético"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_206",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué se debe hacer con la fuente de electricidad en un fuego de Clase C?",
+    "options": ["Desconectarla o cortarla si es posible", "Aumentar la potencia eléctrica", "Rociar agua", "Ignorar la electricidad"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_207",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Una vez extinguido el fuego, el TCP debe mojar los materiales de Clase A (sólidos) con agua para:",
+    "options": ["Prevenir la reignición", "Mejorar el olor de la cabina", "Ayudar a los pasajeros a ver mejor", "Enfriar la botella de extintor"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_208",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es la principal ventaja de un extintor de Halón/BCF a bordo?",
+    "options": ["No deja residuos tóxicos ni daña los equipos electrónicos", "Es más barato que el agua", "Dura más de 5 minutos", "Es el más pesado"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_209",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si hay fuego detrás de un panel, el TCP debe:",
+    "options": ["Aislar la zona, notificar, usar BCF a través de una pequeña abertura y mojar si es sólido", "Arrancar el panel de inmediato", "Abrir la ventana más cercana", "Esperar al personal de tierra"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_210",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La formación en la lucha contra incendios incluye el conocimiento del 'Triángulo del Fuego', que representa:",
+    "options": ["Combustible, Oxígeno y Calor", "Humo, Agua y CO2", "Tripulación, Pasajeros y Extintores", "Clase A, Clase B y Clase C"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_211",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si la alarma de humo suena en el lavabo, la tripulación debe ir armada con:",
+    "options": ["Extintor y PBE", "Manta ignífuga y megáfono", "Chaleco salvavidas y agua", "Comida y bebida"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_212",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El sistema de extinción de incendios en el motor de la aeronave se activa:",
+    "options": ["Desde la cabina de pilotos", "Manualmente por el TCP", "Automáticamente al detectar fuego", "Con extintores de mano"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_213",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El olor a papel o tela quemada en la cabina indica un posible fuego de Clase:",
+    "options": ["A", "B", "C", "D"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_214",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es el riesgo principal de un extintor de CO2 para el operador?",
+    "options": ["Quemaduras por frío (congelación) al manipular la tobera o corneta", "Quemaduras por calor", "Descargas eléctricas", "Fuego de Clase D"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_215",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En caso de fuego en un compartimento superior (overhead bin), el TCP debe abrirlo:",
+    "options": ["Ligeramente para usar el extintor y cerrarlo rápidamente si hay llamas", "Completamente de golpe", "Con un pasajero de apoyo", "Solo después de aterrizar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_216",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El procedimiento de emergencia por humo en cabina requiere que el TCP se coloque la PBE y luego:",
+    "options": ["Localizar la fuente de humo o fuego", "Empezar la evacuación", "Servir comidas a pasajeros", "Encender todas las luces de la cabina"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_217",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué se debe hacer con un extintor de mano después de haber sido usado, incluso si queda algo de agente?",
+    "options": ["Reportarlo como usado al comandante y asegurarlo", "Volver a colocarlo en su sitio para el siguiente vuelo", "Intentar rellenarlo de agua", "Tirarlo por la ventana"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_218",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Un signo de 'fuego latente' o 'hot spot' después de extinguir las llamas es:",
+    "options": ["Calor o humo persistente en el área", "Olor a combustible", "Ruido fuerte de motor", "Pasajeros aplaudiendo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_219",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es el riesgo de usar agua en un incendio de grasa o aceite en el galley?",
+    "options": ["Propagación explosiva del fuego (efecto 'bola de fuego')", "Descarga eléctrica", "Congelación del aceite", "Despresurización"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_220",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En un incendio de Clase A, el efecto principal del agente extintor de agua es:",
+    "options": ["Enfriamiento", "Sofocación", "Reacción en cadena", "Emulsión"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_221",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La comunicación entre la tripulación de cabina (TCP) y la tripulación de vuelo (Pilotos) sobre el fuego debe incluir:",
+    "options": ["Ubicación, intensidad, tipo de fuego y acciones tomadas", "El menú del vuelo y la hora de llegada", "El nombre de los pasajeros", "Opiniones sobre la aerolínea"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_222",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es la principal función de los detectores de humo en los lavabos?",
+    "options": ["Detectar fumadores y fuegos incipientes", "Controlar la temperatura del agua", "Medir la humedad de la cabina", "Ajustar la presión"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_223",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Para sofocar las llamas de una persona con la manta ignífuga, el TCP debe empezar a envolver desde:",
+    "options": ["La cabeza hacia los pies", "Los pies hacia la cabeza", "La parte central del cuerpo", "Solo envolver las manos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_224",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se detecta humo en un ducto de ventilación, se debe:",
+    "options": ["Aislar la zona, notificar, y seguir procedimientos de fuego eléctrico/oculto", "Abrir la tobera de ventilación para ver el fuego", "Rociar agua", "Tocar el ducto con la mano desnuda"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_225",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La PBE se activa al:",
+    "options": ["Tirar de la cinta de activación (según modelo)", "Soplar muy fuerte en la máscara", "Conectarla al sistema eléctrico del avión", "Esperar 5 minutos después de ponérsela"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_226",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué acción de los pasajeros puede ser la causa más común de alarma de humo en el lavabo?",
+    "options": ["Fumar", "Abrir el compartimento de la papelera", "Usar el secador de manos", "Beber agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_227",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La distancia de aplicación recomendada para el BCF (Halón) es de aproximadamente:",
+    "options": ["1 a 3 metros", "5 a 10 metros", "Tan cerca como sea posible", "20 metros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_228",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué se debe priorizar en caso de un incendio que no puede ser controlado inmediatamente?",
+    "options": ["La preparación para la evacuación y aterrizaje de emergencia", "Continuar el servicio de bebidas", "Ignorar el fuego", "Abrir todas las salidas para ventilar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_229",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de polvo seco se utiliza comúnmente en aviación para fuegos de Clase:",
+    "options": ["A, B y C", "D", "Solo A", "Solo D y K"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_230",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe usar una linterna durante un incendio para:",
+    "options": ["Ver a través del humo y buscar la fuente del fuego", "Guiar a los pilotos", "Avisar a otros aviones", "Solo para leer"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_231",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si el fuego se ha extinguido, ¿cuál es el siguiente paso crucial para el TCP?",
+    "options": ["Vigilar la zona para evitar la reignición", "Dormir una siesta", "Abrir las ventanas", "Avisar a los pasajeros que aplaudan"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_232",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El CO2 es un agente limpio, pero es peligroso si se usa en cabina porque:",
+    "options": ["Desplaza el oxígeno respirable", "Es muy pesado", "Daña los asientos", "Produce un olor desagradable"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_233",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué se debe hacer si se detecta un fuego de metal (Clase D) en la cabina?",
+    "options": ["Usar agente especial de Clase D (si disponible) o sofocar con arena/polvo de tierra", "Usar extintor de agua", "Usar extintor BCF", "Cubrir con una manta de tela"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_234",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La correcta colocación de la PBE incluye asegurar que:",
+    "options": ["La capucha selle alrededor del cuello", "La capucha esté suelta", "Solo la nariz esté cubierta", "La luz indicadora no esté encendida"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_235",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si el fuego es de Clase A y se ha utilizado BCF, se recomienda:",
+    "options": ["Aplicar agua para enfriar el material y evitar la reignición", "Abrir ventanas para ventilación", "Dejarlo así y no tocar", "Llamar a los bomberos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_236",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El riesgo de un incendio en el galley se minimiza al asegurar que:",
+    "options": ["No haya sobrecarga en los enchufes ni cables dañados", "Todas las puertas de los hornos estén abiertas", "Se use mucha agua cerca de los hornos", "Se almacene papel junto a la cafetera"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_237",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La diferencia clave entre un extintor de CO2 y un BCF es que el CO2:",
+    "options": ["Produce un fuerte enfriamiento y no deja residuos", "Es muy eficaz contra fuegos de Clase A", "Dura más tiempo de aplicación", "Es más fácil de encontrar en cabina"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_238",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe reportar al comandante el estado de la cabina y los pasajeros durante la emergencia de fuego cada:",
+    "options": ["Intervalo regular y cuando hay cambios significativos", "Solo al principio de la emergencia", "Solo al final de la emergencia", "Cada 30 minutos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_239",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Para evitar el pánico de los pasajeros durante un incendio, el TCP debe:",
+    "options": ["Mantener una actitud calmada, profesional y dar instrucciones claras", "Gritar y correr a la zona de fuego", "Ignorar las preguntas de los pasajeros", "Abrir las ventanas sin permiso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_240",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un extintor portátil está bajo presión, el manómetro debe indicar:",
+    "options": ["Que la aguja está en la zona verde", "Que la aguja está en la zona roja", "Que la aguja está en cero", "Que no tiene aguja"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_241",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El 'procedimiento de fuego' en la cabina requiere la participación de un equipo de:",
+    "options": ["Luchador, comunicador y asistente", "Piloto, copiloto y mecánico", "Solo un TCP", "Todos los pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_242",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se detecta humo que sale de la cabina de pilotos, el TCP debe:",
+    "options": ["Notificar inmediatamente al comandante e iniciar procedimientos de emergencia", "Abrir la puerta de la cabina para ventilar", "Ignorar y continuar el servicio", "Usar agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_243",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los riesgos de un incendio a bordo incluyen la pérdida de control del avión debido a:",
+    "options": ["Daño a sistemas eléctricos o estructurales", "Pasajeros aplaudiendo", "Falta de café", "El ruido del motor"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_244",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La PBE (Protective Breathing Equipment) protege el sistema respiratorio del TCP de:",
+    "options": ["Humo, gases tóxicos y deficiencia de oxígeno", "Temperaturas extremadamente frías", "Sonidos fuertes", "Radiación solar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_245",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En un fuego de Clase B (líquidos inflamables), el extintor de agua es:",
+    "options": ["Ineficaz y peligroso (puede propagar el fuego)", "Muy eficaz", "La mejor opción", "Obligatorio por ley"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_246",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cómo debe el TCP inspeccionar la parte inferior de los asientos ante sospecha de fuego oculto?",
+    "options": ["Utilizando una linterna y el dorso de la mano para sentir calor", "Saltando sobre los asientos", "Ignorando la parte inferior", "Rociando con agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_247",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La máscara de oxígeno de emergencia para pasajeros se activa automáticamente cuando la presión de la cabina cae, pero ¿protege contra el humo?",
+    "options": ["No, solo proporciona oxígeno suplementario (puede incluso alimentar el fuego)", "Sí, completamente", "Solo si es un incendio de Clase A", "Solo si se usa BCF"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_248",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un fuego de Clase A es sofocado con la manta ignífuga, el TCP debe:",
+    "options": ["Dejar la manta en su lugar hasta el aterrizaje o el enfriamiento total", "Retirar la manta inmediatamente", "Rociar agua por encima de la manta", "Abrir las ventanas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_249",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La toxicidad de los gases en un incendio a bordo se debe principalmente a la combustión de:",
+    "options": ["Materiales sintéticos y plásticos", "Agua y aire", "Metales", "Maderas naturales"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_250",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué debe hacer el TCP si el fuego no se extingue después de usar un extintor completo?",
+    "options": ["Usar otro extintor y notificar al comandante que el fuego no está controlado", "Rendirse y esperar", "Abrir todas las salidas para ventilar", "Rociar pasajeros con agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_251",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El principal objetivo de la ventilación de humo en cabina después de un incendio es:",
+    "options": ["Eliminar el humo y los gases tóxicos residuales", "Enfriar a los pasajeros", "Calentar la cabina", "Evitar el pánico"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_252",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El 'equipo de apoyo' en el procedimiento de fuego asiste al 'luchador' principalmente al:",
+    "options": ["Proporcionar más extintores y PBE de repuesto", "Abrir la puerta de la cabina de pilotos", "Dar instrucciones de evacuación a los pasajeros", "Servir comidas y bebidas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_253",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué se debe evitar al aplicar CO2 sobre un fuego eléctrico (Clase C)?",
+    "options": ["Dirigir el chorro hacia el cableado o equipos sensibles (riesgo de daño por frío)", "Apuntar a la base del fuego", "Usar PBE", "Notificar al comandante"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_254",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de agua con anticongelante es adecuado para fuegos de Clase:",
+    "options": ["A", "B", "C", "D"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_255",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo de un incendio oculto puede viajar a través de:",
+    "options": ["Ductos de ventilación y espacios entre paneles", "Ventanas de cabina", "Las alas del avión", "Las ruedas del tren de aterrizaje"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_256",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Una quemadura de primer grado se caracteriza por:",
+    "options": ["Enrojecimiento y dolor leve", "Ampollas y daño profundo", "Tejido carbonizado", "Congelación"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_257",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un TCP observa un objeto personal humeando en un compartimento de equipaje, debe:",
+    "options": ["Colocarlo en un recipiente con agua y notificar al comandante", "Abrir la maleta para ver qué es", "Ignorarlo y cerrar el compartimento", "Rociar el compartimento con agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_258",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El ruido excesivo de un incendio puede dificultar la comunicación, por lo que se debe usar:",
+    "options": ["Señales manuales o el sistema de interfono/megáfono", "Gritos constantes", "Silencio total", "Sólo radio escrita"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_259",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La principal prioridad al luchar contra un incendio a bordo es:",
+    "options": ["La seguridad de las personas", "La integridad de los asientos", "El servicio de comidas", "La limpieza de la cabina"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_260",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El uso de la PBE debe ir acompañado de una comunicación constante con el equipo para:",
+    "options": ["Informar que el TCP está protegido y operando", "Distraer al comandante", "Asustar a los pasajeros", "Mejorar la visión"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_261",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La duración de la botella de CO2 portátil en uso continuo es generalmente de:",
+    "options": ["8 a 12 segundos", "30 a 60 segundos", "5 minutos", "10 minutos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_262",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se detecta humo en un baño, el TCP debe:",
+    "options": ["Verificar inmediatamente la fuente y usar el extintor adecuado", "Bloquear la puerta y esperar", "Ignorar si el olor no es fuerte", "Abrir la ventana para ventilar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_263",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es el principal peligro de usar un extintor de agua en un fuego eléctrico?",
+    "options": ["Conducción eléctrica y riesgo de electrocución", "Riesgo de congelación", "Aumento de visibilidad", "Desplazamiento del oxígeno"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_264",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los incendios de Clase C se combaten preferiblemente con agentes extintores que no conducen la electricidad, como:",
+    "options": ["BCF (Halón) o CO2", "Agua", "Espuma", "Polvo seco para Clase A"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_265",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El riesgo de un fuego eléctrico en un asiento se puede deber a:",
+    "options": ["Cables desgastados o dispositivos electrónicos de pasajeros", "Agua derramada", "Ventilación excesiva", "Fuego de metales"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_266",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Al aplicar el extintor BCF, la acción 'Sweep' (Barrido) significa:",
+    "options": ["Mover la boquilla de lado a lado en la base del fuego", "Apuntar solo a la parte superior de las llamas", "Rociar el techo de la cabina", "Presionar y soltar rápidamente el gatillo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_267",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo que emite un dispositivo electrónico recalentado es a menudo de color:",
+    "options": ["Blanco o grisáceo (con olor a plástico o almendras)", "Negro denso", "Verde brillante", "Invisible"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_268",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un pasajero lleva ropa con llamas, el TCP debe usar la técnica de:",
+    "options": ["Parar, Tirarse al suelo, Rodar (Stop, Drop, Roll) y usar la manta ignífuga", "Gritar y huir", "Rociar con extintor CO2 a corta distancia", "Ignorar si no es una emergencia"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_269",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El 'comunicador' en el equipo de lucha contra incendios es responsable de:",
+    "options": ["Informar al comandante, obtener más equipos y asistir al luchador", "Solo luchar contra el fuego", "Abrir la cabina de pilotos", "Servir bebidas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_270",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En caso de alarma de humo en el lavabo, la primera acción al entrar debe ser:",
+    "options": ["Identificar la fuente del humo y el estado del fuego", "Usar el extintor a ciegas", "Cerrar la puerta y no volver a abrir", "Llamar a los pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_271",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Un extintor de agua a presión se utiliza exclusivamente para fuegos de Clase:",
+    "options": ["A", "B", "C", "D"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_272",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El equipo de lucha contra incendios debe trabajar en coordinación y de manera:",
+    "options": ["Rápida, eficiente y calmada", "Lenta y ruidosa", "Individual y sin comunicación", "Sin seguir el procedimiento"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_273",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los depósitos de papel y residuos en los lavabos están equipados con:",
+    "options": ["Un dispositivo automático de extinción por inundación de agua/Halón", "Un candado de seguridad", "Una luz de neón", "Un sensor de temperatura"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_274",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un extintor de CO2 se usa para sofocar un fuego, se debe aplicar:",
+    "options": ["Con un movimiento de barrido lento y constante", "Directamente sobre las llamas", "Solo en la parte superior del humo", "Con chorros cortos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_275",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué se debe hacer con la ropa quemada de un pasajero después de apagar el fuego?",
+    "options": ["Retirarla si no está adherida y tratar la quemadura (primeros auxilios)", "Dejarla puesta", "Mojarla con alcohol", "Tirarla inmediatamente por la ventana"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_276",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El peligro de los fuegos de Clase B (líquidos) es su rápida:",
+    "options": ["Propagación y reignición", "Extinción", "Formación de gases no tóxicos", "Disminución de temperatura"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_277",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un TCP sospecha de un fuego oculto por calor y olor, debe:",
+    "options": ["Usar BCF inyectándolo a través de la pared o panel", "Arrancar el panel de golpe", "Rociar agua", "Ignorar el olor"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_278",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El PBE (Protective Breathing Equipment) debe ser inspeccionado antes de cada vuelo para verificar:",
+    "options": ["El sello de seguridad y la fecha de caducidad", "El color de la carcasa", "El peso exacto de la botella", "La firma del comandante"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_279",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo de color amarillo verdoso puede indicar la presencia de:",
+    "options": ["Gases tóxicos o químicos", "Fuego de madera", "Vapor de agua inofensivo", "Aceite hidráulico"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_280",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La mejor forma de controlar el fuego es eliminar uno de los elementos del Triángulo del Fuego, generalmente:",
+    "options": ["El calor o el oxígeno", "La presión o el ruido", "La luz o el CO2", "El humo o la visión"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_281",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP que asiste al luchador (asistente) se encarga de:",
+    "options": ["Gestionar pasajeros, proporcionar equipos de repuesto y vigilar la reignición", "Solo servir café", "Encender las luces", "Abrir la puerta de la cabina de pilotos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_282",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si el fuego de clase A (sólidos) no se extingue totalmente con BCF, ¿qué se debe usar a continuación?",
+    "options": ["Agua (si está disponible y es seguro) o más BCF", "CO2", "Arena seca", "Extintor de Clase D"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_283",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La razón principal para que el TCP permanezca agachado en caso de humo es que:",
+    "options": ["Los gases tóxicos y el humo caliente suben (mejor aire en el suelo)", "Es más fácil usar el extintor", "Así asusta menos a los pasajeros", "Se evita el ruido"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_284",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los extintores portátiles a bordo suelen estar localizados cerca de:",
+    "options": ["Galley y estaciones de TCP (Jumpseats)", "Cada asiento de pasajero", "El ala del avión", "El compartimento de carga"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_285",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El uso del extintor de CO2 en un entorno eléctrico es seguro porque:",
+    "options": ["No conduce la electricidad", "Es líquido", "Es muy caliente", "Es visible en el aire"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_286",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un extintor de BCF ha sido usado, su indicador de presión:",
+    "options": ["Caerá a la zona roja o a cero", "Permanecerá en verde", "Aumentará", "Se mantendrá sin cambios"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_287",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué debe hacer un TCP si un pasajero entra en la zona de fuego a pesar de las advertencias?",
+    "options": ["Detenerlo firmemente, dirigirlo y protegerlo", "Ignorarlo", "Usar el extintor sobre el pasajero", "Esperar que aterrice"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_288",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La manta ignífuga (Fire Blanket) es eficaz para fuegos de Clase:",
+    "options": ["A y B (sofocación)", "D", "C", "Solo B"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_289",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué indica el olor a vinagre en un incendio?",
+    "options": ["Posiblemente un dispositivo eléctrico o cableado en combustión", "Fuego de grasa", "Fuego de papel", "Humo inofensivo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_290",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se detecta un fuego en un horno del galley, la primera acción del TCP debe ser:",
+    "options": ["Cortar el suministro eléctrico al horno (interruptor) y usar extintor si es necesario", "Abrir la puerta para ver el fuego", "Rociar el exterior con agua", "Ignorar y continuar el servicio"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_291",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El Halón (BCF) es un agente extintor que minimiza el daño al equipamiento electrónico porque:",
+    "options": ["Es un agente limpio que se evapora sin dejar residuos", "Es muy frío", "Es muy pesado", "Es de color verde"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_292",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Para evitar la reignición de fuegos de Clase A, el TCP puede utilizar:",
+    "options": ["Agua (si es seguro) para bajar la temperatura del material", "Solo CO2", "Manta de papel", "Extintores de Clase D"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_293",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es el riesgo de abrir completamente un compartimento superior donde se sospecha un fuego oculto?",
+    "options": ["Entrada repentina de oxígeno que aviva las llamas (Flashover)", "Pérdida de presión de cabina", "Un fuerte olor a café", "Caída del equipaje"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_294",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El procedimiento de emergencia requiere que el 'comunicador' también se encargue de:",
+    "options": ["Mantener informados y tranquilos a los pasajeros cercanos", "Servir comidas y bebidas", "Dormir una siesta", "Abrir la ventana"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_295",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si hay humo denso en la cabina y la visibilidad es nula, el TCP debe:",
+    "options": ["Usar linterna, PBE y gatear a lo largo de los asientos", "Encender todas las luces y esperar", "Ignorar el humo", "Cerrar los ojos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_296",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La duración de la protección proporcionada por la PBE es de aproximadamente:",
+    "options": ["15 minutos", "30 segundos", "5 horas", "2 minutos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_297",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué se debe hacer con los extintores de mano después de su uso?",
+    "options": ["Asegurarlos en un lugar visible y reportarlos como usados", "Tirarlos por la borda", "Volver a guardarlos en su sitio sin reportar", "Intentar rellenarlos en vuelo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_298",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En caso de un fuego de Clase B (líquidos) a bordo, la prioridad es:",
+    "options": ["Cortar el suministro de combustible (si es posible) y usar BCF o CO2", "Usar extintor de agua", "Ventilar la cabina con aire fresco", "Encender todas las luces"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_299",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué representa la 'Aim' (Apuntar) en el procedimiento P.A.S.S.?",
+    "options": ["Dirigir la boquilla a la base del fuego", "Apuntar al techo", "Apuntar a los pasajeros", "Apuntar al humo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_300",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se extingue un fuego, pero la zona sigue muy caliente, el TCP debe:",
+    "options": ["Continuar enfriando o vigilando por posible reignición", "Abrir las ventanas", "Ignorar la temperatura", "Dormir una siesta"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_301",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La inspección de los extintores de CO2 incluye la verificación de:",
+    "options": ["El sello de seguridad y el peso correcto (mediante una pegatina)", "El manómetro de presión", "El color de la carcasa", "El nivel de agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_302",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El Halón (BCF) combate el fuego principalmente por:",
+    "options": ["Interrupción de la reacción química", "Enfriamiento", "Sofocación", "Dilución"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_303",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué debe hacer el TCP si no puede determinar la fuente de una alarma de humo?",
+    "options": ["Informar al comandante, continuar la búsqueda e investigar a fondo", "Ignorar la alarma", "Abrir todas las puertas", "Pedir a los pasajeros que busquen"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_304",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El color de las etiquetas de los extintores para fuego de Clase A es típicamente:",
+    "options": ["Verde", "Rojo", "Azul", "Negro"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_305",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un pasajero inhala una cantidad significativa de humo, el TCP debe:",
+    "options": ["Administrar oxígeno, proporcionar primeros auxilios y notificar al comandante", "Hacerle beber agua caliente", "Ignorarlo", "Hacerle correr por la cabina"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_306",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los fuegos de líquidos inflamables y gases combustibles se clasifican como:",
+    "options": ["Clase B", "Clase A", "Clase C", "Clase D"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_307",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP que asiste al luchador (asistente) es esencial para:",
+    "options": ["Relevar al luchador si la PBE se agota o se necesita más equipo", "Servir comidas y bebidas", "Leer la lista de pasajeros", "Dormir una siesta"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_308",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de polvo químico seco de uso múltiple es eficaz en fuegos de Clase:",
+    "options": ["A, B y C", "Solo D", "Solo K", "Solo C y D"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_309",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se utiliza CO2 en la cabina, es fundamental que el TCP asegure:",
+    "options": ["Una ventilación adecuada después de la extinción", "El cierre total de la ventilación", "La apertura de las ventanas", "La activación de la alarma de humo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_310",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es el principal riesgo al luchar contra un fuego oculto?",
+    "options": ["La ignición repentina (Flashover) al abrir el compartimento y la inhalación de humo", "La congelación por el extintor", "El aburrimiento", "El ruido"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_311",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El uso del Halón (BCF) es preferido en la aviación por su capacidad de:",
+    "options": ["Extinguir el fuego sin dañar equipos sensibles", "Dejar la cabina húmeda", "Producir un olor agradable", "Aumentar la visibilidad"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_312",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La comunicación 'Tripulación, Tripulación, Fuego/Humo' es una señal clave para:",
+    "options": ["Alertar y asignar roles del equipo de lucha contra incendios", "Informar de que se ha acabado el café", "Empezar la evacuación", "Servir comidas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_313",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué debe hacer el TCP después de apagar el fuego y prevenir la reignición?",
+    "options": ["Monitorear el área y notificar al comandante que el fuego está 'bajo control'", "Abandonar el área", "Abrir las ventanas", "Activar otra alarma"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_314",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El agente extintor de agua en forma de 'niebla' (Water Mist) se utiliza a veces para:",
+    "options": ["Combatir fuegos de Clase A y ayudar al enfriamiento", "Fuegos de Clase C", "Fuegos de metales", "Líquidos inflamables"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_315",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué parte del extintor de CO2 debe evitar tocarse con la mano desnuda?",
+    "options": ["La corneta o tobera, debido al riesgo de congelación", "La base del extintor", "El manómetro", "El pasador de seguridad"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_316",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se detecta humo que sale de un compartimento de carga, el TCP debe:",
+    "options": ["Activar el sistema fijo de extinción (si es accesible) e informar al comandante", "Abrir la puerta de carga para ver", "Rociar agua", "Ignorar si el humo no huele mal"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_317",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La acción 'Pull' (Tirar) en P.A.S.S. se refiere a:",
+    "options": ["Tirar del pasador de seguridad", "Tirar de la manga del extintor", "Tirar de la alarma de incendio", "Tirar del avión"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_318",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los fuegos de Clase D son particularmente difíciles de extinguir porque:",
+    "options": ["Son metales que arden a temperaturas extremadamente altas", "Son invisibles", "Solo arden en el exterior", "No se ven afectados por el oxígeno"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_319",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si el fuego de un pasajero se ha apagado, la manta ignífuga debe ser:",
+    "options": ["Mantenida alrededor de la persona para prevenir el shock y la reignición", "Retirada y tirada", "Doblada y guardada", "Usada como almohada"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_320",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El uso del PBE es obligatorio para el TCP cuando:",
+    "options": ["Se penetra en una zona con humo denso o gases tóxicos", "Se está sirviendo café", "Se despega", "Se está durmiendo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_321",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La toxicidad de los gases de un incendio depende de:",
+    "options": ["El material que arde y la cantidad de oxígeno disponible", "La altitud del avión", "El número de pasajeros", "El color del humo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_322",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Un signo de fuego oculto en un compartimento puede ser el calor al tacto (dorso de la mano) o:",
+    "options": ["Humo que se escapa por las grietas", "Pasajeros leyendo", "El ruido del aire acondicionado", "El extintor está caliente"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_323",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de agua puede tener un chorro que dura aproximadamente:",
+    "options": ["30 a 45 segundos", "5 segundos", "2 minutos", "10 minutos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_324",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se usa Halón/BCF, el TCP debe asegurarse de que la extinción sea total para evitar:",
+    "options": ["El consumo de todo el agente y la reignición", "La congelación del extintor", "El aumento de la visibilidad", "El ruido excesivo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_325",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es la función del 'comunicador' en el equipo de lucha contra incendios?",
+    "options": ["Mantener informados a los pilotos y asistir al luchador", "Solo luchar contra el fuego", "Abrir la puerta de la cabina de pilotos", "Servir comidas y bebidas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_326",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los fuegos de superficie (Clase A) son los más comunes en cabina, por lo que el TCP debe usar:",
+    "options": ["BCF y agua para enfriar el material sólido", "Solo CO2", "Extintor de Clase D", "Manta de papel"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_327",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La PBE debe ser desechada después de su uso porque:",
+    "options": ["El generador químico de oxígeno se agota", "Se daña por el humo", "Es un objeto personal", "Se ha enfriado"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_328",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si el fuego de un pasajero ha sido sofocado, el TCP debe evaluar inmediatamente:",
+    "options": ["Si el pasajero tiene quemaduras y aplicar primeros auxilios", "El estado del asiento", "La temperatura del suelo", "Si el fuego se ha extendido al techo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_329",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El uso del Halón (BCF) es eficaz contra fuegos de Clase B (líquidos) porque:",
+    "options": ["Crea una barrera química que interrumpe la combustión", "Enfría rápidamente el líquido", "Sofoca el fuego", "Lo diluye con agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_330",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué se debe evitar al usar un extintor en un espacio cerrado?",
+    "options": ["El riesgo de asfixia al agotar el oxígeno", "Apuntar a la base del fuego", "Usar PBE", "Notificar al comandante"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_331",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La visibilidad en cabina se deteriora rápidamente debido al humo, lo que dificulta la:",
+    "options": ["Evacuación de pasajeros y la localización del fuego", "Preparación de la comida", "Escucha de la música", "Lectura"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_332",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El sistema fijo de extinción en la bodega de carga utiliza generalmente:",
+    "options": ["Agentes gaseosos (como Halón) para inundar el compartimento", "Extintores portátiles de agua", "Arena seca", "Mantas ignífugas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_333",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un extintor de BCF se utiliza en un área pequeña, el TCP debe asegurarse de:",
+    "options": ["Ventilar el área lo antes posible para eliminar gases residuales", "Cerrar la puerta y no volver a abrir", "Rociar agua", "Activar la alarma de humo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_334",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El procedimiento P.A.S.S. se aplica a la mayoría de los extintores portátiles y describe:",
+    "options": ["La secuencia de uso correcta del extintor", "El tipo de fuego", "El equipo de lucha contra incendios", "La ubicación del fuego"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_335",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de CO2 se utiliza a menudo para fuegos de Clase C (eléctricos) porque:",
+    "options": ["No es conductor de electricidad y se evapora sin dejar residuos", "Es muy caliente", "Es muy pesado", "Dura mucho tiempo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_336",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué se debe hacer si se detecta un fuego de metal (Clase D)?",
+    "options": ["Usar un agente extintor específico o sofocar con polvo/arena", "Usar agua", "Usar extintor BCF", "Cubrir con una manta de tela"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_337",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La formación en lucha contra incendios es obligatoria para el TCP cada:",
+    "options": ["Período de tiempo especificado por la autoridad aeronáutica (generalmente anual)", "5 años", "10 años", "Al inicio de su carrera"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_338",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El olor a caucho o aislamiento quemado indica un posible fuego de Clase:",
+    "options": ["C (eléctrico)", "A", "B", "D"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_339",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si el fuego de Clase A es pequeño, el TCP puede intentar sofocarlo con:",
+    "options": ["Una manta ignífuga o una manta de lana/agua", "Un extintor de Clase D", "CO2", "Arena seca"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_340",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El riesgo de un fuego eléctrico en cabina se debe a:",
+    "options": ["Sobrecarga, cortocircuitos o fallos en el sistema de entretenimiento", "Uso de agua", "Falta de ventilación", "Fuego de metales"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_341",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Durante un incendio, la comunicación con el comandante debe ser lo más:",
+    "options": ["Clara, concisa y objetiva", "Larga y detallada", "Confusa y ruidosa", "Solo visual"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_342",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP que utiliza el PBE debe ser capaz de operar con:",
+    "options": ["Visibilidad limitada y manteniendo la calma", "El extintor apagado", "La puerta del lavabo abierta", "Pasajeros leyendo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_343",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se detecta un fuego en un compartimento superior, el TCP debe:",
+    "options": ["Usar el extintor BCF a través de una pequeña abertura para contener las llamas", "Abrir el compartimento de golpe", "Rociar agua", "Tocar el compartimento con la mano desnuda"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_344",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La toxicidad del humo en la cabina puede causar:",
+    "options": ["Pérdida de conciencia, irritación ocular y respiratoria", "Aumento de la visibilidad", "Menos ruido", "Un olor agradable"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_345",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La 'Squeeze' (Apretar) en P.A.S.S. se refiere a:",
+    "options": ["Apretar la palanca del extintor", "Apretar al pasajero", "Apretar el pasador de seguridad", "Apretar la puerta"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_346",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de CO2 actúa sobre los fuegos de Clase B (líquidos) por:",
+    "options": ["Sofocación y enfriamiento", "Reacción en cadena", "Emulsión", "Dilución"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_347",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se extingue un fuego con Halón/BCF, el TCP debe:",
+    "options": ["Continuar vigilando por reignición, especialmente si es Clase A", "Abandonar la zona", "Abrir las ventanas", "Llamar a los bomberos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_348",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de agua con anticongelante es adecuado para fuegos en materiales como:",
+    "options": ["Asientos, cortinas, papel (Clase A)", "Líquidos inflamables", "Equipos eléctricos", "Metales"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_349",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es la función del 'asistente' en el equipo de lucha contra incendios?",
+    "options": ["Gestionar a los pasajeros, comunicar y reponer equipos", "Solo luchar contra el fuego", "Abrir la puerta de la cabina de pilotos", "Servir comidas y bebidas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_350",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se detecta un fuego en la bodega de equipaje, la principal acción es:",
+    "options": ["Activar el sistema de extinción fijo y notificar a la cabina de pilotos", "Abrir la bodega para ventilar", "Usar extintor portátil a través de la puerta de carga", "Pedir ayuda a los pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_351",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El peligro de los extintores de CO2 en cabina es el riesgo de asfixia, por lo que el TCP debe usar:",
+    "options": ["PBE", "Manta ignífuga", "Chaleco salvavidas", "Gafas de sol"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_352",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué debe hacer el TCP si la alarma de humo en el lavabo se activa repetidamente por el mismo pasajero?",
+    "options": ["Informar al comandante, prohibir fumar y tomar medidas disciplinarias", "Ignorar la alarma", "Abrir la puerta y ventilar", "Rociar al pasajero con agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_353",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En un incendio de Clase C (eléctrico), el CO2 es adecuado porque:",
+    "options": ["No daña el equipo y no es conductor", "Es muy caliente", "Es muy pesado", "Dura mucho tiempo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_354",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La manta ignífuga (Fire Blanket) se utiliza para sofocar las llamas al:",
+    "options": ["Eliminar el oxígeno", "Eliminar el combustible", "Eliminar el calor", "Aumentar la reacción química"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_355",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los fuegos de líquidos inflamables y gases combustibles se clasifican como:",
+    "options": ["Clase B", "Clase A", "Clase C", "Clase D"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_356",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué se debe hacer si se detecta un fuego de metal (Clase D)?",
+    "options": ["Usar agente especial de Clase D y notificar al comandante", "Usar extintor de agua", "Usar extintor BCF", "Cubrir con una manta de tela"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_357",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El uso del extintor BCF es eficaz contra fuegos de Clase C (eléctricos) porque:",
+    "options": ["No conduce la electricidad y actúa interrumpiendo la reacción en cadena", "Es muy frío", "Es muy pesado", "Dura poco tiempo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_358",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se extingue un fuego, el TCP debe vigilar el área por al menos:",
+    "options": ["30 minutos para evitar la reignición", "5 segundos", "1 hora", "Todo el día"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_359",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El 'luchador' en el equipo de lucha contra incendios es responsable de:",
+    "options": ["Aplicar el agente extintor y dirigir la acción de extinción", "Solo comunicar con los pilotos", "Gestionar a los pasajeros", "Servir comidas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_360",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El riesgo de un incendio en la cocina (galley) se reduce con la limpieza de:",
+    "options": ["Grasa y aceite en hornos y equipos", "Asientos de pasajeros", "Ventanas", "El pasillo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_361",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué se debe hacer con los extintores de agua después de su uso en un fuego de Clase A?",
+    "options": ["Reportarlos como usados al comandante y asegurar que se recarguen", "Tirarlos por la borda", "Volver a guardarlos sin reportar", "Intentar rellenarlos en vuelo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_362",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La PBE debe ser colocada por el TCP en un tiempo máximo de:",
+    "options": ["15 segundos (aproximadamente)", "1 minuto", "5 minutos", "30 minutos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_363",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se detecta humo en un ducto de ventilación, se debe:",
+    "options": ["Aislar la zona, cortar la ventilación e informar al comandante", "Abrir la tobera de ventilación para ver el fuego", "Rociar agua", "Tocar el ducto con la mano desnuda"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_364",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de agua es ineficaz contra fuegos de Clase B (líquidos) porque:",
+    "options": ["El agua es más pesada y hunde el fuego, o puede propagarlo", "El agua es conductora", "El agua se evapora rápidamente", "El agua es muy fría"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_365",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La 'Sweep' (Barrido) en P.A.S.S. asegura que el agente extintor cubra:",
+    "options": ["Toda la base del fuego", "Solo el centro del fuego", "El techo de la cabina", "Los asientos de los pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_366",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe usar una linterna para inspeccionar la cabina en caso de humo porque:",
+    "options": ["Ayuda a penetrar la visibilidad reducida por el humo", "Es un requisito de la empresa", "Solo para leer el manómetro", "Para asustar a los pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_367",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué gas venenoso común se produce en muchos incendios a bordo?",
+    "options": ["Monóxido de carbono (CO)", "Dióxido de carbono (CO2)", "Oxígeno (O2)", "Nitrógeno (N2)"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_368",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El peligro de un incendio de Clase D (metales) es que puede reaccionar violentamente con:",
+    "options": ["Agua", "CO2", "BCF", "Mantas ignífugas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_369",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un pasajero sufre una quemadura, la acción inmediata del TCP debe ser:",
+    "options": ["Enfriar la zona con agua fría (no helada)", "Aplicar ungüento o aceite", "Cubrir con algodón", "Frotar la quemadura"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_370",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor BCF está diseñado para ser seguro de usar en:",
+    "options": ["Equipos electrónicos y cableado eléctrico", "Alimentos", "Pasajeros", "Agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_371",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Cuál es la principal diferencia entre Halón y BCF?",
+    "options": ["BCF (Bromoclorodifluorometano) es el agente activo del extintor de Halón", "Halón es más frío", "BCF es más pesado", "Son completamente diferentes"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_372",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los riesgos asociados con el humo incluyen la desorientación, la ceguera temporal y:",
+    "options": ["La inhalación de gases tóxicos", "La apertura de las ventanas", "El aterrizaje inmediato", "El ruido del motor"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_373",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si la visibilidad es extremadamente baja debido al humo, el TCP debe mantener el contacto con:",
+    "options": ["Las superficies del avión (asientos, paredes) para orientación", "El techo de la cabina", "El exterior del avión", "El comandante visualmente"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_374",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El equipo de lucha contra incendios debe coordinarse para asegurar que un TCP:",
+    "options": ["Está siempre listo para relevar al luchador", "Sirva café a los pasajeros", "Abra todas las puertas", "Ignore las alarmas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_375",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El olor a pescado quemado puede ser un indicio de:",
+    "options": ["Sobrecalentamiento de cableado eléctrico o motor", "Comida de galley", "Fuego de papel", "Fuego de metales"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_376",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El peligro de los fuegos de Clase B (líquidos inflamables) es que pueden:",
+    "options": ["Extenderse por derrame y producir mucho calor", "Ser muy fríos", "Arder sin oxígeno", "Ser apagados con agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_377",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué se debe hacer con el extintor de CO2 después de su uso?",
+    "options": ["Reportarlo como usado y asegurarlo para su recarga o reemplazo", "Guardarlo en el mismo sitio", "Intentar rellenarlo", "Tirarlo por la borda"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_378",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los sistemas automáticos de extinción de incendios en el motor actúan al:",
+    "options": ["Liberar agente extintor en el compartimento del motor", "Usar extintores de mano", "Rociar agua", "Activar la alarma de humo en cabina"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_379",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La 'corneta' del extintor de CO2 debe usarse con precaución debido al riesgo de:",
+    "options": ["Quemaduras por frío extremo", "Quemaduras por calor", "Descargas eléctricas", "Fuego de metales"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_380",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un extintor de Halón se utiliza en un área pequeña, el TCP debe tener cuidado con:",
+    "options": ["La posible intoxicación por gases Halógenos residuales", "La congelación del extintor", "El ruido", "Los pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_381",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de agua con anticongelante es adecuado para fuegos de Clase A porque:",
+    "options": ["Enfría el combustible sólido por debajo de su temperatura de ignición", "Sofoca el fuego", "Interrumpe la reacción química", "Es conductor"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_382",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El peligro de un fuego oculto es que puede propagarse sin ser detectado visualmente a tiempo, causando:",
+    "options": ["Daño estructural y gases tóxicos", "Aumento de la visibilidad", "Un olor agradable", "Menos ruido"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_383",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué se debe hacer con el material quemado de Clase A después de la extinción?",
+    "options": ["Mojarlo con agua (si es seguro) para prevenir la reignición", "Dejarlo en su sitio", "Cubrirlo con una manta seca", "Tirarlo por la ventana"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_384",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La PBE (Protective Breathing Equipment) proporciona oxígeno para la respiración al:",
+    "options": ["Generar oxígeno a través de una reacción química", "Extraerlo del aire de cabina", "Extraerlo del sistema de ventilación", "Usar agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_385",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de CO2 se utiliza a menudo para fuegos de Clase B (líquidos) porque:",
+    "options": ["Sofoca el fuego y no deja residuos", "Enfría el líquido rápidamente", "Interrumpe la reacción química", "Es conductor"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_386",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP que asume el rol de 'comunicador' también puede ser responsable de:",
+    "options": ["Reorganizar a los pasajeros lejos de la zona de fuego", "Luchar contra el fuego", "Abrir la cabina de pilotos", "Servir comidas y bebidas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_387",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se extingue el fuego en un compartimento, la primera acción del TCP debe ser:",
+    "options": ["Vigilar la zona para prevenir la reignición", "Abrir el compartimento de golpe", "Rociar agua", "Ignorar la zona"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_388",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El peligro de la ropa de nylon o sintética en un incendio es que:",
+    "options": ["Se derrite y se adhiere a la piel, causando quemaduras graves", "Se congela", "Se evapora rápidamente", "Se vuelve inofensiva"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_389",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En caso de fuego en una batería de litio, la acción principal del TCP es:",
+    "options": ["Enfriamiento con agua (si disponible) y uso de BCF, siguiendo el procedimiento de la compañía", "Usar solo CO2", "Tirar la batería por la ventana", "Dejar que se queme sola"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_390",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El olor a huevo podrido (azufre) en la cabina puede indicar un problema con:",
+    "options": ["El sistema eléctrico o baterías (sulfuración)", "Comida de galley", "Fuego de papel", "Agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_391",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La clasificación de fuegos 'Clase A' es la más común en cabina e incluye:",
+    "options": ["Materiales combustibles sólidos como tela, papel, plástico de asientos", "Líquidos inflamables", "Equipos eléctricos", "Metales"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_392",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El procedimiento a seguir si un pasajero está en llamas incluye 'Stop, Drop and Roll' (Parar, Tirarse y Rodar) y usar:",
+    "options": ["Manta ignífuga o extintor BCF", "Extintor de agua", "Extintor de CO2", "Manta de papel"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_393",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El uso del Halón (BCF) es desaconsejado para fuegos de Clase D porque:",
+    "options": ["El Halón no es eficaz contra metales ardientes", "Es muy frío", "Es muy pesado", "Dura mucho tiempo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_394",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La formación periódica de incendios incluye:",
+    "options": ["Práctica con extintores en simuladores de fuego real y humo", "Servir comidas", "Leer la lista de pasajeros", "Dormir una siesta"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_395",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "¿Qué se debe hacer con la PBE después de su uso?",
+    "options": ["Reportarla como usada y asegurarla para su reemplazo", "Guardarla en el mismo sitio", "Intentar rellenarla", "Tirarla por la borda"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_396",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El objetivo principal del 'equipo de lucha contra incendios' es:",
+    "options": ["Controlar el fuego antes de que el avión aterrice y proteger a las personas", "Abrir la puerta de la cabina de pilotos", "Servir comidas y bebidas", "Ignorar el fuego"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_397",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si el fuego de Clase B (líquidos) es contenido, la acción del TCP es:",
+    "options": ["Sofocar con manta ignífuga o usar BCF/CO2", "Usar extintor de agua", "Ventilar la cabina con aire fresco", "Encender todas las luces"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_398",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La señal 'Alertar' en el procedimiento de fuego significa:",
+    "options": ["Notificar al comandante, a la tripulación y a los pasajeros si es necesario", "Gritar y huir", "Ignorar el fuego", "Servir café"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_399",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El CO2 es un gas incoloro e inodoro, lo que lo hace peligroso en espacios cerrados por:",
+    "options": ["El riesgo de no detectarlo hasta que cause asfixia", "El ruido que produce", "El daño que causa al extintor", "El olor a pescado"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_400",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se usa un extintor de Halón en un fuego de Clase A, el TCP debe asegurar:",
+    "options": ["La aplicación de agua o líquidos para enfriar y prevenir la reignición", "El cierre de todas las puertas", "El uso de la manta de papel", "El ruido excesivo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_401",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de polvo químico seco de uso múltiple es versátil para fuegos de Clase A, B y C por:",
+    "options": ["Su capacidad de aislar el combustible y sofocar las llamas", "Su color", "Su temperatura", "Su bajo peso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_402",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe reportar al comandante 'Fuego extinguido y zona vigilada' solo cuando:",
+    "options": ["El fuego está completamente apagado y no hay riesgo de reignición", "El fuego ha disminuido un poco", "El avión ha aterrizado", "Los pasajeros están aplaudiendo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_403",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En caso de fuego en un compartimento de equipaje, el TCP debe evitar:",
+    "options": ["Abrir la puerta completamente antes de usar el agente extintor", "Usar BCF", "Notificar al comandante", "Usar el sistema fijo de extinción"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_404",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La manta ignífuga (Fire Blanket) se debe colocar sobre el fuego:",
+    "options": ["Lentamente, para cortar el suministro de oxígeno", "Rápidamente, sin control", "Lanzándola desde lejos", "Solo después de usar agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_405",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe usar la 'técnica de barrido' (Sweep) al aplicar el extintor para:",
+    "options": ["Cubrir la totalidad de la base del fuego", "Apuntar solo a la parte superior de las llamas", "Rociar el techo de la cabina", "Presionar y soltar rápidamente el gatillo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_406",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de agua con anticongelante se utiliza principalmente para:",
+    "options": ["Fuegos de Clase A (sólidos) en cabina", "Fuegos eléctricos", "Líquidos inflamables", "Metales"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_407",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se detecta humo en un ducto de ventilación, se debe:",
+    "options": ["Desactivar la ventilación para aislar la fuente de humo", "Aumentar la ventilación", "Rociar agua", "Tocar el ducto con la mano desnuda"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_408",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El uso del PBE es esencial porque el humo en un incendio a bordo puede causar:",
+    "options": ["Incapacidad y desorientación por gases tóxicos en segundos", "Aumento de la visibilidad", "Un olor agradable", "Menos ruido"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_409",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de CO2 se utiliza a menudo para fuegos de Clase C (eléctricos) porque:",
+    "options": ["No deja residuos y no es conductor", "Es muy caliente", "Es muy pesado", "Dura mucho tiempo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_410",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La 'Squeeze' (Apretar) en P.A.S.S. debe hacerse de manera:",
+    "options": ["Constante y controlada", "Rápida y descontrolada", "Lenta y a intervalos", "Solo al principio"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_411",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se sospecha de un fuego oculto detrás de un panel, la prueba de calor debe realizarse con:",
+    "options": ["El dorso de la mano a corta distancia", "La palma de la mano", "Un termómetro", "El extintor de CO2"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_412",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El equipo de lucha contra incendios debe tener al menos un TCP con:",
+    "options": ["PBE y extintor (Luchador)", "Un café caliente", "Un libro", "Una almohada"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_413",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los fuegos de líquidos inflamables y gases combustibles se clasifican como:",
+    "options": ["Clase B", "Clase A", "Clase C", "Clase D"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_414",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor BCF actúa sobre fuegos de Clase B por:",
+    "options": ["Interrupción de la reacción química del fuego", "Enfriamiento", "Sofocación", "Dilución"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_415",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un pasajero sufre una quemadura grave, el TCP debe:",
+    "options": ["Proporcionar primeros auxilios y solicitar asistencia médica al comandante", "Aplicar ungüento o aceite", "Cubrir con algodón", "Frotar la quemadura"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_416",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo que emite un incendio de papel o madera es a menudo de color:",
+    "options": ["Blanco o grisáceo (no denso)", "Negro denso", "Verde brillante", "Invisible"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_417",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de CO2 debe ser utilizado apuntando a:",
+    "options": ["La base del fuego, con movimientos de barrido", "La parte superior de las llamas", "El techo de la cabina", "Los asientos de los pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_418",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP que utiliza el PBE debe retirarla cuando:",
+    "options": ["Sale de la zona de humo denso y el fuego está controlado", "El fuego está apagado", "Ha pasado 1 minuto", "El avión ha aterrizado"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_419",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El uso de la manta ignífuga es más seguro en el caso de:",
+    "options": ["Fuego de una persona o pequeño fuego de superficie", "Fuegos eléctricos grandes", "Fuegos de metales", "Fuegos de líquidos inflamables"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_420",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El 'comunicador' en el equipo de lucha contra incendios es responsable de mantener:",
+    "options": ["Una línea de comunicación clara con la cabina de pilotos", "Silencio total", "El ruido excesivo", "El servicio de comidas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_421",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un extintor de CO2 se utiliza en un área pequeña, el TCP debe tener cuidado con:",
+    "options": ["La posible asfixia y la ventilación posterior", "La congelación del extintor", "El ruido", "Los pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_422",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La formación en lucha contra incendios incluye el conocimiento de los puntos de ubicación de:",
+    "options": ["Extintores, PBEs y mantas ignífugas", "Comida y bebida", "Libros y revistas", "Las ventanas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_423",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de polvo químico seco de uso múltiple es eficaz en fuegos de Clase:",
+    "options": ["A, B y C", "D", "Solo K", "Solo C y D"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_424",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se extingue un fuego, el TCP debe inspeccionar la zona para asegurarse de que:",
+    "options": ["No hay riesgo de reignición o focos ocultos", "Los pasajeros están durmiendo", "El café está caliente", "La ventilación está cerrada"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_425",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los fuegos de metales combustibles como el magnesio o el titanio se clasifican como:",
+    "options": ["Clase D", "Clase A", "Clase B", "Clase C"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_426",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El uso del Halón (BCF) es desaconsejado para fuegos de Clase A (sólidos) como única medida porque:",
+    "options": ["No enfría el material y existe riesgo de reignición", "Es muy frío", "Es muy pesado", "Dura poco tiempo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_427",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se detecta humo en un compartimento de equipaje, el TCP debe:",
+    "options": ["Inyectar BCF o CO2 a través de una pequeña abertura para sofocar el fuego", "Abrir la puerta de golpe", "Rociar agua", "Tocar el compartimento con la mano desnuda"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_428",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El peligro de los extintores de CO2 para la piel es:",
+    "options": ["Quemaduras por congelación al manipular la tobera o corneta", "Quemaduras por calor", "Descargas eléctricas", "Fuego de metales"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_429",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de agua con anticongelante actúa sobre el fuego de Clase A por:",
+    "options": ["Enfriamiento", "Sofocación", "Reacción en cadena", "Emulsión"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_430",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El procedimiento P.A.S.S. para extintores significa:",
+    "options": ["Pull, Aim, Squeeze, Sweep (Tirar, Apuntar, Apretar, Barrer)", "Push, Apply, Spray, Stop", "Protect, Alert, Sweep, Spray", "Pull, Activate, Spray, Shield"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_431",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "En caso de fuego en un compartimento de equipaje, la principal acción es:",
+    "options": ["Usar BCF o CO2 a través de una pequeña abertura para sofocar", "Abrir el compartimento de golpe", "Rociar agua", "Tocar el compartimento con la mano desnuda"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_432",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El humo de color azulado puede indicar:",
+    "options": ["Posiblemente aceite o lubricante quemándose", "Fuego de papel", "Fuego de metales", "Vapor de agua inofensivo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_433",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si el fuego de Clase A ha sido extinguido con BCF, el TCP debe aplicar agua (si es seguro y disponible) para:",
+    "options": ["Enfriar el material sólido y prevenir la reignición", "Aumentar la reacción química", "Mejorar el olor", "Rociar a los pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_434",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La duración de la protección respiratoria de la PBE es de aproximadamente:",
+    "options": ["15 minutos", "5 minutos", "30 segundos", "1 hora"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_435",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de CO2 es inadecuado para fuegos de Clase A (sólidos) como única medida porque:",
+    "options": ["No enfría el material y existe alto riesgo de reignición", "Es muy frío", "Es muy pesado", "Dura poco tiempo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_436",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El riesgo de los fuegos de Clase C (eléctricos) es el peligro de:",
+    "options": ["Electrocución si se usa agua o un extintor conductor", "Propagación por derrame", "Fuego de metales", "Baja temperatura"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_437",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El 'asistente' en el equipo de lucha contra incendios tiene la tarea de:",
+    "options": ["Proporcionar extintores, PBE de repuesto y asistir al luchador", "Solo comunicar con los pilotos", "Luchar contra el fuego", "Servir comidas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_438",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si el fuego es pequeño y se puede sofocar, el TCP debe usar:",
+    "options": ["Manta ignífuga o manta de lana/agua", "Extintor de Clase D", "CO2", "Arena seca"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_439",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La inspección visual de un extintor de BCF incluye la verificación del:",
+    "options": ["Pasador de seguridad y el sello", "Nivel de agua", "Color de la carcasa", "Ruido"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_440",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los fuegos de Clase B (líquidos) son comunes en:",
+    "options": ["Galley (aceites/grasas) o cerca de fluidos hidráulicos/combustible", "Asientos", "Compartimentos de equipaje", "Lavabos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_441",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si el fuego de un pasajero ha sido sofocado, el TCP debe mantener a la persona:",
+    "options": ["Quieta y caliente (para evitar el shock)", "Corriendo por la cabina", "En el lavabo", "Cerca del fuego"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_442",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de CO2 se utiliza a menudo para fuegos de Clase B (líquidos) por:",
+    "options": ["Sofocación y enfriamiento", "Reacción en cadena", "Emulsión", "Dilución"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_443",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP que asume el rol de 'comunicador' debe:",
+    "options": ["Informar al comandante sobre el tipo de fuego, ubicación y acciones tomadas", "Servir comidas y bebidas", "Dormir una siesta", "Abrir la ventana"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_444",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La PBE debe ser colocada rápidamente para evitar la inhalación de:",
+    "options": ["Humo y gases tóxicos", "Aire limpio", "Vapor de agua", "Olor a café"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_445",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un extintor de Halón se utiliza en un área pequeña, el TCP debe asegurarse de:",
+    "options": ["Ventilar el área rápidamente después de su uso", "Cerrar la puerta y no volver a abrir", "Rociar agua", "Activar la alarma de humo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_446",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de agua con anticongelante es adecuado para fuegos de Clase A por:",
+    "options": ["Su capacidad de enfriamiento", "Su capacidad de sofocación", "Su reacción química", "Su conductividad"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_447",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El peligro de un fuego oculto es que puede propagarse sin ser detectado visualmente a tiempo, causando:",
+    "options": ["Daño estructural y gases tóxicos", "Aumento de la visibilidad", "Un olor agradable", "Menos ruido"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_448",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe usar la técnica de 'Pull' (Tirar) en P.A.S.S. para:",
+    "options": ["Quitar el pasador de seguridad", "Tirar de la manga del extintor", "Tirar de la alarma de incendio", "Tirar del avión"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_449",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El riesgo de un incendio en el galley se minimiza al asegurar que:",
+    "options": ["Los aparatos eléctricos no estén sobrecargados", "Todas las puertas de los hornos estén abiertas", "Se use mucha agua cerca de los hornos", "Se almacene papel junto a la cafetera"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_450",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La 'Squeeze' (Apretar) en P.A.S.S. se refiere a:",
+    "options": ["Apretar la palanca para descargar el agente extintor", "Apretar al pasajero", "Apretar el pasador de seguridad", "Apretar la puerta"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_451",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los fuegos de Clase D son particularmente peligrosos por su reacción violenta con:",
+    "options": ["Agua", "CO2", "BCF", "Mantas ignífugas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_452",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de CO2 actúa sobre los fuegos de Clase C (eléctricos) por:",
+    "options": ["Sofocación y no conductividad", "Enfriamiento", "Interrupción de la reacción química", "Dilución"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_453",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se detecta humo en cabina, el TCP debe mantener la calma para:",
+    "options": ["Dar instrucciones claras a los pasajeros y operar los equipos", "Gritar y huir", "Ignorar las preguntas de los pasajeros", "Abrir las ventanas sin permiso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_454",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La manta ignífuga (Fire Blanket) es eficaz al:",
+    "options": ["Cortar el suministro de oxígeno al fuego", "Eliminar el combustible", "Eliminar el calor", "Aumentar la reacción química"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_455",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El uso del PBE permite al TCP:",
+    "options": ["Respirar de forma segura en entornos llenos de humo", "Extinguir el fuego más rápido", "Servir comidas y bebidas", "Dormir una siesta"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_456",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si un extintor de BCF está bajo presión, el manómetro debe indicar:",
+    "options": ["Que la aguja está en la zona verde", "Que la aguja está en la zona roja", "Que la aguja está en cero", "Que no tiene aguja"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_457",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los fuegos de Clase C (eléctricos) se combaten preferiblemente con:",
+    "options": ["BCF o CO2", "Agua", "Espuma", "Polvo seco para Clase A"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_458",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El riesgo de un incendio de Clase B (líquidos) es su rápida:",
+    "options": ["Propagación por derrame y reignición", "Extinción", "Formación de gases no tóxicos", "Disminución de temperatura"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_459",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de agua es adecuado para fuegos de Clase A (sólidos) porque:",
+    "options": ["Enfría y moja el material combustible", "Sofoca el fuego", "Interrumpe la reacción química", "Es conductor"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_460",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP que asume el rol de 'luchador' debe:",
+    "options": ["Usar PBE y extintor para atacar la base del fuego", "Comunicar con los pilotos", "Gestionar a los pasajeros", "Servir comidas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_461",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se detecta humo en un compartimento de equipaje, el TCP debe:",
+    "options": ["Usar BCF o CO2 a través de una pequeña abertura para sofocar", "Abrir el compartimento de golpe", "Rociar agua", "Tocar el compartimento con la mano desnuda"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_462",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La duración aproximada de un extintor portátil de CO2 en uso continuo es de:",
+    "options": ["8 a 12 segundos", "30 a 60 segundos", "5 minutos", "10 minutos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_463",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El uso del PBE es fundamental para el TCP para evitar:",
+    "options": ["La inhalación de gases tóxicos y la deficiencia de oxígeno", "Temperaturas extremadamente frías", "Sonidos fuertes", "Radiación solar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_464",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor BCF es adecuado para fuegos de Clase B (líquidos) porque:",
+    "options": ["Interrumpe la reacción química del fuego", "Enfría el líquido rápidamente", "Sofoca el fuego", "Lo diluye con agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_465",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si el fuego de Clase A es extinguido con BCF, la siguiente acción es:",
+    "options": ["Enfriar el material con agua (si es seguro) para evitar la reignición", "Abrir ventanas para ventilar", "Dejarlo así y no tocar", "Llamar a los bomberos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_466",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La manta ignífuga (Fire Blanket) es eficaz para fuegos de Clase A y B mediante:",
+    "options": ["Sofocación (eliminando el oxígeno)", "Enfriamiento", "Interrupción de la reacción química", "Dilución"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_467",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe usar la linterna durante un incendio para:",
+    "options": ["Ver a través del humo y buscar la fuente del fuego", "Guiar a los pilotos", "Avisar a otros aviones", "Solo para leer"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_468",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se detecta humo en cabina, la primera acción debe ser:",
+    "options": ["Alertar, localizar la fuente y equiparse con PBE y extintor", "Abrir las salidas de emergencia", "Rociar a los pasajeros con agua", "Evacuar sin informar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_469",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El riesgo de un fuego eléctrico en un asiento se puede deber a:",
+    "options": ["Cables desgastados o dispositivos electrónicos de pasajeros", "Agua derramada", "Ventilación excesiva", "Fuego de metales"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_470",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de CO2 debe ser utilizado con la 'corneta' apuntando a:",
+    "options": ["La base del fuego", "La parte superior del humo", "El techo de la cabina", "Los pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_471",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La manta ignífuga (Fire Blanket) debe ser asegurada después de su uso para:",
+    "options": ["Reportarla y asegurar su inspección/reemplazo", "Tirarla por la borda", "Volver a guardarla sin reportar", "Intentar rellenarla"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_472",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de agua con anticongelante es adecuado para fuegos de Clase:",
+    "options": ["A", "B", "C", "D"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_473",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP que asume el rol de 'asistente' debe tener:",
+    "options": ["Conocimiento de los procedimientos y ubicación de equipos", "Un café caliente", "Un libro", "Una almohada"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_474",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si el fuego de Clase B (líquidos) es contenido, el TCP debe usar:",
+    "options": ["BCF o CO2", "Agua", "Manta de papel", "Extintor de Clase A"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_475",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El uso del PBE es obligatorio para el TCP cuando:",
+    "options": ["Se penetra en una zona con humo denso o gases tóxicos", "Se está sirviendo café", "Se despega", "Se está durmiendo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_476",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los fuegos de Clase C (eléctricos) se combaten preferiblemente con:",
+    "options": ["Agentes no conductores como BCF o CO2", "Agua", "Espuma", "Polvo seco para Clase A"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_477",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El riesgo de un incendio en el galley se minimiza al asegurar que:",
+    "options": ["No haya sobrecarga en los enchufes ni cables dañados", "Todas las puertas de los hornos estén abiertas", "Se use mucha agua cerca de los hornos", "Se almacene papel junto a la cafetera"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_478",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La manta ignífuga (Fire Blanket) se debe colocar sobre el fuego para:",
+    "options": ["Sofocarlo y evitar el contacto con el oxígeno", "Aumentar el calor", "Producir más humo", "Diluir el fuego"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_479",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP debe usar la técnica de 'Barrido' (Sweep) en P.A.S.S. para:",
+    "options": ["Mover el chorro de un lado a otro sobre la base del fuego", "Apuntar solo a la parte superior de las llamas", "Rociar el techo de la cabina", "Presionar y soltar rápidamente el gatillo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_480",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se extingue un fuego, el TCP debe vigilar el área para prevenir:",
+    "options": ["Reignición", "Aburrimiento", "Aumento de la visibilidad", "Ruido excesivo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_481",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor de CO2 debe usarse con precaución en espacios cerrados por:",
+    "options": ["El riesgo de asfixia", "La congelación del extintor", "El ruido", "Los pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_482",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Los fuegos de Clase A (sólidos) se apagan mejor con:",
+    "options": ["Agua para enfriamiento y BCF para extinción de llamas", "CO2", "Extintor de Clase D", "Manta de papel"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_483",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El extintor BCF es adecuado para fuegos de Clase C (eléctricos) porque:",
+    "options": ["No conduce electricidad y no deja residuos", "Es muy frío", "Es muy pesado", "Dura poco tiempo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_484",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "La toxicidad del humo en cabina se debe a la combustión de:",
+    "options": ["Materiales sintéticos y plásticos", "Agua y aire", "Metales", "Maderas naturales"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_485",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "Si se sospecha de un fuego oculto, el TCP debe inspeccionar con la linterna y el dorso de la mano para detectar:",
+    "options": ["Calor", "Frío", "Humedad", "Ruido"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_486",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El TCP que utiliza el PBE debe tener en cuenta que el oxígeno en la máscara:",
+    "options": ["Puede alimentar el fuego si se retira en la zona de fuego", "Es limitado", "Es ilimitado", "No es real"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fire_487",
+    "topic": "Formación en la lucha contra incendios y humo",
+    "text": "El objetivo principal del entrenamiento con simulador de humo es practicar:",
+    "options": ["La localización del fuego y la respiración segura en condiciones de baja visibilidad", "El servicio de comidas", "La lectura de libros", "El descanso"],
+    "correctIndex": 0
+  }
+]

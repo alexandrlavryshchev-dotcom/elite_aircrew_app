@@ -1,0 +1,4844 @@
+[
+  {
+    "topic": "Supervivencia",
+    "text": "¿Cuál es la primera acción tras un aterrizaje de emergencia en agua?",
+    "options": ["Mantener la calma y asegurarse de los pasajeros", "Salir corriendo del avión", "Encender el motor", "Romper ventanas"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Supervivencia",
+    "text": "Los chalecos salvavidas deben ser inflados:",
+    "options": ["Después de salir del avión", "Dentro de la cabina", "Antes de despegar", "Solo si hay humo"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Supervivencia",
+    "text": "En caso de aterrizaje en terreno desconocido, lo primero es:",
+    "options": ["Evaluar el entorno y buscar refugio seguro", "Encender fuego", "Salir sin orden", "Buscar comida inmediatamente"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Supervivencia",
+    "text": "El equipo de supervivencia en cabina incluye:",
+    "options": ["Chalecos, bengalas, botiquín y radio de emergencia", "Comida rápida", "Entretenimiento de pasajeros", "Ropa extra"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Supervivencia",
+    "text": "Si hay heridos tras un accidente, la prioridad es:",
+    "options": ["Proveer primeros auxilios y mantener respiración y circulación", "Buscar comida", "Grabar vídeo para reportes", "Salir corriendo"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Supervivencia",
+    "text": "¿Cuál es la señal básica de emergencia para rescate?",
+    "options": ["Bengalas, espejos o silbatos", "Gritar sin parar", "Encender fuego sin control", "Correr en círculos"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Supervivencia",
+    "text": "El método ‘STOP’ en supervivencia significa:",
+    "options": ["Stop, Think, Observe, Plan", "Salir corriendo", "Llamar al capitán", "Encender luces de emergencia"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Supervivencia",
+    "text": "Durante una emergencia en el mar, los pasajeros deben:",
+    "options": ["Permanecer agrupados y usar chalecos salvavidas", "Nadar individualmente", "Buscar comida", "Ignorar instrucciones"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Supervivencia",
+    "text": "El agua potable debe obtenerse mediante:",
+    "options": ["Filtros o pastillas purificadoras", "Beber directamente de ríos sin filtrar", "Usar combustible", "Extraer de hojas"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Supervivencia",
+    "text": "La protección contra el frío se logra:",
+    "options": ["Cubriéndose con mantas y ropa disponible", "Saltando continuamente", "Encendiendo fuego sin control", "Nada es necesario"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Supervivencia",
+    "text": "Si hay riesgo de depredadores, la acción correcta es:",
+    "options": ["Mantenerse en grupo y hacer ruido", "Huir individualmente", "Dormir cerca de ellos", "Ofrecer comida"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Supervivencia",
+    "text": "La señalización para rescate aéreo incluye:",
+    "options": ["Formar grandes letras SOS en terreno despejado", "Encender fuego sin control", "Gritar desde árboles", "Correr por el terreno"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Supervivencia",
+    "text": "En emergencias, la higiene básica es importante porque:",
+    "options": ["Previene infecciones y enfermedades", "No tiene importancia", "Solo sirve para comodidad", "Evita que se detecte la ubicación"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Supervivencia",
+    "text": "El refugio temporal debe ser:",
+    "options": ["Protegido del clima y seguro", "Abierto y visible", "Hecho de materiales inflamables", "Solo improvisado"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Supervivencia",
+    "text": "Durante rescate, es importante:",
+    "options": ["Mantener comunicación y señales claras", "Ocultar la ubicación", "No moverse del lugar", "Ignorar al equipo de rescate"],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_001",
+    "topic": "Supervivencia",
+    "text": "Entre las señales visuales que pueden utilizar los supervivientes de un accidente con los paneles, se encuentra la V, que significa:",
+    "options": [
+      "Necesitamos ayuda médica",
+      "Estamos todos bien",
+      "Necesitamos ayuda alimenticia",
+      "Necesitamos ayuda"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sup_002",
+    "topic": "Supervivencia",
+    "text": "En caso de supervivencia prolongada en el mar, ¿qué medidas tomaremos para que nuestro organismo pierda la menor cantidad de agua posible?",
+    "options": [
+      "Tener la mayor parte del cuerpo cubierta con ropa, pero no hasta tal grado que provoque sudoración",
+      "Beber nuestra propia orina",
+      "Nos bañaremos a menudo en el mar",
+      "Beberemos agua de mar"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_003",
+    "topic": "Supervivencia",
+    "text": "Indique cuál de las siguientes afirmaciones es correcta en referencia a los paneles:",
+    "options": [
+      "Serán realizados necesariamente con tela roja de medida normalizada",
+      "Se utilizarán en un lugar resguardado del viento para que no se vuelen",
+      "Los utilizaremos para realizar señales tierra-aire en código Morse",
+      "Con ellos se harán símbolos de al menos 2,5 metros de longitud para su buena visibilidad desde el aire"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sup_004",
+    "topic": "Supervivencia",
+    "text": "¿De qué fuentes podemos obtener agua potable dulce en una situación de supervivencia en el mar?",
+    "options": [
+      "De la orina de los ocupantes de la balsa",
+      "Del rocío depositado en la balsa durante la noche",
+      "De la potabilizadora que podemos improvisar con una pastilla y una bolsa de polietileno",
+      "Del sudor escurrido de la ropa de los ocupantes de la balsa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_005",
+    "topic": "Supervivencia",
+    "text": "En caso de un siniestro aéreo, ¿qué será lo primero que tenemos que realizar para asegurar nuestra supervivencia?",
+    "options": [
+      "Alejarnos lo más posible de la aeronave y no retornar bajo ninguna circunstancia",
+      "Alejarnos lo más posible de la aeronave, aunque después de un tiempo prudencial volveremos a ella",
+      "Nos desplazaremos lo más rápido posible de la zona, buscando lugares habitados y ayuda",
+      "Nos quedaremos desde el momento de la evacuación a pie de avión"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_006",
+    "topic": "Supervivencia",
+    "text": "¿Qué factores determinan principalmente la cantidad de agua que necesita nuestro organismo?",
+    "options": [
+      "Humedad relativa del aire y la temperatura",
+      "La temperatura ambiental y la actividad física desarrollada",
+      "La actividad física desarrollada y la temperatura corporal",
+      "La temperatura corporal y la humedad relativa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_007",
+    "topic": "Supervivencia",
+    "text": "En caso de tener que sobrevivir en el desierto, ¿cómo actuaremos para evitar la picadura de serpientes y escorpiones?",
+    "options": [
+      "Si caminamos en grupo, lo haremos de forma desordenada",
+      "Al caminar por zonas de maleza crecida o zonas rocosas lo haremos en silencio",
+      "Examinaremos bien cualquier prenda de ropa antes de ponérnosla, sobre todo zapatos y mantas",
+      "Cuando tengamos que caminar lo haremos con calcetines y sin zapatos"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_008",
+    "topic": "Supervivencia",
+    "text": "En caso de tener que construir un refugio en la selva, ¿qué precauciones tendremos en cuenta?",
+    "options": [
+      "En la selva no hace falta refugio",
+      "Lo construiremos en un lugar con gran vegetación para evitar la luz y quemaduras",
+      "Lo construiremos en un lugar con la menor vegetación posible y alejado de pantanos y ríos",
+      "Lo construiremos bajo un cocotero para usar hojas y frutos"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_009",
+    "topic": "Supervivencia",
+    "text": "¿A qué corresponden las siglas S.A.R.?",
+    "options": [
+      "Search and Rescue",
+      "Servicio aéreo de rescate",
+      "Salvamento ante el rescate",
+      "Save and Rescue"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_010",
+    "topic": "Supervivencia",
+    "text": "De los siguientes métodos que se enumeran, ¿cuál no sirve para orientarse?",
+    "options": [
+      "El lugar por el que sale el sol nos indicará el este",
+      "Si tenemos una parte del cuerpo mojada, el lugar por donde viene el viento señala el norte",
+      "Un metal imantado sobre un fluido nos marcará el norte",
+      "Mirando los anillos de un tocón; donde los anillos estén más separados señalará al sur"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_011",
+    "topic": "Supervivencia",
+    "text": "La secuencia lógica que seguiremos tras un siniestro aéreo con posible situación de supervivencia posterior será:",
+    "options": [
+      "Protección inicial, orientarse y construcción de refugios",
+      "Protección inicial, recopilar heridos, inventario de comida y agua",
+      "Señalizar, construir refugio y juntar heridos",
+      "Protección inicial, organización del grupo, señalización"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_012",
+    "topic": "Supervivencia",
+    "text": "¿Cuál es el principal problema de una persona que cae al agua en el Atlántico Norte?",
+    "options": [
+      "Depredadores marinos agresivos",
+      "Escasa salinidad que dificulta mantenerse a flote",
+      "Frío extremo",
+      "Hipotermia rápida"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sup_013",
+    "topic": "Supervivencia",
+    "text": "Nuestro avión ha amerizado y nos encontramos en el agua sin posibilidad de alcanzar una balsa salvavidas. ¿Qué haremos para maximizar nuestra supervivencia?",
+    "options": [
+      "Moviéndonos lo máximo posible con chaleco puesto",
+      "Mantenernos juntos con torso hacia el interior del grupo",
+      "Adoptar posición fetal para no perder calor",
+      "Cogidos de las manos en posición fetal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_014",
+    "topic": "Supervivencia",
+    "text": "En caso de un amerizaje, ¿qué pautas hay que seguir para subir a la balsa?",
+    "options": [
+      "Quitarse el chaleco para subir más rápido y meterlo dentro",
+      "Quitarse el chaleco y arrojarlo lejos",
+      "Subir con cuidado y mantener el chaleco puesto hasta rescate",
+      "Subir con chaleco y quitárselo dentro de la balsa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_015",
+    "topic": "Supervivencia",
+    "text": "Las normas de supervivencia en el desierto aconsejan viajar en busca de ayuda:",
+    "options": [
+      "Durante el día",
+      "Durante primeras y últimas horas del día y durante la noche",
+      "Durante el día y la noche",
+      "Durante la noche"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_016",
+    "topic": "Supervivencia",
+    "text": "¿Cuándo termina la misión de rescate de un avión accidentado?",
+    "options": [
+      "Cuando se encuentra la caja negra",
+      "Cuando encuentran a los tripulantes",
+      "Cuando dejan de recibir emisión de la radiobaliza",
+      "Cuando aparecen los supervivientes o la búsqueda es infructuosa"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sup_017",
+    "topic": "Supervivencia",
+    "text": "El primer factor de supervivencia a considerar en zonas frías es:",
+    "options": [
+      "El viento aumenta el frío",
+      "Mantenerse con ropa ajustada al cuerpo",
+      "Restregarse con nieve los miembros congelados",
+      "Beber alcohol"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_018",
+    "topic": "Supervivencia",
+    "text": "Los factores a afrontar en supervivencia por orden de gravedad son:",
+    "options": [
+      "Hambre, frío, miedo y sed",
+      "Sed, frío, hambre y miedo",
+      "Frío, miedo, sed y hambre",
+      "Miedo, frío, sed y hambre"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_019",
+    "topic": "Supervivencia",
+    "text": "En supervivencia, 'La Gran Decisión' consiste en mantenernos junto a los restos del avión hasta iniciar un viaje de búsqueda no antes de:",
+    "options": [
+      "12 horas",
+      "24 horas",
+      "36 horas",
+      "48 horas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_020",
+    "topic": "Supervivencia",
+    "text": "En caso de congelación, ¿qué debemos evitar?",
+    "options": [
+      "Consumir alcohol en grandes cantidades",
+      "Sumergir en agua muy caliente",
+      "Envolver la parte congelada con manta y aplicar calor por fuera",
+      "Friccionar con nieve"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sup_021",
+    "topic": "Supervivencia",
+    "text": "Los equipos de supervivencia en el agua están formados por:",
+    "options": [
+      "Chalecos salvavidas",
+      "Chalecos salvavidas y balsas",
+      "Chalecos salvavidas, balsas, cunas flotantes y flotadores",
+      "Chalecos salvavidas, balsas, cunas flotantes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_022",
+    "topic": "Supervivencia",
+    "text": "¿Cuándo se deben utilizar las bengalas día/noche?",
+    "options": [
+      "Inmediatamente después de activar las balizas de emergencia",
+      "Solo durante el periodo nocturno",
+      "Cuando se presuma que pueden ser percibidas",
+      "Siempre que el sol no esté muy alto"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_023",
+    "topic": "Supervivencia",
+    "text": "¿Cómo se envía la señal SOS con una linterna después de un accidente en el mar de noche?",
+    "options": [
+      "3 destellos cortos, 2 largos, 3 cortos",
+      "3 destellos cortos, 3 largos, 3 cortos",
+      "2 destellos cortos, 3 largos, 2 cortos",
+      "2 destellos largos, 3 cortos, 2 largos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_024",
+    "topic": "Supervivencia",
+    "text": "¿Cuándo lanzaremos al agua la radiobaliza?",
+    "options": [
+      "Cuando calculemos que ya nos están buscando",
+      "Lo antes posible",
+      "Cuando escuchemos ruidos de barcos o aviones",
+      "Si no tenemos radiobalizas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_025",
+    "topic": "Supervivencia",
+    "text": "¿Se deben dejar en funcionamiento las radiobalizas después del rescate?",
+    "options": [
+      "No",
+      "Depende de las circunstancias",
+      "Sí",
+      "Solo en zonas deshabitadas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_026",
+    "topic": "Supervivencia",
+    "text": "¿Cuánto tiempo se puede vivir sin alimento, solo con agua?",
+    "options": [
+      "Más de 30 días",
+      "10 días aproximadamente",
+      "48 horas",
+      "72 horas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_027",
+    "topic": "Supervivencia",
+    "text": "¿Qué es una radiobaliza de emergencia?",
+    "options": [
+      "Equipo radio receptor automático",
+      "Equipo radio transmisor de funcionamiento normal",
+      "Equipo radio transmisor de funcionamiento automático",
+      "No existe tal equipo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_028",
+    "topic": "Supervivencia",
+    "text": "¿Cuál de los siguientes elementos no forma parte de la bolsa de señales?",
+    "options": [
+      "Silbato",
+      "Linterna",
+      "Megáfono",
+      "Código Morse"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_029",
+    "topic": "Supervivencia",
+    "text": "¿Dónde encontraré las bengalas día/noche?",
+    "options": [
+      "Junto a los chalecos de los TCP",
+      "En las bolsas de señales y supervivencia",
+      "Junto a las radiobalizas",
+      "Junto a los megáfonos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_030",
+    "topic": "Supervivencia",
+    "text": "Los factores más graves en situación de supervivencia son:",
+    "options": [
+      "Frío, sed, hambre y miedo",
+      "Solo la sed",
+      "La falta de ayuda",
+      "La soledad"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_031",
+    "topic": "Supervivencia",
+    "text": "En situación de supervivencia, respecto al racionamiento del agua, ¿qué haremos el primer día?",
+    "options": [
+      "Beber todo lo que se pueda para resistir",
+      "No beber, ya que el cuerpo aún dispone de reservas",
+      "Dar solo agua a los niños",
+      "Reservar el agua para los enfermos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_032",
+    "topic": "Supervivencia",
+    "text": "¿En qué frecuencia o frecuencias puede emitir una radiobaliza de emergencia?",
+    "options": [
+      "121.5 MHz",
+      "243 MHz",
+      "406.025 MHz",
+      "Todas son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sup_033",
+    "topic": "Supervivencia",
+    "text": "¿Se debe comer si no tenemos agua en caso de supervivencia?",
+    "options": [
+      "Sí, es mejor comer lo que sea",
+      "Comeremos, pero evitar alimentos flatulentos",
+      "No se debe comer si no hay agua",
+      "Comer solo alimentos ricos en hidratos de carbono"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_034",
+    "topic": "Supervivencia",
+    "text": "En caso de supervivencia en el mar, ¿qué haremos con las balsas?",
+    "options": [
+      "Separar una balsa de otra para que nos localicen mejor",
+      "Atarlas y formar una flotilla",
+      "Situar una balsa en cada zona del avión y amarrarla",
+      "Alejarnos rápidamente buscando tierra"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_035",
+    "topic": "Supervivencia",
+    "text": "En código Morse, ¿cómo informamos de SOS?",
+    "options": [
+      "......... -ceeee.........",
+      "... --- ...",
+      "- - - ... ... ...",
+      ".-. .- -.-"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_036",
+    "topic": "Supervivencia",
+    "text": "¿Qué código usamos para enviar mensajes en caso de emergencia?",
+    "options": [
+      "Código Morse",
+      "Código internacional",
+      "Código de la compañía",
+      "Código IATA"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_037",
+    "topic": "Supervivencia",
+    "text": "¿Cuál es el primer requisito para ser rescatado?",
+    "options": [
+      "Mantenerse todos juntos",
+      "Mantener la calma",
+      "Informar a otros de nuestra posición",
+      "Beber líquidos"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_038",
+    "topic": "Supervivencia",
+    "text": "¿Qué medios ofrecen más posibilidades de supervivencia?",
+    "options": [
+      "Clima polar",
+      "Selva",
+      "Desierto",
+      "Mar"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sup_039",
+    "topic": "Supervivencia",
+    "text": "En caso de congelación, ¿qué no debemos hacer?",
+    "options": [
+      "Emplear el miembro congelado",
+      "Fumar",
+      "Friccionar el miembro con nieve",
+      "Todas las respuestas son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sup_040",
+    "topic": "Supervivencia",
+    "text": "¿Cómo se pueden retener los fluidos en caso de supervivencia?",
+    "options": [
+      "Evitando el ejercicio físico",
+      "No fumando y manteniéndose a la sombra",
+      "No bebiendo alcohol",
+      "Todas las respuestas son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sup_041",
+    "topic": "Supervivencia",
+    "text": "En caso de supervivencia en el mar con balsa, ¿qué debe hacer un TCP al estar en la balsa?",
+    "options": [
+      "Separarse del avión lo antes posible",
+      "Alejarse del avión inmediatamente",
+      "Lanzar todos los objetos flotantes al agua desde el primer instante",
+      "Formar una flotilla"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sup_042",
+    "topic": "Supervivencia",
+    "text": "En caso de supervivencia en el mar en una balsa redonda, ¿cómo podemos dirigirla?",
+    "options": [
+      "Encender el pequeño motor eléctrico de la balsa",
+      "Desmontar o montar bajo el toldo y no mantener la balsa muy hinchada",
+      "Lanzar y recoger el ancla en la dirección deseada",
+      "Solicitar voluntarios que se tiren al agua y arrastren la balsa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_043",
+    "topic": "Supervivencia",
+    "text": "Si estamos en el mar con ligero estreñimiento, ¿qué hacemos?",
+    "options": [
+      "Beber agua salada",
+      "Tomar pastillas o productos para aliviarlo",
+      "No tomar ningún producto",
+      "Respuestas a y b son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sup_044",
+    "topic": "Supervivencia",
+    "text": "En la balsa intentando pescar, ¿cuál recomendación es incorrecta?",
+    "options": [
+      "Atar el sedal a la balsa o cuerpo",
+      "Usar carne de pez como cebo",
+      "Pescar a varias profundidades y de noche con luz",
+      "Arrojar desperdicios si hay tiburón cerca"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sup_045",
+    "topic": "Supervivencia",
+    "text": "Somos supervivientes en el desierto, ¿cuál recomendación es incorrecta?",
+    "options": [
+      "Comer verduras crudas si las tenemos",
+      "Comer cualquier alimento aunque no haya agua",
+      "No comer si no hay suficiente agua",
+      "Recoger agua de la primera mañana con esponja"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_046",
+    "topic": "Supervivencia",
+    "text": "Sobrevivimos a un accidente en zona desértica, ¿cómo protegernos del frío por la noche?",
+    "options": [
+      "Mantener actitud firme y serena",
+      "Mantenernos despiertos toda la noche",
+      "Beber líquidos con alcohol",
+      "Enterrarse en la arena si es zona arenosa"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sup_047",
+    "topic": "Supervivencia",
+    "text": "En situación de supervivencia en el Ártico, ¿cuál recomendación es falsa?",
+    "options": [
+      "Fundir nieve con fuego, no hielo azul",
+      "Fiarse completamente de la brújula",
+      "No comer carne cruda de roedores",
+      "Evitar caminar sobre glaciares con grietas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_048",
+    "topic": "Supervivencia",
+    "text": "Como superviviente, ¿cómo purificarías el agua si puedes hacerlo?",
+    "options": [
+      "Con yodo",
+      "Hervirla 10 minutos",
+      "Con pastillas potabilizadoras",
+      "Todas las respuestas son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "sup_049",
+    "topic": "Supervivencia",
+    "text": "¿Es aconsejable viajar en el desierto inmediatamente después de un accidente aéreo?",
+    "options": [
+      "Sí, tan pronto como caiga la primera noche",
+      "Esperar 96 horas antes de iniciar viaje",
+      "No, las condiciones no permiten sobrevivir",
+      "Todas son incorrectas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_050",
+    "topic": "Supervivencia",
+    "text": "En situación de supervivencia en el Ártico, ¿cómo evitar que el líquido de la radiobaliza se congele?",
+    "options": [
+      "Agitar la bolsa para evitar congelación",
+      "Confiar en que la temperatura no baje de 0°",
+      "Usar contenido del extintor mezclado con anticongelante",
+      "No se podría usar la radiobaliza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_051",
+    "topic": "Supervivencia",
+    "text": "¿Cuál es el orden correcto de las fases del Pentágono de Supervivencia?",
+    "options": [
+      "Primeros auxilios, señalamiento, fuego, refugio, agua",
+      "Primeros auxilios, señalamiento, refugio, agua, alimento",
+      "Señalamiento, primeros auxilios, refugio, fuego, alimento"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_052",
+    "topic": "Supervivencia",
+    "text": "¿Cuál es la actitud mental recomendada para afrontar una situación de supervivencia?",
+    "options": [
+      "Mantener una actitud sumisa para evitar el conflicto",
+      "Enfocarse solo en la comodidad personal",
+      "Tener una actitud psíquica equilibrada para dominar el miedo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_053",
+    "topic": "Supervivencia",
+    "text": "¿Qué se espera que debe hacer un TCP respecto al liderazgo en supervivencia?",
+    "options": [
+      "Actuar como referente, organizar al grupo y brindar contención",
+      "Dejar que los pasajeros decidan sus acciones libremente",
+      "Esperar indicaciones de alguien que se imponga a la fuerza"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_054",
+    "topic": "Supervivencia",
+    "text": "¿Qué elemento es central en el Pentágono de Supervivencia?",
+    "options": ["Agua", "Fuego", "Refugio"],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_055",
+    "topic": "Supervivencia",
+    "text": "¿Qué es lo primero que debe hacer un TCP tras un aterrizaje forzoso?",
+    "options": [
+      "Verificar conciencia, aplicar primeros auxilios y organizar el grupo",
+      "Buscar comida en los restos de la aeronave",
+      "Separarse del grupo para explorar el área"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_056",
+    "topic": "Supervivencia",
+    "text": "¿Cómo debe tratarse una hemorragia arterial en una situación de supervivencia?",
+    "options": [
+      "Solo con vendaje suelto",
+      "Con vendaje compresivo, compresión digital o torniquete",
+      "Aplicando hielo en la zona"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_057",
+    "topic": "Supervivencia",
+    "text": "¿Qué indica la regla de comestibilidad para un alimento vegetal desconocido?",
+    "options": [
+      "Lavarlo bien y comerlo entero de inmediato",
+      "Probar una porción pequeña y esperar 8 horas",
+      "Cocinarlo y comerlo sin pruebas previas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_058",
+    "topic": "Supervivencia",
+    "text": "¿Cuál de las siguientes señales es satelital?",
+    "options": ["Bengala diurna", "ELT (Emergency Locator Transmitter)", "Paño de señales"],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_059",
+    "topic": "Supervivencia",
+    "text": "¿Qué debe hacerse en caso de shock por herida grave?",
+    "options": [
+      "Sentar a la víctima y taparla",
+      "Acostarla boca arriba con piernas levantadas y dejarla sola",
+      "Acostarla de costado, aflojar ropa y no dejarla sola"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_060",
+    "topic": "Supervivencia",
+    "text": "¿Cuál es la recomendación ante una persona en llamas?",
+    "options": ["Correr para alejarse del fuego", "Echarle agua fría desde lejos", "Cubrirla y apagar las llamas"],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_061",
+    "topic": "Supervivencia",
+    "text": "¿Qué caracteriza una fractura expuesta?",
+    "options": [
+      "El hueso no se ve",
+      "El hueso quebrado atraviesa la piel",
+      "Se cura solo sin hacer nada"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_062",
+    "topic": "Supervivencia",
+    "text": "¿Qué parte del cuerpo indica mayor riesgo al estar quemada por más del 15%?",
+    "options": ["Cabeza", "Brazos", "Superficie total corporal"],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_063",
+    "topic": "Supervivencia",
+    "text": "¿Qué hacer si no se cuenta con fósforos y se necesita encender fuego?",
+    "options": [
+      "Frotar ramas verdes de manzano",
+      "Utilizar pedernal o iniciador de magnesio",
+      "Esperar que amanezca"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_064",
+    "topic": "Supervivencia",
+    "text": "¿Qué animales suelen ser comestibles en la naturaleza?",
+    "options": [
+      "Solamente mamíferos medianos",
+      "Todo lo que camina, vuela, se arrastra o nada (que no sea ponzoñoso)",
+      "Solo peces y aves"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_065",
+    "topic": "Supervivencia",
+    "text": "¿Cuál es el objetivo principal del señalamiento?",
+    "options": [
+      "Decorar la zona de impacto",
+      "Ser localizado por los equipos de rescate",
+      "Alejar a los animales"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_066",
+    "topic": "Supervivencia",
+    "text": "¿Qué método de señalamiento se recomienda de día por su alta visibilidad?",
+    "options": ["Fuego sin humo", "Humo espeso", "Linterna"],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_067",
+    "topic": "Supervivencia",
+    "text": "¿Cómo debe seleccionarse el lugar para un área de señales?",
+    "options": [
+      "Terreno claro, visible y accesible desde el refugio",
+      "En zonas bajas, cerca de cuevas",
+      "Dentro de la aeronave"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_068",
+    "topic": "Supervivencia",
+    "text": "¿Cuál es una fuente segura de agua en la selva?",
+    "options": [
+      "Todas deben potabilizarse mediante hervido o químicos",
+      "Agua estancada en charcos",
+      "El agua de un río que corra es 100% segura"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_069",
+    "topic": "Supervivencia",
+    "text": "¿Qué líquido NUNCA debe beberse bajo ninguna circunstancia?",
+    "options": [
+      "Agua de lluvia recolectada directamente en un recipiente limpio y desinfectado",
+      "Agua no purificada ni potabilizada",
+      "Agua filtrada con un trapo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_070",
+    "topic": "Supervivencia",
+    "text": "¿Cuál es el objetivo del control emocional en una situación de supervivencia?",
+    "options": [
+      "Evitar decisiones impulsivas y conservar la claridad mental",
+      "Dejarse llevar por los impulsos emocionales",
+      "Aumentar la autoridad del TCP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_071",
+    "topic": "Supervivencia",
+    "text": "¿Cuál es una causa común del estado de shock en supervivencia?",
+    "options": ["Heridas graves como hemorragias o quemaduras", "Estar solo de noche", "La luna llena"],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_072",
+    "topic": "Supervivencia",
+    "text": "¿Qué debe hacerse antes de mover a un herido con fractura?",
+    "options": [
+      "Entablillar e inmovilizar correctamente la zona afectada",
+      "Pedirle que se mueva solo con cuidado",
+      "Colocarlo en posición vertical"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_073",
+    "topic": "Supervivencia",
+    "text": "¿Cuál es la mejor fuente de agua potable sin tratamiento adicional?",
+    "options": [
+      "Agua de lluvia recolectada directamente en un recipiente limpio y desinfectado",
+      "Agua de río",
+      "Agua de pantano"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_074",
+    "topic": "Supervivencia",
+    "text": "¿Cómo se debe purificar agua no segura?",
+    "options": [
+      "Colándola con un trapo blanco",
+      "Filtrarla, hervirla (al menos 5 minutos) y tratarla químicamente",
+      "Beberla rápido para evitar infección"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_075",
+    "topic": "Supervivencia",
+    "text": "¿Qué método nocturno permite orientarse en el hemisferio sur?",
+    "options": ["Constelación Cruz del Sur", "Estrella Polar", "Sombra de un palo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_076",
+    "topic": "Supervivencia",
+    "text": "¿Cuál es la actitud recomendada respecto a un grupo en una emergencia?",
+    "options": [
+      "Actuar como individuo autónomo",
+      "Formar equipo, asignar roles y trabajar unidos",
+      "Priorizar solo a los heridos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_077",
+    "topic": "Supervivencia",
+    "text": "¿Qué debe evitarse en el consumo de agua en supervivencia?",
+    "options": ["Tomar sorbos pequeños", "Mojarse los labios", "Beber agua no segura"],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_078",
+    "topic": "Supervivencia",
+    "text": "¿Qué debe hacerse con una víctima inconsciente y en shock?",
+    "options": ["Colocarla de costado", "Sentarla con las piernas levantadas", "Hacerle RCP"],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_079",
+    "topic": "Supervivencia",
+    "text": "¿Qué tipo de fuego se recomienda para señalamiento nocturno?",
+    "options": [
+      "Pequeño y bajo",
+      "Cubierto y controlado",
+      "Tres fogatas grandes formando un triángulo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_080",
+    "topic": "Supervivencia",
+    "text": "¿Qué característica define una quemadura de segundo grado?",
+    "options": ["Carbonización de tejidos", "Formación de ampollas", "Cambio solo en color de piel"],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_081",
+    "topic": "Supervivencia",
+    "text": "¿Cuál es un ejemplo de señal pirotécnica?",
+    "options": ["Espejo de señales", "ELT", "Bengala de día/noche"],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_082",
+    "topic": "Supervivencia",
+    "text": "¿Qué debe evitarse al construir un refugio?",
+    "options": [
+      "Instalarse en el lecho seco de un río",
+      "Construir cerca de leña y señalamiento",
+      "Usar recursos del entorno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_083",
+    "topic": "Supervivencia",
+    "text": "¿Qué se debe hacer al ver una aeronave sobrevolando la zona?",
+    "options": [
+      "Esconderse para evitar ser visto",
+      "Utilizar señales visibles como espejo, fuego y humo",
+      "Esperar a que aterrice"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_084",
+    "topic": "Supervivencia",
+    "text": "¿Cuál es una fuente válida de agua en la selva si se purifica?",
+    "options": [
+      "Sangre de animales cruda",
+      "Agua filtrada, hervida y químicamente potabilizada",
+      "Agua pesada (radioactiva)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_085",
+    "topic": "Supervivencia",
+    "text": "¿Qué síntoma indica pérdida del 10% de agua corporal?",
+    "options": [
+      "Sed leve",
+      "Delirio, contracciones musculares, pérdida de lozanía",
+      "Aumento del apetito"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_086",
+    "topic": "Supervivencia",
+    "text": "¿Cómo se puede encontrar el Este-Oeste con la sombra de un palo y el sol?",
+    "options": [
+      "Medir la longitud al mediodía",
+      "Marcar el extremo de la sombra en un lapso de tiempo",
+      "Usar brújula al atardecer"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_087",
+    "topic": "Supervivencia",
+    "text": "¿Qué precaución debe tomarse al encender fuego en refugio cerrado?",
+    "options": [
+      "Cerrar todas las salidas para conservar calor",
+      "Hacer ventilación adecuada para evitar intoxicación",
+      "Usar gasolina para prender rápido"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_088",
+    "topic": "Supervivencia",
+    "text": "¿Qué debe hacerse con los animales cazados con el fin de alimento?",
+    "options": [
+      "Retirar vísceras y cocerlos o conservarlos al ahumar",
+      "Lavarlos con agua segura y comerlos crudos",
+      "Guardarlos con la piel"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_089",
+    "topic": "Supervivencia",
+    "text": "¿Qué señal indica que un avión entendió tu mensaje visual?",
+    "options": ["Movimiento de alas (alabeo)", "Giro en círculo", "Vuelo invertido"],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_090",
+    "topic": "Supervivencia",
+    "text": "¿Cuál es la fase del Pentágono de Supervivencia que debe ejecutarse inmediatamente después del señalamiento?",
+    "options": ["Agua", "Alimento", "Refugio"],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_091",
+    "topic": "Supervivencia",
+    "text": "¿Qué indica un triángulo formado por tres fogatas?",
+    "options": [
+      "No necesitamos ayuda",
+      "Pedido internacional de auxilio",
+      "Señal de viaje seguro"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_092",
+    "topic": "Supervivencia",
+    "text": "¿Cuál es el efecto principal del shock hipovolémico?",
+    "options": [
+      "Falta de oxígeno en los tejidos por pérdida grave de sangre",
+      "Aumento de la temperatura corporal",
+      "Incremento de la presión arterial"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_093",
+    "topic": "Supervivencia",
+    "text": "¿Qué método de señalamiento audible efectivo puede utilizarse?",
+    "options": ["Silbato", "Espejo de señales", "Bengala de humo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_094",
+    "topic": "Supervivencia",
+    "text": "¿Qué objetivo tiene cubrir ciertas zonas de los pies con cinta adhesiva?",
+    "options": [
+      "Aislar del frío",
+      "Prevenir ampollas por fricción",
+      "Mejorar la circulación"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_095",
+    "topic": "Supervivencia",
+    "text": "¿Qué característica debe tener un área para instalar el campamento?",
+    "options": [
+      "Pendiente pronunciada para el desagüe",
+      "Cerca del recurso agua, con leña y lejos de peligros",
+      "Cualquier lugar es apto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_096",
+    "topic": "Supervivencia",
+    "text": "¿Qué tipo de trampa es más efectiva para capturar animales pequeños?",
+    "options": [
+      "Trampa de caída libre o golpe mortal",
+      "Trampa de lazo y tirón",
+      "Trampa de hipnosis"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "sup_097",
+    "topic": "Supervivencia",
+    "text": "¿Qué propiedad del agua de nieve la hace no ideal para consumirla pura?",
+    "options": [
+      "Alta temperatura",
+      "Carencia de sales minerales esenciales",
+      "Exceso de cloro natural"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_098",
+    "topic": "Supervivencia",
+    "text": "¿Cuál es el mayor riesgo de consumir hongos desconocidos?",
+    "options": [
+      "Intoxicación leve",
+      "Alergia leve",
+      "Envenenamiento letal no detectable al gusto"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "sup_099",
+    "topic": "Supervivencia",
+    "text": "Consumir hongos conocidos aumenta significativamente la posibilidad de sobrevivir ya que son una alta fuente de nutrientes.",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_100",
+    "topic": "Supervivencia",
+    "text": "¿Qué sucede si se improvisa un refugio sin considerar la dirección del viento?",
+    "options": [
+      "El refugio se vuelve más cálido",
+      "Se expone al frío, la lluvia o el humo",
+      "No afecta en nada"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_101",
+    "topic": "Supervivencia",
+    "text": "¿Cómo debe ser el manejo de las raciones alimenticias en supervivencia?",
+    "options": [
+      "Consumir todo al inicio",
+      "Dividir y racionar los víveres pensando a largo plazo",
+      "Guardarlas todas para el final"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_102",
+    "topic": "Supervivencia",
+    "text": "¿Qué hace un destilador solar o improvisado?",
+    "options": [
+      "Calienta agua para cocinar",
+      "Purifica el agua por evaporación y condensación",
+      "Llena de minerales el agua"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_103",
+    "topic": "Supervivencia",
+    "text": "¿Cuál es el método correcto para improvisar un filtro de agua?",
+    "options": [
+      "Usar cenizas de leña",
+      "Filtrado con tela para quitar grandes impurezas",
+      "Usar piel de animal"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_104",
+    "topic": "Supervivencia",
+    "text": "¿Qué tipo de señal pirotécnica se recomienda para el día?",
+    "options": [
+      "Silbato",
+      "Bengala fumígena de colores vivos",
+      "Linterna de emergencia"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_105",
+    "topic": "Supervivencia",
+    "text": "¿Cómo actúa correctamente un TCP al reconocer un obstáculo mental en supervivencia?",
+    "options": [
+      "No procesarlo",
+      "Reconocerlo conscientemente y adaptarse",
+      "Evitar reflexionar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_106",
+    "topic": "Supervivencia",
+    "text": "¿Cuál es el efecto de no prevenir la pérdida de calor corporal?",
+    "options": [
+      "Somnolencia leve",
+      "Hipotermia severa, cianosis y fallo multiorgánico",
+      "Sed intensa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_107",
+    "topic": "Supervivencia",
+    "text": "¿Cómo se llama este código?",
+    "options": ["Código de supervivencia", "Código Morse", "Código aeronáutico"],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_108",
+    "topic": "Supervivencia",
+    "text": "¿Qué consideración debe tenerse al improvisar trampas en zonas selváticas?",
+    "options": [
+      "Usar materiales visibles",
+      "Instalarlas con conocimiento del hábitat y hábitos de la presa",
+      "No usar carnada"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_109",
+    "topic": "Supervivencia",
+    "text": "¿Qué forma de fuego se usa para hervir agua o cocinar?",
+    "options": [
+      "Fuego alto y abierto",
+      "Fuego con piedras y base estable",
+      "Hoguera en triángulo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "sup_110",
+    "topic": "Supervivencia",
+    "text": "¿Cuál es la prioridad absoluta en los primeros minutos tras un aterrizaje forzoso?",
+    "options": [
+      "Revisar estado de los ocupantes, apagar fuego y alejarse de la aeronave",
+      "Buscar comida y agua",
+      "Tomar fotos del incidente"
+    ],
+    "correctIndex": 0
+  },
+{
+  "id": "sup_111",
+  "topic": "Supervivencia",
+  "text": "¿Cuál es la función principal de la 'Linterna de la Balsa Salvavidas'?",
+  "options": [
+    "Iluminar el interior de la balsa para buscar objetos",
+    "Proveer señalización luminosa continua o intermitente para la localización",
+    "Ser utilizada como fuente de calor"
+  ],
+  "correctIndex": 1
+},
+{
+"id": "sup_112",
+"topic": "Supervivencia",
+"text": "¿Qué acción se debe realizar inmediatamente después de asegurar la balsa al avión durante un amerizaje?",
+"options": [
+"Comenzar a nadar lejos de la aeronave",
+"Alejar el cordón de amarre lo suficiente para evitar ser golpeado, pero sin soltarlo",
+"Inflar el toldo de la balsa"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_113",
+"topic": "Supervivencia",
+"text": "¿Cuál es el riesgo principal de beber agua de mar en una situación de supervivencia?",
+"options": [
+"Aumentar la deshidratación y dañar los riñones",
+"Provocar indigestión leve",
+"Aportar demasiadas calorías"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_114",
+"topic": "Supervivencia",
+"text": "¿Cómo se previene la ceguera por nieve ('oftalmia de la nieve') en entornos árticos?",
+"options": [
+"Frotarse los ojos con nieve caliente",
+"Usar gafas de sol o improvisar protección con tela negra/carbón",
+"Beber más agua caliente"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_115",
+"topic": "Supervivencia",
+"text": "La señal internacional de emergencia 'XX' en el Código Morse significa:",
+"options": ["Aterrizar aquí", "Emergencia médica grave", "Necesitamos ayuda"],
+"correctIndex": 1
+},
+{
+"id": "sup_116",
+"topic": "Supervivencia",
+"text": "¿Qué medida se debe tomar para proteger una herida abierta del ambiente en supervivencia?",
+"options": [
+"Dejarla al aire para que se seque",
+"Limpiarla y cubrirla para prevenir infecciones",
+"Aplicar barro húmedo"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_117",
+"topic": "Supervivencia",
+"text": "La 'posición fetal' o 'HELP' (Heat Escape Lessening Posture) en el agua se utiliza para:",
+"options": [
+"Facilitar la flotabilidad",
+"Disminuir la pérdida de calor corporal",
+"Llamar la atención del rescate"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_118",
+"topic": "Supervivencia",
+"text": "¿Qué peligro presenta el consumo de pescado de arrecife en zonas tropicales?",
+"options": [
+"Intoxicación por ciguatera",
+"Alergia leve a la proteína",
+"Exceso de vitaminas"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_119",
+"topic": "Supervivencia",
+"text": "Los espejos de señales ('heliógrafos') son más efectivos cuando:",
+"options": [
+"Se usan de noche",
+"El día está nublado",
+"El sol está alto y el cielo despejado"
+],
+"correctIndex": 2
+},
+{
+"id": "sup_120",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la ropa mojada por agua de mar inmediatamente después de subir a la balsa?",
+"options": [
+"Dejarla puesta para mantener el calor",
+"Quitarla y escurrirla si es posible, para reducir la pérdida de calor por evaporación",
+"Usarla como toldo"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_121",
+"topic": "Supervivencia",
+"text": "La 'regla de tres' para la supervivencia humana establece un límite de supervivencia sin refugio/protección de:",
+"options": ["3 días", "3 horas", "3 semanas"],
+"correctIndex": 1
+},
+{
+"id": "sup_122",
+"topic": "Supervivencia",
+"text": "¿Cuál es un método válido para desalinizar agua de mar en una balsa?",
+"options": [
+"Destilación solar utilizando equipo improvisado",
+"Hervirla durante una hora",
+"Filtrarla a través de un calcetín"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_123",
+"topic": "Supervivencia",
+"text": "¿Qué elemento es fundamental para iniciar una fogata por fricción?",
+"options": [
+"Madera húmeda",
+"Yesca (material muy seco y fácil de prender)",
+"Piedras grandes"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_124",
+"topic": "Supervivencia",
+"text": "En supervivencia en tierra, ¿cuál es la mejor hora para buscar provisiones de agua y comida?",
+"options": [
+"Mediodía, por la alta visibilidad",
+"Primeras horas de la mañana y últimas de la tarde",
+"Durante la noche cerrada"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_125",
+"topic": "Supervivencia",
+"text": "¿Cómo debe administrarse el agua en el primer día de supervivencia sin expectativas de reabastecimiento?",
+"options": [
+"Beber sin restricciones",
+"No beber nada, ya que el cuerpo aún tiene reservas",
+"Beber solo si la sed es insoportable"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_126",
+"topic": "Supervivencia",
+"text": "El riesgo de congelación aumenta drásticamente en un entorno frío debido a la combinación de:",
+"options": [
+"Humedad y viento",
+"Consumo de carbohidratos",
+"El uso de ropa oscura"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_127",
+"topic": "Supervivencia",
+"text": "¿Qué función cumple el color naranja brillante en las balsas salvavidas y los chalecos?",
+"options": [
+"Es un color calmante",
+"Maximizar la visibilidad y el contraste con el agua",
+"Proteger contra los rayos UV"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_128",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer ante una quemadura de primer grado?",
+"options": [
+"Aplicar mantequilla o aceite",
+"Sumergir el área en agua fría o aplicar compresas húmedas frías",
+"Pinchar las ampollas"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_129",
+"topic": "Supervivencia",
+"text": "El principal riesgo de un golpe de calor en el desierto es:",
+"options": [
+"Hambre leve",
+"Fallo en los sistemas orgánicos debido a la temperatura corporal elevada",
+"Hipotermia paradójica"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_130",
+"topic": "Supervivencia",
+"text": "¿Cuál es la 'Gran Decisión' sobre viajar o permanecer en el sitio del accidente?",
+"options": [
+"Permanecer en el sitio a la espera de rescate, al menos 24-48 horas, o hasta que se agoten los recursos",
+"Caminar inmediatamente en dirección al sol",
+"Caminar inmediatamente en dirección contraria a la aeronave"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_131",
+"topic": "Supervivencia",
+"text": "¿Qué significa el símbolo de 'X' hecho con tela o piedras en tierra?",
+"options": [
+"Avance en esta dirección",
+"No se puede aterrizar aquí",
+"Necesitamos asistencia médica"
+],
+"correctIndex": 2
+},
+{
+"id": "sup_132",
+"topic": "Supervivencia",
+"text": "En el mar, el principal depredador y riesgo real son los:",
+"options": ["Tiburones", "Pulpos gigantes", "Las grandes aves marinas"],
+"correctIndex": 0
+},
+{
+"id": "sup_133",
+"topic": "Supervivencia",
+"text": "La secuencia de encendido de la radiobaliza (ELT) debe ser:",
+"options": [
+"Inmediatamente después del impacto, si es posible, y una vez seguro",
+"Solo cuando veamos un avión de rescate",
+"Una hora antes del atardecer"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_134",
+"topic": "Supervivencia",
+"text": "¿Qué método se recomienda para orientarse de noche en el Hemisferio Norte?",
+"options": ["La Constelación de Orión", "La Estrella Polar (Polaris)", "La Luna llena"],
+"correctIndex": 1
+},
+{
+"id": "sup_135",
+"topic": "Supervivencia",
+"text": "¿Cómo debe purificarse el agua turbia o con sedimentos?",
+"options": [
+"Hervirla sin filtrar",
+"Dejarla reposar y filtrarla antes de hervir/tratar químicamente",
+"Solo filtrarla con un trapo"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_136",
+"topic": "Supervivencia",
+"text": "La regla básica de seguridad alimentaria en la selva para la carne es:",
+"options": [
+"Comerla cruda si está fresca",
+"Siempre cocinarla completamente para evitar parásitos y bacterias",
+"Solo secarla al sol"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_137",
+"topic": "Supervivencia",
+"text": "El objetivo del racionamiento de comida es:",
+"options": [
+"Perder peso corporal",
+"Mantener la moral alta consumiendo todo rápido",
+"Extender la energía y la moral del grupo a largo plazo"
+],
+"correctIndex": 2
+},
+{
+"id": "sup_138",
+"topic": "Supervivencia",
+"text": "¿Cómo se inmoviliza correctamente una fractura en una extremidad?",
+"options": [
+"Utilizando un vendaje elástico ajustado directamente sobre la fractura",
+"Entablillando el hueso roto e inmovilizando las articulaciones superior e inferior",
+"Aplicando un torniquete en la zona"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_139",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar hacer si se sospecha de una lesión interna grave?",
+"options": [
+"Mantener a la víctima en reposo",
+"Darle comida y bebida para reanimarla",
+"Controlar sus signos vitales"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_140",
+"topic": "Supervivencia",
+"text": "La actitud mental del TCP en supervivencia se basa en:",
+"options": [
+"El pánico y el aislamiento",
+"Liderazgo, organización y mantener la esperanza del grupo",
+"La auto-preservación sobre todas las cosas"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_141",
+"topic": "Supervivencia",
+"text": "¿Cuál es la principal desventaja de viajar de noche en el desierto para buscar ayuda?",
+"options": [
+"El calor sofocante",
+"Riesgo de caídas, desorientación y encontrarse con fauna nocturna",
+"No hay desventajas"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_142",
+"topic": "Supervivencia",
+"text": "¿Por qué es importante la limpieza dental en supervivencia?",
+"options": [
+"Solo por estética",
+"Para prevenir infecciones dentales que podrían complicar la situación",
+"Para facilitar el consumo de alimentos duros"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_143",
+"topic": "Supervivencia",
+"text": "¿Qué indica el movimiento de alas (alabeo) de un avión de rescate?",
+"options": [
+"Que no nos han visto",
+"Mensaje recibido y entendido",
+"Necesidad de aterrizar"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_144",
+"topic": "Supervivencia",
+"text": "¿Qué peligro presenta un refugio sin ventilación en un ambiente frío?",
+"options": [
+"Pérdida rápida de calor",
+"Intoxicación por monóxido de carbono si hay fuego",
+"Atracción de animales"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_145",
+"topic": "Supervivencia",
+"text": "¿Qué se utiliza en el mar para aumentar la visibilidad desde el aire de un náufrago?",
+"options": [
+"El espejo de señales o el tinte marcador (sea-marker)",
+"Un paraguas oscuro",
+"Una piedra grande"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_146",
+"topic": "Supervivencia",
+"text": "La balsa salvavidas se debe alejar de los restos de la aeronave para:",
+"options": [
+"Buscar tierra inmediatamente",
+"Evitar el peligro de hundimiento o explosión de los restos",
+"Navegar más rápido"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_147",
+"topic": "Supervivencia",
+"text": "¿Cuál es un método efectivo para encontrar agua en zonas rocosas o desérticas?",
+"options": [
+"Buscar agua en el fondo de los cañones secos (Wadis)",
+"Cavar al azar en la arena",
+"Esperar a la lluvia"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_148",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar hacer con los pies congelados?",
+"options": [
+"Caminarlos o frotarlos",
+"Mantenerlos elevados",
+"Mantenerlos secos y cubiertos"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_149",
+"topic": "Supervivencia",
+"text": "¿Cuál es el propósito del 'kit de pesca' incluido en el equipo de supervivencia de la balsa?",
+"options": [
+"Solo para entretenimiento",
+"Proveer alimento si la supervivencia se prolonga",
+"Usarse como línea de amarre"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_150",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacer un TCP ante un pasajero que entra en pánico extremo?",
+"options": [
+"Ignorarlo y centrarse en otros",
+"Aislarlo y tratar de calmarlo con firmeza y calma",
+"Pedirle que grite más fuerte"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_151",
+"topic": "Supervivencia",
+"text": "¿Qué riesgo tiene el consumo de bayas o frutas desconocidas en la selva?",
+"options": [
+"Producir somnolencia",
+"Ser venenosas o tóxicas",
+"Tener demasiadas semillas"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_152",
+"topic": "Supervivencia",
+"text": "¿Por qué es importante cubrir la cabeza en entornos fríos?",
+"options": [
+"Para evitar quemaduras solares",
+"Porque el cuerpo pierde una gran cantidad de calor a través de la cabeza",
+"Para mantener la moral alta"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_153",
+"topic": "Supervivencia",
+"text": "¿Cómo se define el 'triage' en el contexto de primeros auxilios en supervivencia?",
+"options": [
+"El acto de dar comida a los heridos",
+"Clasificar a los heridos según la gravedad para priorizar la atención",
+"Buscar el equipo médico"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_154",
+"topic": "Supervivencia",
+"text": "¿Qué indica el símbolo de flecha grande en el suelo en código tierra-aire?",
+"options": ["Vamos en esta dirección", "Necesitamos comida", "El lugar es peligroso"],
+"correctIndex": 0
+},
+{
+"id": "sup_155",
+"topic": "Supervivencia",
+"text": "¿Por qué es crucial no beber alcohol en climas fríos para 'calentarse'?",
+"options": [
+"Aumenta la sed",
+"Provoca vasodilatación y pérdida rápida de calor corporal",
+"Aumenta el apetito"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_156",
+"topic": "Supervivencia",
+"text": "La balsa salvavidas debe ser amarrada en el mar a:",
+"options": [
+"El avión o un ancla de mar (si la hay) y otras balsas",
+"Un nadador fuerte",
+"Un trozo de madera flotante"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_157",
+"topic": "Supervivencia",
+"text": "¿Cuál es la principal función del toldo de la balsa en el mar?",
+"options": [
+"Recoger agua de lluvia y proteger del sol/frío",
+"Solo proteger del sol",
+"Proveer ventilación"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_158",
+"topic": "Supervivencia",
+"text": "Si se está en el desierto y se encuentra un animal muerto, ¿se debe comer su carne?",
+"options": [
+"Sí, si tiene buen aspecto",
+"No, por el alto riesgo de intoxicación y enfermedad",
+"Solo si se cocina mucho"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_159",
+"topic": "Supervivencia",
+"text": "La radiobaliza ELT (Emergency Locator Transmitter) emite una señal de emergencia a través de:",
+"options": [
+"Un cable de fibra óptica",
+"Sistemas satelitales (Cospas-Sarsat)",
+"Señales de humo"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_160",
+"topic": "Supervivencia",
+"text": "¿Por qué el fuego debe ser de tres puntos en formación triangular en el señalamiento nocturno?",
+"options": [
+"Para ahorrar leña",
+"Es una señal internacional de auxilio (distintiva desde el aire)",
+"Para iluminar el área"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_161",
+"topic": "Supervivencia",
+"text": "¿Cuál es el riesgo de comer nieve o hielo en grandes cantidades?",
+"options": [
+"Aumento de la temperatura corporal",
+"Disminución peligrosa de la temperatura central (hipotermia)",
+"Alergia"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_162",
+"topic": "Supervivencia",
+"text": "¿Qué medida se debe tomar ante el riesgo de picaduras o mordeduras de serpientes?",
+"options": [
+"Caminar descalzo para sentir la tierra",
+"Usar calzado cerrado y revisar la ropa/sacos antes de usarlos",
+"Correr si se ve una"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_163",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con una herida con objeto clavado (por ejemplo, una rama)?",
+"options": [
+"Retirarlo inmediatamente para evitar infección",
+"No retirarlo, inmovilizarlo y buscar ayuda médica",
+"Intentar extraerlo con fuerza"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_164",
+"topic": "Supervivencia",
+"text": "¿Cómo se debe almacenar el agua potable en una balsa salvavidas?",
+"options": [
+"En el mar atada a la balsa",
+"En recipientes cerrados y a la sombra",
+"En el fondo de la balsa sin tapar"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_165",
+"topic": "Supervivencia",
+"text": "¿Qué factor psicológico es crucial para la supervivencia a largo plazo?",
+"options": [
+"La negación de la realidad",
+"Una fuerte voluntad de vivir y esperanza",
+"La pasividad"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_166",
+"topic": "Supervivencia",
+"text": "¿Cuál es la forma más efectiva de usar el tinte marcador ('sea-marker') de la balsa?",
+"options": [
+"Arrojarlo todo inmediatamente al agua",
+"Usarlo solo cuando haya una aeronave de rescate cerca para maximizar su efecto",
+"Usarlo solo de noche"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_167",
+"topic": "Supervivencia",
+"text": "¿Qué tipo de madera es ideal para hacer fuego por fricción?",
+"options": [
+"Madera dura y mojada",
+"Madera blanda y muy seca",
+"Madera recién cortada"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_168",
+"topic": "Supervivencia",
+"text": "¿Qué característica define una 'quemadura de tercer grado'?",
+"options": [
+"Enrojecimiento de la piel",
+"Carbonización y destrucción de todas las capas de piel y tejidos subyacentes",
+"Solo ampollas grandes"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_169",
+"topic": "Supervivencia",
+"text": "¿Cuál es un buen material para improvisar un refugio en el desierto para el día?",
+"options": [
+"Una cueva húmeda",
+"Una estructura que cree sombra y permita la circulación de aire",
+"Una hoguera grande"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_170",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer para maximizar la visibilidad de una balsa en el mar en la noche?",
+"options": [
+"Encender el fuego en la balsa",
+"Usar la linterna y bengalas de forma intermitente cuando se detecten sonidos de rescate",
+"Remar sin parar"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_171",
+"topic": "Supervivencia",
+"text": "¿Por qué es importante el ejercicio físico suave en la balsa (movimiento)?",
+"options": [
+"Para gastar energía",
+"Para mejorar la circulación y evitar la trombosis",
+"Para calentar el agua de la balsa"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_172",
+"topic": "Supervivencia",
+"text": "¿Cuál es la principal preocupación al consumir carne cruda de animales marinos?",
+"options": [
+"El sabor",
+"Parásitos y bacterias",
+"El nivel de sal"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_173",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar estrictamente en una fractura expuesta?",
+"options": [
+"Cubrir la herida",
+"Intentar introducir el hueso en la herida",
+"Inmovilizar la zona"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_174",
+"topic": "Supervivencia",
+"text": "¿Cuál es un método de orientación diurno sin sol en el Hemisferio Norte?",
+"options": [
+"Observar el musgo que crece en el lado norte de los árboles",
+"Usar el método de la sombra de un palo",
+"Contar las nubes"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_175",
+"topic": "Supervivencia",
+"text": "¿Qué peligro ambiental es común en la selva además de la fauna?",
+"options": [
+"El viento constante",
+"Insectos portadores de enfermedades y hongos",
+"El exceso de luz solar"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_176",
+"topic": "Supervivencia",
+"text": "La regla de comestibilidad de un vegetal desconocido exige probar una porción pequeña y esperar por lo menos:",
+"options": ["5 minutos", "8 horas", "24 horas"],
+"correctIndex": 1
+},
+{
+"id": "sup_177",
+"topic": "Supervivencia",
+"text": "¿Qué es la 'hipotermia'?",
+"options": [
+"Temperatura corporal anormalmente alta",
+"Temperatura corporal anormalmente baja",
+"Fiebre alta"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_178",
+"topic": "Supervivencia",
+"text": "La señalización de auxilio en el suelo debe tener un tamaño mínimo de:",
+"options": [
+"1 metro de longitud",
+"2.5 metros de longitud",
+"10 metros de longitud"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_179",
+"topic": "Supervivencia",
+"text": "¿Cuál es la función del 'paddler' (o 'flotador de dirección') en una balsa?",
+"options": [
+"Ser un asiento cómodo",
+"Ayudar a la propulsión y dirección de la balsa",
+"Ser usado como ancla"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_180",
+"topic": "Supervivencia",
+"text": "¿Cómo se debe actuar ante una persona que muestra signos de shock hipovolémico?",
+"options": [
+"Darle un baño caliente",
+"Mantenerla abrigada, acostada y con las piernas ligeramente elevadas (si no hay lesiones en cabeza/torso)",
+"Hacerla caminar"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_181",
+"topic": "Supervivencia",
+"text": "¿Qué peligro se corre al no purificar el agua de un río o lago?",
+"options": [
+"Ingestión de parásitos y bacterias (Gastroenteritis, Giardia, etc.)",
+"Que el agua se evapore más rápido",
+"Que se enfríe demasiado"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_182",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar consumir si no hay agua, aparte de comida salada?",
+"options": [
+"Alcohol y alimentos diuréticos (ej. mucha cafeína)",
+"Carbohidratos complejos",
+"Frutas y verduras"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_183",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal factor de supervivencia en el desierto durante el día?",
+"options": [
+"Buscar animales para cazar",
+"Mantenerse en la sombra y conservar los líquidos al máximo",
+"Caminar sin descanso"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_184",
+"topic": "Supervivencia",
+"text": "¿Qué indica el símbolo de 'II' (dos líneas verticales) en código tierra-aire?",
+"options": ["Estamos bien", "Necesitamos combustible", "Lugar para aterrizar"],
+"correctIndex": 0
+},
+{
+"id": "sup_185",
+"topic": "Supervivencia",
+"text": "Para señalar una hemorragia capilar, ¿qué se debe hacer?",
+"options": [
+"Torniquete inmediato",
+"Compresión directa sobre la herida",
+"Dejar que sangre para limpiarse"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_186",
+"topic": "Supervivencia",
+"text": "Si se tienen recursos limitados, ¿cuál es la prioridad en el Pentágono de Supervivencia tras los Primeros Auxilios?",
+"options": ["Señalamiento y Refugio", "Alimento y Agua", "Dormir"],
+"correctIndex": 0
+},
+{
+"id": "sup_187",
+"topic": "Supervivencia",
+"text": "¿Qué peligro ambiental es único de las zonas árticas o polares?",
+"options": [
+"Depredadores marinos",
+"Hielo azul (que no se debe fundir)",
+"La deshidratación por calor"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_188",
+"topic": "Supervivencia",
+"text": "El mejor momento para encender una bengala diurna es cuando:",
+"options": [
+"Se escuche un ruido en el horizonte",
+"Se tiene confirmación visual de una aeronave cerca (minimizando el desperdicio)",
+"Cuando está lloviendo"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_189",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la ropa en caso de inmersión en agua fría?",
+"options": [
+"Mantener la ropa puesta al salir, ya que sigue proporcionando aislamiento",
+"Quitarla inmediatamente",
+"Mojarla más con agua tibia"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_190",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar comer si se está en el desierto para conservar agua?",
+"options": [
+"Frutas y verduras con alto contenido de agua",
+"Alimentos muy salados o secos",
+"Carne de animales"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_191",
+"topic": "Supervivencia",
+"text": "¿Qué es la 'regla del 10' en cuanto a las quemaduras?",
+"options": [
+"Solo se puede quemar el 10% del cuerpo",
+"El riesgo de shock aumenta cuando más del 10% de la superficie corporal está quemada",
+"Las quemaduras deben durar 10 minutos"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_192",
+"topic": "Supervivencia",
+"text": "¿Qué elemento del kit de supervivencia se utiliza para hacer una señal satelital continua?",
+"options": ["El silbato", "La radiobaliza (ELT)", "El espejo de señales"],
+"correctIndex": 1
+},
+{
+"id": "sup_193",
+"topic": "Supervivencia",
+"text": "¿Qué es el 'túnel del viento' en la construcción de un refugio?",
+"options": [
+"Un lugar donde se acumula el aire caliente",
+"Una abertura que permite la ventilación y evita la acumulación de humo/condensación",
+"Una trampa para animales"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_194",
+"topic": "Supervivencia",
+"text": "¿Cuál es la principal fuente de contaminación del agua en la selva?",
+"options": [
+"El sol",
+"Microorganismos, heces de animales y desechos orgánicos",
+"Las hojas caídas"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_195",
+"topic": "Supervivencia",
+"text": "¿Cómo se debe almacenar el alimento cazado o recolectado?",
+"options": [
+"Dejarlo al aire libre",
+"Cocinado y cubierto/colgado para evitar que los roedores/insectos lo consuman",
+"Enterrarlo en la tierra"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_196",
+"topic": "Supervivencia",
+"text": "¿Qué método es el más seguro para obtener agua potable en la selva?",
+"options": [
+"Beber de enredaderas",
+"Recolección de agua de lluvia o condensación, seguida de purificación",
+"Beber de charcos profundos"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_197",
+"topic": "Supervivencia",
+"text": "¿Qué elemento del kit de la balsa ayuda a retener el calor corporal en el agua?",
+"options": ["El espejo de señales", "El toldo y el aislante del suelo de la balsa", "La bengala"],
+"correctIndex": 1
+},
+{
+"id": "sup_198",
+"topic": "Supervivencia",
+"text": "¿Qué tipo de vendaje se utiliza para una herida en la cabeza o la frente?",
+"options": ["Cabestrillo", "Capelina o montera", "Vendaje en espiga"],
+"correctIndex": 1
+},
+{
+"id": "sup_199",
+"topic": "Supervivencia",
+"text": "¿Qué hacer con la ropa mojada por lluvia/nieve en un entorno frío?",
+"options": [
+"Mantenerla para el calor",
+"Quitarla y escurrirla, y reemplazarla por ropa seca si es posible",
+"Calentarla con el cuerpo"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_200",
+"topic": "Supervivencia",
+"text": "¿Qué significa el código 'LL' en tierra-aire?",
+"options": ["Comida y agua", "Aterrizar aquí", "Todo bien"],
+"correctIndex": 2
+},
+{
+"id": "sup_201",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar hacer si hay un incendio en la cabina después del impacto?",
+"options": [
+"Alejarse de la zona",
+"Activar los extintores",
+"Quedarse para recoger pertenencias personales"
+],
+"correctIndex": 2
+},
+{
+"id": "sup_202",
+"topic": "Supervivencia",
+"text": "¿Cuál es la principal diferencia entre una quemadura de segundo y tercer grado?",
+"options": [
+"Solo el tamaño de la ampolla",
+"El tercer grado destruye las capas profundas de la piel y tejidos, el segundo solo llega a la dermis",
+"El color del enrojecimiento"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_203",
+"topic": "Supervivencia",
+"text": "En el desierto, ¿cuál es el refugio más seguro contra el sol y el viento?",
+"options": [
+"Enterrarse en la arena completamente",
+"Un refugio excavado o en la sombra de una roca, con techo improvisado",
+"Un árbol alto y aislado"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_204",
+"topic": "Supervivencia",
+"text": "¿Por qué no se debe pescar justo al lado de la balsa?",
+"options": [
+"Para evitar atraer depredadores (tiburones)",
+"Para no asustar a los peces",
+"Para ahorrar cebo"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_205",
+"topic": "Supervivencia",
+"text": "¿Qué es la 'regla del 9' en la evaluación de quemaduras en adultos?",
+"options": [
+"Un método para estimar el porcentaje de la superficie corporal quemada",
+"Una técnica de enfriamiento",
+"La temperatura límite"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_206",
+"topic": "Supervivencia",
+"text": "¿Cuál es la posición de espera recomendada para náufragos individuales en el agua?",
+"options": [
+"Boca abajo con las manos sobre la cabeza",
+"Posición HELP (fetal) con chaleco puesto",
+"Nadando continuamente"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_207",
+"topic": "Supervivencia",
+"text": "La señal de auxilio luminosa con linterna de noche es:",
+"options": ["5 destellos rápidos y 1 lento", "SOS (3 cortos, 3 largos, 3 cortos)", "1 destello largo cada minuto"],
+"correctIndex": 1
+},
+{
+"id": "sup_208",
+"topic": "Supervivencia",
+"text": "¿Qué es un 'parche' en el kit de supervivencia de la balsa?",
+"options": [
+"Un vendaje para heridas",
+"Material para reparar pinchazos o rasgaduras en el tejido de la balsa",
+"Una ración de comida"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_209",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal peligro de la lluvia en un entorno frío?",
+"options": [
+"Mojar el refugio",
+"Aumentar la pérdida de calor corporal y el riesgo de hipotermia",
+"Hacer que el suelo sea resbaladizo"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_210",
+"topic": "Supervivencia",
+"text": "¿Qué se debe buscar en un lugar para hacer fuego en la selva?",
+"options": [
+"Un lugar cubierto de hojarasca",
+"Un lugar seco, protegido del viento y con leña cerca",
+"Un lugar cerca del agua"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_211",
+"topic": "Supervivencia",
+"text": "¿Qué elemento se utiliza para proteger los ojos de la ceguera por nieve de forma improvisada?",
+"options": [
+"Una bufanda de lana gruesa",
+"Un trozo de corteza oscura con dos ranuras finas",
+"Un trozo de cristal de la aeronave"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_212",
+"topic": "Supervivencia",
+"text": "¿Cómo se debe tratar a una víctima de congelación leve (primer grado)?",
+"options": [
+"Frotar la zona con nieve",
+"Calentar la zona suavemente con calor corporal (ej. manos) o agua tibia",
+"Sumergirla en agua hirviendo"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_213",
+"topic": "Supervivencia",
+"text": "¿Qué indica el movimiento de círculos con la mano extendida de un náufrago?",
+"options": ["Aterrizar aquí", "No puedo nadar", "Todo bien, necesitamos ayuda"],
+"correctIndex": 2
+},
+{
+"id": "sup_214",
+"topic": "Supervivencia",
+"text": "Los factores de supervivencia a priorizar por orden de gravedad son (según el Pentágono):",
+"options": [
+"Agua, Refugio, Fuego, Alimento",
+"Señalamiento, Agua, Alimento, Refugio",
+"Primeros Auxilios, Señalamiento, Refugio, Agua, Alimento"
+],
+"correctIndex": 2
+},
+{
+"id": "sup_215",
+"topic": "Supervivencia",
+"text": "¿Cuál es la función del 'piso inflable' de algunas balsas salvavidas?",
+"options": [
+"Hacer la balsa más espaciosa",
+"Proveer aislamiento térmico del agua fría",
+"Ser un compartimento de almacenamiento"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_216",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar en la búsqueda de comida en la selva para maximizar el retorno energético?",
+"options": [
+"Cazar animales grandes y rápidos",
+"Buscar insectos y plantas comestibles fáciles de atrapar o recolectar",
+"Cazar aves pequeñas"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_217",
+"topic": "Supervivencia",
+"text": "Si un herido en shock está consciente, ¿qué se le puede dar de beber?",
+"options": [
+"Café caliente",
+"Solución salina (un poco de agua con sal)",
+"Alcohol"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_218",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacer un TCP al ver un tiburón cerca de la balsa?",
+"options": [
+"Patear el agua para asustarlo",
+"Mantener la calma, no arrojar desperdicios al mar y evitar movimientos bruscos",
+"Gritar en voz alta"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_219",
+"topic": "Supervivencia",
+"text": "¿Qué es la 'orientación por reloj' y el sol?",
+"options": [
+"Un método de orientación diurno que utiliza la sombra del reloj",
+"Un método de orientación nocturno",
+"Un tipo de brújula improvisada"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_220",
+"topic": "Supervivencia",
+"text": "El color del humo ideal para la señalización diurna en clima despejado es:",
+"options": ["Gris claro", "Negro (espeso) o blanco (si no hay sol)", "Transparente"],
+"correctIndex": 1
+},
+{
+"id": "sup_221",
+"topic": "Supervivencia",
+"text": "¿Cuál es la prioridad al encontrar una fractura de columna vertebral?",
+"options": [
+"Hacer que camine un poco",
+"Mover al herido inmediatamente a un lugar cómodo",
+"Inmovilizar la columna y no mover a menos que sea indispensable y con ayuda"
+],
+"correctIndex": 2
+},
+{
+"id": "sup_222",
+"topic": "Supervivencia",
+"text": "¿Cómo se improvisa una 'brújula' si no hay una disponible?",
+"options": [
+"Con una aguja imantada sobre una hoja en agua",
+"Usando un zapato viejo",
+"Con un trozo de vidrio"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_223",
+"topic": "Supervivencia",
+"text": "¿Cuál es un buen método para obtener agua en la selva además de la lluvia?",
+"options": [
+"Hervir barro",
+"Destilación por transpiración de plantas (bolsa plástica en rama)",
+"Beber savia de árboles al azar"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_224",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al tratar una herida abierta en supervivencia?",
+"options": [
+"Lavar la herida",
+"Aplicar alcohol o sustancias irritantes fuertes",
+"Cubrir la herida"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_225",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal riesgo de la niebla en la supervivencia marítima?",
+"options": [
+"Atracción de animales",
+"Reducción drástica de la visibilidad para el rescate",
+"Aumento de la temperatura"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_226",
+"topic": "Supervivencia",
+"text": "¿Qué indica el símbolo de 'F' en código tierra-aire?",
+"options": ["Necesitamos comida y agua", "Necesitamos combustible", "Necesitamos ayuda médica"],
+"correctIndex": 0
+},
+{
+"id": "sup_227",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con los recipientes de agua de la balsa una vez vacíos?",
+"options": [
+"Arrojarlos al mar",
+"Guardarlos para recolectar agua de lluvia o rocío",
+"Quemarlos para señalizar"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_228",
+"topic": "Supervivencia",
+"text": "La prioridad de evacuación de la aeronave es:",
+"options": [
+"TCPs, Pilotos, Pasajeros",
+"Pasajeros ilesos, Pasajeros heridos, TCPs, Tripulación de Cabina",
+"Pasajeros (comenzando por los sentados en la parte trasera)"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_229",
+"topic": "Supervivencia",
+"text": "¿Cómo se debe actuar ante un herido en shock que se desmaya?",
+"options": [
+"Dejarlo en posición supina (boca arriba) y verificar la respiración",
+"Colocarlo en posición de recuperación (de costado) y verificar la respiración",
+"Hacerlo inhalar alcohol"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_230",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al buscar refugio en la montaña?",
+"options": [
+"Zonas con grandes rocas y cuevas",
+"Zonas debajo de salientes de nieve o riscos con riesgo de avalancha/caída de rocas",
+"Zonas planas"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_231",
+"topic": "Supervivencia",
+"text": "La 'ley de la superposición' en la ropa para el frío consiste en:",
+"options": [
+"Usar solo una capa muy gruesa de ropa",
+"Usar varias capas delgadas de ropa para aislar y retener el calor",
+"Usar ropa mojada"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_232",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la ropa en el desierto para evitar la deshidratación?",
+"options": [
+"Quitarse toda la ropa para que el sudor se evapore más rápido",
+"Usar ropa holgada y de colores claros para cubrir toda la piel",
+"Usar ropa de lana oscura"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_233",
+"topic": "Supervivencia",
+"text": "¿Qué precaución se debe tener al consumir cactus o suculentas en el desierto?",
+"options": [
+"Comer las más grandes",
+"Evitar el jugo lechoso de algunas variedades que puede ser tóxico",
+"Comer la piel exterior"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_234",
+"topic": "Supervivencia",
+"text": "¿Cómo se identifica a un náufrago en el agua con chaleco salvavidas?",
+"options": [
+"Por su color verde oscuro",
+"Por su color naranja o amarillo brillante y la luz/silbato adjunto",
+"Por su gorro de lana"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_235",
+"topic": "Supervivencia",
+"text": "¿Qué es la 'autodisciplina' en la supervivencia?",
+"options": [
+"La capacidad de ignorar las necesidades básicas",
+"La capacidad de controlar las emociones, mantener la organización y seguir un plan",
+"Solo la capacidad de caminar lejos"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_236",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la linterna de la balsa para el señalamiento?",
+"options": [
+"Mantenerla encendida todo el tiempo",
+"Usarla para enviar SOS cuando se vea o escuche una aeronave/barco",
+"Usarla solo para leer"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_237",
+"topic": "Supervivencia",
+"text": "¿Qué indica el símbolo 'N' en código tierra-aire?",
+"options": ["Sí, afirmativo", "No, negativo", "Estamos heridos"],
+"correctIndex": 1
+},
+{
+"id": "sup_238",
+"topic": "Supervivencia",
+"text": "¿Cuál es la principal fuente de pérdida de agua en el desierto?",
+"options": [
+"La micción constante",
+"La transpiración y la respiración (evaporación)",
+"El consumo de alimentos"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_239",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con los restos del avión después del impacto?",
+"options": [
+"Alejarse lo más posible y no volver",
+"Permanecer cerca como refugio, fuente de materiales y punto de referencia para el rescate",
+"Quemarlos para señalar"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_240",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con el fuego una vez que se tiene la señal de rescate?",
+"options": [
+"Apagarlo inmediatamente",
+"Mantenerlo encendido y añadir humo para guiar al equipo",
+"Hacerlo más grande"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_241",
+"topic": "Supervivencia",
+"text": "¿Cuál es la función del 'palo de agarre' o 'remador' en la balsa?",
+"options": [
+"Como arma",
+"Ayudar a estabilizar y mover la balsa",
+"Colgar la ropa"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_242",
+"topic": "Supervivencia",
+"text": "La regla de comestibilidad de un animal desconocido se basa en:",
+"options": [
+"Si tiene escamas o pelo",
+"Si tiene un color brillante o un olor fuerte, lo que indica precaución",
+"Si es pequeño o grande"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_243",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con una ampolla grande en los pies?",
+"options": [
+"Pincharla con un objeto sucio",
+"No pincharla; si es necesario, drenarla asépticamente y cubrirla sin quitar la piel",
+"Quitar la piel muerta"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_244",
+"topic": "Supervivencia",
+"text": "¿Qué se debe tener en cuenta al construir una balsa de nieve (iglú)?",
+"options": [
+"Hacer el techo muy alto",
+"Asegurar un agujero de ventilación en la parte superior",
+"Usar nieve recién caída"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_245",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacer un TCP al ver el inicio de una tormenta fuerte?",
+"options": [
+"Correr a un lugar abierto",
+"Buscar un refugio seguro (cueva, vehículo, balsa) y asegurar los objetos sueltos",
+"Gritar en dirección a la tormenta"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_246",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal peligro del fuego en la selva?",
+"options": [
+"Que no arda",
+"El fuego incontrolado debido a la densidad de la vegetación",
+"El humo blanco"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_247",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al tratar a un compañero con hipotermia severa?",
+"options": [
+"Quitarle la ropa mojada",
+"Darle masajes bruscos o sumergirlo en agua muy caliente",
+"Darle bebidas calientes"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_248",
+"topic": "Supervivencia",
+"text": "¿Cuál es la principal fuente de contaminación del agua en el desierto?",
+"options": [
+"El sol",
+"La arena y las sales minerales (alta salinidad)",
+"El rocío matinal"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_249",
+"topic": "Supervivencia",
+"text": "¿Cuál es el riesgo de consumir grandes cantidades de proteínas (carne) sin suficiente agua?",
+"options": [
+"Aumento del apetito",
+"Aumenta la necesidad de agua para metabolizar la proteína, acelerando la deshidratación",
+"Disminución de la temperatura corporal"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_250",
+"topic": "Supervivencia",
+"text": "¿Qué significa el código 'Y' en tierra-aire?",
+"options": ["Sí, afirmativo", "Necesitamos ayuda médica", "Necesitamos combustible"],
+"correctIndex": 0
+},
+{
+"id": "sup_251",
+"topic": "Supervivencia",
+"text": "¿Qué elemento del equipo de supervivencia ayuda a controlar la dirección de la balsa?",
+"options": ["El ancla de mar (o ancla flotante)", "El toldo de la balsa", "La linterna"],
+"correctIndex": 0
+},
+{
+"id": "sup_252",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con las balsas salvavidas una vez agrupadas?",
+"options": [
+"Abrir las raciones de comida inmediatamente",
+"Nombrar un líder, distribuir roles y asegurar la estabilidad",
+"Remar en dirección al sol"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_253",
+"topic": "Supervivencia",
+"text": "Si un miembro del grupo tiene diarrea grave, ¿cuál es la prioridad?",
+"options": [
+"Aislarlo completamente",
+"Rehidratación inmediata y control de la deshidratación",
+"Darle alimentos sólidos y secos"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_254",
+"topic": "Supervivencia",
+"text": "¿Cuál es la diferencia entre una 'radiobaliza' (ELT) y una 'radio de emergencia'?",
+"options": [
+"La ELT es solo receptora",
+"La ELT es automática/satelital y la radio es manual/bidireccional para comunicación",
+"No hay diferencia"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_255",
+"topic": "Supervivencia",
+"text": "¿Qué tipo de fuego es mejor para hacer humo en la señalización diurna?",
+"options": [
+"Fuego que quema leña seca",
+"Fuego que quema materiales húmedos (hojas, caucho, etc.)",
+"Fuego que solo usa papel"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_256",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer ante una hemorragia arterial grave?",
+"options": [
+"Torniquete o compresión directa fuerte",
+"Lavar la herida y esperar",
+"Aplicar frío solamente"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_257",
+"topic": "Supervivencia",
+"text": "La principal fuente de calor nocturna en el desierto es:",
+"options": [
+"El sol residual de las rocas",
+"El fuego o el entierro en la arena",
+"El ejercicio físico"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_258",
+"topic": "Supervivencia",
+"text": "¿Qué significa el código 'W' en tierra-aire?",
+"options": ["Necesitamos asistencia médica", "Necesitamos un médico", "Necesitamos combustible"],
+"correctIndex": 1
+},
+{
+"id": "sup_259",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal peligro de la niebla en la supervivencia terrestre?",
+"options": [
+"Ceguera por nieve",
+"Desorientación y aumento de la humedad/frío",
+"Picaduras de insectos"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_260",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la orina en una balsa?",
+"options": [
+"Beberla (está esterilizada)",
+"Recogerla en recipientes para posible destilación (último recurso) o desecharla en un punto fijo lejos de las balsas",
+"Arrojarla al mar inmediatamente"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_261",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacer un TCP al notar la presencia de alquitrán o petróleo en el agua?",
+"options": [
+"Intentar limpiarlo",
+"Alejar la balsa y evitar el contacto con la piel",
+"Ignorarlo"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_262",
+"topic": "Supervivencia",
+"text": "¿Cuál es la función del 'palo de la radiobaliza' o 'antena'?",
+"options": [
+"Ser un arma",
+"Ayudar a la emisión de la señal de socorro",
+"Medir la profundidad"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_263",
+"topic": "Supervivencia",
+"text": "¿Cómo se improvisa una 'cuerda' en la selva?",
+"options": [
+"Cortando tiras de tela de la aeronave o utilizando lianas/fibras de plantas resistentes",
+"Usando ramas de árbol",
+"Solo con cabello"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_264",
+"topic": "Supervivencia",
+"text": "¿Cuál es un buen sustituto para la sal en supervivencia?",
+"options": [
+"Las hojas de los árboles",
+"Ceniza de madera dura o ciertas plantas marinas secas (con cautela)",
+"El jugo de limón"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_265",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacerse con la ración de comida si se espera el rescate pronto?",
+"options": [
+"Comerla toda inmediatamente",
+"Guardarla para si el rescate se prolonga, o racionarla muy estrictamente",
+"Arrojarla al mar"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_266",
+"topic": "Supervivencia",
+"text": "¿Qué método se utiliza para la rehidratación en caso de deshidratación leve?",
+"options": [
+"Tomar agua salada",
+"Sorbos pequeños y constantes de agua purificada o solución salina diluida",
+"Beber un litro de golpe"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_267",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al tratar una picadura de araña o insecto venenoso?",
+"options": [
+"Aplicar hielo o frío suave",
+"Hacer incisiones y succionar el veneno",
+"Inmovilizar la extremidad"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_268",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal riesgo de la búsqueda de comida sin conocimientos de botánica?",
+"options": [
+"Perder tiempo",
+"Envenenamiento letal por plantas tóxicas",
+"Solo encontrar comida aburrida"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_269",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la ropa en un entorno caluroso (selva/desierto)?",
+"options": [
+"Mantenerla seca, suelta y de colores claros para cubrir la piel",
+"Usar ropa de cuero",
+"Usar ropa ajustada de color negro"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_270",
+"topic": "Supervivencia",
+"text": "¿Cómo se improvisa un 'botiquín' en supervivencia?",
+"options": [
+"Solo con hojas de árbol",
+"Utilizando restos del botiquín del avión, elementos esterilizados, y hierbas medicinales conocidas",
+"Con piedras y barro"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_271",
+"topic": "Supervivencia",
+"text": "¿Cuál es un factor clave en la prevención de la deshidratación en el desierto?",
+"options": [
+"El consumo de arena",
+"La reducción al mínimo de la actividad física durante las horas de sol intenso",
+"El consumo de alcohol"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_272",
+"topic": "Supervivencia",
+"text": "¿Qué significa el código 'S' en código tierra-aire?",
+"options": ["Aterrizar aquí", "Necesitamos combustible", "Ayuda (SOS)"],
+"correctIndex": 2
+},
+{
+"id": "sup_273",
+"topic": "Supervivencia",
+"text": "¿Qué método se recomienda para proteger la balsa de pinchazos en la costa?",
+"options": [
+"Poner peso en un lado",
+"Usar el ancla de mar o amarrarla a un objeto flotante lejos de rocas/arrecifes",
+"Desinflarla"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_274",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la comida no consumida antes de dormir?",
+"options": [
+"Dejarla a la intemperie",
+"Colgarla o asegurarla lejos del refugio para evitar atraer animales",
+"Enterrarla bajo la arena"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_275",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer si se encuentra una cueva para refugio en la montaña?",
+"options": [
+"Entrar sin más",
+"Verificar que no esté habitada por animales peligrosos y asegurar una buena ventilación",
+"Encender fuego en la entrada"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_276",
+"topic": "Supervivencia",
+"text": "¿Cuál es la función del 'bellows' (o 'fuelle de mano') en el equipo de la balsa?",
+"options": [
+"Para la ventilación",
+"Inflar compartimentos de la balsa o equipos",
+"Como silbato"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_277",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacer un TCP para mantener la moral del grupo alta?",
+"options": [
+"Contar chistes malos",
+"Mantener la disciplina, organizar tareas y dar mensajes de esperanza realistas",
+"Dejar que cada uno haga lo que quiera"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_278",
+"topic": "Supervivencia",
+"text": "¿Qué es la 'hipoxia'?",
+"options": [
+"Un estado de sobrehidratación",
+"Falta de oxígeno en los tejidos y órganos del cuerpo",
+"Exceso de azúcar en sangre"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_279",
+"topic": "Supervivencia",
+"text": "¿Qué indica el símbolo de 'LL' (dos líneas horizontales) en código tierra-aire?",
+"options": ["No podemos aterrizar", "Necesitamos combustible", "Todo bien/Lugar apto para aterrizar"],
+"correctIndex": 2
+},
+{
+"id": "sup_280",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal riesgo al pescar en la noche desde la balsa?",
+"options": [
+"El frío",
+"Ser jalado por un pez grande o la dificultad de ver",
+"La desorientación"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_281",
+"topic": "Supervivencia",
+"text": "¿Qué método se utiliza para orientarse en el Hemisferio Sur con el sol?",
+"options": [
+"El método de la sombra del palo (es el mismo que en el norte)",
+"Observar el musgo",
+"La estrella polar"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_282",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer ante un herido con un golpe en la cabeza?",
+"options": [
+"Darle un café",
+"Observar si hay pérdida de conciencia, náuseas, o vómitos y no dejarlo dormir",
+"Hacerlo correr"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_283",
+"topic": "Supervivencia",
+"text": "¿Cuál es la mejor manera de conservar el calor en un refugio de nieve?",
+"options": [
+"Dejar las entradas abiertas",
+"Sellar las entradas y tener un orificio de ventilación, usar material aislante en el suelo",
+"Encender mucho fuego"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_284",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la linterna si la batería está baja?",
+"options": [
+"Usarla para iluminar el refugio",
+"Racionar su uso, guardándola para señales de rescate",
+"Usarla como arma"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_285",
+"topic": "Supervivencia",
+"text": "¿Cuál es la principal fuente de contaminación del agua de mar en la balsa?",
+"options": [
+"El sol",
+"El spray de mar y la condensación de la respiración",
+"El pescado"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_286",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con los lentes de contacto en supervivencia?",
+"options": [
+"Conservarlos húmedos y usarlos con higiene, o cambiarse a gafas (si las tiene)",
+"Arrojarlos al mar",
+"Usarlos todo el tiempo sin limpiarlos"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_287",
+"topic": "Supervivencia",
+"text": "¿Cuál es la señal de auxilio más efectiva en un área de selva densa?",
+"options": [
+"Espejo de señales",
+"Humo espeso o grandes flechas en un claro improvisado",
+"Gritos en la copa de los árboles"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_288",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer para prevenir la insolación?",
+"options": [
+"Beber alcohol",
+"Mantenerse hidratado y buscar sombra, usar sombrero y ropa ligera",
+"Correr al sol"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_289",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al tratar una herida por quemadura?",
+"options": [
+"Enfriar la zona con agua fresca",
+"Reventar las ampollas o aplicar remedios caseros (mantequilla, aceite, etc.)",
+"Cubrir con un vendaje limpio"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_290",
+"topic": "Supervivencia",
+"text": "¿Qué indica el símbolo de 'L' en código tierra-aire?",
+"options": ["Necesitamos combustible", "Lugar seguro para aterrizar", "Necesitamos raciones"],
+"correctIndex": 1
+},
+{
+"id": "sup_291",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal peligro del consumo de sangre cruda de animales?",
+"options": [
+"Aumento de la temperatura corporal",
+"Parásitos y bacterias, y alta salinidad (en animales marinos)",
+"Un sabor desagradable"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_292",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con los restos de comida en el refugio?",
+"options": [
+"Dejarlos cerca",
+"Deshacerse de ellos lejos del refugio para no atraer fauna",
+"Comerlos más tarde"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_293",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al encender fuego en un entorno de viento fuerte?",
+"options": [
+"Proteger el fuego con piedras o una pared de tierra",
+"Usar combustibles volátiles",
+"Usar yesca seca"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_294",
+"topic": "Supervivencia",
+"text": "¿Qué riesgo presenta la brújula en entornos polares?",
+"options": [
+"No funciona en absoluto",
+"El polo magnético y el polo geográfico no coinciden (desviación magnética)",
+"Se congela"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_295",
+"topic": "Supervivencia",
+"text": "La regla de oro para la supervivencia es:",
+"options": [
+"La autoconfianza y la calma son la clave",
+"Caminar siempre",
+"Comer lo que se encuentre"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_296",
+"topic": "Supervivencia",
+"text": "¿Qué es un 'flotador de agarre' en la balsa?",
+"options": [
+"Un cojín para sentarse",
+"Una línea flotante alrededor del borde exterior de la balsa para que los náufragos se agarren",
+"Una trampa de pesca"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_297",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer ante una situación de pánico colectivo?",
+"options": [
+"Unirse al pánico",
+"Mantener el liderazgo, dar órdenes firmes y claras, y controlar la situación con autoridad",
+"Aislarse"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_298",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal riesgo de la lluvia en el desierto?",
+"options": [
+"La inundación repentina de cañones secos (flash floods)",
+"La deshidratación",
+"El frío"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_299",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacer un TCP con los documentos importantes de la aeronave tras el impacto?",
+"options": [
+"Arrojarlos",
+"Recuperarlos (si es seguro) para ayudar en el reporte y la investigación",
+"Quemarlos"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_300",
+"topic": "Supervivencia",
+"text": "¿Cómo se improvisa una señal sonora de largo alcance?",
+"options": [
+"Gritando sin parar",
+"Con un silbato o golpeando metales (si hay)",
+"Con palmas"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_301",
+"topic": "Supervivencia",
+"text": "¿Cuál es el riesgo de beber agua directamente de glaciares o témpanos?",
+"options": [
+"El agua es demasiado salada",
+"La temperatura extremadamente fría puede causar daño interno y acelerar la hipotermia",
+"Contiene mucho cloro"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_302",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer para evitar la pérdida de calor por convección en el mar?",
+"options": [
+"Nadar rápido",
+"Usar el toldo de la balsa y reducir la exposición al viento",
+"Encender fuego"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_303",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la ropa en caso de inmersión en gasolina/combustible?",
+"options": [
+"Dejarla puesta",
+"Quitarla inmediatamente para evitar quemaduras químicas y pérdida de calor por evaporación",
+"Lavar la ropa con agua salada"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_304",
+"topic": "Supervivencia",
+"text": "¿Qué elemento del kit de la balsa ayuda a la visibilidad en el aire de noche?",
+"options": [
+"El tinte marcador",
+"La linterna de la balsa y las bengalas",
+"El remo"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_305",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con el cinturón de seguridad en la balsa (si lo tiene)?",
+"options": [
+"No usarlo",
+"Usarlo para asegurar a los pasajeros, especialmente durante mal tiempo",
+"Cortarlo"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_306",
+"topic": "Supervivencia",
+"text": "¿Cuál es la función del 'deshumidificador' o 'esponja' en la balsa?",
+"options": [
+"Recoger el rocío y limpiar la condensación",
+"Para la comida",
+"Para limpiar la sangre"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_307",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al buscar agua en la selva?",
+"options": [
+"Agua estancada (charcos, pantanos)",
+"Arroyos que corren",
+"Agua de lluvia"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_308",
+"topic": "Supervivencia",
+"text": "¿Cuál es el riesgo de consumir grandes cantidades de azúcar en supervivencia?",
+"options": [
+"Aumenta la necesidad de agua para su metabolismo y la deshidratación",
+"Disminución de la temperatura corporal",
+"Un sabor desagradable"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_309",
+"topic": "Supervivencia",
+"text": "¿Cómo se debe almacenar el agua purificada?",
+"options": [
+"En recipientes abiertos para ventilación",
+"En recipientes limpios y sellados, lejos del calor y el sol",
+"En el suelo"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_310",
+"topic": "Supervivencia",
+"text": "La señal de rescate 'VV' en Código Morse significa:",
+"options": ["Necesitamos ayuda médica", "Avistamiento de otro grupo", "Aterrizar aquí, el lugar es seguro"],
+"correctIndex": 1
+},
+{
+"id": "sup_311",
+"topic": "Supervivencia",
+"text": "¿Cuál es la función de la 'línea de anclaje' del avión a la balsa?",
+"options": [
+"Permitir la navegación rápida",
+"Evitar que la balsa se aleje del avión y facilitar el embarque",
+"Actuar como ancla de mar"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_312",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la ropa en el desierto para evitar quemaduras solares?",
+"options": [
+"Usar mangas y pantalones cortos",
+"Cubrir la mayor parte del cuerpo con ropa ligera y de color claro",
+"Usar solo traje de baño"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_313",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con los heridos inconscientes en el mar?",
+"options": [
+"Dejarlos flotar",
+"Asegurarlos a la balsa o a otro náufrago y mantener sus vías respiratorias fuera del agua",
+"Remolcarlos nadando"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_314",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal riesgo de la carne cruda de oso polar o foca?",
+"options": [
+"El sabor",
+"Intoxicación por grandes cantidades de vitamina A (hipervitaminosis A)",
+"Un exceso de sal"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_315",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacer un TCP ante un herido que parece tener una embolia aérea (por amerizaje)?",
+"options": [
+"Darle un masaje",
+"Posicionarlo horizontalmente o ligeramente de costado para mantener la burbuja de aire lejos de los vasos cerebrales",
+"Ponerlo a caminar"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_316",
+"topic": "Supervivencia",
+"text": "La señal de rescate 'III' (tres líneas verticales) en código tierra-aire significa:",
+"options": ["Lugar peligroso", "Necesitamos combustible", "Necesitamos equipo médico"],
+"correctIndex": 2
+},
+{
+"id": "sup_317",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacerse con el agua de mar que se condensa en el toldo de la balsa?",
+"options": [
+"Beberla directamente",
+"Limpiarla o secarla, ya que el agua de mar condensada sigue siendo salada",
+"Usarla para lavar"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_318",
+"topic": "Supervivencia",
+"text": "¿Cuál es la función del 'cuerda de remolque' o 'línea de arrastre' en la balsa?",
+"options": [
+"Ayudar a la navegación y atar a otras balsas o a los náufragos en el agua",
+"Para la comida",
+"Para secar la ropa"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_319",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al tratar una herida que ha estado expuesta a la arena/tierra?",
+"options": [
+"Lavar la herida con agua purificada",
+"Ignorar el riesgo de infección por tétanos",
+"Cubrirla con un vendaje limpio"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_320",
+"topic": "Supervivencia",
+"text": "¿Qué se debe buscar en un área de señalamiento en la montaña?",
+"options": [
+"Un claro, o un pico visible, despejado de árboles o arbustos",
+"Un cañón profundo",
+"Un lugar cubierto de nieve"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_321",
+"topic": "Supervivencia",
+"text": "La principal desventaja del 'fuego de señalización' es:",
+"options": [
+"El ruido",
+"Solo es visible de noche",
+"El consumo de combustible limitado"
+],
+"correctIndex": 2
+},
+{
+"id": "sup_322",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la radiobaliza si se está en una balsa?",
+"options": [
+"Dejarla dentro de la balsa",
+"Amarrarla fuera, con la antena en posición vertical y el líquido activado (si es automático)",
+"Usarla como remo"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_323",
+"topic": "Supervivencia",
+"text": "¿Cuál es la actitud recomendada ante el miedo y la ansiedad en supervivencia?",
+"options": [
+"Permitir el pánico",
+"Reconocerlos, y convertirlos en energía para la acción organizada y la supervivencia",
+"Aislarse de los demás"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_324",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al construir un refugio en el suelo de la selva?",
+"options": [
+"Construir en una zona elevada",
+"Construir directamente sobre el suelo húmedo sin aislante",
+"Usar hojas grandes"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_325",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la ración de agua en el primer día de supervivencia en un clima muy caluroso?",
+"options": [
+"Beber todo de golpe",
+"No beber nada",
+"Racionar en pequeñas cantidades para mojarse los labios y mantener la boca húmeda"
+],
+"correctIndex": 2
+},
+{
+"id": "sup_326",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacer un TCP para mantener la disciplina en un grupo grande de supervivientes?",
+"options": [
+"Dejar que voten todas las decisiones",
+"Asignar tareas específicas, mantener un horario y un líder claro (el TCP)",
+"Ignorar las quejas"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_327",
+"topic": "Supervivencia",
+"text": "¿Cuál es la función del 'cubo' o 'balde' del kit de la balsa?",
+"options": [
+"Recoger agua de lluvia o achicar agua del interior de la balsa",
+"Para jugar",
+"Para cocinar"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_328",
+"topic": "Supervivencia",
+"text": "¿Qué riesgo presenta la 'desorientación espacial' tras un accidente aéreo?",
+"options": [
+"Estar de buen humor",
+"Tomar decisiones irracionales o caminar en círculos",
+"La fatiga"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_329",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con un náufrago rescatado en el mar que está temblando violentamente (hipotermia)?",
+"options": [
+"Frotarlo con nieve",
+"Quitarle la ropa mojada, abrigarlo y darle bebidas calientes (no alcohólicas) si está consciente",
+"Hacerlo nadar"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_330",
+"topic": "Supervivencia",
+"text": "La regla de oro para la búsqueda de comida en supervivencia es:",
+"options": [
+"Priorizar la ingesta de proteínas",
+"No comer nada a menos que se tenga agua y se conozca su comestibilidad",
+"Comer lo primero que se encuentre"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_331",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer ante una quemadura grave (tercer grado)?",
+"options": [
+"Aplicar una pomada",
+"Enfriar suavemente, cubrir con un vendaje estéril y buscar ayuda médica urgente",
+"Quitar la piel quemada"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_332",
+"topic": "Supervivencia",
+"text": "¿Cuál es la forma más fácil de obtener agua en la montaña, fuera de la lluvia?",
+"options": [
+"Extraerla de las rocas",
+"Nieve o hielo derretido y purificado",
+"Agua salada"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_333",
+"topic": "Supervivencia",
+"text": "¿Qué indica el movimiento de balanceo del avión de rescate de un lado a otro?",
+"options": [
+"Señal de que el equipo de rescate no nos ha visto",
+"Señal de que han recibido nuestro mensaje y están buscando una ruta",
+"Necesidad de combustible"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_334",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal factor de pérdida de calor en la supervivencia terrestre?",
+"options": [
+"La ropa seca",
+"La radiación, la convección, la conducción y la evaporación",
+"La comida"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_335",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al construir un refugio en el desierto para la noche?",
+"options": [
+"Usar ropa de cama",
+"Construir un refugio abierto y ventilado",
+"Dejar la entrada sin tapar"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_336",
+"topic": "Supervivencia",
+"text": "La señal de rescate 'III' (tres fogatas en línea) en tierra significa:",
+"options": ["Aterrizar aquí", "Emergencia", "Todo bien"],
+"correctIndex": 1
+},
+{
+"id": "sup_337",
+"topic": "Supervivencia",
+"text": "¿Qué peligro presenta el consumo de pescado crudo en supervivencia?",
+"options": [
+"Parásitos y bacterias",
+"El olor",
+"Exceso de sales"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_338",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacer un TCP con un pasajero que no coopera tras el accidente?",
+"options": [
+"Ignorarlo",
+"Aislarlo y asignarle tareas sencillas bajo supervisión para reintegrarlo al grupo",
+"Echarlo del refugio"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_339",
+"topic": "Supervivencia",
+"text": "¿Qué indica el símbolo de 'LL' (dos líneas diagonales) en código tierra-aire?",
+"options": ["Necesitamos asistencia médica", "Necesitamos combustible", "Lugar seguro para aterrizar"],
+"correctIndex": 2
+},
+{
+"id": "sup_340",
+"topic": "Supervivencia",
+"text": "¿Cuál es la función del 'ancla de mar' de la balsa?",
+"options": [
+"Ralentizar el movimiento de la balsa para evitar la deriva rápida y reducir el mareo",
+"Para la comida",
+"Para medir la profundidad"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_341",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al tratar una herida punzante?",
+"options": [
+"Dejar el objeto incrustado",
+"Mover al herido",
+"Intentar sacarlo si está clavado profundamente"
+],
+"correctIndex": 2
+},
+{
+"id": "sup_342",
+"topic": "Supervivencia",
+"text": "¿Cuál es la principal fuente de contaminación del agua en la montaña?",
+"options": [
+"Agua de lluvia",
+"Heces de animales (arriba de los glaciares)",
+"El viento"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_343",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacer un TCP si pierde el conocimiento tras el impacto?",
+"options": [
+"Activar la radiobaliza",
+"Asumir que otro TCP o pasajero tomará el liderazgo y seguirá los procedimientos de emergencia",
+"No hacer nada"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_344",
+"topic": "Supervivencia",
+"text": "La señal de rescate 'III' (tres líneas paralelas) en código tierra-aire significa:",
+"options": ["Necesitamos combustible", "Necesitamos ayuda médica", "Necesitamos raciones"],
+"correctIndex": 1
+},
+{
+"id": "sup_345",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar hacer si se encuentra una fuente de agua salobre (ligeramente salada)?",
+"options": [
+"Beberla inmediatamente",
+"Filtrarla y purificarla para su posible consumo racionado",
+"Usarla para cocinar"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_346",
+"topic": "Supervivencia",
+"text": "¿Cuál es la función del 'kit de primeros auxilios' en la balsa?",
+"options": [
+"Tratar heridas menores y proveer analgésicos para mantener la moral",
+"Curar todas las enfermedades",
+"Ser un cojín"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_347",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer si se ve un helicóptero de rescate acercándose?",
+"options": [
+"Agitar los brazos frenéticamente",
+"Usar el espejo de señales o la bengala y hacer la señal de auxilio reconocida",
+"Esconderse"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_348",
+"topic": "Supervivencia",
+"text": "¿Cuál es el riesgo de la 'fatiga' en la supervivencia?",
+"options": [
+"Tomar decisiones correctas",
+"Aumenta la irritabilidad, el riesgo de errores y la vulnerabilidad a la hipotermia/golpe de calor",
+"Perder peso"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_349",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con los heridos graves que no pueden moverse?",
+"options": [
+"Dejarlos solos en el refugio",
+"Proveerles comodidad, primeros auxilios constantes y asignar un cuidador permanente",
+"Hacerlos caminar"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_350",
+"topic": "Supervivencia",
+"text": "La 'regla del 3' establece que sin agua se puede sobrevivir durante:",
+"options": ["3 horas", "3 días", "3 semanas"],
+"correctIndex": 1
+},
+{
+"id": "sup_351",
+"topic": "Supervivencia",
+"text": "¿Qué tipo de fuego es el más adecuado para generar calor y cocinar a largo plazo?",
+"options": [
+"Fuego de señalización (alto y abierto)",
+"Fuego de brasas (controlado y constante)",
+"Fuego de emergencia (pequeño y rápido)"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_352",
+"topic": "Supervivencia",
+"text": "¿Qué elemento es esencial para iniciar fuego por percusión?",
+"options": [
+"Dos ramas verdes",
+"Pedernal y eslabón (o similar) y yesca",
+"Gasolina"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_353",
+"topic": "Supervivencia",
+"text": "¿Cuál es el objetivo principal del refugio en la selva?",
+"options": [
+"Proteger contra el frío",
+"Proteger contra la lluvia, los insectos y la humedad",
+"Almacenar leña"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_354",
+"topic": "Supervivencia",
+"text": "¿Cómo se improvisa una 'cama' aislante del suelo en la selva?",
+"options": [
+"Con ramas de bambú",
+"Con hojas, ramas, o musgo seco, para crear una barrera aislante",
+"Con arena"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_355",
+"topic": "Supervivencia",
+"text": "¿Qué riesgo presenta el consumo de frutas tropicales con cáscara gruesa?",
+"options": [
+"Son muy ácidas",
+"Algunas pueden ser tóxicas si la cáscara no se retira completamente",
+"Son difíciles de abrir"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_356",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la ropa en caso de hipotermia grave?",
+"options": [
+"No tocarla",
+"Cambiarla por ropa seca, si es posible, y abrigar a la víctima con el calor corporal de un compañero",
+"Dejar la ropa mojada"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_357",
+"topic": "Supervivencia",
+"text": "¿Cuál es la principal fuente de pérdida de calor en la supervivencia en la montaña?",
+"options": [
+"La nieve",
+"La convección (viento) y la conducción (suelo frío)",
+"El sol"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_358",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al tratar una herida por mordedura de animal?",
+"options": [
+"Lavar la herida",
+"Suturarla inmediatamente (riesgo de infección)",
+"Aplicar vendaje"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_359",
+"topic": "Supervivencia",
+"text": "¿Qué indica el símbolo de 'V' en código tierra-aire?",
+"options": ["Necesitamos ayuda", "Necesitamos comida", "Lugar seguro"],
+"correctIndex": 0
+},
+{
+"id": "sup_360",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal peligro del fuego en la montaña?",
+"options": [
+"El humo",
+"El incendio forestal y la dificultad para encontrar leña seca",
+"La nieve"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_361",
+"topic": "Supervivencia",
+"text": "¿Cuál es la función del 'kit de reparación' en la balsa?",
+"options": [
+"Arreglar la ropa",
+"Reparar pinchazos y mantener la flotabilidad de la balsa",
+"Arreglar el motor"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_362",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con los náufragos que no tienen chaleco salvavidas en el mar?",
+"options": [
+"Dejarlos solos",
+"Asegurarlos a la balsa o a otro náufrago con chaleco, o usar objetos flotantes improvisados",
+"Hacerlos nadar"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_363",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer si se encuentra una fuente de agua termal (caliente)?",
+"options": [
+"Beberla inmediatamente",
+"Enfriarla, filtrarla y purificarla",
+"Usarla para bañarse"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_364",
+"topic": "Supervivencia",
+"text": "La señal de rescate 'X' en código Morse significa:",
+"options": ["Emergencia médica grave", "Necesitamos combustible", "Lugar seguro"],
+"correctIndex": 0
+},
+{
+"id": "sup_365",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al tratar una lesión de tobillo (esguince/torcedura)?",
+"options": [
+"Aplicar frío",
+"Hacer que el herido camine sobre el tobillo lesionado",
+"Elevar la extremidad"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_366",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal riesgo de la búsqueda de comida en el desierto?",
+"options": [
+"Encontrar demasiada comida",
+"El consumo de energía y la deshidratación",
+"El frío"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_367",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la linterna de la balsa si hay un avión de rescate cerca?",
+"options": [
+"Apagarla",
+"Usarla para emitir la señal SOS (3 cortos, 3 largos, 3 cortos)",
+"Usarla para leer"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_368",
+"topic": "Supervivencia",
+"text": "¿Cuál es la función del 'pato' o 'flotador de agarre' en la balsa?",
+"options": [
+"Atraer la atención",
+"Proveer un punto de agarre flotante alrededor de la balsa",
+"Como alimento"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_369",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con el cabello largo en la balsa o en supervivencia en general?",
+"options": [
+"Dejarlo suelto",
+"Recogerlo o cortarlo para evitar la pérdida de calor, la suciedad y la atracción de insectos",
+"Mojarlo"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_370",
+"topic": "Supervivencia",
+"text": "¿Cuál es el riesgo de la 'niebla' en la supervivencia terrestre?",
+"options": [
+"La insolación",
+"La desorientación y el aumento del riesgo de hipotermia",
+"El calor"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_371",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacer un TCP al ver el inicio de un maremoto (tsunami) en la costa?",
+"options": [
+"Correr hacia la playa",
+"Correr inmediatamente a terrenos altos y alejados del mar",
+"Ignorarlo"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_372",
+"topic": "Supervivencia",
+"text": "¿Cuál es la función de la 'radiobaliza de emergencia' (EPIRB) en el mar?",
+"options": [
+"Escuchar música",
+"Transmitir automáticamente una señal de socorro satelital",
+"Para la comida"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_373",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al tratar una herida con objetos metálicos oxidados?",
+"options": [
+"Lavar la herida",
+"Ignorar el riesgo de tétanos",
+"Cubrirla con un vendaje limpio"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_374",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la ración de agua en la balsa si llueve?",
+"options": [
+"Beber el agua almacenada",
+"Recolectar el agua de lluvia en los recipientes y racionar la almacenada",
+"Arrojar el agua almacenada"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_375",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal peligro del consumo de cactus o suculentas en el desierto?",
+"options": [
+"El sabor",
+"El alto contenido de ácido oxálico (en algunas especies) y la toxicidad",
+"El exceso de vitaminas"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_376",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacer un TCP al notar la presencia de serpientes venenosas en el refugio?",
+"options": [
+"Matarlas inmediatamente con fuego",
+"Alejar al grupo, no provocar a los animales y buscar otro refugio si es necesario",
+"Dejarlas solas"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_377",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la ropa en un entorno caluroso y húmedo?",
+"options": [
+"Usar ropa de cuero",
+"Usar ropa ligera y de secado rápido, mantenerla lo más seca posible",
+"Usar mucha ropa"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_378",
+"topic": "Supervivencia",
+"text": "La señal de rescate 'III' (tres líneas paralelas) en código Morse significa:",
+"options": ["Necesitamos ayuda médica", "Necesitamos combustible", "Lugar seguro"],
+"correctIndex": 0
+},
+{
+"id": "sup_379",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al improvisar una trampa para animales?",
+"options": [
+"Usar carnada fresca",
+"Usar lazos o redes visibles",
+"Instalar la trampa en un lugar de paso"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_380",
+"topic": "Supervivencia",
+"text": "¿Cuál es la función del 'pito' o 'silbato' en el equipo de la balsa?",
+"options": [
+"Para la comunicación con el capitán",
+"Señal sonora de socorro de largo alcance",
+"Para la comida"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_381",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacer un TCP para mantener la moral del grupo en una balsa sin rescate a la vista?",
+"options": [
+"Decirles que el rescate está a punto de llegar",
+"Mantener la disciplina, realizar ejercicios suaves y enfocarse en tareas (pesca, recogida de agua)",
+"Dejarlos dormir"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_382",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal peligro del consumo de pescado venenoso en el mar?",
+"options": [
+"El sabor",
+"Intoxicación grave (ej. Tetrodotoxina o Ciguatera)",
+"Un exceso de sal"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_383",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con los recipientes de agua de la balsa si no hay lluvia?",
+"options": [
+"Arrojarlos al mar",
+"Usarlos para recoger rocío o condensación de la balsa por la mañana",
+"Usarlos como cubo"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_384",
+"topic": "Supervivencia",
+"text": "La señal de rescate 'N' en código Morse significa:",
+"options": ["No, negativo", "Necesitamos combustible", "Lugar seguro"],
+"correctIndex": 0
+},
+{
+"id": "sup_385",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacer un TCP al ver el inicio de un incendio forestal?",
+"options": [
+"Correr en dirección contraria al viento y al fuego, buscar un claro o un río",
+"Ignorarlo",
+"Quedarse en el refugio"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_386",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal factor de pérdida de calor en la supervivencia en la selva?",
+"options": [
+"El viento",
+"La humedad y la evaporación (ropa mojada)",
+"El sol"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_387",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al tratar una herida de bala o explosión?",
+"options": [
+"Aplicar presión",
+"Mover al herido innecesariamente, ya que puede haber lesiones internas o de columna",
+"Cubrirla con vendaje"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_388",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con los restos del avión si es seguro volver a ellos?",
+"options": [
+"Encenderles fuego",
+"Recoger herramientas, botiquines, agua y raciones de emergencia",
+"Dejarlos solos"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_389",
+"topic": "Supervivencia",
+"text": "La señal de rescate 'V' en código Morse significa:",
+"options": ["Necesitamos ayuda", "Necesitamos combustible", "Lugar seguro"],
+"correctIndex": 0
+},
+{
+"id": "sup_390",
+"topic": "Supervivencia",
+"text": "¿Cuál es la principal desventaja de viajar de día en el desierto para buscar ayuda?",
+"options": [
+"El frío",
+"El consumo de energía y la deshidratación por el calor extremo",
+"La desorientación"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_391",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la comida en el desierto?",
+"options": [
+"Comerla toda el primer día",
+"Racionar para las horas frescas, evitar comer durante las horas de calor intenso",
+"Comer solo al mediodía"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_392",
+"topic": "Supervivencia",
+"text": "¿Cuál es el riesgo de la 'niebla' en la supervivencia marítima?",
+"options": [
+"La insolación",
+"La dificultad para la visibilidad de rescate y la hipotermia",
+"El calor"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_393",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la ropa interior mojada en un entorno frío?",
+"options": [
+"Dejarla puesta",
+"Quitarla inmediatamente para evitar la pérdida de calor por evaporación",
+"Lavar la ropa con agua caliente"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_394",
+"topic": "Supervivencia",
+"text": "¿Cuál es la función del 'palo de agarre' o 'cuerda de agarre' en la balsa?",
+"options": [
+"Para la navegación",
+"Ayudar a los náufragos a subir a la balsa o a sostenerse alrededor",
+"Para la pesca"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_395",
+"topic": "Supervivencia",
+"text": "La señal de rescate 'VV' en código Morse significa:",
+"options": ["Avistamiento de otro grupo", "Necesitamos combustible", "Lugar seguro"],
+"correctIndex": 0
+},
+{
+"id": "sup_396",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con los náufragos que están en pánico en el mar?",
+"options": [
+"Dejarlos nadar lejos",
+"Asegurarlos a la balsa, hablarles con calma y asignarles una tarea simple",
+"Gritarles"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_397",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al improvisar un vendaje?",
+"options": [
+"Usar tela limpia",
+"Usar tela sucia o con sustancias irritantes",
+"Usar tela de color"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_398",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal riesgo de la búsqueda de comida en la costa?",
+"options": [
+"El frío",
+"El consumo de mariscos o pescados tóxicos (marea roja)",
+"La deshidratación"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_399",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la ración de agua en el desierto?",
+"options": [
+"Beberla toda de golpe",
+"Racionar en pequeñas cantidades para todo el día, evitar beber al mediodía",
+"Usarla para bañarse"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_400",
+"topic": "Supervivencia",
+"text": "La señal de rescate 'Y' en código Morse significa:",
+"options": ["Sí, afirmativo", "Necesitamos combustible", "Lugar seguro"],
+"correctIndex": 0
+},
+{
+"id": "sup_401",
+"topic": "Supervivencia",
+"text": "¿Qué significa la señal de 'dos brazos extendidos hacia abajo' desde tierra?",
+"options": ["Todo bien", "Necesitamos ayuda médica", "Necesitamos raciones"],
+"correctIndex": 0
+},
+{
+"id": "sup_402",
+"topic": "Supervivencia",
+"text": "¿Qué es la 'hipovolemia'?",
+"options": [
+"Exceso de agua en el cuerpo",
+"Disminución del volumen de sangre o líquidos corporales",
+"Aumento de la temperatura"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_403",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer si se sospecha de fractura de pelvis o cadera?",
+"options": [
+"Hacer que el herido camine",
+"Inmovilizarlo en la posición encontrada y no moverlo",
+"Ponerle peso encima"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_404",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal peligro del consumo de insectos no cocinados?",
+"options": [
+"El sabor",
+"Parásitos y bacterias, y la posibilidad de veneno (en algunos)",
+"Un exceso de sal"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_405",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al improvisar un destilador solar?",
+"options": [
+"Usar plástico transparente",
+"Usar agua de mar directamente sin filtrar",
+"Ponerlo al sol"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_406",
+"topic": "Supervivencia",
+"text": "¿Cuál es el riesgo de la 'desmoralización' en la supervivencia?",
+"options": [
+"Tomar decisiones correctas",
+"Pérdida de la voluntad de vivir, pasividad y riesgo de errores",
+"El cansancio"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_407",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con los heridos en shock que están conscientes?",
+"options": [
+"Mantenerlos en reposo, abrigados y rehidratados con agua salina (si es posible)",
+"Hacerlos caminar",
+"Ignorarlos"
+],
+"correctIndex": 0
+},
+{
+"id": "sup_408",
+"topic": "Supervivencia",
+"text": "La señal de rescate 'X' en código tierra-aire significa:",
+"options": ["Necesitamos ayuda médica", "Necesitamos combustible", "Lugar seguro"],
+"correctIndex": 0
+},
+{
+"id": "sup_409",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al construir un refugio en el desierto?",
+"options": [
+"Construir en una zona elevada",
+"Construir en el fondo de un cañón seco (riesgo de inundación)",
+"Usar ropa de cama"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_410",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal peligro del consumo de bayas en la selva?",
+"options": [
+"El sabor",
+"La toxicidad y el envenenamiento letal (muchas son venenosas)",
+"Un exceso de sal"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_411",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacer un TCP al ver un animal peligroso cerca del refugio?",
+"options": [
+"Provocarlo",
+"Hacer ruido, mantenerse en grupo y alejarse lentamente si es necesario",
+"Dejarle comida"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_412",
+"topic": "Supervivencia",
+"text": "¿Cuál es la función del 'bellows' (o 'fuelle') en el kit de la balsa?",
+"options": [
+"Para la comida",
+"Para inflar la balsa o compartimentos de la balsa",
+"Para la navegación"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_413",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al tratar una herida por picadura de medusa?",
+"options": [
+"Lavar la herida con agua de mar",
+"Frotar la zona (puede liberar más veneno)",
+"Aplicar frío"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_414",
+"topic": "Supervivencia",
+"text": "La señal de rescate 'III' (tres líneas paralelas) en código Morse significa:",
+"options": ["Necesitamos raciones", "Necesitamos combustible", "Necesitamos ayuda médica"],
+"correctIndex": 2
+},
+{
+"id": "sup_415",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la ropa en caso de hipotermia leve?",
+"options": [
+"Dejarla mojada",
+"Cambiarla por seca y abrigar a la víctima, dándole bebidas calientes (no alcohólicas)",
+"Frotarla con nieve"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_416",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal factor de pérdida de calor en la supervivencia en la costa?",
+"options": [
+"El sol",
+"La humedad, el viento y el agua fría",
+"La comida"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_417",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al improvisar un refugio?",
+"options": [
+"Usar material aislante",
+"Construir cerca de agua estancada o en el camino del viento",
+"Hacer un agujero de ventilación"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_418",
+"topic": "Supervivencia",
+"text": "¿Cuál es el riesgo de la 'desesperación' en la supervivencia?",
+"options": [
+"Tomar decisiones correctas",
+"Pérdida de la voluntad de vivir, rendición y riesgo de errores",
+"El cansancio"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_419",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacer un TCP con los heridos que están estables?",
+"options": [
+"Dejarlos solos",
+"Asignarles tareas sencillas (si es posible) y mantener la moral",
+"Hacerlos correr"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_420",
+"topic": "Supervivencia",
+"text": "La señal de rescate 'Y' en código tierra-aire significa:",
+"options": ["Sí, afirmativo", "Necesitamos combustible", "Lugar seguro"],
+"correctIndex": 0
+},
+{
+"id": "sup_421",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la linterna de la balsa si no hay rescate a la vista?",
+"options": [
+"Dejarla encendida",
+"Apagarla y guardarla para el señalamiento de rescate",
+"Usarla para leer"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_422",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal peligro del consumo de huevos de ave crudos?",
+"options": [
+"El sabor",
+"Parásitos y bacterias (Salmonella)",
+"Un exceso de sal"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_423",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con el rocío de la balsa por la mañana?",
+"options": [
+"Limpiarlo",
+"Recogerlo con una esponja o tela y guardarlo en un recipiente para beber",
+"Dejarlo secar"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_424",
+"topic": "Supervivencia",
+"text": "La señal de rescate 'N' en código tierra-aire significa:",
+"options": ["Sí, afirmativo", "No, negativo", "Lugar seguro"],
+"correctIndex": 1
+},
+{
+"id": "sup_425",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la ropa interior en un entorno caluroso y húmedo?",
+"options": [
+"Usar mucha ropa",
+"Usar ropa interior de algodón (se seca lentamente)",
+"Usar ropa interior de secado rápido o no usar nada para evitar rozaduras"
+],
+"correctIndex": 2
+},
+{
+"id": "sup_426",
+"topic": "Supervivencia",
+"text": "¿Cuál es la función del 'espejo de señales' en el kit de la balsa?",
+"options": [
+"Para mirarse",
+"Señal luminosa de largo alcance (heliógrafo)",
+"Para la comida"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_427",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacer un TCP al ver un avión de rescate alejándose?",
+"options": [
+"Gritar en voz alta",
+"Encender la bengala (si no se usó) o usar el espejo de señales hasta que desaparezca",
+"Ignorarlo"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_428",
+"topic": "Supervivencia",
+"text": "¿Cuál es el riesgo de la 'soledad' en la supervivencia?",
+"options": [
+"Tomar decisiones correctas",
+"Pérdida de la moral, desorientación y riesgo de errores",
+"El cansancio"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_429",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con los heridos que están delirando?",
+"options": [
+"Dejarlos solos",
+"Mantener la calma, hidratarlos y buscar ayuda médica urgente",
+"Hacerlos correr"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_430",
+"topic": "Supervivencia",
+"text": "La señal de rescate 'S' en código tierra-aire significa:",
+"options": ["Necesitamos combustible", "Necesitamos ayuda (SOS)", "Lugar seguro"],
+"correctIndex": 1
+},
+{
+"id": "sup_431",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la comida en el mar?",
+"options": [
+"Comerla toda el primer día",
+"Racionar para las horas frescas, evitar comer al mediodía y beber agua después",
+"Comer solo al mediodía"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_432",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal peligro del consumo de setas desconocidas?",
+"options": [
+"El sabor",
+"La toxicidad y el envenenamiento letal (muchas son venenosas)",
+"Un exceso de sal"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_433",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la ropa en un entorno frío y seco?",
+"options": [
+"Usar solo una capa gruesa",
+"Usar varias capas finas y secas para aislar",
+"Usar ropa mojada"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_434",
+"topic": "Supervivencia",
+"text": "La señal de rescate 'V' en código tierra-aire significa:",
+"options": ["Necesitamos combustible", "Necesitamos ayuda", "Lugar seguro"],
+"correctIndex": 1
+},
+{
+"id": "sup_435",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al tratar una herida por congelación?",
+"options": [
+"Aplicar calor suave",
+"Frotar la zona (puede causar más daño)",
+"Cubrirla con un vendaje"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_436",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal factor de pérdida de calor en la supervivencia en el desierto (noche)?",
+"options": [
+"El sol",
+"La radiación (suelo frío) y la convección (viento)",
+"La comida"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_437",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacer un TCP al ver el inicio de una inundación?",
+"options": [
+"Correr a un lugar bajo",
+"Correr inmediatamente a terrenos altos y alejados del agua",
+"Ignorarlo"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_438",
+"topic": "Supervivencia",
+"text": "¿Cuál es la función del 'kit de pesca' en la balsa?",
+"options": [
+"Para el entretenimiento",
+"Proveer alimento (si se prolonga la supervivencia)",
+"Para la navegación"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_439",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con los heridos que están en pánico?",
+"options": [
+"Dejarlos solos",
+"Mantener la calma, hablarles con firmeza y asignarles una tarea simple",
+"Hacerlos correr"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_440",
+"topic": "Supervivencia",
+"text": "La señal de rescate 'W' en código tierra-aire significa:",
+"options": ["Necesitamos combustible", "Necesitamos médico", "Lugar seguro"],
+"correctIndex": 1
+},
+{
+"id": "sup_441",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con la ración de agua en un clima muy frío?",
+"options": [
+"Beberla toda de golpe",
+"Racionar en pequeñas cantidades para evitar la deshidratación por la respiración",
+"Usarla para bañarse"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_442",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal peligro del consumo de semillas desconocidas?",
+"options": [
+"El sabor",
+"La toxicidad (algunas contienen cianuro o toxinas)",
+"Un exceso de sal"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_443",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con el hielo azul (antiguo) en el Ártico?",
+"options": [
+"Fundirlo para beber",
+"Evitarlo (es denso y difícil de fundir, usar nieve fresca)",
+"Usarlo para enfriar"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_444",
+"topic": "Supervivencia",
+"text": "La señal de rescate 'X' en código Morse significa:",
+"options": ["Emergencia médica grave", "Necesitamos combustible", "Lugar seguro"],
+"correctIndex": 0
+},
+{
+"id": "sup_445",
+"topic": "Supervivencia",
+"text": "¿Qué se debe evitar al tratar una herida por quemadura solar?",
+"options": [
+"Aplicar cremas hidratantes",
+"Aplicar hielo directamente o reventar las ampollas",
+"Beber agua"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_446",
+"topic": "Supervivencia",
+"text": "¿Cuál es el principal factor de pérdida de calor en la supervivencia en el Ártico?",
+"options": [
+"El sol",
+"La conducción (suelo frío) y la convección (viento frío)",
+"La comida"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_447",
+"topic": "Supervivencia",
+"text": "¿Qué debe hacer un TCP al ver un avión de rescate cerca de noche?",
+"options": [
+"Apagar la linterna",
+"Usar la linterna para emitir SOS y encender la bengala nocturna",
+"Ignorarlo"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_448",
+"topic": "Supervivencia",
+"text": "¿Cuál es el riesgo de la 'inacción' en la supervivencia?",
+"options": [
+"Tomar decisiones correctas",
+"Pérdida de la moral, desmoralización y riesgo de errores",
+"El cansancio"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_449",
+"topic": "Supervivencia",
+"text": "¿Qué se debe hacer con los heridos que están estables pero con dolor?",
+"options": [
+"Dejarlos solos",
+"Proveerles analgésicos (si hay) y mantener la moral",
+"Hacerlos correr"
+],
+"correctIndex": 1
+},
+{
+"id": "sup_450",
+"topic": "Supervivencia",
+"text": "La señal de rescate 'III' (tres líneas paralelas) en código tierra-aire significa:",
+"options": ["Necesitamos combustible", "Necesitamos ayuda médica", "Necesitamos raciones"],
+"correctIndex": 1
+}
+]

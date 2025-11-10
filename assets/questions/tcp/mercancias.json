@@ -1,0 +1,3406 @@
+[
+  {
+    "topic": "Mercancías peligrosas",
+    "text": "¿Qué significa la etiqueta con un rombo naranja en un paquete?",
+    "options": ["Material inflamable", "Material comestible", "Material frágil", "Material radioactivo"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Mercancías peligrosas",
+    "text": "Antes de aceptar un paquete como TCP, debes:",
+    "options": ["Verificar que cumpla la normativa de transporte de mercancías peligrosas", "Solo verificar el peso", "Abrir el paquete para revisar", "No hacer nada especial"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Mercancías peligrosas",
+    "text": "¿Cuál es la principal regla de seguridad al manipular mercancías peligrosas?",
+    "options": ["No manipular sin protección y seguir protocolos", "Manipular rápido sin precaución", "Ignorar etiquetas", "Guardar en la cabina sin revisión"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Mercancías peligrosas",
+    "text": "Los pasajeros no pueden llevar en cabina:",
+    "options": ["Explosivos, líquidos inflamables y gases comprimidos", "Ropa y calzado", "Alimentos sellados", "Libros"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Mercancías peligrosas",
+    "text": "Si se detecta un derrame de sustancia peligrosa, la tripulación debe:",
+    "options": ["Evitar el contacto, aislar el área y avisar al comandante", "Limpiarlo con papel sin protección", "Ignorarlo", "Abrir ventanas de cabina"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Mercancías peligrosas",
+    "text": "¿Qué información es obligatoria en el etiquetado de mercancías peligrosas?",
+    "options": ["Clase de peligro, número ONU y manejo seguro", "Nombre del pasajero", "Fecha de vuelo", "Origen del paquete"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Mercancías peligrosas",
+    "text": "Un pasajero lleva baterías de litio en exceso permitido. La tripulación debe:",
+    "options": ["No permitir el transporte y avisar al comandante", "Permitir sin restricción", "Guardar en equipaje normal", "Dar al pasajero instrucciones verbales sin medidas"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Mercancías peligrosas",
+    "text": "Los líquidos inflamables deben transportarse:",
+    "options": ["En envases seguros y siguiendo normas de cantidad máxima", "En bolsillos de pasajeros", "En la cabina sin control", "Abiertos para ventilación"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Mercancías peligrosas",
+    "text": "Los gases comprimidos requieren:",
+    "options": ["Estar etiquetados, asegurar válvulas y manipular con cuidado", "Ser abiertos durante el vuelo", "Transportarse sin protección", "No transportarse nunca"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Mercancías peligrosas",
+    "text": "¿Qué acción se debe tomar ante un paquete sospechoso?",
+    "options": ["No manipular y notificar al comandante inmediatamente", "Abrirlo para revisar", "Moverlo al compartimento de equipaje", "Ignorarlo"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Mercancías peligrosas",
+    "text": "El almacenamiento de mercancías peligrosas en bodega requiere:",
+    "options": ["Separación por clases de peligro y sujeción segura", "Apilarlas sin control", "Guardarlas en la cabina", "Ignorar etiquetas"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Mercancías peligrosas",
+    "text": "Los materiales corrosivos pueden causar:",
+    "options": ["Quemaduras químicas y daños materiales", "Mareo pasajero", "Fiebre", "Resfriado"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Mercancías peligrosas",
+    "text": "Si un paquete peligroso se moja, se debe:",
+    "options": ["Aislar el área y notificar al comandante", "Secarlo con toalla normal", "Continuar transporte sin más", "Ignorarlo"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Mercancías peligrosas",
+    "text": "El transporte de sustancias infecciosas requiere:",
+    "options": ["Cumplir regulaciones específicas y embalaje certificado", "Solo etiquetar como frágil", "No transportarlas nunca", "Llevarlas en equipaje de mano"],
+    "correctIndex": 0
+  },
+  {
+    "topic": "Mercancías peligrosas",
+    "text": "La documentación de mercancías peligrosas debe incluir:",
+    "options": ["Hoja de declaración con tipo, cantidad y handling", "Solo el nombre del remitente", "Fecha de vuelo", "No requiere documentación"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_001",
+    "topic": "Mercancías Peligrosas",
+    "text": "Las etiquetas de las Mercancías Peligrosas pueden ser de dos clases:",
+    "options": [
+      "De clase y división",
+      "De grupo y de transporte",
+      "De manipulación y transporte",
+      "De riesgo y manipulación"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_002",
+    "topic": "Mercancías Peligrosas",
+    "text": "En el ámbito internacional, el manual de la IATA:",
+    "options": [
+      "Cumple con las instrucciones técnicas de OACI",
+      "Puede ser más restrictivo que las instrucciones técnicas de OACI",
+      "Todas las respuestas son correctas",
+      "No tiene valor legal"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_003",
+    "topic": "Mercancías Peligrosas",
+    "text": "Según las EU-OPS R, un accidente imputable a MMPP es aquel en el que:",
+    "options": [
+      "El suceso se atribuye al transporte de MMPP por vía aérea abordo de una aeronave de carga",
+      "Se producen lesiones mortales o graves a personas o daños importantes a bienes",
+      "Se producen lesiones mortales o graves a personas y daños importantes a bienes",
+      "Las respuestas A y B son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_004",
+    "topic": "Mercancías Peligrosas",
+    "text": "Atendiendo a su composición, los embalajes se califican como:",
+    "options": [
+      "Únicos y combinados",
+      "Únicos y dobles",
+      "Únicos, dobles y triples",
+      "De plástico y de madera"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_005",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Quién se encargará de informar al personal de la compañía aérea involucrado en el transporte de MMPP?",
+    "options": [
+      "El expedidor",
+      "El explotador",
+      "La administración pública relacionada",
+      "El piloto al mando"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_006",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Quién es el encargado de aceptar las Mercancías Peligrosas para su transporte y estibarlas correctamente?",
+    "options": [
+      "El expedidor",
+      "El explotador",
+      "La administración pública relacionada",
+      "El piloto al mando"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_007",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué diferencia visual existe entre las etiquetas de riesgo primario y secundario?",
+    "options": [
+      "Las de riesgo primario ostentan un índice en el vértice inferior",
+      "Las de riesgo secundario incorporan el grado de compatibilidad",
+      "El color es el mismo, pero el tamaño no",
+      "No existe ninguna diferencia de diseño"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_008",
+    "topic": "Mercancías Peligrosas",
+    "text": "Según el Anexo 18, las MMPP que se puedan transportar por vía aérea respetando todas las disposiciones se denominan:",
+    "options": [
+      "Aceptables o permitidas",
+      "No aceptables",
+      "Exceptuadas en cantidades exentas",
+      "Exceptuadas en cantidades limitadas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_009",
+    "topic": "Mercancías Peligrosas",
+    "text": "Las MMPP exceptuadas pueden ser:",
+    "options": [
+      "Propiedad del transportista",
+      "En cantidades exentas o limitadas",
+      "Disposiciones especiales si son transportadas por pasajeros o tripulación",
+      "Todas las respuestas anteriores son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_010",
+    "topic": "Mercancías Peligrosas",
+    "text": "Las mercancias usadas para catering, venta a bordo o equipo de emergencia del avión se consideran:",
+    "options": [
+      "MMPP exceptuadas propiedad del transportista",
+      "MMPP exceptuadas en cantidades exentas",
+      "MMPP exceptuadas en cantidades limitadas",
+      "MMPP escondidas en otras mercancias aparentemente no peligrosas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_011",
+    "topic": "Mercancías Peligrosas",
+    "text": "Las Mercancías Peligrosas que se pueden transportar en cantidades muy pequeñas y exentas de marcado, se denominan:",
+    "options": [
+      "MMPP exceptuadas propiedad del transportista",
+      "MMPP exceptuadas en cantidades exentas",
+      "MMPP exceptuadas en cantidades limitadas",
+      "MMPP escondidas en otras mercancias aparentemente no peligrosas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_012",
+    "topic": "Mercancías Peligrosas",
+    "text": "Las MMPP que se pueden transportar en cantidades limitadas y con embalaje marcado con letra 'Y' se denominan:",
+    "options": [
+      "MMPP exceptuadas propiedad del transportista",
+      "MMPP exceptuadas en cantidades exentas",
+      "MMPP exceptuadas en cantidades limitadas",
+      "MMPP escondidas en otras mercancias aparentemente no peligrosas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_013",
+    "topic": "Mercancías Peligrosas",
+    "text": "De los siguientes artículos, ¿cuáles pueden contener MMPP ocultas?",
+    "options": [
+      "Suministros médicos",
+      "Frutas congeladas",
+      "Menaje de casa",
+      "Todas las respuestas anteriores son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_014",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los desechos biomédicos son considerados MMPP de clase:",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "No son MMPP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_015",
+    "topic": "Mercancías Peligrosas",
+    "text": "El butano es un ejemplo de MMPP de clase:",
+    "options": [
+      "1",
+      "2",
+      "5",
+      "9"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_016",
+    "topic": "Mercancías Peligrosas",
+    "text": "El documento que suministra al piloto la información necesaria para transportar MMPP se denomina:",
+    "options": [
+      "Air Waybill",
+      "Declaración del expedidor de MMPP",
+      "Lista de verificación de MMPP",
+      "NOTOC"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_017",
+    "topic": "Mercancías Peligrosas",
+    "text": "La declaración del expedidor de MMPP basada en IATA debe:",
+    "options": [
+      "Ser una prueba de veracidad del transporte",
+      "Estar redactada en inglés, pudiendo ir acompañada de traducción fiel a otro idioma",
+      "Las respuestas A y B son correctas",
+      "Solo es obligatoria en transporte internacional"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_018",
+    "topic": "Mercancías Peligrosas",
+    "text": "En la tabla de procedimientos de respuesta de emergencias para aeronaves encontramos:",
+    "options": [
+      "Uno o varios procedimientos que ayudan a resolver incidentes como fuego en lavabo o despresurización",
+      "Una clave alfanumérica que indica un procedimiento de emergencia",
+      "Procedimientos a aplicar no relacionados con MMPP",
+      "Un código de cuatro dígitos que identifica la MMPP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_019",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si la aeronave no dispone de equipo de emergencia para manipular MMPP, se pueden usar:",
+    "options": [
+      "Bolsas de polietileno",
+      "Toallas de papel o periódicos",
+      "Bolsas para mareo",
+      "Todas las respuestas anteriores son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_020",
+    "topic": "Mercancías Peligrosas",
+    "text": "En un código de respuesta de emergencia para aeronaves, la letra 'M' significa:",
+    "options": [
+      "Muy combustible",
+      "Escaso o ningún otro riesgo",
+      "Si se moja emite gases venenosos o inflamables",
+      "Material magnético"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_021",
+    "topic": "Mercancías Peligrosas",
+    "text": "Para la protección de las manos ante un derrame de MMPP debemos disponer de:",
+    "options": [
+      "Tenazas",
+      "Guantes piro-resistentes",
+      "Guantes de cocina",
+      "Guantes de amianto"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_022",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si se detectan emanaciones de vapores debido a un derrame de MMPP, lo primero que debe hacer un TCP es:",
+    "options": [
+      "Aislar la MMPP en un lavabo alejado del puesto de pilotaje",
+      "Respirar con un paño húmedo y ponerse el equipo de protección",
+      "Abrir las salidas del aire acondicionado",
+      "Todas las anteriores"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_023",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué significan las siglas 'NU-UN'?",
+    "options": [
+      "Número de la Unidad Nacional",
+      "Número de las Naciones Unidas",
+      "Ambas son correctas",
+      "Ninguna es correcta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_024",
+    "topic": "Mercancías Peligrosas",
+    "text": "La división de embalajes en grupos I, II, III se hace en función de:",
+    "options": [
+      "El tamaño",
+      "La resistencia al impacto",
+      "La peligrosidad de la mercancía que contiene",
+      "El tipo de avión en que se pueda transportar"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_025",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los materiales radioactivos se pueden transportar como equipaje personal:",
+    "options": [
+      "Siempre con autorización de la compañía",
+      "No están autorizados",
+      "Sí, con aviso a la tripulación",
+      "Ninguna es correcta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_026",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los materiales radioactivos pertenecen a:",
+    "options": [
+      "No son mercancias peligrosas",
+      "Clase 9",
+      "Clase 7",
+      "Ninguna es correcta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_027",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿A qué clase pertenece el hielo seco?",
+    "options": [
+      "Clase 1",
+      "Clase 9",
+      "Clase 8",
+      "Ninguna de las anteriores"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_028",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué significa las siglas CAO?",
+    "options": [
+      "Solo en aviones de cargo",
+      "Carga máxima en aviones",
+      "Carga Aérea Ocupacional",
+      "Cargo Aircraft On Ground"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_029",
+    "topic": "Mercancías Peligrosas",
+    "text": "Las mercancias peligrosas se dividen en:",
+    "options": [
+      "Tipos y subtipos",
+      "Grupos y subgrupos",
+      "Clases y divisiones, siempre",
+      "Clases y divisiones, aunque existen clases que no ostentan divisiones"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_030",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuántas clases de mercancias peligrosas existen?",
+    "options": [
+      "9",
+      "8",
+      "10",
+      "11"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_031",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuáles son las medidas iniciales que debe tomar un TCP ante un incidente relacionado con MMPP?",
+    "options": [
+      "Notificar al comandante e identificar el producto",
+      "Identificar el producto y refrigerarlo con un extintor de agua",
+      "Accionar las máscaras de oxígeno de los pasajeros",
+      "Notificar al comandante y al sobrecargo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_032",
+    "topic": "Mercancías Peligrosas",
+    "text": "Mercancía prohibida totalmente su transporte por vía aérea:",
+    "options": [
+      "Marcapasos que contengan pilas de litio",
+      "Explosivos con clorato y sales de amonio",
+      "Munición para uso deportivo",
+      "Cilindro de dióxido de carbono"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_033",
+    "topic": "Mercancías Peligrosas",
+    "text": "La clase 1 de mercancias peligrosas corresponde a:",
+    "options": [
+      "Explosivos",
+      "Gases comprimidos, licuados, disueltos a presión o refrigerados",
+      "Líquidos inflamables",
+      "Sustancias oxidantes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_034",
+    "topic": "Mercancías Peligrosas",
+    "text": "Las mercancias de clase 1 deben llevar etiqueta de color:",
+    "options": [
+      "Blanco",
+      "Verde",
+      "Rojo",
+      "Naranja"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_035",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Dónde deben ir alojadas las municiones para uso deportivo?",
+    "options": [
+      "No se puede transportar ninguna clase de munición",
+      "En equipaje facturado sujeto a limitaciones",
+      "Si el pasajero es de confianza, puede llevarlas consigo",
+      "En un vuelo distinto al del pasajero"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_036",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Puede emitir una compañía aérea normativa que varíe parcialmente la normativa internacional sobre MMPP?",
+    "options": [
+      "No, las compañías deben cumplir estrictamente la ley",
+      "No, solo los Estados poseen esa capacidad",
+      "Sí, pero debe cumplir lo dispuesto en la reglamentación internacional",
+      "Sí, siempre que garantice niveles de seguridad aceptables"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_037",
+    "topic": "Mercancías Peligrosas",
+    "text": "En el ámbito internacional, la legislación sobre MMPP aparece en el Anexo:",
+    "options": [
+      "Anexo 15",
+      "Anexo 18",
+      "Anexo 18 y el manual IATA",
+      "Anexo 17"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_038",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Podemos definir una mercancía peligrosa para aviación como?",
+    "options": [
+      "Sustancias que en contacto con el aire pueden causar fuego",
+      "Artículos o sustancias capaces de poner en riesgo la salud, seguridad, propiedad o medio ambiente durante transporte aéreo",
+      "Artículos o sustancias que ponen en riesgo la salud, seguridad, propiedad o medio ambiente al contacto con agua, aire u otras mercancías peligrosas",
+      "Ninguna definición es correcta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_039",
+    "topic": "Mercancías Peligrosas",
+    "text": "Según el Anexo 18, las mercancias peligrosas por vía aérea pueden ser:",
+    "options": [
+      "Aceptables, prohibidas o exceptuadas/exentas",
+      "No permitidas y peligrosas",
+      "Mercancías peligrosas para aviones de carga y pasajeros",
+      "Exentas, en cantidades limitadas o propiedad del transportista"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_040",
+    "topic": "Mercancías Peligrosas",
+    "text": "Cuando una mercancía peligrosa inicialmente prohibida puede volar:",
+    "options": [
+      "Nunca, porque está prohibida",
+      "Si la compañía lo autoriza mediante dispensa",
+      "Si lo autorizan los Estados implicados mediante dispensa",
+      "Si el pasajero firma un descargo de responsabilidad"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_041",
+    "topic": "Mercancías Peligrosas",
+    "text": "El dióxido de carbono en estado sólido (hielo seco) para uso en bebidas y servicio a bordo es:",
+    "options": [
+      "MP prohibida",
+      "MP exceptuada propiedad del transportista",
+      "MP en cantidades limitadas",
+      "Disposiciones especiales para MP transportadas por pasajeros y tripulación"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_042",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cómo clasificarías una caja que contiene material pirotécnico?",
+    "options": [
+      "Explosivos",
+      "Líquidos inflamables",
+      "Sustancias Tóxicas",
+      "Radioactivos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_043",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Puede un pasajero transportar hielo seco?",
+    "options": [
+      "Sí, hasta 2,5 kg en equipaje facturado o de mano con autorización",
+      "Sí, hasta 2 kg encima del pasajero",
+      "No, solo puede transportarse en bultos de la compañía",
+      "Sí, hasta 5 kg en equipaje facturado o de mano con autorización"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_044",
+    "topic": "Mercancías Peligrosas",
+    "text": "El NOTOC incluye:",
+    "options": [
+      "Toda la mercancía peligrosa que lleva el avión",
+      "Todo el equipaje y número de pasajeros",
+      "La mercancía diferenciada llevada a bordo, como animales vivos",
+      "A y C son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_045",
+    "topic": "Mercancías Peligrosas",
+    "text": "Qué mercancía de las enumeradas puede transportarse como equipaje de mano?",
+    "options": [
+      "Bebidas alcohólicas >70% de alcohol",
+      "Artículos medicinales o de tocador no radioactivos (<2 kg netos)",
+      "Cartuchos de uso deportivo",
+      "Maletines con pilas de litio o material pirotécnico"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_046",
+    "topic": "Mercancías Peligrosas",
+    "text": "Qué mercancías no puede transportar el pasajero en su persona o equipaje de mano?",
+    "options": [
+      "Cerillas de seguridad",
+      "Encendedor para uso personal de gas licuado",
+      "Encendedor de combustible líquido no absorbido",
+      "Encendedor piezoeléctrico"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_047",
+    "topic": "Mercancías Peligrosas",
+    "text": "Tras un accidente o incidente a bordo, los restos del producto se deben guardar:",
+    "options": [
+      "Cerca de una salida de emergencia",
+      "En el puesto de pilotaje",
+      "Cerca de la estación de TCP con material de emergencia",
+      "En un lavabo alejado del puesto de pilotaje"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_048",
+    "topic": "Mercancías Peligrosas",
+    "text": "Todo bulto de MMPP será marcado con:",
+    "options": [
+      "Etiqueta de destino y número de vuelo",
+      "Denominación del artículo y número ONU asignado",
+      "Condiciones de embalaje",
+      "Nombre del expedidor"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_049",
+    "topic": "Mercancías Peligrosas",
+    "text": "Existe un procedimiento mediante el que un Estado puede emitir una diferencia en su normativa nacional respecto al Manual de IATA o Anexo 18:",
+    "options": [
+      "Sí, notificando y la diferencia no será menos restrictiva",
+      "Sí, notificando y la diferencia podrá ser menos restrictiva",
+      "Sí, solo en el caso del Manual de IATA",
+      "Sí, solo en el caso del Anexo 18"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_050",
+    "topic": "Mercancías Peligrosas",
+    "text": "Las pequeñas bombonas de oxígeno para uso medicinal:",
+    "options": [
+      "Pueden transportarse con autorización dentro del equipaje de mano o facturado",
+      "No pueden transportarse de ninguna manera",
+      "Deben llevar sus etiquetas de número y división",
+      "Tienen que ir debidamente embaladas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_051",
+    "topic": "Mercancías Peligrosas",
+    "text": "Todo líquido que pueda inflamarse espontáneamente en contacto con el aire se denomina:",
+    "options": [
+      "Explosivo",
+      "Piroférico",
+      "Inflamable",
+      "Combustible"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_052",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si se detectan emanaciones de vapores, los pasajeros:",
+    "options": [
+      "Aislarán la mercancía",
+      "Respirarán a través de un paño húmedo",
+      "Usarán las mascarillas del sistema fijo de oxígeno",
+      "Utilizarán las botellas de oxígeno portátiles"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_053",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuáles son las MMPP correspondientes a las clases 3-1-7-4.2?",
+    "options": [
+      "Explosivos, líquidos inflamables, gases y materiales radioactivos",
+      "Líquidos inflamables, materiales radioactivos, explosivos y gases",
+      "Líquidos inflamables, explosivos, materiales radioactivos y sólidos inflamables",
+      "Explosivos, sustancias comburentes, materiales radioactivos y gases"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_054",
+    "topic": "Mercancías Peligrosas",
+    "text": "Las etiquetas identificativas de productos que pueden producir corrosión llevarán como símbolo:",
+    "options": [
+      "Una llama",
+      "Un tubo de ensayo goteando",
+      "Una turbina",
+      "Nada de lo anterior"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_055",
+    "topic": "Mercancías Peligrosas",
+    "text": "Las etiquetas de riesgo de la clase cuatro son de color:",
+    "options": [
+      "Naranja",
+      "Negro",
+      "Verde",
+      "Rojo, blanco y azul"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_056",
+    "topic": "Mercancías Peligrosas",
+    "text": "Qué información debe recibir el piloto al mando de una aeronave que lleve MMPP?",
+    "options": [
+      "Identificación de la mercancía",
+      "Certificación de que están en buenas condiciones de transporte",
+      "Ubicación de estiba",
+      "Todas ellas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_057",
+    "topic": "Mercancías Peligrosas",
+    "text": "Cuál de los siguientes elementos NO es susceptible de contener MMPP?",
+    "options": [
+      "Botiquín médico",
+      "Paquetes de tabaco",
+      "Neceser de higiene",
+      "Material fotográfico"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_058",
+    "topic": "Mercancías Peligrosas",
+    "text": "En caso de incidente en vuelo con MMPP es recomendable:",
+    "options": [
+      "Cortar la circulación del aire de cabina",
+      "Mantener la presión diferencial lo más alta posible en daños estructurales",
+      "Poner a funcionar el aire acondicionado al máximo expulsando aire al exterior",
+      "Todas con ciertas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_059",
+    "topic": "Mercancías Peligrosas",
+    "text": "A quién le corresponde establecer los procedimientos para los ensayos de idoneidad en los embalajes?",
+    "options": [
+      "Al expedidor",
+      "Al explotador",
+      "A la administración pública",
+      "Al agente de carga"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_060",
+    "topic": "Mercancías Peligrosas",
+    "text": "En qué idioma deben estar las marcas de los bultos?",
+    "options": [
+      "Inglés y otro idioma exigido por el Estado de origen",
+      "Solo en inglés",
+      "En todos los idiomas OAC",
+      "En chino mandarín, japonés y alemán"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_061",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Puede una pasajera llevar en su equipaje de mano un aerosol irritante de defensa personal de 100 ml?",
+    "options": [
+      "Sí, siempre que firme un pliego de descargo de responsabilidad",
+      "No, la cantidad supera los 50 ml autorizados para cualquier líquido",
+      "No, se considera mercancia peligrosa prohibida",
+      "Sí, con autorización expresa del Ministerio del Interior y aceptación del comandante"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_062",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Puede un pasajero llevar munición para uso deportivo en el equipaje facturado?",
+    "options": [
+      "No puede viajar con ninguna cantidad de munición para uso personal",
+      "Sí, siempre que lo desee y podrá llevar hasta 10 kg",
+      "No se puede llevar de ningún tipo en aviones de pasajeros",
+      "Sí, siempre que vaya embalada de forma segura, separada del arma y <5 kg"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_063",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Puede un pasajero transportar en equipaje de mano una cajita de cerillas de tipo “encendido universal”?",
+    "options": [
+      "Sí, si el fósforo de las cerillas pesa menos de 50 gramos",
+      "No, no debe, estas cerillas están prohibidas",
+      "Todas las cerillas y encendedores son aceptables si son para uso personal",
+      "Sí, si no hay limitación expresa de la compañía"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_064",
+    "topic": "Mercancías Peligrosas",
+    "text": "Qué representa la etiqueta señalada?",
+    "options": [
+      "Líquidos no inflamables",
+      "Solo en aviones de carga",
+      "Sustancias peligrosas varias",
+      "Materiales corrosivos"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_065",
+    "topic": "Mercancías Peligrosas",
+    "text": "Cada cuánto tiempo como máximo debemos refrescarnos en materia de MMPP?",
+    "options": [
+      "Entrenamiento cada nuevo curso de conversión o cambio de operador",
+      "Entrenamiento periódico cada nuevo curso de conversión",
+      "Entrenamiento periódico a intervalos no mayores de un año",
+      "Entrenamiento periódico a intervalos no mayores de dos años"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_066",
+    "topic": "Mercancías Peligrosas",
+    "text": "Etiqueta de mercancía peligrosa de la división 4.3 con llama negra/blanca sobre fondo azul representa:",
+    "options": [
+      "Artículos y sustancias que tienen riesgo de incendio",
+      "Sustancia que al contacto con agua desprende gases inflamables",
+      "Sustancias líquidas que pueden causar corrosión severa",
+      "Líquidos criogénicos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_067",
+    "topic": "Mercancías Peligrosas",
+    "text": "Ante un accidente a bordo por derrame de MMPP inespecíficas, ¿es conveniente usar agua para neutralizar?",
+    "options": [
+      "Sí, el agua diluye y reduce la nocividad",
+      "No, podría extender el derrame o aumentar emanaciones",
+      "No, es mejor usar serrín o arena",
+      "No debemos hacer nada hasta aterrizar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_068",
+    "topic": "Mercancías Peligrosas",
+    "text": "La categoría 1 de la clase 7:",
+    "options": [
+      "Lleva un índice de transporte de 5uSv",
+      "Lleva la etiqueta de color amarillo",
+      "La etiqueta de color blanco",
+      "La etiqueta es blanca y amarilla"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_069",
+    "topic": "Mercancías Peligrosas",
+    "text": "Contenido del kit para enfrentar un incidente con MMPP:",
+    "options": [
+      "Varias bolsas de polietileno y guantes piro-resistentes",
+      "Cajas de comida y bebidas y guantes de cocina",
+      "Capucha anti-humo (PBE) y equipo portátil de oxígeno",
+      "Papel secante y prendas de ropa para repartir entre pasajeros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_070",
+    "topic": "Mercancías Peligrosas",
+    "text": "Según el manual IATA, medidas mínimas de etiquetas de riesgo:",
+    "options": [
+      "100x100 mm salvo especificación contraria",
+      "Máximo de 100x100 mm salvo especificación contraria",
+      "Depende del tamaño del bulto o embalaje",
+      "No existe normativa específica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_071",
+    "topic": "Mercancías Peligrosas",
+    "text": "Con respecto al transporte de MMPP es falso que deban estar:",
+    "options": [
+      "Adecuadamente embaladas",
+      "Convenientemente etiquetadas",
+      "Acompañadas de la documentación correspondiente",
+      "Supervisadas por el Comandante en todo momento"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_072",
+    "topic": "Mercancías Peligrosas",
+    "text": "Qué artículos se pueden llevar a bordo pero requieren informar al comandante de la ubicación?",
+    "options": [
+      "Cilindros pequeños de dióxido de carbono y fósforo de seguridad",
+      "Bebidas alcohólicas y hielo seco",
+      "Sillas de ruedas con acumuladores derramables",
+      "Cartuchos deportivos"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_073",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es la función principal de la 'Declaración del Expedidor' (Shipper's Declaration)?",
+    "options": ["Garantizar que el paquete ha sido abierto por seguridad", "Certificar que las mercancías han sido identificadas, clasificadas, embaladas, etiquetadas y documentadas según la reglamentación", "Indicar el precio del flete aéreo", "Especificar el nombre del piloto al mando"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_074",
+    "topic": "Mercancías Peligrosas",
+    "text": "La reglamentación de Mercancías Peligrosas de la IATA (DGR) se basa en el documento de la OACI conocido como:",
+    "options": ["Anexo 6", "Instrucciones Técnicas de la OACI (Doc 9284)", "Anexo 17", "Manual de Aeropuertos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_075",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP está totalmente **prohibida** para el transporte aéreo, incluso en aviones de carga?",
+    "options": ["Gases no inflamables (Clase 2.2)", "Explosivos con riesgo de explosión masiva (Clase 1.1)", "Líquidos inflamables (Clase 3)", "Material radioactivo (Clase 7)"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_076",
+    "topic": "Mercancías Peligrosas",
+    "text": "La etiqueta de riesgo de la Clase 2.1 (Gases Inflamables) tiene el símbolo de una llama sobre un fondo de color:",
+    "options": ["Blanco", "Rojo", "Verde", "Azul"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_077",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es la cantidad máxima permitida de bebidas alcohólicas (con un contenido alcohólico entre 24% y 70%) que un pasajero puede llevar en el equipaje facturado?",
+    "options": ["5 litros por persona", "Sin límite", "1 litro por persona", "No están permitidas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_078",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si un pasajero lleva un termómetro de mercurio para uso personal en su equipaje facturado, ¿qué precaución adicional se requiere?",
+    "options": ["Debe ir en su estuche protector y no puede sacarse del embalaje original", "Debe ir abierto para ventilación", "Debe ser reportado como 'frágil' solamente", "Está prohibido en todos los casos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_079",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué indica el 'Número UN' (o Número ONU) en el etiquetado de MMPP?",
+    "options": ["El número de vuelo", "Un número de teléfono de emergencia", "Un número de cuatro dígitos que identifica la sustancia peligrosa en el contexto del transporte internacional", "La fecha de caducidad"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_080",
+    "topic": "Mercancías Peligrosas",
+    "text": "El peróxido de hidrógeno es un ejemplo de MMPP de la Clase 5.1 (Sustancias Comburentes). ¿Qué color predomina en su etiqueta de riesgo?",
+    "options": ["Rojo", "Amarillo", "Verde", "Naranja"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_081",
+    "topic": "Mercancías Peligrosas",
+    "text": "En caso de incendio en la bodega, ¿qué clase de mercancía peligrosa presenta el mayor riesgo al entrar en contacto con el agua del extintor?",
+    "options": ["Líquidos inflamables (Clase 3)", "Explosivos (Clase 1)", "Sólidos que reaccionan con el agua (Clase 4.3)", "Gases no inflamables (Clase 2.2)"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_082",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué se considera una 'Mercancía Peligrosa Oculta' (Hidden Dangerous Goods)?",
+    "options": ["Aquella que está debidamente etiquetada pero mal ubicada", "Aquella que no está declarada ni etiquetada como peligrosa, pero lo es", "Mercancías peligrosas transportadas por la tripulación", "Cualquier mercancía que esté en la bodega"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_083",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los gases, como el oxígeno comprimido para uso médico, pertenecen a la Clase:",
+    "options": ["1", "2", "3", "5"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_084",
+    "topic": "Mercancías Peligrosas",
+    "text": "En el etiquetado, la ausencia de un índice de riesgo en la parte inferior de la etiqueta indica que es una etiqueta de:",
+    "options": ["Riesgo Primario", "Riesgo Secundario", "Manipulación", "Cantidad Limitada"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_085",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si un TCP sospecha que una caja sin etiqueta contiene MMPP, ¿cuál es el primer paso según el protocolo de cabina?",
+    "options": ["Abrir la caja inmediatamente para verificar", "Consultar el NOTOC", "Notificar inmediatamente al Comandante", "Intentar reubicar la caja en un área segura sin moverla"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_086",
+    "topic": "Mercancías Peligrosas",
+    "text": "El 'Equipo de Protección Personal' (EPP) esencial en caso de derrame de MMPP a bordo debe incluir:",
+    "options": ["Guantes de tela y gafas de sol", "Guantes de material resistente a químicos, gafas de seguridad y mascarillas o PBE", "Un chaleco reflectante", "Botas de seguridad"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_087",
+    "topic": "Mercancías Peligrosas",
+    "text": "El 'Air Waybill' (AWB) o Carta de Porte Aéreo es un documento que, en el transporte de MMPP, debe ir acompañado de:",
+    "options": ["El pasaporte del expedidor", "La Declaración del Expedidor de Mercancías Peligrosas", "El manifiesto de carga general", "El manual de procedimientos de la aerolínea"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_088",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es la principal preocupación del TCP con respecto al transporte de baterías de litio (iones o metal) sueltas en el equipaje de mano?",
+    "options": ["Su peso excesivo", "Riesgo de cortocircuito e incendio incontrolable", "Que ocupen demasiado espacio", "Que el pasajero las use para cargar el móvil"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_089",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los sólidos inflamables (ej. cerillas no de seguridad) pertenecen a la Clase:",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_090",
+    "topic": "Mercancías Peligrosas",
+    "text": "El límite de alcohol por volumen para que una bebida alcohólica sea considerada no peligrosa para el transporte es:",
+    "options": ["Menos del 24%", "Menos del 40%", "Menos del 70%", "Sin límite"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_091",
+    "topic": "Mercancías Peligrosas",
+    "text": "El símbolo de la etiqueta de riesgo de la Clase 6.1 (Sustancias Tóxicas) es:",
+    "options": ["Una calavera y tibias cruzadas", "Una llama", "Un ventilador", "Una bomba explosiva"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_092",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si un paquete en la bodega emite humo o calor, ¿dónde debe ser reubicado por la tripulación (si es seguro)?",
+    "options": ["En el galley (cocina) más cercano", "En un área de aislamiento designada (ej. un contenedor de contención o un área ventilada lejos de pasajeros y tripulación)", "Debajo de un asiento", "En el lavabo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_093",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP está representada por un rombo de fondo blanco con dos manos goteando sobre una barra de metal y otra mano?",
+    "options": ["Sustancias Infecciosas (Clase 6.2)", "Sustancias Radioactivas (Clase 7)", "Corrosivos (Clase 8)", "Explosivos (Clase 1)"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_094",
+    "topic": "Mercancías Peligrosas",
+    "text": "El marcaje 'CAUTION – LITHIUM BATTERY' debe figurar obligatoriamente en los bultos que contengan:",
+    "options": ["Comida congelada", "Baterías de litio pequeñas de repuesto", "Ropa", "Libros"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_095",
+    "topic": "Mercancías Peligrosas",
+    "text": "En el contexto de la OACI/IATA, ¿quién es el responsable final de la seguridad del vuelo y debe ser informado inmediatamente de cualquier incidente con MMPP?",
+    "options": ["El Agente de Carga", "El Jefe de Aeropuerto", "El Piloto al Mando (Comandante)", "El TCP con más antigüedad"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_096",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si un pasajero necesita usar un cilindro de oxígeno gaseoso para uso médico a bordo, ¿cuál es el requisito principal?",
+    "options": ["Debe ser propiedad del pasajero", "Debe ser provisto por la aerolínea y aprobado para uso a bordo", "Debe ser guardado en la bodega", "No se permite en ningún caso"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_097",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los gases criogénicos licuados (ej. nitrógeno líquido) pertenecen a la Clase:",
+    "options": ["2.2 (Gases no inflamables)", "3 (Líquidos inflamables)", "5.1 (Comburentes)", "7 (Radioactivos)"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_098",
+    "topic": "Mercancías Peligrosas",
+    "text": "El marcaje 'Cargo Aircraft Only' (CAO) en un paquete significa que:",
+    "options": ["Puede ir tanto en aviones de pasajeros como de carga", "Solo puede ser transportado en aviones de carga, y no en aviones de pasajeros", "Debe ir en cabina con un TCP", "Solo se transporta en vuelos nacionales"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_099",
+    "topic": "Mercancías Peligrosas",
+    "text": "La lista de verificación de aceptación de mercancías peligrosas (DGL) es utilizada por:",
+    "options": ["El pasajero", "El Piloto al Mando", "El Personal de Tierra del Explotador que acepta la carga", "El personal de limpieza"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_100",
+    "topic": "Mercancías Peligrosas",
+    "text": "Un artículo que puede transportar un pasajero sin requerir notificación al comandante es:",
+    "options": ["Una silla de ruedas eléctrica con batería derramable", "Un rizador de pelo de gas hidrocarburo (con cubierta de seguridad)", "Un cilindro de oxígeno medicinal de la aerolínea", "Munición para uso deportivo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_101",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué acción está **prohibida** al manejar un bulto que contiene material radioactivo (Clase 7)?",
+    "options": ["Levantar el bulto con dos personas", "Rotar el bulto para cambiar la posición de la etiqueta", "Dejar el bulto cerca de películas fotográficas o pasajeros", "Usar guantes de goma"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_102",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los materiales que, al entrar en contacto con el agua, desprenden gases inflamables pertenecen a la Clase:",
+    "options": ["3 (Líquidos Inflamables)", "4.3 (Sólidos que desprenden gases inflamables por contacto con el agua)", "5.1 (Comburentes)", "8 (Corrosivos)"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_103",
+    "topic": "Mercancías Peligrosas",
+    "text": "La 'sustancia infecciosa' (Clase 6.2) más común transportada en aviación es:",
+    "options": ["Vacunas o muestras biológicas para diagnóstico", "Explosivos", "Baterías de coche", "Agua destilada"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_104",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si se produce un derrame de líquido no especificado en el NOTOC, el TCP debe asumir:",
+    "options": ["Que es agua, y limpiarlo", "Que es peligroso, y aplicar el protocolo de aislamiento y notificación", "Que es comida, y avisar a catering", "Que es combustible, y usar el extintor de Halón"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_105",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es la principal restricción para el transporte de encendedores de combustible líquido no absorbido (ej. tipo Zippo) por parte de los pasajeros?",
+    "options": ["Prohibido en cabina, permitido en bodega", "Prohibido en cabina y bodega", "Permitido en cabina en envase sellado", "Permitido en el bolsillo, encendido en todo momento"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_106",
+    "topic": "Mercancías Peligrosas",
+    "text": "El marcaje 'UN' seguido de un número de cuatro dígitos en la etiqueta es el:",
+    "options": ["Código Postal del Expedidor", "Número de la Organización de Aviación Civil Internacional (OACI)", "Número de las Naciones Unidas (ONU)", "Número de serie del bulto"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_107",
+    "topic": "Mercancías Peligrosas",
+    "text": "La etiqueta de Riesgo Secundario es necesaria cuando una MMPP tiene un riesgo adicional además del primario. ¿Dónde se debe colocar?",
+    "options": ["Solo en la parte inferior del paquete", "Junto a la etiqueta de Riesgo Primario, visible", "En el interior del bulto", "Solo en la Declaración del Expedidor"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_108",
+    "topic": "Mercancías Peligrosas",
+    "text": "El término 'OVERPACK' (Sobrembalaje) indica que:",
+    "options": ["El paquete es demasiado grande", "Varias MMPP están contenidas en un único embalaje exterior para facilidad de manipulación", "La mercancía peligrosa está prohibida", "La mercancía peligrosa es radioactiva"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_109",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los 'Comburentes' (Clase 5.1) se caracterizan por:",
+    "options": ["Ser explosivos a bajas temperaturas", "Ser líquidos que se inflaman fácilmente", "Liberar oxígeno y causar o intensificar la combustión de otros materiales", "Ser muy corrosivos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_110",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es la clasificación de peligro para el hielo seco (dióxido de carbono sólido)?",
+    "options": ["Clase 2.2 (Gases no inflamables, no tóxicos)", "Clase 4.1 (Sólidos inflamables)", "Clase 9 (Mercancías Peligrosas Varias)", "Clase 8 (Corrosivos)"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_111",
+    "topic": "Mercancías Peligrosas",
+    "text": "Para el transporte de un cilindro pequeño de dióxido de carbono para chalecos salvavidas, el pasajero debe:",
+    "options": ["Informar a la aerolínea y al comandante", "Llevarlo en el bolsillo", "Transportar solo la carcasa sin el gas", "Está prohibido en todos los casos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_112",
+    "topic": "Mercancías Peligrosas",
+    "text": "En el caso de un fuego de MMPP que involucra baterías de litio, ¿qué extintor es el más adecuado?",
+    "options": ["Agua (H2O)", "Halón (si está disponible y es seguro, aunque suprime, no enfría la reacción)", "Dióxido de Carbono (CO2)", "Póquer (Clase D)"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_113",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los productos que son potencialmente dañinos para el medio acuático son MMPP de la Clase:",
+    "options": ["3", "5.2", "7", "9 (Peligros Varios)"],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_114",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué debe hacer un TCP con un pasajero que se niega a deshacerse de una MMPP prohibida?",
+    "options": ["Permitirle abordar", "Confiscar la mercancía discretamente", "Avisar inmediatamente al Piloto al Mando, a la supervisión de la aerolínea y a seguridad", "Esperar hasta el despegue para resolverlo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_115",
+    "topic": "Mercancías Peligrosas",
+    "text": "La 'Provisión Especial A19' se aplica a MMPP que son:",
+    "options": ["Prohibidas y transportadas por dispensa", "Transportadas en cantidades limitadas", "Radioactivas de Categoría III", "MMPP Exceptuadas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_116",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los cilindros de gas para buceo, si están vacíos o con la válvula abierta, se consideran:",
+    "options": ["MMPP de Clase 2.1", "MMPP no restringidas", "MMPP de Clase 9", "Prohibidos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_117",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si se produce un incidente con MMPP en vuelo, el Piloto al Mando debe notificarlo a las autoridades tan pronto como sea posible, y a más tardar dentro de:",
+    "options": ["1 hora después del incidente", "24 horas después de aterrizar", "12 horas después de aterrizar", "7 días después del incidente"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_118",
+    "topic": "Mercancías Peligrosas",
+    "text": "La principal diferencia entre la Clase 3 (Líquidos Inflamables) y la Clase 4.1 (Sólidos Inflamables) es:",
+    "options": ["El número ONU", "El estado físico de la sustancia a 20°C y 101.3 kPa", "El color de la etiqueta", "El riesgo para el medio ambiente"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_119",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué símbolo predomina en la etiqueta de riesgo de la Clase 9 (Peligros Varios)?",
+    "options": ["Calavera", "Bomba explosiva", "Símbolo de peligro (9 rayado sobre fondo blanco)", "Llama"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_120",
+    "topic": "Mercancías Peligrosas",
+    "text": "La prohibición de llevar marcapasos o dispositivos médicos con litio implantados está:",
+    "options": ["Totalmente prohibida", "Permitida, ya que se consideran una excepción médica", "Permitida solo con declaración", "Solo permitida en aviones de carga"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_121",
+    "topic": "Mercancías Peligrosas",
+    "text": "En el caso de un derrame, ¿dónde se recomienda almacenar los restos contaminados antes de aterrizar?",
+    "options": ["En el armario del trolley de servicio", "En el lavabo de popa (si está equipado con un sistema de retención de derrames)", "En un asiento vacío", "En el compartimento de la tripulación"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_122",
+    "topic": "Mercancías Peligrosas",
+    "text": "El límite de vatios-hora (Wh) para que una batería de iones de litio (instalada en un dispositivo, ej. un ordenador) sea aceptable en equipaje de mano es:",
+    "options": ["Máximo 100 Wh", "Máximo 160 Wh", "Máximo 200 Wh", "Sin límite"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_123",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si un bulto lleva la etiqueta 'Excepted Quantity' (Cantidad Exceptuada), ¿qué requisito de documentación se relaja?",
+    "options": ["No requiere un número ONU", "No requiere la Declaración del Expedidor de Mercancías Peligrosas", "No requiere embalaje", "No requiere etiqueta de riesgo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_124",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Class 5.2 de MMPP (Peróxidos Orgánicos) se caracteriza por ser:",
+    "options": ["Muy sensibles a la corrosión", "Inestables térmicamente, pueden experimentar descomposición exotérmica", "Solo tóxicos", "Solo explosivos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_125",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP representa un mayor riesgo de explosión en caso de fuego a bordo?",
+    "options": ["Clase 1 (Explosivos)", "Clase 8 (Corrosivos)", "Clase 7 (Radioactivos)", "Clase 9 (Varios)"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_126",
+    "topic": "Mercancías Peligrosas",
+    "text": "El término 'Compatibilidad' en la Clase 1 (Explosivos) se refiere a:",
+    "options": ["La capacidad de volar con otras clases de MMPP", "La capacidad de diferentes explosivos de ser agrupados sin aumentar el riesgo de explosión", "El tamaño máximo del bulto", "El número de pasajeros a bordo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_127",
+    "topic": "Mercancías Peligrosas",
+    "text": "La principal diferencia entre el transporte de MMPP en aviones de pasajeros (PAX) y aviones de carga (CAO) es:",
+    "options": ["La temperatura de la bodega", "Las cantidades máximas permitidas de ciertas sustancias son mayores en CAO", "El tipo de extintor requerido", "El NOTOC no es necesario en CAO"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_128",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 6.2 (Sustancias Infecciosas) es crucial en la bioseguridad. ¿Cuál es su símbolo en la etiqueta?",
+    "options": ["Calavera y tibias", "El número 6.2", "Tres medias lunas superpuestas en un círculo", "Una llama"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_129",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué indicación se debe seguir inmediatamente si el Piloto al Mando informa de un fuego en la bodega que contiene MMPP?",
+    "options": ["Abrir la escotilla de la bodega", "Encender todas las luces de cabina", "Seguir las instrucciones de extinción y ventilación de la Tabla de Respuesta a Emergencias (Emergency Response Table)", "Evacuar inmediatamente"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_130",
+    "topic": "Mercancías Peligrosas",
+    "text": "Las botellas de gas para uso personal (ej. bombonas de camping) se prohíben en el equipaje de mano debido a su naturaleza:",
+    "options": ["Radioactiva", "Corrosiva", "Inflamable (Clase 2.1)", "Tóxica"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_131",
+    "topic": "Mercancías Peligrosas",
+    "text": "El embalaje de 'Grupo de Embalaje I' (Packing Group I) se aplica a sustancias de:",
+    "options": ["Peligro menor", "Peligro medio", "Peligro grande (máximo riesgo)", "Riesgo nulo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_132",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP puede causar daños graves a los ojos, la piel y metales, incluso a bajas concentraciones?",
+    "options": ["Clase 2 (Gases)", "Clase 7 (Radioactivos)", "Clase 8 (Corrosivos)", "Clase 6.1 (Tóxicos)"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_133",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si un bulto de Clase 7 (Radioactivos) tiene la etiqueta 'Yellow III' (Amarillo III), significa que:",
+    "options": ["Tiene el mayor nivel de radiación en la superficie (índice de transporte más alto)", "Es apto solo para aviones de carga", "No emite radiación", "Es un bulto vacío"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_134",
+    "topic": "Mercancías Peligrosas",
+    "text": "El número de clases de Mercancías Peligrosas según IATA/OACI es:",
+    "options": ["8", "9", "10", "11"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_135",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con la etiqueta 'Limited Quantity' (Cantidad Limitada) pueden ser reconocidos por el marcaje que incluye:",
+    "options": ["La letra 'Y'", "El número ONU sin el UN", "Un símbolo de diamante con bordes negros", "Una etiqueta completamente naranja"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_136",
+    "topic": "Mercancías Peligrosas",
+    "text": "La reglamentación establece que las MMPP deben estar segregadas unas de otras según su:",
+    "options": ["Color", "Clase de peligro y grupo de compatibilidad (cuando corresponda)", "Precio", "Origen"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_137",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si un bulto está marcado con 'Aerosols, flammable, UN1950', ¿A qué clase y división pertenece?",
+    "options": ["Clase 3, División 3.1", "Clase 2, División 2.1", "Clase 4.1, División 4.1", "Clase 9"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_138",
+    "topic": "Mercancías Peligrosas",
+    "text": "En caso de derrame de una sustancia corrosiva (Clase 8), la principal acción de limpieza debe ser:",
+    "options": ["Usar un paño húmedo y secar", "Neutralizar el ácido o base con un material absorbente específico y luego eliminarlo según protocolo", "Usar extintor de Halón", "Lavar con mucha agua (que puede extender el derrame)"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_139",
+    "topic": "Mercancías Peligrosas",
+    "text": "El TCP debe inspeccionar los lavabos con frecuencia, especialmente por el riesgo de:",
+    "options": ["Incendios ocultos (fumar)", "Riesgo de explosión de cilindros", "Derrames de MMPP de la bodega", "Inundación por agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_140",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es la principal restricción para el transporte de sillas de ruedas con baterías de litio por el pasajero?",
+    "options": ["Deben ir siempre en cabina", "La batería debe ser extraída (si el diseño lo permite) y transportada en cabina con las terminales protegidas", "Están totalmente prohibidas", "Deben ir en la cabina de pilotaje"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_141",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Class 4.2 se refiere a los 'Sólidos susceptibles de inflamación espontánea'. Esto ocurre al entrar en contacto con:",
+    "options": ["Agua", "Aceite", "El aire (sustancias pirofóricas)", "Luz solar"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_142",
+    "topic": "Mercancías Peligrosas",
+    "text": "El entrenamiento inicial de MMPP para TCP debe incluir obligatoriamente el conocimiento de:",
+    "options": ["Las regulaciones de IATA/OACI, procedimientos de emergencia y reconocimiento de etiquetas", "El precio del flete aéreo", "La historia de la aviación", "El diseño interior de la bodega"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_143",
+    "topic": "Mercancías Peligrosas",
+    "text": "Las aerolíneas pueden imponer 'Diferencias de Operador' (Operator Variations) que son:",
+    "options": ["Menos restrictivas que IATA", "Más restrictivas que IATA", "Una traducción de IATA", "Solo aplicables en tierra"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_144",
+    "topic": "Mercancías Peligrosas",
+    "text": "El transporte de explosivos (Clase 1) en aviones de pasajeros está:",
+    "options": ["Totalmente prohibido, con muy raras excepciones (división 1.4S)", "Permitido con NOTOC", "Permitido en el equipaje de mano", "Permitido sin restricciones"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_145",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué indicación se incluye en el NOTOC para la tripulación de cabina sobre la MMPP?",
+    "options": ["El número exacto de pasajeros", "La ubicación en la bodega y la acción en caso de emergencia", "El nombre del consignatario", "El peso de todo el equipaje facturado"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_146",
+    "topic": "Mercancías Peligrosas",
+    "text": "Las baterías de litio de repuesto (sueltas) deben transportarse:",
+    "options": ["En el equipaje facturado", "En el equipaje de mano, con los terminales protegidos individualmente", "No están permitidas", "En la cabina de pilotaje"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_147",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si el TCP identifica un olor inusual (ej. químico, ácido) en cabina, la primera medida es:",
+    "options": ["Asumir que es comida quemada", "Notificar inmediatamente al Piloto al Mando", "Abrir la puerta de la bodega", "Revisar los lavabos con el extintor"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_148",
+    "topic": "Mercancías Peligrosas",
+    "text": "La etiqueta de la Clase 6.1 (Tóxicos) tiene una calavera y tibias sobre fondo de color:",
+    "options": ["Rojo", "Verde", "Blanco", "Negro"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_149",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con etiqueta de riesgo radioactivo deben estar separados de:",
+    "options": ["Los alimentos, pasajeros y personal sensible (ej. mujeres embarazadas)", "El extintor de Halón", "Los otros bultos no peligrosos", "El agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_150",
+    "topic": "Mercancías Peligrosas",
+    "text": "La etiqueta de riesgo de la Clase 2.2 (Gases No Inflamables, No Tóxicos) tiene un símbolo de una botella de gas sobre fondo de color:",
+    "options": ["Rojo", "Verde", "Azul", "Blanco"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_151",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué indica el 'Packaging Group' (Grupo de Embalaje) en la documentación?",
+    "options": ["La fecha de embalaje", "El grado de peligro de la sustancia (I: Mayor; III: Menor)", "El tipo de avión en el que se transporta", "La persona que embaló la mercancía"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_152",
+    "topic": "Mercancías Peligrosas",
+    "text": "Una de las características de las MMPP es que pueden ser corrosivas, tóxicas, explosivas o:",
+    "options": ["Comestibles", "Magnéticas", "Generadoras de fuego", "Inertes"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_153",
+    "topic": "Mercancías Peligrosas",
+    "text": "El entrenamiento periódico de MMPP para TCP debe realizarse con una frecuencia máxima de:",
+    "options": ["Cada 3 años", "Cada 2 años", "Cada 1 año", "Cada 6 meses"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_154",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué debe hacer un pasajero que lleva un implante médico (ej. marcapasos) que contiene litio?",
+    "options": ["Informar a la tripulación antes de abordar", "Quitarse el dispositivo durante el vuelo", "No necesita hacer nada", "Solo se permite en aviones de carga"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_155",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si un bulto tiene riesgo de reacción con el agua (Clase 4.3), ¿qué método de extinción de fuego es el más seguro?",
+    "options": ["Extintor de agua", "Extintor de espuma", "Halón o polvo químico seco, o seguir el procedimiento específico del ERG (Emergency Response Guide)", "Abrir las puertas"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_156",
+    "topic": "Mercancías Peligrosas",
+    "text": "La prohibición de transportar líquidos inflamables en cabina se debe principalmente a:",
+    "options": ["Su olor", "Su alto riesgo de incendio y rápida propagación", "Su peso", "El riesgo de derrame en los asientos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_157",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es el riesgo primario del Hielo Seco (UN1845) en grandes cantidades?",
+    "options": ["Explosión", "Asfixia (por desplazamiento de oxígeno) y acumulación de presión en envases cerrados", "Corrosión", "Radioactividad"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_158",
+    "topic": "Mercancías Peligrosas",
+    "text": "Las sustancias que pueden encenderse por fricción o vibración pertenecen a la Clase:",
+    "options": ["3", "4.1 (Sólidos Inflamables)", "6.1", "9"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_159",
+    "topic": "Mercancías Peligrosas",
+    "text": "En el caso de un fuego de MMPP en cabina, ¿quién es el responsable de coordinar la lucha contra el fuego?",
+    "options": ["El Piloto al Mando (Comandante)", "El TCP más cercano", "El Sobrecargo (o SFS)", "El personal de seguridad en tierra"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_160",
+    "topic": "Mercancías Peligrosas",
+    "text": "El transporte de pequeños cilindros de oxígeno o aire gaseoso para uso médico está permitido si:",
+    "options": ["El cilindro es de la aerolínea o está autorizado y no excede 5 kg brutos", "El pasajero lo usa para bucear", "Está en el equipaje de mano sin protección", "Es de cualquier tamaño y peso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_161",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP representa un riesgo de radiación ionizante?",
+    "options": ["Clase 6.2", "Clase 7", "Clase 8", "Clase 9"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_162",
+    "topic": "Mercancías Peligrosas",
+    "text": "La 'Provisión Especial A19' aplica a sustancias que están técnicamente prohibidas pero que pueden transportarse bajo condiciones muy específicas de:",
+    "options": ["IATA", "OACI", "Dispensa/Excepción de los Estados involucrados", "El explotador"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_163",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué es una 'UN Specification Package'?",
+    "options": ["Un paquete sin etiquetar", "Un embalaje probado y certificado que cumple los estándares mínimos de OACI/IATA", "Un paquete de uso exclusivo militar", "Un paquete de cantidad limitada"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_164",
+    "topic": "Mercancías Peligrosas",
+    "text": "El riesgo de 'Barotrauma' en un paquete que contiene MMPP gaseosas ocurre principalmente durante:",
+    "options": ["El aterrizaje", "El crucero a alta altitud (expansión)", "El rodaje", "El reabastecimiento de combustible"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_165",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con 'Cargo Aircraft Only' (CAO) deben ser estibados:",
+    "options": ["En cualquier lugar de la aeronave", "Solo en la bodega delantera", "En lugares accesibles durante el vuelo por la tripulación (si lo requiere la sustancia)", "Junto a la cabina de pilotaje"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_166",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si una MMPP tiene un riesgo de corrosión (Clase 8) y toxicidad (Clase 6.1), ¿cuántas etiquetas de riesgo debe llevar?",
+    "options": ["Solo la primaria (Clase 8)", "Solo la secundaria (Clase 6.1)", "Dos etiquetas (Primaria y Secundaria)", "Ninguna, si es un CAO"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_167",
+    "topic": "Mercancías Peligrosas",
+    "text": "La 'Flashpoint' (Punto de Inflamación) es un parámetro crítico para la Clase:",
+    "options": ["1 (Explosivos)", "2 (Gases)", "3 (Líquidos Inflamables)", "7 (Radioactivos)"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_168",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con MMPP deben ser estibados de forma que las etiquetas de riesgo y manipulación sean:",
+    "options": ["Visibles", "Cubiertas por otros bultos", "Orientadas hacia la pared", "Solo visibles en el NOTOC"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_169",
+    "topic": "Mercancías Peligrosas",
+    "text": "El entrenamiento del TCP sobre MMPP debe ser impartido por:",
+    "options": ["Un TCP experimentado", "Personal de formación cualificado y aprobado por la autoridad competente (AESA)", "El Piloto al Mando", "Cualquier persona de la aerolínea"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_170",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si un bulto con MMPP muestra signos de daño, derrame o fuga, la tripulación de tierra debe:",
+    "options": ["Aceptarlo sin problema", "Rechazarlo o retirarlo para reembalaje o reparación", "Preguntar al expedidor si es seguro", "Transportarlo en el asiento del pasillo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_171",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es la principal restricción para el transporte de encendedores de seguridad (tipo 'safety matches')?",
+    "options": ["Prohibidos en cabina y bodega", "Solo permitidos en el equipaje de mano del pasajero (o en su persona)", "Solo permitidos en la bodega", "Prohibidos en Europa"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_172",
+    "topic": "Mercancías Peligrosas",
+    "text": "En el caso de un fuego de MMPP en un compartimento de carga cerrado, el sistema de extinción más común es:",
+    "options": ["Inundación con agua", "Inundación con Halón o agente supresor gaseoso", "Extintores de CO2", "Abrir la bodega para ventilación"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_173",
+    "topic": "Mercancías Peligrosas",
+    "text": "La etiqueta de riesgo de la Clase 3 (Líquidos Inflamables) tiene el símbolo de una llama sobre un fondo de color:",
+    "options": ["Verde", "Rojo", "Azul", "Blanco"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_174",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es el principal riesgo asociado al transporte de peróxidos orgánicos (Clase 5.2)?",
+    "options": ["Corrosión de metales", "Descomposición violenta y riesgo de explosión o fuego", "Radioactividad", "Riesgo de asfixia"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_175",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con la etiqueta 'Limited Quantity' (Cantidad Limitada) requieren el marcaje que incluye el símbolo de:",
+    "options": ["Una pila con fuego", "Una calavera", "Un diamante con bordes negros y el número UN", "El número 9 rayado"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_176",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si un pasajero lleva un rizador de pelo que contiene gas hidrocarburo, el requisito esencial es que:",
+    "options": ["Esté vacío de gas", "La cubierta de seguridad esté firmemente ajustada sobre el elemento calefactor", "Se use durante el vuelo", "Esté prohibido en cabina"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_177",
+    "topic": "Mercancías Peligrosas",
+    "text": "El material pirotécnico (fuegos artificiales) se clasifica como:",
+    "options": ["Clase 3", "Clase 1 (Explosivos)", "Clase 4.1", "Clase 9"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_178",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué prohibición aplica al transporte de un encendedor de butano que no tiene absorbente?",
+    "options": ["Solo se permite en la bodega", "Solo se permite en la cabina", "Solo se permite si está vacío", "Prohibido en persona, equipaje de mano y facturado"],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_179",
+    "topic": "Mercancías Peligrosas",
+    "text": "En el caso de un fuego de MMPP en cabina, ¿qué es lo primero que debe garantizar el TCP?",
+    "options": ["Apagar el fuego con agua", "Asegurar la ventilación", "Aislar la fuente de calor o el bulto y notificar al Comandante", "Abrir la puerta de la cabina de pilotaje"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_180",
+    "topic": "Mercancías Peligrosas",
+    "text": "El uso del 'Emergency Response Guidebook' (ERG) está diseñado para:",
+    "options": ["La tripulación de cabina en vuelo", "Personal de tierra y rescatistas, para identificar peligros y acciones iniciales", "Solo para el Piloto al Mando", "Pasajeros curiosos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_181",
+    "topic": "Mercancías Peligrosas",
+    "text": "La cantidad máxima de baterías de iones de litio de repuesto (entre 100 Wh y 160 Wh) que un pasajero puede llevar en el equipaje de mano es:",
+    "options": ["Ilimitado", "Máximo 2 unidades", "Máximo 5 unidades", "No están permitidas"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_182",
+    "topic": "Mercancías Peligrosas",
+    "text": "La clase 7 (Radioactivos) tiene tres categorías de etiquetas: Blanca I, Amarilla II y:",
+    "options": ["Verde I", "Amarilla III", "Roja I", "Azul II"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_183",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con la etiqueta de 'Cargo Aircraft Only' (CAO) deben ser estibados de forma que:",
+    "options": ["Estén cerca de los pasajeros", "Sean accesibles en vuelo por la tripulación (si lo requiere la sustancia)", "Estén en el compartimento de animales vivos", "Estén lo más lejos posible de los extintores"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_184",
+    "topic": "Mercancías Peligrosas",
+    "text": "La reglamentación de IATA es actualizada anualmente para incorporar cambios y lecciones aprendidas de:",
+    "options": ["OACI y la industria", "Solo los fabricantes de aviones", "Solo las aerolíneas pequeñas", "Solo los pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_185",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si un bulto tiene riesgo de toxicidad (Clase 6.1) y corrosión (Clase 8), ¿cuál de los dos suele ser el riesgo primario?",
+    "options": ["Siempre la toxicidad", "Depende de la sustancia y se define en la reglamentación (puede ser cualquiera)", "Siempre la corrosión", "Ninguno de los dos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_186",
+    "topic": "Mercancías Peligrosas",
+    "text": "El uso de la 'Capucha Anti-Humo' (PBE) en un incidente con MMPP es esencial para proteger al TCP de:",
+    "options": ["El calor", "La falta de luz", "Gases tóxicos o vapores irritantes", "El ruido del avión"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_187",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es la clase de MMPP a la que pertenece el gas lacrimógeno?",
+    "options": ["Clase 2.3 (Gases Tóxicos)", "Clase 1.4", "Clase 9", "Clase 8"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_188",
+    "topic": "Mercancías Peligrosas",
+    "text": "El bulto con la etiqueta 'Cryogenic Liquid' se asocia a la Clase:",
+    "options": ["2.3", "3", "2.2", "4.1"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_189",
+    "topic": "Mercancías Peligrosas",
+    "text": "El propósito del 'Packaging Group' (Grupo de Embalaje) es:",
+    "options": ["Determinar el color del embalaje", "Indicar el nivel de protección necesario para contener la sustancia", "Determinar la temperatura de transporte", "Indicar el país de origen"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_190",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué acción está permitida para el pasajero con respecto a los líquidos inflamables?",
+    "options": ["Llevar una pequeña cantidad de perfume (artículo de tocador) en su equipaje", "Llevar un bidón de gasolina en el coche", "Llevar un bote de pintura de aceite", "Llevar un encendedor de combustible líquido no absorbido"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_191",
+    "topic": "Mercancías Peligrosas",
+    "text": "La segregación de las MMPP en la bodega se realiza para prevenir:",
+    "options": ["La corrosión de la estructura del avión", "El contacto entre sustancias incompatibles que podrían reaccionar violentamente", "El exceso de peso", "El ruido"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_192",
+    "topic": "Mercancías Peligrosas",
+    "text": "El riesgo de asfixia del Hielo Seco (Clase 9) se debe a que:",
+    "options": ["Es tóxico", "Se quema rápidamente", "Se sublima a dióxido de carbono gaseoso, desplazando el oxígeno del aire", "Es radioactivo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_193",
+    "topic": "Mercancías Peligrosas",
+    "text": "La 'Provisión Especial A152' se aplica al transporte de:",
+    "options": ["Líquidos inflamables", "Sillas de ruedas eléctricas con baterías", "Cilindros de gas comprimido", "Hielo seco"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_194",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué tipo de explosivo puede ser transportado en aviones de pasajeros bajo ciertas condiciones excepcionales (Clase 1.4S)?",
+    "options": ["Munición para uso deportivo (cartuchos) y cartuchos inertes", "Dinamita", "Nitroglicerina", "Fuegos artificiales"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_195",
+    "topic": "Mercancías Peligrosas",
+    "text": "El símbolo de la etiqueta de la Clase 9 (Peligros Varios) es un fondo blanco con rayas negras en el borde inferior y:",
+    "options": ["Una llama", "El número 9 rayado", "Una calavera", "Dos manos goteando"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_196",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 6.1 (Sustancias Tóxicas) representa un peligro por:",
+    "options": ["Fuego y explosión", "Infección", "Envenenamiento (por ingestión, inhalación o contacto cutáneo)", "Corrosión"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_197",
+    "topic": "Mercancías Peligrosas",
+    "text": "El bulto con el marcaje 'MAGNETIZED MATERIAL' está restringido debido a la posible interferencia con:",
+    "options": ["El sistema de oxígeno", "Los sistemas de navegación y aviónica del avión", "Los dispositivos electrónicos del pasajero", "El sistema de aire acondicionado"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_198",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Quién es el responsable de garantizar que el Personal de Tierra reciba el entrenamiento adecuado sobre MMPP?",
+    "options": ["El Piloto al Mando", "El Expedidor", "El Explotador (Aerolínea)", "El Agente de Carga"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_199",
+    "topic": "Mercancías Peligrosas",
+    "text": "El límite de alcohol por volumen para que una bebida alcohólica sea prohibida para el transporte aéreo es:",
+    "options": ["Más del 70%", "Más del 50%", "Más del 24%", "Más del 10%"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_200",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si se detecta un bulto con líquido que gotea en cabina, la acción de confinamiento debe hacerse usando:",
+    "options": ["Solo mantas de lana", "Bolsas de polietileno o un contenedor de contención (si está disponible en el Kit de Derrame)", "Una toalla de papel", "Agua y jabón"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_201",
+    "topic": "Mercancías Peligrosas",
+    "text": "La segregación de la Clase 7 (Radioactivos) es esencial para proteger al personal de la exposición a:",
+    "options": ["Calor", "Radioactividad", "Corrosión", "Vibración"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_202",
+    "topic": "Mercancías Peligrosas",
+    "text": "El transporte de encendedores piezoeléctricos (sin líquido ni combustible) está:",
+    "options": ["Prohibido", "Permitido en persona o equipaje de mano (con restricciones)", "Solo permitido en la bodega", "Solo permitido si son de un color específico"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_203",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Class 4.3 (Sólidos que reaccionan con el agua) tiene el símbolo de una llama sobre fondo:",
+    "options": ["Blanco", "Azul", "Rojo", "Amarillo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_204",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP requiere un 'Índice de Transporte' (Transport Index - TI) en su etiqueta?",
+    "options": ["Clase 3", "Clase 7 (Radioactivos)", "Clase 8", "Clase 9"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_205",
+    "topic": "Mercancías Peligrosas",
+    "text": "El principal riesgo asociado a la Clase 8 (Corrosivos) es el daño por contacto directo con:",
+    "options": ["El aire", "Tejidos vivos o materiales (ej. estructura del avión)", "El agua caliente", "El frío extremo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_206",
+    "topic": "Mercancías Peligrosas",
+    "text": "La principal diferencia entre MMPP de 'Cantidad Limitada' (LQ) y 'Cantidad Exceptuada' (EQ) es:",
+    "options": ["El peso de la carga", "LQ tiene requisitos de embalaje y marcaje menos estrictos que EQ", "EQ tiene requisitos de embalaje y marcado menos estrictos, pero las cantidades son mucho menores", "Ambos son iguales"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_207",
+    "topic": "Mercancías Peligrosas",
+    "text": "En caso de un incidente con MMPP, el TCP debe utilizar el EPP (Equipo de Protección Personal) para:",
+    "options": ["Escribir el informe", "Protegerse de quemaduras químicas, gases tóxicos o contacto infeccioso", "Dirigir a los bomberos", "Atender a otros pasajeros"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_208",
+    "topic": "Mercancías Peligrosas",
+    "text": "La 'Provisión Especial A199' de IATA se aplica a los cilindros de gas que pueden ser transportados con autorización en:",
+    "options": ["Sillas de ruedas", "Máquinas de diálisis", "Aparatos respiratorios portátiles (ventiladores)", "Hielo seco"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_209",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es la fuente de MMPP Ocultas más común en el equipaje de mano?",
+    "options": ["Herramientas de bricolaje, productos de limpieza y aerosoles inflamables", "Ropa", "Libros", "Alimentos no perecederos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_210",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con 'Radioactive Material' (Clase 7) deben llevar el símbolo de un trébol de:",
+    "options": ["Un color", "Tres colores", "Cuatro colores", "Dos colores"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_211",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es la principal restricción para el transporte de marcapasos con pilas de litio?",
+    "options": ["Están totalmente prohibidos", "Deben estar implantados en el pasajero y autorizados por un médico", "Deben ir en el equipaje facturado", "Deben llevar una etiqueta de riesgo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_212",
+    "topic": "Mercancías Peligrosas",
+    "text": "La prohibición de llevar encendedores de combustible líquido no absorbido se debe a que:",
+    "options": ["El combustible líquido puede derramarse y ser inflamable", "El riesgo es solo para la tripulación", "Son muy pesados", "Son muy caros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_213",
+    "topic": "Mercancías Peligrosas",
+    "text": "La etiqueta de la Clase 6.2 (Sustancias Infecciosas) tiene el símbolo de un círculo con tres medias lunas superpuestas en la parte superior y:",
+    "options": ["El número 6.2", "El número 8", "El número 9", "El número 3"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_214",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Class 5.1 (Comburentes) acelera la combustión al liberar:",
+    "options": ["Nitrógeno", "Dióxido de carbono", "Oxígeno", "Vapores inflamables"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_215",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué documentación debe conservar el Piloto al Mando (o el explotador) durante un mínimo de 12 meses después del vuelo?",
+    "options": ["Solo el manifiesto de pasajeros", "El NOTOC y la Declaración del Expedidor de MMPP", "Solo la lista de la tripulación", "La lista de la compra del catering"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_216",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si un bulto está marcado con 'Corrosive, UN1789', ¿A qué clase de peligro corresponde?",
+    "options": ["Clase 3", "Clase 6.1", "Clase 8", "Clase 9"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_217",
+    "topic": "Mercancías Peligrosas",
+    "text": "El límite máximo de vatios-hora (Wh) para baterías de iones de litio de repuesto aceptadas en el equipaje de mano es de:",
+    "options": ["Máximo 100 Wh", "Máximo 160 Wh (con limitación de 2 unidades)", "Máximo 200 Wh", "Máximo 300 Wh"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_218",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con la etiqueta 'Limited Quantity' (LQ) se caracterizan por tener un marcado en forma de:",
+    "options": ["Círculo con rayas negras", "Diamante", "Rombo", "Triángulo invertido"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_219",
+    "topic": "Mercancías Peligrosas",
+    "text": "La reglamentación de IATA prohíbe el transporte de munición para uso militar en aviones de:",
+    "options": ["Carga", "Pasajeros", "Hélice", "Todos los aviones"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_220",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP está asociada con la posibilidad de 'desprendimiento de gases tóxicos'?",
+    "options": ["Clase 1 (Explosivos)", "Clase 2.3 (Gases Tóxicos)", "Clase 3 (Líquidos Inflamables)", "Clase 7 (Radioactivos)"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_221",
+    "topic": "Mercancías Peligrosas",
+    "text": "El uso del extintor de Halón es el más recomendado para fuegos de MMPP de Clases 3, 4.1 y 5.2 ya que:",
+    "options": ["Enfría el combustible", "Añade agua", "Actúa por sofocación (suprime el oxígeno), es limpio y no conductor", "Es barato"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_222",
+    "topic": "Mercancías Peligrosas",
+    "text": "La principal diferencia entre la etiqueta de Riesgo Primario y la de Riesgo Secundario es que la primaria lleva el número de la Clase en la esquina:",
+    "options": ["Superior", "Inferior", "Central", "Derecha"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_223",
+    "topic": "Mercancías Peligrosas",
+    "text": "La prohibición de llevar bebidas alcohólicas con más del 70% de alcohol (por volumen) se debe a que se clasifican como:",
+    "options": ["Sustancias tóxicas", "Líquidos inflamables (Clase 3)", "Corrosivos", "Explosivos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_224",
+    "topic": "Mercancías Peligrosas",
+    "text": "En el contexto de la aviación, los líquidos inflamables son aquellos que tienen un punto de inflamación (Flashpoint) de:",
+    "options": ["Más de 60°C", "Menos de 60°C (copa cerrada)", "Cualquier temperatura", "Más de 100°C"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_225",
+    "topic": "Mercancías Peligrosas",
+    "text": "El marcaje 'ELi' en un bulto (junto a la etiqueta de Litio) indica que la mercancía es:",
+    "options": ["Litio Metal", "Litio-Ion", "Baterías de Litio instaladas en un equipo", "Solo baterías de Litio de repuesto"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_226",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP está asociada con un riesgo de explosión que puede ser iniciado por calor o impacto?",
+    "options": ["Clase 1 (Explosivos)", "Clase 2.2", "Clase 8", "Clase 9"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_227",
+    "topic": "Mercancías Peligrosas",
+    "text": "El transporte de gas butano para un mechero (ej. encendedor recargable) está restringido a:",
+    "options": ["Cualquier cantidad", "Una pequeña cantidad para uso personal (en la persona del pasajero)", "Prohibido en todos los casos", "Solo en la bodega"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_228",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 4.1 incluye sólidos inflamables que pueden ser auto-reactivos o desensibilizados. Su etiqueta es una llama negra sobre fondo:",
+    "options": ["Rojo", "Azul", "Blanco con rayas rojas", "Amarillo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_229",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es la principal diferencia entre MMPP de 'Propiedad del Transportista' y 'Cantidad Exceptuada'?",
+    "options": ["Las de 'Propiedad del Transportista' son esenciales para las operaciones del avión y están exentas de la mayoría de las regulaciones de IATA", "Las 'Cantidades Exceptuadas' son más grandes", "Las 'Cantidades Exceptuadas' son solo para la cabina de pilotaje", "No hay diferencia"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_230",
+    "topic": "Mercancías Peligrosas",
+    "text": "En caso de fuego de MMPP en cabina, el TCP debe utilizar el extintor de Halón apuntando a:",
+    "options": ["El pecho del pasajero", "La base del fuego", "El techo de la cabina", "La parte superior de las llamas"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_231",
+    "topic": "Mercancías Peligrosas",
+    "text": "El dióxido de carbono sólido (Hielo Seco) se clasifica en el Grupo de Embalaje:",
+    "options": ["I", "II", "III", "No tiene grupo de embalaje"],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_232",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 6.2 (Sustancias Infecciosas) requiere un embalaje que cumpla con las 'Instrucciones de Embalaje' de la IATA para evitar:",
+    "options": ["Fuego", "Corrosión", "Liberación accidental y contagio", "Radioactividad"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_233",
+    "topic": "Mercancías Peligrosas",
+    "text": "La documentación de MMPP debe estar siempre disponible para el Piloto al Mando durante el vuelo y:",
+    "options": ["En manos del pasajero", "Almacenada en un lugar seguro y accesible en cabina", "En la torre de control", "En el lavabo de popa"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_234",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con 'Cargo Aircraft Only' (CAO) no pueden ser estibados junto a la puerta de:",
+    "options": ["La bodega", "La cabina de pilotaje", "La salida de emergencia", "El galley de popa"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_235",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es el riesgo principal del transporte de baterías de litio de repuesto en el equipaje facturado?",
+    "options": ["Cortocircuito e incendio en un área inaccesible en vuelo", "Toxicidad", "Radioactividad", "Corrosión"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_236",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los líquidos pirofóricos son sustancias de la Clase 4.2 que:",
+    "options": ["Se congelan fácilmente", "Se inflaman espontáneamente en menos de 5 minutos al entrar en contacto con el aire", "Son explosivos", "Son muy corrosivos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_237",
+    "topic": "Mercancías Peligrosas",
+    "text": "En caso de detección de MMPP ocultas, la tripulación debe:",
+    "options": ["Avisar a seguridad y evitar que el bulto llegue al avión o aislarlo inmediatamente si ya está a bordo", "Ignorarlo", "Abrir el bulto", "Esperar al aterrizaje"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_238",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los cilindros de gas para buceo (scuba tanks) solo se aceptan si:",
+    "options": ["Contienen gas, pero la válvula está protegida", "Están totalmente vacíos y la válvula está abierta o el manómetro indica cero", "Contienen menos del 50% de gas", "Están en la bodega de carga"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_239",
+    "topic": "Mercancías Peligrosas",
+    "text": "La principal diferencia entre la Clase 5.1 (Comburentes) y la Clase 5.2 (Peróxidos Orgánicos) es que los peróxidos son:",
+    "options": ["Más estables", "Termicamente inestables y pueden ser explosivos", "Menos tóxicos", "Menos corrosivos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_240",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP está asociada con el riesgo de 'congelación' por contacto?",
+    "options": ["Clase 3", "Clase 7", "Gases criogénicos (Clase 2.2)", "Clase 8"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_241",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 8 (Corrosivos) puede tener como riesgo secundario:",
+    "options": ["Radioactividad", "Explosión", "Toxicidad o riesgo de fuego (por ciertos corrosivos)", "Asfixia"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_242",
+    "topic": "Mercancías Peligrosas",
+    "text": "La etiqueta de riesgo de la Clase 1 (Explosivos) tiene el símbolo de una bomba explotando sobre fondo:",
+    "options": ["Verde", "Naranja", "Rojo", "Azul"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_243",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué indica el 'Packaging Instruction' (Instrucción de Embalaje) en la documentación?",
+    "options": ["El número de vuelo", "El método de embalaje y la cantidad máxima de la sustancia permitida en el bulto", "El nombre del consignatario", "La fecha de caducidad de la MMPP"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_244",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los artículos radioactivos con un 'Transport Index' (TI) de 0.0 se clasifican como 'Categoría':",
+    "options": ["Amarilla II", "Blanca I", "Amarilla III", "Roja I"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_245",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si el Piloto al Mando decide desviar el vuelo debido a un incidente con MMPP, el motivo principal es:",
+    "options": ["La molestia a los pasajeros", "La imposibilidad de resolver el incidente y el riesgo a la seguridad del vuelo", "El bajo nivel de combustible", "La turbulencia"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_246",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con MMPP deben ser estibados y asegurados para prevenir:",
+    "options": ["Corrosión", "Movimiento, derrame y daño por vibración en vuelo", "El acceso de la tripulación", "El ruido"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_247",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Class 6.1 (Sustancias Tóxicas) tiene el símbolo de la calavera y tibias cruzadas sobre fondo:",
+    "options": ["Blanco", "Rojo", "Azul", "Verde"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_248",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es la principal restricción para el transporte de aerosoles (ej. laca de pelo) para uso de pasajeros?",
+    "options": ["Solo se permiten vacíos", "La cantidad total (neto) no debe exceder 2 kg o 2 L por persona", "Solo se permiten en la bodega", "Prohibidos en todos los casos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_249",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los sólidos inflamables (Clase 4.1) deben separarse en la bodega de:",
+    "options": ["Otros sólidos", "Líquidos inflamables (Clase 3) y comburentes (Clase 5.1)", "Periódicos", "Ropa"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_250",
+    "topic": "Mercancías Peligrosas",
+    "text": "El bulto con la etiqueta 'LITHIUM ION BATTERY' (Litio-Ion) debe indicar obligatoriamente:",
+    "options": ["El número de células de la batería", "El número UN y el número de teléfono del expedidor", "El nombre de la aerolínea", "El precio"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_251",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si se detecta un fuego de MMPP en el lavabo, el TCP debe utilizar el extintor de Halón y:",
+    "options": ["Intentar abrir la puerta para ventilar", "Seguir las instrucciones de extinción y no abrir la puerta hasta que el fuego se apague y el agente de extinción actúe", "Usar agua", "Gritar 'Fuego, fuego'"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_252",
+    "topic": "Mercancías Peligrosas",
+    "text": "La prohibición de llevar bebidas alcohólicas con más del 70% de alcohol se debe a su clasificación como Grupo de Embalaje:",
+    "options": ["I (Alto Peligro)", "II", "III", "No aplica"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_253",
+    "topic": "Mercancías Peligrosas",
+    "text": "El riesgo de 'auto-reacción' (Self-reactive substances) es característico de la Clase:",
+    "options": ["4.1", "6.2", "8", "9"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_254",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con MMPP deben ser inspeccionados visualmente por el TCP para verificar:",
+    "options": ["Su belleza", "La presencia de daños, fugas o etiquetas faltantes/incorrectas", "El color del embalaje", "El nombre del expedidor"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_255",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 5.1 (Sustancias Comburentes) tiene el símbolo de una llama sobre un círculo sobre fondo:",
+    "options": ["Rojo", "Verde", "Amarillo", "Azul"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_256",
+    "topic": "Mercancías Peligrosas",
+    "text": "El bulto con la etiqueta 'Cryogenic Liquid' se asocia a la posibilidad de:",
+    "options": ["Baja temperatura extrema", "Alta toxicidad", "Corrosión", "Explosión"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_257",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP está asociada con el riesgo de 'desprendimiento de gases inflamables' al contacto con el agua?",
+    "options": ["Clase 3", "Clase 4.3", "Clase 5.1", "Clase 8"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_258",
+    "topic": "Mercancías Peligrosas",
+    "text": "El entrenamiento de MMPP para TCP es esencial para el reconocimiento de:",
+    "options": ["La matrícula del avión", "Artículos permitidos, prohibidos y MMPP ocultas", "El nombre del piloto", "El precio de los billetes"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_259",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Class 6.2 (Sustancias Infecciosas) es transportada bajo la estricta regulación de la IATA para evitar la propagación de:",
+    "options": ["Fuego", "Enfermedades", "Corrosión", "Radioactividad"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_260",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con la etiqueta 'RADIOACTIVE I-WHITE' tienen un 'Transport Index' (TI) de:",
+    "options": ["0.1", "1", "0.0", "Mayor que 1"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_261",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si se detecta un derrame de MMPP en la bodega, el TCP debe comunicar al Piloto al Mando (Comandante):",
+    "options": ["Solo el color del líquido", "La ubicación, la naturaleza del derrame (si es conocida) y la cantidad aproximada", "El número de pasajeros afectados", "El nombre del expedidor"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_262",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 2.3 (Gases Tóxicos) representa un riesgo de:",
+    "options": ["Explosión masiva", "Intoxicación severa por inhalación", "Corrosión de la piel", "Fuego de rápida propagación"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_263",
+    "topic": "Mercancías Peligrosas",
+    "text": "El transporte de encendedores tipo 'Zippo' (combustible líquido no absorbido) en el equipaje de mano es:",
+    "options": ["Permitido", "Prohibido", "Permitido con autorización", "Solo si están vacíos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_264",
+    "topic": "Mercancías Peligrosas",
+    "text": "La etiqueta de riesgo de la Clase 8 (Corrosivos) tiene el símbolo de manos y barra goteando sobre fondo:",
+    "options": ["Blanco y negro", "Amarillo y negro", "Rojo y negro", "Azul y negro"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_265",
+    "topic": "Mercancías Peligrosas",
+    "text": "El límite de alcohol por volumen para bebidas alcohólicas en el equipaje de mano es:",
+    "options": ["Más del 70%", "Menos del 24% o entre 24% y 70% (con limitación de 5L)", "Menos del 40%", "Sin límite"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_266",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué prohibición aplica al transporte de cerillas de 'encendido universal' (strike anywhere matches)?",
+    "options": ["Solo en la bodega", "Prohibidas en persona, equipaje de mano y facturado", "Solo en la cabina", "Permitidas con autorización"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_267",
+    "topic": "Mercancías Peligrosas",
+    "text": "El NOTOC es un documento que informa a la tripulación de:",
+    "options": ["La cantidad de combustible", "Las MMPP a bordo, su ubicación y los procedimientos de emergencia", "El nombre de todos los pasajeros", "El menú del catering"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_268",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Class 4.2 (Sólidos Susceptibles de Inflamación Espontánea) tiene el símbolo de una llama negra sobre fondo:",
+    "options": ["Rojo", "Verde", "Azul", "Blanco"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_269",
+    "topic": "Mercancías Peligrosas",
+    "text": "La 'Sustancia Infecciosa que afecta a animales' (UN 2900) pertenece a la Clase:",
+    "options": ["6.1", "6.2", "9", "8"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_270",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es la principal precaución a tomar al manipular baterías de litio dañadas o defectuosas?",
+    "options": ["Manipularlas solo con guantes, evitar el contacto con agua y reubicarlas en un contenedor de contención (si es posible)", "Limpiarlas con un paño húmedo", "Encenderlas para verificar su estado", "Guardarlas en el bolsillo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_271",
+    "topic": "Mercancías Peligrosas",
+    "text": "El marcaje 'Limited Quantity' (LQ) exime al bulto de algunos requisitos de:",
+    "options": ["Etiquetado de riesgo y documentación", "Embalaje", "Solo la declaración del expedidor", "Nada"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_272",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si un bulto con MMPP de Clase 4.3 se moja accidentalmente, el riesgo es:",
+    "options": ["Asfixia", "Liberación de gases inflamables", "Corrosión", "Radioactividad"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_273",
+    "topic": "Mercancías Peligrosas",
+    "text": "El propósito del 'Emergency Response Table' (Tabla de Respuesta de Emergencia) es proporcionar al Piloto al Mando:",
+    "options": ["La ubicación de las salidas de emergencia", "Un código para cada MMPP con un procedimiento de acción inmediata para incidentes", "El manifiesto de carga completo", "La lista de pasajeros"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_274",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los gases de la Clase 2.1 (Inflamables) son aquellos que son inflamables en el aire a 20°C y una presión normal de:",
+    "options": ["101.3 kPa", "200 kPa", "500 kPa", "10 kPa"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_275",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es el principal riesgo si una MMPP de Clase 5.1 (Comburente) se almacena cerca de un material orgánico o inflamable?",
+    "options": ["Corrosión del embalaje", "Reacción violenta, fuego o explosión", "Asfixia", "Radioactividad"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_276",
+    "topic": "Mercancías Peligrosas",
+    "text": "La prohibición de llevar marcapasos o dispositivos con litio implantados es una:",
+    "options": ["Restricción de IATA", "Excepción médica (permitida)", "Restricción de seguridad del aeropuerto", "Restricción de aduanas"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_277",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 3 (Líquidos Inflamables) se divide en Grupos de Embalaje I, II y III en función de:",
+    "options": ["Su viscosidad y color", "Su punto de inflamación y punto de ebullición", "Su origen geográfico", "El precio del bulto"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_278",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si se detecta un bulto con la etiqueta 'LITHIUM METAL BATTERY', su transporte como repuesto (suelta) solo está permitido en:",
+    "options": ["El equipaje facturado", "El equipaje de mano (con protección de terminales)", "La bodega de carga", "La cabina de pilotaje"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_279",
+    "topic": "Mercancías Peligrosas",
+    "text": "El término 'OVERPACK' debe estar marcado con:",
+    "options": ["La clase de peligro", "La palabra 'OVERPACK' y las etiquetas de riesgo y manipulación", "El número de vuelo", "El nombre del explotador"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_280",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP está asociada con un riesgo de toxicidad que puede ser retardado o gradual?",
+    "options": ["Clase 3", "Clase 6.1", "Clase 7", "Clase 8"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_281",
+    "topic": "Mercancías Peligrosas",
+    "text": "La segregación de la Clase 6.2 (Sustancias Infecciosas) se requiere para evitar el contacto con:",
+    "options": ["Bultos de clase 7", "Alimentos, piensos o equipaje de pasajeros", "Corrosivos", "Sólidos inflamables"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_282",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si un bulto tiene la etiqueta 'RADIOACTIVE III-YELLOW', el 'Transport Index' (TI) puede ser:",
+    "options": ["0.0", "Mayor que 3.0", "Entre 0.1 y 3.0", "No tiene TI"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_283",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con la etiqueta 'Limited Quantity' (LQ) no requieren:",
+    "options": ["Marcado de número ONU", "El número ONU en el marcado, pero sí la clase de peligro", "Etiqueta de riesgo", "La Declaración del Expedidor de MMPP"],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_284",
+    "topic": "Mercancías Peligrosas",
+    "text": "El riesgo de asfixia del Hielo Seco se debe a su sublimación, por lo que debe transportarse en embalajes que permitan:",
+    "options": ["El sellado total", "La liberación de CO2 (ventilación)", "El contacto con el agua", "El sellado parcial"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_285",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 4.2 (Sólidos Susceptibles de Inflamación Espontánea) tiene el símbolo de una llama negra sobre fondo:",
+    "options": ["Rojo", "Verde", "Azul", "Blanco"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_286",
+    "topic": "Mercancías Peligrosas",
+    "text": "La 'Provisión Especial A181' de IATA se aplica a los kits de reparación que contienen MMPP. ¿Cuál es la principal restricción?",
+    "options": ["La cantidad total de MMPP por kit no debe exceder 1 kg o 1 L", "Deben ir en la bodega", "Están prohibidos", "Solo si son para uso personal"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_287",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP está asociada con el riesgo de 'inestabilidad térmica'?",
+    "options": ["Clase 1 (Explosivos) y Clase 5.2 (Peróxidos Orgánicos)", "Clase 2.2", "Clase 3", "Clase 8"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_288",
+    "topic": "Mercancías Peligrosas",
+    "text": "El Marcaje de la 'Cantidad Exceptuada' (EQ) incluye un símbolo de:",
+    "options": ["Un círculo negro con una 'E' rayada", "Un cuadrado con el número ONU y el código de riesgo", "Un diamante", "Una flecha hacia arriba"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_289",
+    "topic": "Mercancías Peligrosas",
+    "text": "En el caso de un fuego de MMPP en un asiento de cabina, la primera acción es:",
+    "options": ["Mojar con agua", "Intentar mover el bulto y usar el extintor de Halón inmediatamente", "Usar el extintor de CO2", "Abrir las ventanas"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_290",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con la etiqueta 'Cargo Aircraft Only' (CAO) requieren:",
+    "options": ["Una notificación oral al Piloto al Mando", "Ser accesibles durante el vuelo si así lo indica la reglamentación", "Estar sellados con precinto", "Estar en la parte delantera de la bodega"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_291",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 4.3 (Sólidos que reaccionan con el agua) tiene el símbolo de una llama negra sobre fondo:",
+    "options": ["Rojo", "Verde", "Azul", "Blanco"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_292",
+    "topic": "Mercancías Peligrosas",
+    "text": "La 'Sustancia Infecciosa que afecta a seres humanos' (UN 2814) pertenece a la Clase:",
+    "options": ["6.1", "6.2", "9", "8"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_293",
+    "topic": "Mercancías Peligrosas",
+    "text": "El principal riesgo asociado a los cilindros de gas comprimido (Clase 2) es:",
+    "options": ["La corrosión", "La presión interna y riesgo de explosión o liberación violenta en caso de daño", "La radioactividad", "La toxicidad"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_294",
+    "topic": "Mercancías Peligrosas",
+    "text": "El marcaje 'ELM' en un bulto (junto a la etiqueta de Litio) indica que la mercancía es:",
+    "options": ["Litio Metal (instalado)", "Litio-Ion (instalado)", "Solo baterías de Litio Metal de repuesto", "Baterías de Litio Metal"],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_295",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con la etiqueta de riesgo radioactivo deben llevar siempre la marca de:",
+    "options": ["El Piloto al Mando", "Las flechas de orientación", "El número ONU y el nombre correcto de expedición", "La clase de riesgo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_296",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es la principal restricción para el transporte de marcapasos con pilas de litio de repuesto?",
+    "options": ["Permitido con limitación", "Totalmente prohibido (las de repuesto)", "Solo en bodega", "Solo en cabina"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_297",
+    "topic": "Mercancías Peligrosas",
+    "text": "El riesgo de auto-ignición es característico de la Clase:",
+    "options": ["3", "4.2", "5.1", "7"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_298",
+    "topic": "Mercancías Peligrosas",
+    "text": "La etiqueta de riesgo de la Clase 9 (Peligros Varios) es un fondo blanco con rayas negras en el borde inferior y el número 9 en la esquina:",
+    "options": ["Superior", "Inferior", "Central", "Derecha"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_299",
+    "topic": "Mercancías Peligrosas",
+    "text": "La 'Sustancia Tóxica' (Clase 6.1) requiere la segregación de:",
+    "options": ["Explosivos", "Corrosivos", "Alimentos, piensos y productos farmacéuticos", "Radioactivos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_300",
+    "topic": "Mercancías Peligrosas",
+    "text": "El marcaje 'Limited Quantity' (LQ) indica que el bulto ha sido embalado con cantidades:",
+    "options": ["Mayores a las máximas", "Pequeñas, que permiten la exención parcial de la reglamentación", "Solo para aviones de carga", "Solo para la tripulación"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_301",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con 'Cargo Aircraft Only' (CAO) solo pueden ser transportados en aeronaves con:",
+    "options": ["Un TCP", "Capacidad para cargar grandes cantidades", "Certificado de Operador Aéreo (AOC) que permite el transporte de MMPP en aviones de carga", "Certificado de Operador Aéreo (AOC) de pasajeros"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_302",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si se produce un derrame de MMPP a bordo, el TCP debe informar al Piloto al Mando de las acciones tomadas:",
+    "options": ["Solo al aterrizar", "Inmediatamente", "Solo si es un derrame grande", "Solo si el Comandante pregunta"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_303",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Class 5.2 (Peróxidos Orgánicos) se divide en subgrupos basados en:",
+    "options": ["Su estado físico", "Su estabilidad térmica y la velocidad de descomposición", "Su color", "Su precio"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_304",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP está asociada con un riesgo de 'quemaduras cáusticas'?",
+    "options": ["Clase 3", "Clase 7", "Clase 8 (Corrosivos)", "Clase 9"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_305",
+    "topic": "Mercancías Peligrosas",
+    "text": "El límite de alcohol por volumen para bebidas alcohólicas entre 24% y 70% en el equipaje facturado es:",
+    "options": ["2 litros por persona", "5 litros por persona", "Sin límite", "10 litros por persona"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_306",
+    "topic": "Mercancías Peligrosas",
+    "text": "La etiqueta de riesgo de la Clase 6.2 (Sustancias Infecciosas) tiene el símbolo de tres medias lunas superpuestas en un círculo sobre fondo:",
+    "options": ["Rojo", "Blanco", "Verde", "Azul"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_307",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con la etiqueta 'RADIOACTIVE II-YELLOW' tienen un 'Transport Index' (TI) entre:",
+    "options": ["0.0 y 0.1", "0.1 y 1.0", "1.1 y 10.0", "Mayor que 10.0"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_308",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es la principal restricción para el transporte de cilindros pequeños de gas (no medicinales)?",
+    "options": ["Prohibidos en persona y equipaje de mano, con limitaciones muy estrictas en facturado", "Permitidos sin restricción", "Solo en la cabina de pilotaje", "Permitidos solo si están llenos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_309",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Class 4.1 incluye sólidos inflamables que pueden ser transportados con autorización en forma de:",
+    "options": ["Fuegos artificiales", "Fósforos de seguridad (en persona o mano)", "Gasolina", "Ácido sulfúrico"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_310",
+    "topic": "Mercancías Peligrosas",
+    "text": "La prohibición de llevar encendedores de combustible líquido no absorbido se debe a su clasificación como Grupo de Embalaje:",
+    "options": ["I", "II", "III", "No aplica"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_311",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con la etiqueta 'LITHIUM ION BATTERY' de repuesto deben tener sus terminales:",
+    "options": ["Descubiertas para inspección", "Cortocircuitadas para seguridad", "Protegidas individualmente para evitar cortocircuitos", "Selladas con cera"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_312",
+    "topic": "Mercancías Peligrosas",
+    "text": "El entrenamiento periódico de MMPP para TCP es esencial para mantener al día el conocimiento sobre:",
+    "options": ["Las regulaciones de IATA, procedimientos de emergencia y reconocimiento de etiquetas", "El precio del combustible", "La historia de la compañía", "El tiempo de vuelo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_313",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 2.2 (Gases No Inflamables, No Tóxicos) tiene el símbolo de una botella de gas sobre fondo:",
+    "options": ["Rojo", "Verde", "Azul", "Blanco"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_314",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP está asociada con un riesgo de 'oxidación' de otros materiales?",
+    "options": ["Clase 3", "Clase 4.1", "Clase 5.1 (Comburentes)", "Clase 8"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_315",
+    "topic": "Mercancías Peligrosas",
+    "text": "El símbolo de la etiqueta de 'Limited Quantity' (LQ) es un diamante con bordes negros y:",
+    "options": ["Un color específico", "Un borde completamente negro", "El centro completamente blanco o con el número ONU", "Un borde amarillo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_316",
+    "topic": "Mercancías Peligrosas",
+    "text": "En caso de un incidente con MMPP en vuelo, la principal prioridad del TCP es:",
+    "options": ["Servir la cena", "Protegerse a sí mismo y a los pasajeros, aislar el bulto y notificar al Piloto al Mando", "Llamar a los familiares", "Esperar al aterrizaje"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_317",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Class 6.1 (Sustancias Tóxicas) tiene el símbolo de la calavera y tibias cruzadas y el número 6 en la esquina:",
+    "options": ["Superior", "Inferior", "Central", "Derecha"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_318",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP está asociada con la posibilidad de 'desprendimiento de gases inflamables'?",
+    "options": ["Clase 3", "Clase 4.3", "Clase 5.1", "Clase 8"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_319",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 9 (Peligros Varios) incluye sustancias que no encajan en otras clases pero que presentan un riesgo, como:",
+    "options": ["Explosivos", "Gases", "Hielo seco, baterías de litio, y equipos de salvamento", "Corrosivos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_320",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con 'Cargo Aircraft Only' (CAO) deben ser estibados para que las etiquetas de riesgo y CAO sean:",
+    "options": ["Cubiertas", "Visibles", "Orientadas hacia el suelo", "Arrancadas"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_321",
+    "topic": "Mercancías Peligrosas",
+    "text": "La principal diferencia entre MMPP aceptables y MMPP exceptuadas/exentas es que las exceptuadas tienen:",
+    "options": ["Más restricciones", "Requisitos de embalaje y documentación considerablemente reducidos", "Mayor peso", "Mayor riesgo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_322",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Provisión Especial A158 de IATA se aplica a los cilindros de gas para uso médico que:",
+    "options": ["No están permitidos", "Deben ser propiedad de la aerolínea y tener una limitación de peso (5 kg)", "Pueden ser propiedad del pasajero sin restricción", "Solo son de CO2"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_323",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué prohibición aplica al transporte de 'encendedores de seguridad' (safety matches) en el equipaje facturado?",
+    "options": ["Permitido", "Prohibido", "Solo permitido si son de un color específico", "Permitido con autorización"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_324",
+    "topic": "Mercancías Peligrosas",
+    "text": "La etiqueta de riesgo de la Clase 2.3 (Gases Tóxicos) tiene el símbolo de una calavera y tibias cruzadas sobre fondo:",
+    "options": ["Rojo", "Verde", "Blanco", "Azul"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_325",
+    "topic": "Mercancías Peligrosas",
+    "text": "La principal preocupación de seguridad en el transporte de Hielo Seco es:",
+    "options": ["El riesgo de fuego", "El riesgo de corrosión", "La acumulación de CO2 y la asfixia", "La radioactividad"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_326",
+    "topic": "Mercancías Peligrosas",
+    "text": "La 'Provisión Especial A101' se aplica a artículos medicinales o de tocador no radioactivos (ej. aerosoles, perfumes). ¿Cuál es el límite de cantidad?",
+    "options": ["2 kg o 2 L por persona", "5 kg o 5 L por persona", "10 kg o 10 L por persona", "Sin límite"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_327",
+    "topic": "Mercancías Peligrosas",
+    "text": "El símbolo de la etiqueta de la Clase 8 (Corrosivos) es el de manos y barra goteando sobre fondo:",
+    "options": ["Rojo y negro", "Blanco y negro", "Azul y negro", "Verde y negro"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_328",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los sólidos inflamables (Clase 4.1) deben protegerse del calor extremo para evitar:",
+    "options": ["Congelación", "Auto-reacción y descomposición", "Asfixia", "Corrosión"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_329",
+    "topic": "Mercancías Peligrosas",
+    "text": "En el caso de un fuego de MMPP, ¿quién es el responsable de tomar la decisión final sobre la acción de emergencia (ej. desvío de vuelo)?",
+    "options": ["El Sobrecargo", "El Agente de Carga", "El Piloto al Mando (Comandante)", "El TCP con más antigüedad"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_330",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 5.1 (Sustancias Comburentes) tiene el símbolo de una llama sobre un círculo y el número 5.1 en la esquina:",
+    "options": ["Superior", "Inferior", "Central", "Derecha"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_331",
+    "topic": "Mercancías Peligrosas",
+    "text": "El NOTOC debe contener, al menos, la siguiente información para el Piloto al Mando:",
+    "options": ["Nombre del expedidor, clase de peligro, número ONU, cantidad y ubicación en la aeronave", "Solo el número ONU", "Solo el nombre del expedidor", "El menú del catering"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_332",
+    "topic": "Mercancías Peligrosas",
+    "text": "El riesgo de toxicidad de un gas (Clase 2.3) se evalúa basándose en:",
+    "options": ["Su color", "Su concentración letal media (LC50)", "Su precio", "Su estado físico"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_333",
+    "topic": "Mercancías Peligrosas",
+    "text": "El transporte de sillas de ruedas eléctricas con baterías de litio requiere la notificación a la aerolínea y:",
+    "options": ["La batería debe ser extraída (si no es segura) y sus terminales protegidas, o la silla debe ser segura para el transporte", "La silla debe ser desmontada", "La batería debe ir en la cabina de pilotaje", "No hay restricción"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_334",
+    "topic": "Mercancías Peligrosas",
+    "text": "El marcaje 'Cargo Aircraft Only' (CAO) en un bulto implica que el explotador debe asegurar:",
+    "options": ["La reubicación en la cabina si es necesario", "La accesibilidad en vuelo por la tripulación (si lo requiere el riesgo)", "La prohibición de transporte", "El sellado del bulto"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_335",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con 'Limited Quantity' (LQ) están exentos de la aplicación de algunas disposiciones de:",
+    "options": ["Embalaje de Grupo I (Alto Peligro)", "Embalaje de Grupo II y III (Medio y Bajo Peligro)", "Solo las prohibiciones", "Solo los límites de peso"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_336",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es la principal restricción para el transporte de munición para uso deportivo (Clase 1.4S)?",
+    "options": ["Máximo 5 kg brutos por persona y debe ir en equipaje facturado", "Máximo 10 kg brutos por persona y en cabina", "Sin límite", "Totalmente prohibido"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_337",
+    "topic": "Mercancías Peligrosas",
+    "text": "El término 'OVERPACK' se refiere a un embalaje exterior que contiene:",
+    "options": ["Una sola MMPP", "Uno o varios bultos, previamente embalados, para facilitar su manipulación", "Solo bultos de Clase 7", "Solo bultos de Clase 9"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_338",
+    "topic": "Mercancías Peligrosas",
+    "text": "La principal preocupación en el transporte de líquidos inflamables (Clase 3) es:",
+    "options": ["Corrosión", "Fuego y vapor inflamable", "Radioactividad", "Toxicidad"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_339",
+    "topic": "Mercancías Peligrosas",
+    "text": "El entrenamiento de MMPP para TCP es crucial para garantizar que se apliquen los procedimientos de:",
+    "options": ["Catering", "Emergencia y respuesta a incidentes", "Venta a bordo", "Limpieza de la cabina"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_340",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 9 (Peligros Varios) incluye sustancias que presentan riesgos durante el transporte aéreo, pero que no caen bajo las definiciones de:",
+    "options": ["Clase 1", "Clase 7", "Clase 8", "Clases 1 a 8"],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_341",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con 'Sólidos susceptibles de inflamación espontánea' (Clase 4.2) deben segregarse de:",
+    "options": ["Materiales inertes", "Fuentes de oxígeno y calor", "Agua", "Comida"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_342",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP está asociada con un riesgo de 'daño al medio ambiente'?",
+    "options": ["Clase 3", "Clase 7", "Clase 9 (Sustancias peligrosas para el medio ambiente)", "Clase 8"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_343",
+    "topic": "Mercancías Peligrosas",
+    "text": "La etiqueta de riesgo de la Clase 6.1 (Sustancias Tóxicas) tiene el símbolo de una calavera y tibias cruzadas sobre fondo:",
+    "options": ["Rojo", "Verde", "Blanco", "Azul"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_344",
+    "topic": "Mercancías Peligrosas",
+    "text": "El transporte de explosivos de la División 1.4S (ej. munición deportiva) requiere:",
+    "options": ["Solo la notificación al comandante", "Una inspección rigurosa del embalaje y segregación del arma de fuego", "Permiso del pasajero", "Solo en la bodega delantera"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_345",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 7 (Radioactivos) es segregada principalmente por la necesidad de controlar la:",
+    "options": ["Toxicidad", "Distancia de seguridad por radiación", "Corrosión", "Inflamabilidad"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_346",
+    "topic": "Mercancías Peligrosas",
+    "text": "En el caso de un fuego de MMPP en cabina, el TCP debe utilizar el extintor de Halón para:",
+    "options": ["Enfriar la zona", "Crear una barrera física", "Sofocar (remover el oxígeno) el fuego", "Mojar el combustible"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_347",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con la etiqueta 'RADIOACTIVE I-WHITE' son aquellos con el nivel de radiación:",
+    "options": ["Más alto", "Intermedio", "Más bajo (solo radiación de superficie)", "Sin radiación"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_348",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es la principal restricción para el transporte de encendedores piezoeléctricos (sin combustible)?",
+    "options": ["Prohibido en todos los casos", "Permitido en persona o equipaje de mano, para uso personal", "Solo en bodega", "Solo si son de un color específico"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_349",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Class 5.1 (Sustancias Comburentes) se divide en Grupos de Embalaje I, II y III en función de:",
+    "options": ["Su color", "Su capacidad de acelerar la combustión de otros materiales", "Su precio", "Su toxicidad"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_350",
+    "topic": "Mercancías Peligrosas",
+    "text": "El transporte de MMPP en cantidades 'Exceptuadas' requiere un marcado que incluye:",
+    "options": ["El número ONU", "La palabra 'EXCEPTED QUANTITY' y el código de riesgo", "Solo el número ONU", "Solo el código de riesgo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_351",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con la etiqueta 'Cargo Aircraft Only' (CAO) son obligatorios para MMPP que:",
+    "options": ["Son muy pesadas", "Están prohibidas en aviones de pasajeros (PAX)", "Son de Clase 9", "Son de Clase 7"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_352",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si se detecta un derrame de MMPP en cabina, la primera acción del TCP debe ser:",
+    "options": ["Aislar el área y notificar al Piloto al Mando", "Llamar a los familiares", "Limpiar con agua", "Abrir la bodega"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_353",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Class 6.2 (Sustancias Infecciosas) tiene el riesgo de:",
+    "options": ["Contagiar enfermedades", "Explotar", "Corroer metales", "Ser inflamable"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_354",
+    "topic": "Mercancías Peligrosas",
+    "text": "El límite de vatios-hora (Wh) para baterías de iones de litio instaladas en un dispositivo (ej. cámara) para ser aceptables es:",
+    "options": ["Máximo 100 Wh", "Máximo 160 Wh", "Máximo 200 Wh", "Sin límite"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_355",
+    "topic": "Mercancías Peligrosas",
+    "text": "La prohibición de llevar marcapasos o dispositivos con litio implantados está:",
+    "options": ["Totalmente prohibida", "Permitida (excepción médica)", "Permitida solo con declaración", "Solo permitida en aviones de carga"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_356",
+    "topic": "Mercancías Peligrosas",
+    "text": "El marcaje de 'Limited Quantity' (LQ) exime al bulto de algunos requisitos de:",
+    "options": ["Marcado del expedidor", "Etiquetado de riesgo (solo marcaje LQ)", "Embalaje", "Segregación"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_357",
+    "topic": "Mercancías Peligrosas",
+    "text": "El uso del 'Emergency Response Guidebook' (ERG) en tierra es para identificar los peligros y las:",
+    "options": ["Acciones iniciales de respuesta", "El precio de la carga", "El nombre de la tripulación", "El destino final"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_358",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Class 4.1 (Sólidos Inflamables) requiere segregación de:",
+    "options": ["Agua", "Comburentes (Clase 5.1)", "Clase 7", "Clase 8"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_359",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP está asociada con un riesgo de 'descomposición violenta'?",
+    "options": ["Clase 3", "Clase 5.2 (Peróxidos Orgánicos)", "Clase 7", "Clase 8"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_360",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con 'RADIOACTIVE III-YELLOW' tienen el mayor índice de transporte (TI) y, por lo tanto, el mayor nivel de:",
+    "options": ["Toxicidad", "Corrosión", "Radiación externa", "Inflamabilidad"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_361",
+    "topic": "Mercancías Peligrosas",
+    "text": "La segregación de la Clase 8 (Corrosivos) se requiere para evitar el contacto con:",
+    "options": ["Bultos de clase 7", "Alimentos, piensos o equipaje de pasajeros", "Otros corrosivos", "Sustancias que pueden reaccionar violentamente (ej. bases y ácidos)"],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_362",
+    "topic": "Mercancías Peligrosas",
+    "text": "El transporte de cilindros de oxígeno o aire gaseoso para uso médico de la aerolínea requiere la notificación a:",
+    "options": ["El expedidor", "El Piloto al Mando", "El pasajero", "El personal de limpieza"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_363",
+    "topic": "Mercancías Peligrosas",
+    "text": "La principal diferencia entre el embalaje de 'Grupo I' y 'Grupo III' es el nivel de:",
+    "options": ["Corrosión", "Peligro de la sustancia (I: Alto, III: Bajo)", "Toxicidad", "Inflamabilidad"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_364",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con la etiqueta 'Limited Quantity' (LQ) son transportados con menos restricciones, pero no están exentos de los requisitos de:",
+    "options": ["Embalaje de Grupo I", "Pruebas de embalaje (test UN)", "Marcaje de flechas de orientación", "Marcaje de número ONU"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_365",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Class 4.2 (Sólidos Susceptibles de Inflamación Espontánea) incluye sustancias que se inflaman al contacto con:",
+    "options": ["Agua", "Calor", "El aire", "Electricidad"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_366",
+    "topic": "Mercancías Peligrosas",
+    "text": "El riesgo de toxicidad de un líquido (Clase 6.1) se evalúa basándose en:",
+    "options": ["Su viscosidad", "Su dosis letal media (LD50)", "Su color", "Su punto de ebullición"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_367",
+    "topic": "Mercancías Peligrosas",
+    "text": "El marcaje 'ELM' en un bulto indica el tipo de MMPP de:",
+    "options": ["Litio-Ion", "Litio Metal", "Peróxidos Orgánicos", "Corrosivos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_368",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si se detecta un fuego de MMPP que involucra líquidos inflamables (Clase 3), el extintor más recomendado en cabina es:",
+    "options": ["Agua", "Halón", "Polvo químico", "Espuma"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_369",
+    "topic": "Mercancías Peligrosas",
+    "text": "La prohibición de llevar encendedores de combustible líquido no absorbido se debe a su clasificación como Clase:",
+    "options": ["1", "3 (Líquidos Inflamables)", "6.1", "9"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_370",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Class 6.2 (Sustancias Infecciosas) tiene el símbolo de riesgo de:",
+    "options": ["Explosión", "Biohazard (Riesgo Biológico)", "Corrosión", "Fuego"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_371",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con 'Cargo Aircraft Only' (CAO) deben ser estibados para que no obstaculicen:",
+    "options": ["El acceso a los lavabos", "Las salidas de emergencia", "El galley de proa", "Los asientos del pasaje"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_372",
+    "topic": "Mercancías Peligrosas",
+    "text": "El entrenamiento inicial de MMPP para TCP debe incluir obligatoriamente la familiarización con:",
+    "options": ["Las regulaciones nacionales (AESA) e internacionales (OACI/IATA)", "El plan de vuelo", "El precio del flete aéreo", "La lista de vinos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_373",
+    "topic": "Mercancías Peligrosas",
+    "text": "La principal diferencia entre MMPP de 'Cantidad Limitada' (LQ) y 'Cantidad Exceptuada' (EQ) es que LQ está exenta de:",
+    "options": ["Solo el etiquetado de riesgo (usa el marcaje LQ)", "La Declaración del Expedidor (Shipper's Declaration)", "Solo el marcaje ONU", "Los límites de peso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_374",
+    "topic": "Mercancías Peligrosas",
+    "text": "El bulto con la etiqueta 'RADIOACTIVE III-YELLOW' requiere, además del TI, el 'Criticality Safety Index' (CSI) si es:",
+    "options": ["Fisura (material fisible)", "No fisura", "Solo de Clase 9", "Solo de Clase 8"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_375",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP está asociada con la posibilidad de 'desprendimiento de gases asfixiantes'?",
+    "options": ["Clase 2.2 (Gases no tóxicos, no inflamables)", "Clase 3", "Clase 7", "Clase 8"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_376",
+    "topic": "Mercancías Peligrosas",
+    "text": "La prohibición de llevar bebidas alcohólicas con más del 70% de alcohol se debe a su clasificación como:",
+    "options": ["Líquido no inflamable", "Líquido muy tóxico", "Líquido altamente inflamable", "Corrosivo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_377",
+    "topic": "Mercancías Peligrosas",
+    "text": "El marcaje 'Cargo Aircraft Only' (CAO) en un bulto implica que el explotador debe asegurar su transporte:",
+    "options": ["Solo en aviones de pasajeros", "Solo en aviones de carga", "En aviones de pasajeros o carga sin restricción", "En cualquier aeronave con menos de 10 pasajeros"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_378",
+    "topic": "Mercancías Peligrosas",
+    "text": "El riesgo de corrosión (Clase 8) es más grave si la sustancia es un ácido o una base concentrada, pudiendo causar:",
+    "options": ["Asfixia", "Destrucción de tejidos vivos y materiales", "Radioactividad", "Explosión"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_379",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con la etiqueta 'LITHIUM ION BATTERY' de repuesto deben ir en el equipaje de mano y:",
+    "options": ["En una bolsa de plástico cualquiera", "Con las terminales protegidas para evitar cortocircuitos", "Sin protección", "En la bodega de carga"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_380",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 3 (Líquidos Inflamables) tiene el símbolo de una llama y el número 3 en la esquina:",
+    "options": ["Superior", "Inferior", "Central", "Derecha"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_381",
+    "topic": "Mercancías Peligrosas",
+    "text": "El bulto con 'UN Specification Package' garantiza que el embalaje ha sido probado y cumple con las normativas de:",
+    "options": ["IATA/OACI", "Solo el país de origen", "El país de destino", "La aerolínea"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_382",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Class 4.3 (Sólidos que reaccionan con el agua) requiere segregación de:",
+    "options": ["Clase 3", "Clase 7", "Agua y fuentes de humedad", "Sustancias combustibles"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_383",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP está asociada con un riesgo de 'envenenamiento'?",
+    "options": ["Clase 3", "Clase 6.1 (Sustancias Tóxicas)", "Clase 7", "Clase 8"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_384",
+    "topic": "Mercancías Peligrosas",
+    "text": "La principal preocupación en el transporte de Hielo Seco (Clase 9) es el riesgo de asfixia en la bodega si no hay:",
+    "options": ["Ventilación adecuada", "Sellado total", "Calor", "Luz"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_385",
+    "topic": "Mercancías Peligrosas",
+    "text": "El entrenamiento periódico de MMPP para TCP es crucial para conocer las últimas 'Diferencias de Operador' (Operator Variations) de la aerolínea, que son:",
+    "options": ["Menos restrictivas que IATA", "Más restrictivas que IATA", "Solo aplicables en tierra", "Solo aplicables al Piloto al Mando"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_386",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con 'RADIOACTIVE I-WHITE' deben llevar un 'Transport Index' (TI) de:",
+    "options": ["1.0", "0.0", "Entre 0.1 y 1.0", "Mayor que 10.0"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_387",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 5.2 (Peróxidos Orgánicos) requiere segregación de:",
+    "options": ["Clase 7", "Clase 8", "Sustancias combustibles y fuentes de calor", "Agua"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_388",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué prohibición aplica al transporte de 'encendedores de combustible líquido no absorbido' (ej. Zippo)?",
+    "options": ["Solo en cabina", "Prohibido en persona, equipaje de mano y facturado", "Solo en bodega", "Solo si están vacíos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_389",
+    "topic": "Mercancías Peligrosas",
+    "text": "La 'Provisión Especial A152' permite el transporte de sillas de ruedas con baterías de litio, requiriendo la notificación y:",
+    "options": ["La batería debe estar instalada de forma segura, sin riesgo de cortocircuito", "La silla debe ser desmontada", "El pasajero debe ser asistido por un médico", "La silla debe ser de un color específico"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_390",
+    "topic": "Mercancías Peligrosas",
+    "text": "El uso del 'Emergency Response Guidebook' (ERG) para TCP se centra en:",
+    "options": ["La identificación del peligro y las acciones de protección y aislamiento inicial", "El cálculo del flete", "La planificación del vuelo", "El check-in de pasajeros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_391",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 4.1 (Sólidos Inflamables) tiene el símbolo de una llama negra sobre fondo:",
+    "options": ["Rojo", "Azul", "Blanco con rayas rojas", "Amarillo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_392",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP está asociada con un riesgo de 'toxicidad por inhalación'?",
+    "options": ["Clase 2.3 y Clase 6.1", "Clase 3", "Clase 7", "Clase 8"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_393",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con 'Cargo Aircraft Only' (CAO) requieren la marca de:",
+    "options": ["El número ONU", "La clase de peligro", "Las flechas de orientación", "La frase 'Cargo Aircraft Only'"],
+    "correctIndex": 3
+  },
+  {
+    "id": "mp_394",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si se detecta un fuego de MMPP que involucra sólidos inflamables (Clase 4.1), el extintor más recomendado en cabina es:",
+    "options": ["Agua", "Halón o polvo químico seco", "CO2", "Espuma"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_395",
+    "topic": "Mercancías Peligrosas",
+    "text": "La principal diferencia entre el embalaje de 'Grupo II' y 'Grupo III' es el nivel de:",
+    "options": ["Corrosión", "Peligro de la sustancia (II: Medio, III: Bajo)", "Toxicidad", "Inflamabilidad"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_396",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con la etiqueta 'Limited Quantity' (LQ) están exentos de la aplicación de algunas disposiciones de:",
+    "options": ["Embalaje de Grupo I (Alto Peligro)", "Embalaje de Grupo II y III (Medio y Bajo Peligro)", "Solo las prohibiciones", "Solo los límites de peso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_397",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP está asociada con el riesgo de 'expansión de volumen' en altura?",
+    "options": ["Clase 3", "Clase 2 (Gases)", "Clase 7", "Clase 8"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_398",
+    "topic": "Mercancías Peligrosas",
+    "text": "El transporte de pequeños cilindros de oxígeno o aire gaseoso para uso médico de la aerolínea requiere la notificación a:",
+    "options": ["El expedidor", "El Piloto al Mando", "El pasajero", "El personal de limpieza"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_399",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 6.2 (Sustancias Infecciosas) tiene el riesgo de:",
+    "options": ["Explosión", "Contagiar enfermedades", "Corroer metales", "Ser inflamable"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_400",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con 'RADIOACTIVE II-YELLOW' tienen un 'Transport Index' (TI) entre:",
+    "options": ["0.0 y 0.1", "0.1 y 1.0", "1.1 y 10.0", "Mayor que 10.0"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_401",
+    "topic": "Mercancías Peligrosas",
+    "text": "El símbolo de la etiqueta de la Clase 9 (Peligros Varios) es un fondo blanco con rayas negras en el borde inferior y el número 9 en la esquina:",
+    "options": ["Superior", "Inferior", "Central", "Derecha"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_402",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 8 (Corrosivos) tiene el símbolo de manos y barra goteando y el número 8 en la esquina:",
+    "options": ["Superior", "Inferior", "Central", "Derecha"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_403",
+    "topic": "Mercancías Peligrosas",
+    "text": "El transporte de munición para uso deportivo (Clase 1.4S) requiere que esté:",
+    "options": ["En su embalaje original y separada del arma", "En el equipaje de mano", "En la cabina de pilotaje", "En el asiento del pasajero"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_404",
+    "topic": "Mercancías Peligrosas",
+    "text": "El riesgo de auto-ignición (Clase 4.2) se debe a que la sustancia reacciona con:",
+    "options": ["Agua", "Calor", "El aire", "Electricidad"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_405",
+    "topic": "Mercancías Peligrosas",
+    "text": "La principal preocupación en el transporte de baterías de litio de repuesto es el riesgo de:",
+    "options": ["Corrosión", "Cortocircuito e incendio", "Toxicidad", "Radioactividad"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_406",
+    "topic": "Mercancías Peligrosas",
+    "text": "La segregación de la Clase 6.1 (Sustancias Tóxicas) se requiere para evitar el contacto con:",
+    "options": ["Explosivos", "Corrosivos", "Alimentos, piensos y productos farmacéuticos", "Radioactivos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_407",
+    "topic": "Mercancías Peligrosas",
+    "text": "El bulto con la etiqueta 'LITHIUM METAL BATTERY' de repuesto debe ir en el equipaje de mano y:",
+    "options": ["Sin protección", "En el bolsillo", "Con los terminales protegidos para evitar cortocircuitos", "En la bodega de carga"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_408",
+    "topic": "Mercancías Peligrosas",
+    "text": "El transporte de MMPP en cantidades 'Exceptuadas' requiere la notificación al Piloto al Mando de:",
+    "options": ["El número ONU y la clase de peligro", "El nombre del expedidor", "El nombre del pasajero", "Solo el código de riesgo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_409",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Clase 5.1 (Sustancias Comburentes) tiene el riesgo de:",
+    "options": ["Explosión masiva", "Acelerar la combustión y causar o intensificar el fuego", "Corrosión", "Toxicidad"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_410",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con 'Cargo Aircraft Only' (CAO) solo pueden ser transportados en aeronaves con un compartimento de carga que tenga:",
+    "options": ["Ventanas", "Un sistema de extinción de fuego aprobado (si es aplicable)", "Moqueta", "Asientos de pasajeros"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_411",
+    "topic": "Mercancías Peligrosas",
+    "text": "El entrenamiento inicial de MMPP para TCP debe incluir el conocimiento de la ubicación de:",
+    "options": ["El extintor de Halón, PBE y el Kit de Derrame de MMPP", "El asiento del pasajero", "La cabina de pilotaje", "La bodega de carga"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_412",
+    "topic": "Mercancías Peligrosas",
+    "text": "La prohibición de llevar encendedores de combustible líquido no absorbido se debe a su clasificación como Grupo de Embalaje:",
+    "options": ["I", "II", "III", "No aplica"],
+    "correctIndex": 0
+  },
+  {
+    "id": "mp_413",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si se detecta un fuego de MMPP que involucra gases inflamables (Clase 2.1), el extintor más recomendado en cabina es:",
+    "options": ["Agua", "Halón (para sofocar)", "CO2", "Espuma"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_414",
+    "topic": "Mercancías Peligrosas",
+    "text": "La Class 4.3 (Sólidos que reaccionan con el agua) tiene el riesgo de:",
+    "options": ["Explosión", "Liberación de gases inflamables", "Corrosión", "Toxicidad"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_415",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con la etiqueta 'Limited Quantity' (LQ) se caracterizan por tener un marcado en forma de:",
+    "options": ["Círculo con rayas negras", "Diamante", "Rombo", "Triángulo invertido"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_416",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué clase de MMPP está asociada con un riesgo de 'toxicidad por contacto cutáneo'?",
+    "options": ["Clase 3", "Clase 6.1 (Sustancias Tóxicas)", "Clase 7", "Clase 8"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_417",
+    "topic": "Mercancías Peligrosas",
+    "text": "El marcaje 'ELi' en un bulto (junto a la etiqueta de Litio) indica que la mercancía es:",
+    "options": ["Litio Metal", "Litio-Ion", "Baterías de Litio instaladas en un equipo", "Solo baterías de Litio de repuesto"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_418",
+    "topic": "Mercancías Peligrosas",
+    "text": "La segregación de la Clase 5.1 (Comburentes) se requiere para evitar el contacto con:",
+    "options": ["Clase 7", "Clase 8", "Sustancias que pueden oxidarse (ej. combustibles, líquidos inflamables)", "Agua"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_419",
+    "topic": "Mercancías Peligrosas",
+    "text": "Los bultos con 'RADIOACTIVE I-WHITE' tienen un nivel de radiación en la superficie que es:",
+    "options": ["Alto", "Medio", "Bajo (no detectable a 3 metros)", "Nulo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "mp_420",
+    "topic": "Mercancías Peligrosas",
+    "text": "El riesgo de 'Barotrauma' en un paquete que contiene MMPP gaseosas es mayor en la fase de vuelo de:",
+    "options": ["Rodaje", "Ascenso (por la expansión del gas)", "Descenso", "Aterrizaje"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_421",
+    "topic": "Mercancías Peligrosas",
+    "text": "La principal diferencia entre MMPP de 'Propiedad del Transportista' y MMPP aceptables es que las de 'Propiedad del Transportista' están exentas de:",
+    "options": ["Solo el etiquetado", "La Declaración del Expedidor de MMPP", "Solo el número ONU", "Los límites de peso"],
+    "correctIndex": 1
+  },
+  {
+    "id": "mp_422",
+    "topic": "Mercancías Peligrosas",
+    "text": "Si se detecta un derrame de MMPP en cabina, el TCP debe utilizar el EPP (Equipo de Protección Personal) y:",
+    "options": ["Ventilar el área (si el derrame no es tóxico ni reactivo al aire)", "Correr a la cabina de pilotaje", "Limpiar con agua", "Abrir la bodega de carga"],
+    "correctIndex": 0
+  }
+]

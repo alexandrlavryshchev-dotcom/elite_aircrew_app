@@ -1,0 +1,1909 @@
+[
+  {
+    "id": "roleplay_001",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero se niega a apagar su teléfono móvil durante el rodaje. ¿Qué deberías hacer?",
+    "options": [
+      "Explicarle con calma la normativa y solicitar que lo apague.",
+      "Ignorar la situación para evitar conflicto.",
+      "Quitarle el teléfono inmediatamente.",
+      "Avisar directamente a la policía."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_002",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero con movilidad reducida solicita ayuda para ir al baño. ¿Cuál es la respuesta más adecuada?",
+    "options": [
+      "Ayudarle hasta la puerta del baño, respetando su intimidad.",
+      "Entrar con él al baño para asistirle directamente.",
+      "Negarse porque no forma parte del servicio.",
+      "Llamar al comandante para pedir instrucciones."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_003",
+    "topic": "Roleplay en Cabina",
+    "text": "Durante el embarque, un pasajero grita y empuja a otro. ¿Qué haces primero?",
+    "options": [
+      "Intervenir verbalmente de manera calmada para desescalar la situación.",
+      "Separar físicamente a los pasajeros sin mediar palabra.",
+      "Ignorar el incidente y seguir con el embarque.",
+      "Cerrar la puerta de cabina para no involucrarte."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_004",
+    "topic": "Roleplay en Cabina",
+    "text": "Si un pasajero te informa que siente dolor en el pecho, ¿qué deberías hacer?",
+    "options": [
+      "Avisar al comandante y aplicar el protocolo médico a bordo.",
+      "Ofrecerle agua y pedirle que espere.",
+      "Pedirle que se recueste en el suelo.",
+      "Ignorar la queja si parece leve."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_005",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero con miedo a volar comienza a hiperventilar antes del despegue. ¿Qué deberías hacer?",
+    "options": [
+      "Hablarle con calma, ofrecerle respirar lentamente y avisar al sobrecargo.",
+      "Ignorarlo, ya que no es una emergencia médica.",
+      "Decirle que deje de exagerar.",
+      "Ofrecerle una bebida alcohólica para que se relaje."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_006",
+    "topic": "Roleplay en Cabina",
+    "text": "Durante el servicio de comidas, un pasajero informa que tiene alergia a los frutos secos. ¿Qué haces?",
+    "options": [
+      "Comprobar la etiqueta del menú y avisar al sobrecargo antes de servir.",
+      "Decirle que no puedes hacer nada.",
+      "Servir la comida igualmente.",
+      "Ofrecerle cualquier menú disponible sin revisar ingredientes."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_007",
+    "topic": "Roleplay en Cabina",
+    "text": "Un niño pequeño comienza a llorar desconsoladamente durante el vuelo. ¿Qué harías?",
+    "options": [
+      "Hablar amablemente con los padres y ofrecer asistencia si es posible.",
+      "Llamar al comandante para pedir una solución.",
+      "Regañar a los padres por molestar a otros pasajeros.",
+      "Ignorar la situación completamente."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_008",
+    "topic": "Roleplay en Cabina",
+    "text": "Si detectas humo ligero en el galley, ¿qué deberías hacer primero?",
+    "options": [
+      "Informar inmediatamente al sobrecargo y evaluar la fuente del humo.",
+      "Abrir la puerta del horno sin precaución.",
+      "Ignorar el humo hasta que sea más visible.",
+      "Avisar a los pasajeros para que se preparen para evacuar."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_009",
+    "topic": "Roleplay en Cabina",
+    "text": "Durante el desembarque, un pasajero se queja del maltrato de otro TCP. ¿Qué deberías hacer?",
+    "options": [
+      "Escuchar con respeto, disculparte y remitir la queja al sobrecargo o comandante.",
+      "Negar la acusación inmediatamente.",
+      "Ignorar la queja porque el vuelo ha terminado.",
+      "Discutir con el pasajero para defender a tu compañero."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_010",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero intenta abrir el compartimento de emergencia sin autorización. ¿Qué haces?",
+    "options": [
+      "Advertirle con firmeza que está prohibido y reportarlo inmediatamente.",
+      "Permitirlo si parece curioso.",
+      "Gritarle delante de los demás pasajeros.",
+      "Ignorarlo para evitar enfrentamientos."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_011",
+    "topic": "Roleplay en Cabina",
+    "text": "Una persona no habla inglés ni español y parece confundida con su asiento. ¿Qué haces?",
+    "options": [
+      "Utilizar gestos y sonrisas para ayudarle a encontrar su asiento.",
+      "Ignorarle hasta que otro pasajero le ayude.",
+      "Regañarle por no hablar el idioma.",
+      "Pedirle que espere hasta el final del embarque."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_012",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero en clase turista se sienta en un asiento de clase business. ¿Qué deberías hacer?",
+    "options": [
+      "Explicarle cortésmente que debe regresar a su asiento asignado.",
+      "Ignorarlo si el vuelo no está lleno.",
+      "Permitirlo para evitar discusión.",
+      "Llamar directamente a seguridad sin hablarle."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_013",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero se desmaya repentinamente. ¿Qué haces primero?",
+    "options": [
+      "Comprobar su respiración y avisar al sobrecargo y comandante.",
+      "Moverlo de su asiento sin revisar su estado.",
+      "Pedir a los pasajeros que lo reanimen.",
+      "Echarle agua fría encima."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_014",
+    "topic": "Roleplay en Cabina",
+    "text": "Durante un vuelo nocturno, un pasajero no responde a las indicaciones. ¿Qué haces?",
+    "options": [
+      "Verificas si está dormido o inconsciente antes de tomar medidas.",
+      "Ignoras la situación.",
+      "Le gritas para que despierte.",
+      "Llamas al comandante inmediatamente sin verificar."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_015",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero solicita una bebida alcohólica, pero ya muestra signos de embriaguez. ¿Qué haces?",
+    "options": [
+      "Negarte cortésmente a servir más alcohol y ofrecer una alternativa.",
+      "Servirle una más para que se calme.",
+      "Ignorar su estado y continuar el servicio.",
+      "Llamar a la policía aérea inmediatamente."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_016",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero te informa que su equipaje de mano ha desaparecido. ¿Qué deberías hacer?",
+    "options": [
+      "Pedirle detalles, avisar al sobrecargo y registrar los compartimentos cercanos.",
+      "Culpar al pasajero por no vigilar sus pertenencias.",
+      "Pedirle que espere a llegar al destino.",
+      "Ignorar la queja hasta que lo reclame en tierra."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_017",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero quiere cambiar su asiento sin autorización. ¿Qué haces?",
+    "options": [
+      "Permitir el cambio solo si no afecta la distribución de peso y seguridad.",
+      "Decirle que no puede bajo ningún motivo.",
+      "Ignorar la solicitud.",
+      "Llamar al comandante antes de decidir."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_018",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero comienza a grabar al personal de cabina sin permiso. ¿Qué haces?",
+    "options": [
+      "Informarle educadamente que está prohibido grabar a la tripulación.",
+      "Quitarle el teléfono.",
+      "Ignorarlo completamente.",
+      "Reírte y dejarle continuar."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_019",
+    "topic": "Roleplay en Cabina",
+    "text": "Una pasajera embarazada te dice que siente contracciones. ¿Qué haces primero?",
+    "options": [
+      "Avisar al comandante y aplicar el protocolo médico.",
+      "Darle agua y decirle que se calme.",
+      "Ignorarla hasta que se queje más.",
+      "Preguntarle si está segura."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_020",
+    "topic": "Roleplay en Cabina",
+    "text": "Durante la demostración de seguridad, un pasajero se burla y distrae al resto. ¿Qué haces?",
+    "options": [
+      "Llamar su atención con respeto y continuar la demostración.",
+      "Ignorar el comportamiento.",
+      "Gritarle para que se calle.",
+      "Suspender la demostración inmediatamente."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_021",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero insiste en fumar en el baño. ¿Qué debes hacer?",
+    "options": [
+      "Advertirle que está prohibido y reportarlo al sobrecargo.",
+      "Ignorarlo si no molesta a nadie.",
+      "Permitirlo si no hay detectores de humo.",
+      "Esperar a que termine antes de actuar."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_022",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero pierde su pasaporte durante el vuelo. ¿Qué deberías hacer?",
+    "options": [
+      "Tranquilizarle y avisar al sobrecargo para registrar el hecho.",
+      "Pedirle que busque mejor en su asiento.",
+      "Ignorar el problema hasta el aterrizaje.",
+      "Pedirle que lo anote en una hoja."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_023",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero te pide que cambies la temperatura de la cabina. ¿Qué haces?",
+    "options": [
+      "Explicarle que informarás al sobrecargo para ajustar si es posible.",
+      "Decirle que no puedes hacer nada.",
+      "Ignorarlo por completo.",
+      "Subir la temperatura sin consultar."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_024",
+    "topic": "Roleplay en Cabina",
+    "text": "Durante el vuelo, un pasajero vomita. ¿Qué harías primero?",
+    "options": [
+      "Proporcionar bolsas, limpiar el área y avisar al sobrecargo.",
+      "Llamar al comandante de inmediato.",
+      "Regañarle por ensuciar la cabina.",
+      "Esperar a que otro TCP lo limpie."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_025",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero se levanta mientras el avión rueda por la pista. ¿Qué haces?",
+    "options": [
+      "Pedirle firmemente que se siente y abroche el cinturón.",
+      "Ignorar la situación.",
+      "Gritarle frente a los demás pasajeros.",
+      "Esperar a que el avión despegue."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_026",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero solicita hablar con el comandante sin motivo justificado. ¿Qué haces?",
+    "options": [
+      "Explicarle que no está permitido y que puede comunicar su mensaje a través de la tripulación.",
+      "Permitirle ir a la cabina.",
+      "Ignorar la solicitud.",
+      "Decirle que el comandante no existe."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_027",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero empieza a grabarte mientras sirves bebidas. ¿Qué deberías hacer?",
+    "options": [
+      "Decirle con cortesía que no está permitido grabar al personal sin permiso.",
+      "Dejarle grabar si no molesta.",
+      "Quitarle el móvil.",
+      "Llamar al comandante directamente."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_028",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero pregunta por un medicamento que no está a bordo. ¿Qué haces?",
+    "options": [
+      "Consultar el botiquín y avisar al sobrecargo para seguir el protocolo médico.",
+      "Decirle que busque en su equipaje.",
+      "Ofrecerle cualquier cosa parecida.",
+      "Ignorar su petición."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_029",
+    "topic": "Roleplay en Cabina",
+    "text": "Durante el vuelo, un pasajero empieza a discutir con un TCP. ¿Qué haces?",
+    "options": [
+      "Intentar calmar la situación con tono profesional y sin perder autoridad.",
+      "Tomar partido por el pasajero.",
+      "Unirte a la discusión.",
+      "Ignorar el conflicto."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_030",
+    "topic": "Roleplay en Cabina",
+    "text": "Si un pasajero no entiende las instrucciones de seguridad, ¿qué haces?",
+    "options": [
+      "Usar gestos y repetir con paciencia las indicaciones esenciales.",
+      "Ignorarle, ya que no es tu responsabilidad.",
+      "Pedirle que lea el manual de seguridad por su cuenta.",
+      "Mandarle a otro TCP."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_031",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero informa de un olor extraño proveniente del baño. ¿Qué haces?",
+    "options": [
+      "Verificar el área y reportar al sobrecargo inmediatamente.",
+      "Esperar a que el olor se disipe.",
+      "Cerrar el baño sin revisar.",
+      "Ignorar la queja."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_032",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero con discapacidad auditiva no comprende las instrucciones. ¿Qué haces?",
+    "options": [
+      "Usar gestos y mostrarle la tarjeta de instrucciones visuales.",
+      "Hablarle más alto.",
+      "Ignorarle.",
+      "Regañarle por no entender."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_033",
+    "topic": "Roleplay en Cabina",
+    "text": "Si un pasajero sufre una crisis de pánico, ¿qué deberías hacer?",
+    "options": [
+      "Hablarle con calma, ofrecerle respirar profundamente y avisar al sobrecargo.",
+      "Darle una pastilla sin consultar.",
+      "Ignorarlo hasta que se calme.",
+      "Reírte para quitarle importancia."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_034",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero derrama café caliente sobre sí mismo. ¿Qué haces primero?",
+    "options": [
+      "Aplicar primeros auxilios básicos y reportar al sobrecargo.",
+      "Pedirle que se cambie solo.",
+      "Regañarle por mover la taza.",
+      "Ignorar la situación."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_035",
+    "topic": "Roleplay en Cabina",
+    "text": "Si un pasajero quiere usar su propio oxígeno portátil, ¿qué haces?",
+    "options": [
+      "Consultar la política de la compañía y avisar al comandante.",
+      "Permitirlo sin verificar.",
+      "Decirle que no se puede sin dar explicación.",
+      "Ignorarlo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_036",
+    "topic": "Roleplay en Cabina",
+    "text": "Durante el embarque, un pasajero protesta porque su asiento no reclina. ¿Qué haces?",
+    "options": [
+      "Escucharle, disculparte y ofrecer una alternativa si es posible.",
+      "Reírte del comentario.",
+      "Decirle que no es tu problema.",
+      "Ignorarle completamente."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_037",
+    "topic": "Roleplay en Cabina",
+    "text": "Una pasajera pide guardar su abrigo en el compartimento de business. ¿Qué haces?",
+    "options": [
+      "Explicarle amablemente que los compartimentos son para los pasajeros de esa clase.",
+      "Permitirlo para evitar conflicto.",
+      "Regañarla.",
+      "Ignorarla."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_038",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero quiere sentarse en la salida de emergencia pero tiene un yeso en la pierna. ¿Qué haces?",
+    "options": [
+      "Reubicarlo en otro asiento porque no puede ocupar esa posición.",
+      "Permitirlo si promete no moverse.",
+      "Ignorar su condición.",
+      "Preguntarle si puede correr."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_039",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero deja su cinturón desabrochado durante turbulencias. ¿Qué haces?",
+    "options": [
+      "Pedirle con firmeza que lo abroche por seguridad.",
+      "Dejarlo así si no molesta.",
+      "Regañarle frente a los demás.",
+      "Ignorarlo completamente."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_040",
+    "topic": "Roleplay en Cabina",
+    "text": "Si un pasajero toca a un TCP de forma inapropiada, ¿qué se debe hacer?",
+    "options": [
+      "Mantener la calma, alejarse y notificar inmediatamente al sobrecargo.",
+      "Responder de forma agresiva.",
+      "Ignorarlo para evitar conflicto.",
+      "Esperar a que otro TCP actúe."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_041",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero grita que tiene miedo de volar. ¿Qué deberías hacer?",
+    "options": [
+      "Intentar calmarlo, hablarle con empatía y avisar al sobrecargo.",
+      "Reírte de su reacción.",
+      "Ignorarlo.",
+      "Pedirle que abandone el avión."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_042",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero comienza a rezar en voz alta durante turbulencias. ¿Qué haces?",
+    "options": [
+      "Dejarle hacerlo mientras no cause alteraciones.",
+      "Pedirle que pare inmediatamente.",
+      "Reírte.",
+      "Gritarle para que se siente."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_043",
+    "topic": "Roleplay en Cabina",
+    "text": "Si un pasajero se niega a seguir tus instrucciones, ¿qué debes hacer?",
+    "options": [
+      "Mantener la calma, repetir la instrucción y reportarlo al sobrecargo.",
+      "Discutir con él hasta que obedezca.",
+      "Ignorar su comportamiento.",
+      "Amenazarlo con expulsarlo del vuelo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_044",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero con síntomas de fiebre alta está sentado junto a otros. ¿Qué haces?",
+    "options": [
+      "Aislarlo si es posible y aplicar el protocolo sanitario.",
+      "Ignorar la fiebre.",
+      "Pedirle que se cambie solo.",
+      "Esperar al aterrizaje sin actuar."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_045",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero te pide un upgrade gratis. ¿Qué haces?",
+    "options": [
+      "Explicarle amablemente que los cambios solo se hacen bajo autorización.",
+      "Ignorar su solicitud.",
+      "Decirle que sí para evitar conflicto.",
+      "Regañarlo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_046",
+    "topic": "Roleplay en Cabina",
+    "text": "Durante el servicio, un pasajero te pide un producto agotado. ¿Qué haces?",
+    "options": [
+      "Ofrecer una alternativa con amabilidad.",
+      "Decirle que no hay y marcharte.",
+      "Reírte.",
+      "Ignorarlo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_047",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero intenta abrir una ventanilla durante el vuelo. ¿Qué haces?",
+    "options": [
+      "Informarle con calma que no es posible y reportarlo.",
+      "Dejarle intentar.",
+      "Gritarle.",
+      "Ignorarlo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_048",
+    "topic": "Roleplay en Cabina",
+    "text": "Una pasajera llora por ansiedad. ¿Qué haces?",
+    "options": [
+      "Hablarle con empatía, ofrecerle agua y avisar al sobrecargo.",
+      "Decirle que se calme sola.",
+      "Ignorarla.",
+      "Mandarla al baño."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_049",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero se levanta cuando el avión aún está rodando. ¿Qué haces?",
+    "options": [
+      "Pedirle firmemente que se siente por seguridad.",
+      "Esperar a que el avión pare.",
+      "Reírte.",
+      "Ignorarle."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_050",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero tiene una reacción alérgica grave. ¿Qué haces?",
+    "options": [
+      "Aplicar primeros auxilios y avisar al comandante para posible aterrizaje de emergencia.",
+      "Esperar a que se le pase.",
+      "Ignorar el caso.",
+      "Pedirle que respire profundo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_051",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero se niega a apagar su teléfono móvil durante el despegue. ¿Qué haces?",
+    "options": [
+      "Informarle con calma que es obligatorio y advertir al sobrecargo si persiste.",
+      "Permitirle usarlo si está en modo avión.",
+      "Ignorar la situación.",
+      "Quitarle el teléfono sin explicaciones."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_052",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero intenta guardar su maleta en el pasillo. ¿Qué deberías hacer?",
+    "options": [
+      "Indicarle que debe colocarse en el compartimento superior o debajo del asiento.",
+      "Dejarla en el pasillo si no molesta.",
+      "Regañarle en voz alta.",
+      "Pedirle que la deje en otro asiento vacío."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_053",
+    "topic": "Roleplay en Cabina",
+    "text": "Durante el embarque, un pasajero se muestra alterado porque su vuelo anterior fue cancelado. ¿Qué haces?",
+    "options": [
+      "Escucharle con empatía y ofrecerle asistencia o guía según protocolo.",
+      "Discutir con él.",
+      "Ignorar su queja.",
+      "Pedirle que se calme bruscamente."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_054",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero se siente mal durante el ascenso y te dice que no puede respirar bien. ¿Qué haces?",
+    "options": [
+      "Aplicar el protocolo médico, ofrecer oxígeno suplementario y avisar al sobrecargo.",
+      "Pedirle que respire hondo y esperas.",
+      "Decirle que se calme sin actuar.",
+      "Ignorar el problema."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_055",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero se niega a colocarse el cinturón durante el aterrizaje. ¿Qué haces?",
+    "options": [
+      "Explicarle con firmeza que es obligatorio y avisar al sobrecargo si se niega.",
+      "Ignorarlo si parece tranquilo.",
+      "Gritarle.",
+      "Decirle que no importa si no lo hace."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_056",
+    "topic": "Roleplay en Cabina",
+    "text": "Un niño pequeño llora sin parar y molesta a otros pasajeros. ¿Qué haces?",
+    "options": [
+      "Hablar con los padres y ofrecer ayuda o distracción para el niño.",
+      "Pedirles que lo callen inmediatamente.",
+      "Ignorar el llanto.",
+      "Molestarte con los padres."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_057",
+    "topic": "Roleplay en Cabina",
+    "text": "Durante el servicio de comidas, un pasajero se queja porque su menú no corresponde al solicitado. ¿Qué haces?",
+    "options": [
+      "Disculparte y revisar si es posible ofrecerle la opción correcta.",
+      "Decirle que no hay nada que hacer.",
+      "Ignorar la queja.",
+      "Culpar al catering."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_058",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero deja su equipaje sobresaliendo del compartimento. ¿Qué haces?",
+    "options": [
+      "Colocarlo correctamente o pedirle que lo acomode de forma segura.",
+      "Cerrar el compartimento sin mirar.",
+      "Ignorarlo.",
+      "Pedirle que lo deje así para no perder tiempo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_059",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero derrama agua en el pasillo. ¿Cuál es tu actuación?",
+    "options": [
+      "Limpiar o señalizar el área inmediatamente para evitar accidentes.",
+      "Ignorarlo si no hay personas cerca.",
+      "Pedirle que lo limpie él mismo.",
+      "Esperar al aterrizaje para ocuparte."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_060",
+    "topic": "Roleplay en Cabina",
+    "text": "Una pasajera embarazada se queja de dolor abdominal. ¿Qué haces?",
+    "options": [
+      "Avisar inmediatamente al sobrecargo y aplicar el protocolo médico.",
+      "Pedirle que espere hasta el aterrizaje.",
+      "Ignorarla.",
+      "Ofrecerle agua únicamente."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_061",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero empieza a insultar a otro. ¿Qué haces?",
+    "options": [
+      "Intervenir con calma y autoridad, separándolos si es necesario.",
+      "Gritarles a ambos.",
+      "Ignorar la pelea.",
+      "Pedir ayuda a otros pasajeros."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_062",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero con movilidad reducida necesita ayuda para llegar a su asiento. ¿Qué haces?",
+    "options": [
+      "Ayudarle con cuidado y respetando su dignidad.",
+      "Pedirle que lo haga solo.",
+      "Decirle que espere al siguiente vuelo.",
+      "Regañarlo por tardar."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_063",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero con alergia alimentaria duda de su comida. ¿Qué haces?",
+    "options": [
+      "Comprobar los ingredientes o consultar al sobrecargo antes de servir.",
+      "Decirle que coma bajo su propio riesgo.",
+      "Ignorar su preocupación.",
+      "Reírte de su pregunta."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_064",
+    "topic": "Roleplay en Cabina",
+    "text": "Durante el embarque, un pasajero se muestra agresivo verbalmente. ¿Qué haces?",
+    "options": [
+      "Mantener la calma, no responder y avisar al sobrecargo.",
+      "Responderle de la misma manera.",
+      "Ignorarlo y dejarle pasar.",
+      "Reírte de su actitud."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_065",
+    "topic": "Roleplay en Cabina",
+    "text": "Una pasajera llora por miedo a volar. ¿Qué deberías hacer?",
+    "options": [
+      "Ofrecerle apoyo emocional, tranquilizarla y avisar al sobrecargo.",
+      "Decirle que no es para tanto.",
+      "Ignorarla.",
+      "Reírte con otro TCP."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_066",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero se levanta durante turbulencias leves. ¿Qué haces?",
+    "options": [
+      "Pedirle que se siente y se abroche el cinturón por seguridad.",
+      "Dejarle moverse si lo desea.",
+      "Ignorarlo.",
+      "Gritarle."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_067",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero denuncia que le falta su bolso. ¿Cuál es tu primera acción?",
+    "options": [
+      "Calmarlo y ayudarle a buscar, informando al sobrecargo.",
+      "Llamar directamente a la policía.",
+      "Decirle que no puedes ayudar.",
+      "Ignorarlo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_068",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero se desmaya en su asiento. ¿Qué haces?",
+    "options": [
+      "Comprobar si respira, aplicar primeros auxilios y avisar al sobrecargo.",
+      "Esperar a que despierte solo.",
+      "Agitarlo para que reaccione.",
+      "Gritar pidiendo ayuda sin actuar."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_069",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero quiere cambiarse a un asiento vacío en clase superior. ¿Qué haces?",
+    "options": [
+      "Explicarle amablemente que no está permitido sin autorización.",
+      "Permitirlo para evitar discusiones.",
+      "Ignorarlo.",
+      "Regañarlo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_070",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero te dice que escucha ruidos extraños en el ala. ¿Qué haces?",
+    "options": [
+      "Revisar visualmente y reportarlo al sobrecargo.",
+      "Decirle que no pasa nada.",
+      "Ignorarlo.",
+      "Reírte de su observación."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_071",
+    "topic": "Roleplay en Cabina",
+    "text": "Durante el vuelo, un pasajero solicita ver la cabina de vuelo. ¿Qué haces?",
+    "options": [
+      "Explicarle que por seguridad no es posible.",
+      "Permitirle si el comandante está disponible.",
+      "Ignorar su petición.",
+      "Reírte de él."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_072",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero utiliza lenguaje ofensivo hacia la tripulación. ¿Qué haces?",
+    "options": [
+      "Mantener la calma, no responder y avisar al sobrecargo.",
+      "Contestarle con el mismo tono.",
+      "Ignorarlo completamente.",
+      "Pedir a otro pasajero que lo calme."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_073",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero se corta con un objeto afilado. ¿Qué haces?",
+    "options": [
+      "Aplicar primeros auxilios básicos y registrar el incidente.",
+      "Decirle que lo limpie él mismo.",
+      "Ignorar la herida.",
+      "Pedirle que espere al aterrizaje."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_074",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero con claustrofobia empieza a sentirse mal. ¿Qué haces?",
+    "options": [
+      "Hablarle con calma, permitirle respirar profundamente y avisar al sobrecargo.",
+      "Decirle que no mire las paredes.",
+      "Ignorarlo.",
+      "Regañarlo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_075",
+    "topic": "Roleplay en Cabina",
+    "text": "Una pasajera solicita cambiar su asiento para estar junto a su hijo. ¿Qué haces?",
+    "options": [
+      "Comprobar si es posible y facilitarlo si no afecta la seguridad.",
+      "Decirle que no sin comprobar.",
+      "Ignorarla.",
+      "Decirle que espere al aterrizaje."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_076",
+    "topic": "Roleplay en Cabina",
+    "text": "Durante el vuelo, notas humo saliendo del horno de galley. ¿Qué haces?",
+    "options": [
+      "Cortar la corriente, usar extintor si es necesario y avisar al sobrecargo.",
+      "Esperar a que se apague solo.",
+      "Ignorarlo.",
+      "Decir a los pasajeros que no miren."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_077",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero se marea tras tomar una bebida alcohólica. ¿Qué haces?",
+    "options": [
+      "Ofrecerle agua, colocarlo en posición cómoda y avisar al sobrecargo.",
+      "Darle más alcohol para compensar.",
+      "Reírte de él.",
+      "Ignorarlo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_078",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero solicita ayuda para calentar la comida de su bebé. ¿Qué haces?",
+    "options": [
+      "Usar el calentador del galley si está permitido y seguro.",
+      "Decirle que no se puede sin verificar.",
+      "Ignorar su solicitud.",
+      "Reírte de su preocupación."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_079",
+    "topic": "Roleplay en Cabina",
+    "text": "Durante el desembarque, un pasajero intenta salir antes de que se abran las puertas. ¿Qué haces?",
+    "options": [
+      "Pedirle firmemente que espere por seguridad.",
+      "Permitirle avanzar.",
+      "Ignorarlo.",
+      "Gritarle sin explicación."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_080",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero te informa que ha visto chispas en una lámpara. ¿Qué haces?",
+    "options": [
+      "Comprobar la zona y reportarlo al sobrecargo de inmediato.",
+      "Decirle que no pasa nada.",
+      "Ignorar la observación.",
+      "Reírte de él."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_081",
+    "topic": "Roleplay en Cabina",
+    "text": "Una pasajera solicita agua caliente para su medicación. ¿Qué haces?",
+    "options": [
+      "Proporcionarla si es seguro hacerlo y supervisar su uso.",
+      "Negarte sin motivo.",
+      "Ignorarla.",
+      "Regañarla."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_082",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero con movilidad reducida necesita usar el baño. ¿Qué haces?",
+    "options": [
+      "Ayudarlo siguiendo el protocolo y preservando su intimidad.",
+      "Negarle el acceso.",
+      "Ignorarlo.",
+      "Pedirle que espere hasta el aterrizaje."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_083",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero pregunta por la duración exacta del vuelo. ¿Qué haces?",
+    "options": [
+      "Dar una estimación o consultar con cabina de mando si es necesario.",
+      "Decirle que lo busque en internet.",
+      "Ignorar la pregunta.",
+      "Inventarte un número."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_084",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero nota un olor a quemado. ¿Qué haces?",
+    "options": [
+      "Verificar inmediatamente la fuente y reportar al sobrecargo.",
+      "Decirle que no es nada grave.",
+      "Esperar a que se disipe.",
+      "Ignorarlo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_085",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero pregunta si puede visitar la cabina tras el aterrizaje. ¿Qué haces?",
+    "options": [
+      "Consultar al comandante tras el vuelo, si las normas lo permiten.",
+      "Decirle que sí sin consultar.",
+      "Ignorar la petición.",
+      "Reírte de la pregunta."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_086",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero deja basura en el suelo. ¿Qué haces?",
+    "options": [
+      "Pedirle educadamente que la entregue o recogerla tú si es necesario.",
+      "Ignorarlo.",
+      "Regañarlo frente a otros.",
+      "Esperar a que otro TCP la recoja."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_087",
+    "topic": "Roleplay en Cabina",
+    "text": "Durante el rodaje, un pasajero abre el compartimento superior. ¿Qué haces?",
+    "options": [
+      "Pedirle firmemente que lo cierre por seguridad.",
+      "Permitirlo si solo busca algo pequeño.",
+      "Ignorar la acción.",
+      "Esperar a que termine sin decir nada."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_088",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero se queja del ruido de otro bebé. ¿Qué haces?",
+    "options": [
+      "Mostrar empatía y explicarle que es una situación normal.",
+      "Decirle que no puede quejarse.",
+      "Ignorarlo.",
+      "Regañarlo por quejarse."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_089",
+    "topic": "Roleplay en Cabina",
+    "text": "Durante el vuelo, un pasajero hace fotos del personal sin permiso. ¿Qué haces?",
+    "options": [
+      "Pedirle amablemente que las elimine y explicarle la política de privacidad.",
+      "Ignorarlo.",
+      "Reírte con él.",
+      "Permitirlo sin más."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_090",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero empieza a fumar en el baño. ¿Qué haces?",
+    "options": [
+      "Avisar al sobrecargo y aplicar el procedimiento de seguridad correspondiente.",
+      "Ignorarlo si ya terminó.",
+      "Regañarlo sin reportarlo.",
+      "Pedirle que no lo vuelva a hacer sin más."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_091",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero pregunta si puede cambiar de asiento por molestias. ¿Qué haces?",
+    "options": [
+      "Verificar disponibilidad y permitirlo si no afecta la seguridad.",
+      "Decirle que no sin consultar.",
+      "Ignorar la petición.",
+      "Reírte."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_092",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero presenta síntomas de ansiedad. ¿Qué haces?",
+    "options": [
+      "Hablarle con calma, ofrecerle agua y avisar al sobrecargo.",
+      "Decirle que no exagere.",
+      "Ignorarlo.",
+      "Regañarlo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_093",
+    "topic": "Roleplay en Cabina",
+    "text": "Durante el aterrizaje, un pasajero sigue usando auriculares. ¿Qué haces?",
+    "options": [
+      "Pedirle que los retire y escuche las instrucciones.",
+      "Ignorarlo.",
+      "Gritarle.",
+      "Quitárselos sin pedir permiso."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_094",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero solicita una manta adicional, pero no quedan. ¿Qué haces?",
+    "options": [
+      "Disculparte y ofrecer una alternativa, como una chaqueta o abrigo propio.",
+      "Decirle que no y marcharte.",
+      "Ignorarlo.",
+      "Reírte de él."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_095",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero se queja de la temperatura a bordo. ¿Qué haces?",
+    "options": [
+      "Comprobar la temperatura y comunicarlo al sobrecargo si procede.",
+      "Ignorarlo.",
+      "Decirle que no puedes hacer nada sin comprobar.",
+      "Reírte."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_096",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero pregunta por la ubicación de las salidas de emergencia. ¿Qué haces?",
+    "options": [
+      "Indicarle visualmente las más cercanas y recordar las instrucciones de seguridad.",
+      "Decirle que lo busque solo.",
+      "Ignorarlo.",
+      "Reírte de la pregunta."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_097",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero deja su asiento reclinado durante la comida. ¿Qué haces?",
+    "options": [
+      "Pedirle amablemente que lo coloque en posición vertical.",
+      "Ignorarlo.",
+      "Gritarle.",
+      "Reírte del pasajero afectado."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_098",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero se queja del ruido de los motores. ¿Qué haces?",
+    "options": [
+      "Explicarle que es normal y parte del funcionamiento de la aeronave.",
+      "Decirle que se acostumbre.",
+      "Ignorarlo.",
+      "Reírte."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_099",
+    "topic": "Roleplay en Cabina",
+    "text": "Durante el despegue, un pasajero intenta levantarse. ¿Qué haces?",
+    "options": [
+      "Pedirle con firmeza que permanezca sentado hasta que el comandante lo indique.",
+      "Ignorarlo.",
+      "Dejarle moverse.",
+      "Gritarle."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_100",
+    "topic": "Roleplay en Cabina",
+    "text": "Un pasajero comienza a discutir contigo por un asiento asignado. ¿Qué haces?",
+    "options": [
+      "Mantener la calma, comprobar el billete y buscar una solución pacífica.",
+      "Responderle con tono elevado.",
+      "Ignorarlo.",
+      "Regañarlo públicamente."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_100",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero se queja de que su asiento está roto y no puede reclinarse. ¿Cuál sería tu primera acción?",
+    "options": ["Ofrecer disculpas y buscar otro asiento disponible", "Ignorar la queja hasta que despegue", "Decirle que no es tu responsabilidad", "Pedirle que lo arregle él mismo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_101",
+    "topic": "Roleplay en cabina",
+    "text": "Durante el embarque, un pasajero no encuentra espacio para su equipaje de mano. ¿Qué deberías hacer?",
+    "options": ["Ayudarle a buscar espacio o llevarlo a la bodega si es necesario", "Decirle que lo deje en el pasillo", "Ignorar el problema", "Pedirle que lo coloque debajo del asiento de otro pasajero"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_102",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero te informa que se siente mareado durante el vuelo. ¿Cuál es la respuesta adecuada?",
+    "options": ["Ofrecerle una bolsa para vómitos y avisar al sobrecargo", "Pedirle que espere hasta el aterrizaje", "Decirle que no puedes hacer nada", "Ignorar la situación"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_103",
+    "topic": "Roleplay en cabina",
+    "text": "Mientras sirves bebidas, un pasajero derrama café caliente sobre su pierna. ¿Qué haces primero?",
+    "options": ["Ofrecer asistencia inmediata y comprobar si hay quemaduras", "Regañarle por su torpeza", "Continuar el servicio", "Llamar directamente al comandante sin actuar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_104",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero molesto comienza a gritar porque el vuelo tiene retraso. ¿Cómo deberías actuar?",
+    "options": ["Mantener la calma, escuchar y responder con empatía", "Gritarle también para imponer respeto", "Evitar contacto visual", "Pedirle que se baje del avión sin avisar al sobrecargo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_105",
+    "topic": "Roleplay en cabina",
+    "text": "Un niño llora sin parar durante el vuelo y molesta a otros pasajeros. ¿Qué harías?",
+    "options": ["Ofrecer ayuda a los padres y distraer al niño con algo del servicio", "Ignorar la situación", "Pedirles que controlen al niño inmediatamente", "Llamar al comandante para reportar el caso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_106",
+    "topic": "Roleplay en cabina",
+    "text": "Detectas humo saliendo de un compartimento superior. ¿Cuál es tu primera acción?",
+    "options": ["Avisar al sobrecargo y seguir el procedimiento de incendios", "Cerrar el compartimento y continuar el servicio", "Esperar a ver si el humo desaparece", "Pedir a un pasajero que revise el interior"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_107",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero intenta fumar en el baño. ¿Cómo actúas?",
+    "options": ["Informas al sobrecargo y recuerdas al pasajero la prohibición", "Ignoras la acción si no hay humo", "Lo regañas delante de todos", "Esperas a que termine"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_108",
+    "topic": "Roleplay en cabina",
+    "text": "Durante el servicio, un pasajero solicita una bebida alcohólica y notas que ya ha bebido demasiado. ¿Qué haces?",
+    "options": ["Rechazar educadamente la solicitud y ofrecerle una alternativa sin alcohol", "Servirle igual para evitar conflictos", "Ignorar la petición", "Pedir al comandante que lo detenga"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_109",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero con movilidad reducida solicita ayuda para llegar al baño. ¿Qué haces?",
+    "options": ["Le ayudas hasta donde sea seguro y posible según el procedimiento", "Le dices que espere al aterrizaje", "Le pides a otro pasajero que lo ayude", "Lo ignoras porque no es tu función"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_110",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero te informa que ha perdido su cartera durante el vuelo. ¿Qué haces?",
+    "options": ["Anotas los detalles, informas al sobrecargo y colaboras en la búsqueda", "Le dices que no puedes hacer nada", "Le sugieres que revise en otro avión", "Esperas a que aterricen para avisar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_111",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero empieza a discutir con otro por el espacio del reposabrazos. ¿Qué haces?",
+    "options": ["Intervienes con calma para mediar y ofrecer una solución pacífica", "Te alejas para no involucrarte", "Aumentas el tono para que obedezcan", "Amenazas con expulsarlos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_112",
+    "topic": "Roleplay en cabina",
+    "text": "Durante el vuelo, notas un olor a quemado. ¿Cuál es tu primera acción?",
+    "options": ["Avisar al sobrecargo y seguir el procedimiento de fuego y humo", "Esperar a confirmar con otros TCP", "Abrir compartimentos sin precaución", "Ignorar la situación"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_113",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero te pide un medicamento personal que olvidó traer. ¿Qué haces?",
+    "options": ["Consultar con el sobrecargo y revisar el botiquín según protocolo", "Decirle que no puedes ayudarle", "Pedirle que espere hasta aterrizar", "Buscar entre los pasajeros a alguien con medicinas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_114",
+    "topic": "Roleplay en cabina",
+    "text": "Una pasajera embarazada informa que siente contracciones. ¿Qué debes hacer primero?",
+    "options": ["Avisar inmediatamente al sobrecargo y preparar primeros auxilios", "Decirle que se relaje y esperas", "Pedirle que camine por el pasillo", "Ignorar la situación para no alarmar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_115",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero tiene pánico a volar y está gritando. ¿Qué debes hacer?",
+    "options": ["Hablarle con calma y ofrecer apoyo emocional", "Decirle que se calme inmediatamente", "Ignorarlo para no incomodar a otros pasajeros", "Regañarlo delante de todos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_116",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero quiere cambiar su asiento por otro con más espacio. ¿Cómo procedes?",
+    "options": ["Verificar disponibilidad y ayudarle a moverse si es posible", "Decirle que no puede cambiar de asiento bajo ninguna circunstancia", "Ignorar la solicitud", "Pedirle que negocie con otro pasajero"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_117",
+    "topic": "Roleplay en cabina",
+    "text": "Detectas que un pasajero está usando un dispositivo electrónico durante el despegue. ¿Qué haces?",
+    "options": ["Recordarle educadamente que debe apagarlo o ponerlo en modo avión", "Ignorar la situación", "Confiscar el dispositivo", "Pedirle que lo esconda bajo el asiento"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_118",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero quiere abrir la ventanilla durante el vuelo. ¿Cuál es tu reacción?",
+    "options": ["Informarle que no es posible y explicarle la razón de seguridad", "Dejar que la abra si insiste", "Ignorar la solicitud", "Regañarlo por no seguir instrucciones"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_119",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero intenta levantar su equipaje de mano que excede el límite permitido. ¿Qué haces?",
+    "options": ["Ayudarle a colocarlo en el compartimento correcto o enviarlo a bodega", "Dejar que lo haga solo aunque sea riesgoso", "Ignorar la situación", "Decirle que no puede volar con él"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_120",
+    "topic": "Roleplay en cabina",
+    "text": "Durante el vuelo, un pasajero se siente indispuesto y vomita. ¿Cómo actúas?",
+    "options": ["Proporcionar asistencia, limpiar el área y ofrecer bolsa desechable", "Ignorar la situación", "Pedirle que limpie él mismo", "Cerrar el área y continuar el servicio"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_121",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero quiere cambiar de bebida varias veces. ¿Cómo procedes?",
+    "options": ["Servir educadamente y asegurarte de no exceder normas de consumo de alcohol", "Negarle cualquier bebida", "Ignorar sus solicitudes", "Regañarlo por ser insistente"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_122",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero ha dejado caer su teléfono en el compartimento superior. ¿Qué haces?",
+    "options": ["Ayudarle a recuperarlo asegurando el compartimento", "Decirle que lo recupere él mismo", "Ignorar la situación", "Pedir a otro pasajero que lo recupere"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_123",
+    "topic": "Roleplay en cabina",
+    "text": "Notas que un pasajero está fumando en su asiento. ¿Qué acción tomas primero?",
+    "options": ["Avisar al sobrecargo y recordarle la prohibición", "Ignorar la acción", "Regañarlo delante de todos", "Desalojarlo del avión de inmediato"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_124",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero te solicita un cambio de comida debido a alergia. ¿Cómo procedes?",
+    "options": ["Verificar disponibilidad de alternativas y asegurarte de que sea seguro", "Decirle que no hay opciones", "Ignorar la solicitud", "Servirle cualquier comida igual"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_125",
+    "topic": "Roleplay en cabina",
+    "text": "Durante el vuelo, un pasajero mayor necesita ayuda para levantarse de su asiento. ¿Qué haces?",
+    "options": ["Ayudarlo con cuidado y asegurarte de su seguridad", "Decirle que espere al aterrizaje", "Pedir a otro pasajero que lo ayude", "Ignorar su solicitud"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_126",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero molesto está usando palabras ofensivas hacia otro. ¿Cómo intervienes?",
+    "options": ["Intervenir con calma para mediar y calmar la situación", "Gritar para imponer respeto", "Ignorar el conflicto", "Llamar al comandante sin actuar primero"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_127",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero se desmaya durante el vuelo. ¿Qué acción inmediata tomas?",
+    "options": ["Avisar al sobrecargo y comenzar primeros auxilios", "Esperar a ver si se recupera solo", "Ignorar la situación", "Pedir a otro pasajero que lo atienda"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_128",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero te informa que tiene claustrofobia y quiere moverse de asiento. ¿Qué haces?",
+    "options": ["Buscar un asiento disponible y ayudarle a reubicarse", "Decirle que no hay cambios posibles", "Ignorar su solicitud", "Regañarlo por quejarse"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_129",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero con un bebé necesita asistencia con la cuna. ¿Cómo procedes?",
+    "options": ["Ayudarle a instalar la cuna y asegurarte de que esté segura", "Decirle que lo haga él mismo", "Ignorar la solicitud", "Regañarlo por incomodarte"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_130",
+    "topic": "Roleplay en cabina",
+    "text": "Durante la fase de aterrizaje, un pasajero se levanta antes de tiempo. ¿Qué haces?",
+    "options": ["Indicarle educadamente que se siente hasta que se detenga el avión", "Ignorar su acción", "Gritarle para que obedezca", "Cerrar su cinturón manualmente"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_131",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero comienza a sentirse ansioso durante turbulencias. ¿Cómo reaccionas?",
+    "options": ["Hablarle con calma y ofrecer instrucciones de seguridad", "Ignorar su ansiedad", "Decirle que se calme sin explicaciones", "Gritarle para que siga las instrucciones"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_132",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero se queda dormido en el pasillo bloqueando la salida de emergencia. ¿Qué haces?",
+    "options": ["Pedirle educadamente que se mueva por seguridad", "Ignorarlo porque está dormido", "Regañarlo frente a otros pasajeros", "Esperar a que se despierte solo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_133",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero pregunta cómo usar el chaleco salvavidas. ¿Cómo respondes?",
+    "options": ["Explicarle y mostrarle el procedimiento correctamente", "Decirle que lo lea en las instrucciones", "Ignorar su solicitud", "Regañarlo por no saber usarlo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_134",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero con movilidad reducida necesita ayuda para evacuar. ¿Qué haces?",
+    "options": ["Ayudarlo según los procedimientos de seguridad establecidos", "Decirle que espere al aterrizaje", "Ignorar su solicitud", "Pedir a otro pasajero que lo ayude"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_135",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero se siente enfermo y solicita medicación de la enfermería de a bordo. ¿Qué haces?",
+    "options": ["Revisar el botiquín según el protocolo y ofrecer asistencia segura", "Decirle que no hay medicación disponible", "Ignorar la solicitud", "Pedir a otros pasajeros que lo ayuden"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_136",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero te pregunta sobre los procedimientos en caso de despresurización. ¿Cómo respondes?",
+    "options": ["Explicarle claramente los pasos y mostrar equipo de oxígeno", "Ignorar la pregunta", "Decirle que no es necesario saberlo", "Gritarle que no pregunte más"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_137",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero empieza a gritar porque no funciona su sistema de entretenimiento. ¿Qué haces?",
+    "options": ["Escuchar con calma y ofrecer alternativas o solución si es posible", "Ignorar la queja", "Regañarlo por ser grosero", "Decirle que se calme sin atenderlo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_138",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero te pide ayuda para ajustar su cinturón de seguridad. ¿Qué haces?",
+    "options": ["Ayudarle correctamente según procedimiento", "Decirle que lo haga solo", "Ignorar su solicitud", "Regañarlo por no saber ajustarlo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_139",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero comienza a gritar y agredir verbalmente a otro pasajero. ¿Qué acción tomas?",
+    "options": ["Intervenir con calma y mediar para calmar la situación", "Gritar para imponer respeto", "Ignorar la situación", "Llamar al comandante inmediatamente sin intervenir"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_140",
+    "topic": "Roleplay en cabina",
+    "text": "Durante la preparación para el despegue, un pasajero no quiere abrocharse el cinturón. ¿Qué haces?",
+    "options": ["Explicarle la obligación de seguridad y ayudarle a abrocharlo", "Ignorarlo", "Regañarlo frente a otros pasajeros", "Permitir que viaje sin cinturón"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_141",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero con ansiedad pide que lo mantengas informado sobre turbulencias. ¿Cómo procedes?",
+    "options": ["Informarle de manera calmada y clara sobre la situación", "Ignorar su solicitud", "Regañarlo por preguntar demasiado", "Decirle que no es importante para él saberlo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_142",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero derrama su bebida sobre otro pasajero. ¿Qué debes hacer primero?",
+    "options": ["Ofrecer asistencia a ambos pasajeros y limpiar el área", "Ignorar el incidente", "Regañar al responsable frente a todos", "Decirles que se arreglen solos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_143",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero te pide que le guardes un objeto valioso mientras va al baño. ¿Qué haces?",
+    "options": ["Guardar el objeto siguiendo el protocolo de la compañía", "Negarte a hacerlo", "Ignorar su petición", "Pedir a otro pasajero que lo guarde"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_144",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero se ha mareado en la fila del pasillo. ¿Qué haces primero?",
+    "options": ["Ayudarlo a sentarse y ofrecer una bolsa para vómitos", "Ignorarlo", "Regañarlo por caerse", "Pedir a otro pasajero que lo ayude"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_145",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero comienza a discutir sobre su comida. ¿Qué haces?",
+    "options": ["Escuchar con calma y ofrecer una solución alternativa si es posible", "Ignorar la queja", "Regañarlo frente a todos", "Decirle que no puede quejarse"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_146",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero insiste en levantarse durante la fase de aterrizaje. ¿Qué haces?",
+    "options": ["Indicarle educadamente que permanezca sentado por seguridad", "Ignorar su acción", "Regañarlo frente a todos", "Permitirle levantarse si insiste"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_147",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero con problemas auditivos no entiende las instrucciones de seguridad. ¿Cómo actúas?",
+    "options": ["Explicarle de manera clara y usar gestos o carteles visuales", "Ignorar la situación", "Decirle que lea el manual", "Gritarle para que preste atención"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_148",
+    "topic": "Roleplay en cabina",
+    "text": "Detectas que un pasajero lleva un objeto prohibido en su equipaje de mano. ¿Qué haces?",
+    "options": ["Informar al sobrecargo y seguir los procedimientos de seguridad", "Ignorarlo", "Confiscar el objeto personalmente", "Permitir que lo guarde debajo del asiento"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_149",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero comienza a toser violentamente durante el vuelo. ¿Cómo procedes?",
+    "options": ["Ofrecer asistencia y asegurarte de que no tenga riesgo de salud", "Ignorarlo", "Regañarlo por hacer ruido", "Pedir a otros pasajeros que lo atiendan"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_150",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero solicita ayuda para usar el lavabo adaptado a su movilidad reducida. ¿Qué haces?",
+    "options": ["Asistirle siguiendo el procedimiento de seguridad", "Decirle que espere al aterrizaje", "Ignorar su solicitud", "Pedir a otro pasajero que lo ayude"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_151",
+    "topic": "Roleplay en cabina",
+    "text": "Durante la fase de crucero, un pasajero comienza a discutir con otro por el reposabrazos. ¿Qué haces?",
+    "options": ["Intervenir con calma y mediar para evitar conflictos", "Ignorar la situación", "Regañar a ambos pasajeros", "Separarlos físicamente de inmediato"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_152",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero necesita información sobre cómo usar la máscara de oxígeno. ¿Qué haces?",
+    "options": ["Explicarle y mostrarle cómo usarla correctamente", "Decirle que lo lea en las instrucciones", "Ignorar la solicitud", "Gritarle que preste atención"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_153",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero te pide ayuda para localizar su equipaje en el compartimento superior. ¿Cómo procedes?",
+    "options": ["Ayudarle a ubicarlo de manera segura", "Decirle que lo busque él mismo", "Ignorar la solicitud", "Pedir a otro pasajero que lo ayude"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_154",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero parece mareado y solicita un vaso de agua. ¿Qué haces?",
+    "options": ["Proporcionarle agua y asegurarte de que esté bien", "Ignorar su solicitud", "Regañarlo por molestar", "Pedir a otro pasajero que le dé agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_155",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero se niega a apagar su dispositivo electrónico durante el despegue. ¿Qué haces?",
+    "options": ["Recordarle educadamente la normativa y pedirle que lo apague o ponga en modo avión", "Ignorarlo", "Confiscar el dispositivo", "Permitir que lo mantenga encendido"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_156",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero solicita ayuda para abrochar el cinturón de seguridad del niño. ¿Cómo actúas?",
+    "options": ["Asistirle correctamente siguiendo las normas de seguridad", "Decirle que lo haga solo", "Ignorar la solicitud", "Regañarlo por no saber hacerlo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_157",
+    "topic": "Roleplay en cabina",
+    "text": "Durante la turbulencia, un pasajero se asusta y quiere moverse por el pasillo. ¿Qué haces?",
+    "options": ["Indicarle que permanezca sentado y ofrecer apoyo emocional", "Ignorarlo", "Gritarle para que obedezca", "Permitir que camine si insiste"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_158",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero solicita cambiar su comida por motivos religiosos. ¿Qué haces?",
+    "options": ["Verificar disponibilidad de opciones adecuadas y servirlas si es posible", "Decirle que no hay alternativas", "Ignorar la solicitud", "Servirle cualquier comida igual"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_159",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero con movilidad reducida no puede alcanzar el lavabo. ¿Cómo procedes?",
+    "options": ["Asistirlo siguiendo el procedimiento de seguridad", "Decirle que espere al aterrizaje", "Ignorar su solicitud", "Pedir a otro pasajero que lo ayude"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_160",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero quiere abrir la ventanilla en pleno vuelo. ¿Qué haces?",
+    "options": ["Explicarle que no es posible por seguridad y ofrecer alternativas de entretenimiento", "Ignorar su petición", "Permitir que lo haga", "Regañarlo frente a todos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_161",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero comienza a insultar a la tripulación. ¿Cuál es tu primer paso?",
+    "options": ["Mantener la calma y mediar para desescalar la situación", "Gritarle para que se detenga", "Ignorar los insultos", "Llamar inmediatamente al comandante"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_162",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero derrama su bebida en la alfombra del pasillo. ¿Cómo actúas?",
+    "options": ["Limpiar el área y ofrecer asistencia al pasajero afectado", "Ignorar la situación", "Regañarlo por accidente", "Decirle que espere hasta el aterrizaje"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_163",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero con claustrofobia quiere cambiar de asiento a la salida de emergencia. ¿Qué haces?",
+    "options": ["Verificar si es posible y reasignarle un asiento seguro", "Negarle el cambio sin explicaciones", "Ignorar su solicitud", "Regañarlo por quejarse"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_164",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero necesita ayuda para colocar su equipaje de mano en el compartimento superior. ¿Cómo actúas?",
+    "options": ["Ayudarlo de forma segura asegurando el equipaje", "Decirle que lo haga él mismo", "Ignorar su solicitud", "Regañarlo por no saber hacerlo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_165",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero quiere información sobre la máscara de oxígeno durante un vuelo. ¿Qué haces?",
+    "options": ["Explicarle y mostrarle cómo usarla correctamente", "Decirle que lo lea en el manual", "Ignorar su solicitud", "Gritarle que preste atención"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_166",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero está incómodo por la temperatura de la cabina y pide que la ajusten. ¿Qué haces?",
+    "options": ["Explicar las limitaciones y ofrecer mantas si están disponibles", "Ignorar la solicitud", "Regañarlo por quejarse", "Permitir que ajuste él mismo la temperatura"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_167",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero se queja de que su bebida llegó tarde. ¿Cómo respondes?",
+    "options": ["Escuchar y ofrecer disculpas, sirviendo la bebida si es posible", "Ignorar la queja", "Regañarlo por ser impaciente", "Decirle que espere sin ofrecer solución"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_168",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero necesita asistencia para leer las instrucciones de seguridad. ¿Qué haces?",
+    "options": ["Explicarle de manera clara y asegurarte de que comprende", "Decirle que lo lea él mismo", "Ignorar la solicitud", "Gritarle que preste atención"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_169",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero quiere cambiar su asiento por comodidad. ¿Qué haces?",
+    "options": ["Verificar disponibilidad y ayudarle si es posible", "Decirle que no puede cambiar", "Ignorar su solicitud", "Regañarlo por querer cambiarse"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_170",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero se siente mal durante el vuelo y pide ayuda. ¿Cómo procedes?",
+    "options": ["Proporcionar asistencia médica si es necesario y supervisar su estado", "Ignorar la situación", "Decirle que espere al aterrizaje", "Pedir a otro pasajero que lo ayude"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_171",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero no puede alcanzar su equipaje de mano. ¿Qué haces?",
+    "options": ["Ayudarle a colocarlo de forma segura", "Decirle que lo haga él mismo", "Ignorar la solicitud", "Regañarlo por no poder alcanzarlo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_172",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero está inquieto por la turbulencia y pregunta qué hacer. ¿Cómo respondes?",
+    "options": ["Explicarle medidas de seguridad y calmarlo", "Ignorar su inquietud", "Gritarle para que se quede quieto", "Regañarlo por preocuparse"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_173",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero te pregunta por los procedimientos en caso de evacuación. ¿Qué haces?",
+    "options": ["Explicarle claramente el procedimiento y mostrar equipo de emergencia", "Ignorar la pregunta", "Decirle que no es necesario saberlo", "Gritarle que no pregunte"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_174",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero está usando mal su chaleco salvavidas durante una demostración. ¿Qué haces?",
+    "options": ["Corregirlo y mostrarle la forma correcta de usarlo", "Ignorar el error", "Regañarlo delante de todos", "Decirle que no importa"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_175",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero se queja de que su asiento no reclina. ¿Qué haces?",
+    "options": ["Explicarle las limitaciones y ofrecer alternativas si es posible", "Ignorar la queja", "Regañarlo por quejarse", "Permitir que lo ajuste él mismo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_176",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero solicita asistencia para colocar correctamente la máscara de oxígeno de un niño. ¿Qué haces?",
+    "options": ["Asistirle siguiendo los procedimientos de seguridad", "Decirle que lo haga él solo", "Ignorar la solicitud", "Permitir que lo haga otro pasajero"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_177",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero mayor solicita ayuda para levantarse y dirigirse al lavabo. ¿Cómo actúas?",
+    "options": ["Ayudarle con cuidado y siguiendo los protocolos de seguridad", "Decirle que espere al aterrizaje", "Ignorar su solicitud", "Pedir a otro pasajero que lo ayude"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_178",
+    "topic": "Roleplay en cabina",
+    "text": "Durante el vuelo, un pasajero comienza a mostrar signos de ansiedad. ¿Qué haces?",
+    "options": ["Hablar con calma, ofrecer apoyo y explicarle las medidas de seguridad", "Ignorar la situación", "Regañarlo por estar nervioso", "Decirle que se calme sin más"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_179",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero solicita que se le proporcione comida especial por alergias. ¿Cómo actúas?",
+    "options": ["Verificar disponibilidad y ofrecer la comida segura para él", "Decirle que no hay opciones", "Ignorar su solicitud", "Servirle cualquier comida"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_180",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero está usando auriculares de forma inadecuada y no escucha las instrucciones de seguridad. ¿Qué haces?",
+    "options": ["Interrumpirlo educadamente y asegurarte de que entienda las instrucciones", "Ignorar la situación", "Regañarlo frente a todos", "Permitir que siga usando los auriculares"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_181",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero insiste en usar el pasillo para estirarse durante turbulencia. ¿Qué haces?",
+    "options": ["Explicarle los riesgos y pedirle que regrese a su asiento", "Ignorar la situación", "Regañarlo severamente", "Permitir que continúe"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_182",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero solicita que se le caliente un biberón para su bebé. ¿Qué haces?",
+    "options": ["Proporcionarle asistencia siguiendo los procedimientos de seguridad", "Decirle que lo haga él mismo", "Ignorar la solicitud", "Pedir a otro pasajero que lo haga"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_183",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero comienza a sentirse mareado después de tomar medicamentos. ¿Qué haces?",
+    "options": ["Monitorear su estado y ofrecer asistencia médica si es necesario", "Ignorar la situación", "Decirle que espere al aterrizaje", "Regañarlo por tomar medicamentos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_184",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero solicita ayuda para entender las instrucciones de seguridad en inglés. ¿Qué haces?",
+    "options": ["Explicarle en su idioma o con gestos visuales", "Ignorar su solicitud", "Decirle que lea el manual", "Regañarlo por no entender inglés"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_185",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero con movilidad reducida necesita asistencia para colocar su cinturón de seguridad. ¿Qué haces?",
+    "options": ["Ayudarle siguiendo los procedimientos de seguridad", "Decirle que lo haga él mismo", "Ignorar su solicitud", "Pedir a otro pasajero que lo ayude"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_186",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero se niega a seguir las instrucciones de seguridad antes del despegue. ¿Qué haces?",
+    "options": ["Explicarle la importancia y pedirle que cumpla las normas", "Ignorar su comportamiento", "Regañarlo delante de todos", "Permitir que no siga las instrucciones"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_187",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero tiene dificultad para alcanzar su equipaje y se muestra nervioso. ¿Cómo actúas?",
+    "options": ["Ayudarle a colocar su equipaje de manera segura", "Decirle que lo haga él solo", "Ignorar su solicitud", "Regañarlo por estar nervioso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_188",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero solicita que se le proporcione información sobre la duración del vuelo. ¿Qué haces?",
+    "options": ["Informarle de manera clara y precisa", "Ignorar la solicitud", "Decirle que lo consulte en su billete", "Regañarlo por preguntar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_189",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero se encuentra incómodo por la luz del sol que entra por la ventanilla. ¿Qué haces?",
+    "options": ["Ofrecerle persianas o cortinas si están disponibles", "Ignorar la solicitud", "Regañarlo por quejarse", "Permitir que ajuste la ventanilla él mismo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_190",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero solicita que se le explique cómo funciona el sistema de entretenimiento a bordo. ¿Cómo procedes?",
+    "options": ["Explicarle de forma clara y mostrarle los controles", "Decirle que lo lea en el manual", "Ignorar su solicitud", "Gritarle para que preste atención"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_191",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero solicita asistencia para abrochar correctamente el cinturón de seguridad de su bebé. ¿Qué haces?",
+    "options": ["Ayudar siguiendo los procedimientos de seguridad", "Decirle que lo haga él solo", "Ignorar su solicitud", "Pedir a otro pasajero que lo ayude"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_192",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero está asustado por un ruido fuerte en la cabina. ¿Cómo actúas?",
+    "options": ["Tranquilizarlo y explicarle la causa del ruido", "Ignorar su miedo", "Regañarlo por asustarse", "Decirle que lo ignore"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_193",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero solicita ayuda para colocar correctamente su chaleco salvavidas. ¿Qué haces?",
+    "options": ["Asistirle siguiendo los procedimientos de seguridad", "Decirle que lo haga él mismo", "Ignorar su solicitud", "Permitir que lo haga otro pasajero"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_194",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero solicita asistencia para entender la señalización de emergencia. ¿Cómo procedes?",
+    "options": ["Explicarle claramente la señalización y cómo actuar", "Ignorar la solicitud", "Decirle que lo lea en el manual", "Regañarlo por preguntar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_195",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero necesita asistencia para abrir la ventana de ventilación. ¿Qué haces?",
+    "options": ["Ayudarle o explicar que no es posible durante el vuelo", "Decirle que lo haga él mismo", "Ignorar su solicitud", "Permitir que lo haga sin restricciones"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_196",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero solicita información sobre la ubicación de los baños adaptados. ¿Qué haces?",
+    "options": ["Indicar la ubicación y ofrecer asistencia si es necesario", "Ignorar su solicitud", "Decirle que lo busque él mismo", "Regañarlo por preguntar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_197",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero se siente mareado y solicita un lugar para recostarse. ¿Qué haces?",
+    "options": ["Asistirlo siguiendo los procedimientos de seguridad y ofrecer apoyo", "Ignorar su solicitud", "Decirle que espere al aterrizaje", "Pedir a otro pasajero que lo ayude"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_198",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero quiere información sobre la señal de cinturón de seguridad. ¿Qué haces?",
+    "options": ["Explicarle cuándo y cómo debe abrocharse", "Ignorar su pregunta", "Regañarlo por preguntar", "Decirle que lo observe por sí mismo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_199",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero quiere cambiar su asiento por motivos de salud. ¿Cómo procedes?",
+    "options": ["Verificar disponibilidad y ayudarle si es posible", "Decirle que no puede cambiar", "Ignorar su solicitud", "Regañarlo por quejarse"],
+    "correctIndex": 0
+  },
+  {
+    "id": "roleplay_200",
+    "topic": "Roleplay en cabina",
+    "text": "Un pasajero solicita asistencia para leer las instrucciones de seguridad en un idioma extranjero. ¿Qué haces?",
+    "options": ["Explicarle usando gestos, traducción o material visual", "Ignorar su solicitud", "Decirle que lo lea solo", "Gritarle para que preste atención"],
+    "correctIndex": 0
+  }
+]
