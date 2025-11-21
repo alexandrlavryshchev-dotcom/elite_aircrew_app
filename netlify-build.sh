@@ -1,7 +1,7 @@
 #!/bin/bash
 set -euo pipefail
 
-FLUTTER_VERSION=3.24.3
+FLUTTER_VERSION=3.27.1
 
 # Descargar Flutter
 curl -L "https://storage.googleapis.com/flutter_infra_release/releases/stable/linux/flutter_linux_${FLUTTER_VERSION}-stable.tar.xz" -o flutter.tar.xz
