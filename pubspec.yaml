@@ -39,6 +39,7 @@ flutter:
 
   assets:
     - assets/images/
+    - assets/manual/
     - assets/questions/ingles/ingles_aero.json
     - assets/questions/ingles/ingles_cambridge.json
     - assets/questions/ingles/ingles_gral.json
@@ -52,7 +53,6 @@ flutter:
     - assets/questions/tcp/seguridad_nav.json
     - assets/questions/tcp/supervivencia.json
     - assets/questions/entrevistas.json
-    - assets/manual/
     - assets/questions/elite/final/examen1.json
     - assets/questions/elite/final/examen2.json
     - assets/questions/elite/final/examen3.json
