@@ -1,81 +1,160 @@
 // Fichero: lib/config/app_theme.dart
 import 'package:flutter/material.dart';
 
-/// Clase que define la paleta de colores corporativa de ADV Formación.
 class AppColors {
-  // Paleta de colores Hex:
-  // morado academia: 3C235E
-  // morado noche: 2A1645
-  // morado medio: 6A26E9
-  // morado luz: 6C63FF
-  // blanco puro: FFFFFF
+  // -----------------------------------------------------------
+  // Colores base
+  // -----------------------------------------------------------
+  static const Color primary = Color(0xFFB34851); // rojo principal
+  static const Color primaryDark = Color(0xFF8E2E37);
+  static const Color primaryLight = Color(0xFFD98289);
 
-  static const Color primary = Color(0xFF3C235E); // Morado Academia
-  static const Color primaryDark = Color(0xFF2A1645); // Morado Noche
-  static const Color accent = Color(0xFF6A26E9); // Morado Medio
-  static const Color highlight = Color(0xFF6C63FF); // Morado Luz
-  static const Color white = Color(0xFFFFFFFF); // Blanco Puro
+  // Dorado
+  static const Color gold = Color(0xFFEFB810);
+  static const Color goldDark = Color(0xFFC99A0E);
+  static const Color goldLight = Color(0xFFFFD75A);
+
+  // Platino
+  static const Color platinum = Color(0xFFE3E4E5);
+  static const Color platinumDark = Color(0xFFB9BBBD);
+  static const Color platinumLight = Color(0xFFF8F9FA);
+
+  // Compatibilidad con código antiguo
+  static const Color accent = gold;
+  static const Color accentDark = goldDark;
+  static const Color accentLight = goldLight;
+  static const Color highlight = goldLight; // ✅ corregido
+
+  static const Color white = Colors.white;
   static const Color error = Colors.redAccent;
-  static const Color success = Color(0xFF6C63FF);
+  static const Color success = Color(0xFF4CAF50);
 
-  static get moradoLuz => null; // Usamos morado luz para éxito (aprobado)
+  // -----------------------------------------------------------
+  // Gradientes metalizados
+  // -----------------------------------------------------------
+  static const LinearGradient goldRedGradient = LinearGradient(
+    colors: [
+      Color(0xFFEFB810),
+      Color(0xFFEFA810),
+      Color(0xFFB34851),
+      Color(0xFFEFB810),
+    ],
+    begin: Alignment.topLeft,
+    end: Alignment.bottomRight,
+  );
+
+  static const LinearGradient platinumGradient = LinearGradient(
+    colors: [
+      Color(0xFFE3E4E5),
+      Color(0xFFF8F9FA),
+      Color(0xFFE3E4E5),
+      Color(0xFFB9BBBD),
+    ],
+    begin: Alignment.topLeft,
+    end: Alignment.bottomRight,
+  );
 }
 
-/// Tema de la aplicación utilizando Material Design 3.
 class AppTheme {
+  // ===========================================================
+  // TEMA CLARO METALIZADO
+  // ===========================================================
   static ThemeData get lightTheme {
     return ThemeData(
       useMaterial3: true,
+      brightness: Brightness.light,
+      scaffoldBackgroundColor: AppColors.white,
+
       colorScheme: ColorScheme.light(
         primary: AppColors.primary,
-        secondary: AppColors.accent,
+        secondary: AppColors.gold,
+        background: AppColors.white,
+        surface: AppColors.white,
         onPrimary: AppColors.white,
         onSecondary: AppColors.white,
-        surface: AppColors.white,
-        background: AppColors.white,
-        error: AppColors.error,
-        onBackground: AppColors.primaryDark,
-        onSurface: AppColors.primaryDark,
       ),
-      appBarTheme: const AppBarTheme(
+
+      appBarTheme: AppBarTheme(
         backgroundColor: AppColors.primaryDark,
-        foregroundColor: AppColors.white,
+        elevation: 4,
+        shadowColor: AppColors.primaryDark.withOpacity(0.5),
+        centerTitle: true,
+        titleTextStyle: const TextStyle(
+          color: Colors.white,
+          fontSize: 22,
+          fontWeight: FontWeight.bold,
+        ),
+      ),
+
+      // Botones metalizados dorado → rojo
+      elevatedButtonTheme: ElevatedButtonThemeData(
+        style: ButtonStyle(
+          padding: MaterialStateProperty.all(
+              const EdgeInsets.symmetric(horizontal: 28, vertical: 14)),
+          shape: MaterialStateProperty.all(
+            RoundedRectangleBorder(borderRadius: BorderRadius.circular(14)),
+          ),
+          elevation: MaterialStateProperty.all(8),
+          shadowColor: MaterialStateProperty.all(AppColors.primaryDark.withOpacity(0.6)),
+          backgroundColor: MaterialStateProperty.all(AppColors.gold), // para compatibilidad
+        ),
+      ),
+
+      cardTheme: CardThemeData(
+        elevation: 10,
+        shadowColor: AppColors.primary.withOpacity(0.3),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(18)),
+        color: AppColors.white,
+      ),
+
+      textTheme: const TextTheme(
+        titleLarge: TextStyle(
+          color: AppColors.primaryDark,
+          fontSize: 22,
+          fontWeight: FontWeight.bold,
+        ),
+        bodyMedium: TextStyle(
+          color: AppColors.primaryDark,
+          fontSize: 16,
+        ),
+      ),
+    );
+  }
+
+  // ===========================================================
+  // TEMA OSCURO METALIZADO
+  // ===========================================================
+  static ThemeData get darkTheme {
+    return ThemeData(
+      useMaterial3: true,
+      brightness: Brightness.dark,
+      scaffoldBackgroundColor: const Color(0xFF121212),
+
+      colorScheme: ColorScheme.dark(
+        primary: AppColors.primaryLight,
+        secondary: AppColors.goldLight,
+        surface: const Color(0xFF1A1A1A),
+        background: const Color(0xFF121212),
+        onPrimary: AppColors.white,
+        onSecondary: AppColors.white,
+      ),
+
+      appBarTheme: const AppBarTheme(
+        backgroundColor: Color(0xFF1A1A1A),
         elevation: 0,
         centerTitle: true,
         titleTextStyle: TextStyle(
           color: AppColors.white,
-          fontSize: 20,
+          fontSize: 22,
           fontWeight: FontWeight.bold,
         ),
       ),
-      // Estilo para botones redondeados y con sombra suave
-      elevatedButtonTheme: ElevatedButtonThemeData(
-        style: ElevatedButton.styleFrom(
-          backgroundColor: AppColors.accent,
-          foregroundColor: AppColors.white,
-          shape: RoundedRectangleBorder(
-            borderRadius: BorderRadius.circular(12),
-          ),
-          padding: const EdgeInsets.symmetric(horizontal: 24, vertical: 12),
-          textStyle: const TextStyle(fontSize: 16, fontWeight: FontWeight.bold),
-          elevation: 5,
-          shadowColor: AppColors.accent.withOpacity(0.5),
-        ),
-      ),
-      // Estilo para tarjetas
+
       cardTheme: CardThemeData(
-        color: AppColors.white,
-        elevation: 4,
-        shadowColor: AppColors.primary.withOpacity(0.1),
-        shape: RoundedRectangleBorder(
-          borderRadius: BorderRadius.circular(16),
-        ),
-      ),
-      // Estilo de texto general
-      textTheme: const TextTheme(
-        titleLarge: TextStyle(fontWeight: FontWeight.bold, color: AppColors.primaryDark),
-        bodyMedium: TextStyle(color: AppColors.primaryDark),
-        bodySmall: TextStyle(color: Colors.grey),
+        color: const Color(0xFF1E1E1E),
+        elevation: 12,
+        shadowColor: AppColors.primaryLight.withOpacity(0.35),
+        shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(18)),
       ),
     );
   }

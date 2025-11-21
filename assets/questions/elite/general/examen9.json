@@ -1,0 +1,292 @@
+[
+  {
+    "id": 1,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Si las dos partes de una articulación pierden el contacto temporalmente, volviendo a su posición original, hablamos de:",
+    "options": ["Contusión", "Esguince", "Luxación", "Fractura"],
+    "correctIndex": 2
+  },
+  {
+    "id": 2,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "La aerocinetosis está relacionada con:",
+    "options": ["Gases internos", "Falta de Humedad", "Respiración lenta", "Mareos repentinos"],
+    "correctIndex": 3
+  },
+  {
+    "id": 3,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Cuántas salidas de oxígeno tiene la botella de primeros auxilios?:",
+    "options": [
+      "En general dos salidas, aunque hay algunas con una sola que incluye un selector para dos flujos diferentes",
+      "Tres",
+      "Una de flujo continuo y otra intermitente",
+      "Toma Low y toma Full Face"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 4,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Cada TCP requerido ha de disponer de un equipo portátil de oxígeno de protección con una duración de:",
+    "options": ["Mínimo 10 minutos", "Mínimo 15 minutos", "Mínimo 20 minutos", "Mínimo 25 minutos"],
+    "correctIndex": 1
+  },
+  {
+    "id": 5,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Por encima de que altitud entramos en la llamada 'fase crítica' por hipoxia?:",
+    "options": ["10000 ft", "12000 ft", "15000 ft", "20000 ft"],
+    "correctIndex": 1
+  },
+  {
+    "id": 6,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Es importante evitar la pérdida de calor en los heridos, pero especialmente en:",
+    "options": ["Hipertermias", "Shock séptico", "Hipotermias", "Ahogados"],
+    "correctIndex": 2
+  },
+  {
+    "id": 7,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Cuántos botiquines médicos de emergencia deberá llevar un avión comercial que durante su ruta vaya a estar más de una hora de vuelo de un aeródromo que cuente con asistencia médica cualificada?",
+    "options": [
+      "Depende del número de asientos. Con más de 50 un botiquín",
+      "Depende del número de asientos. Con más de 30 un botiquín",
+      "Depende de la compañía aérea",
+      "Depende de la opinión del Comandante"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 8,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Es obligatorio que las salidas de emergencia dispongan de medios de asistencia para la evacuación si están situadas a una distancia del suelo de más de:",
+    "options": ["2,50 m", "1,83 m", "Siempre son obligatorias", "18 ft"],
+    "correctIndex": 0
+  },
+  {
+    "id": 9,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Un tripulante que viaje a zonas tropicales debe estar vacunado contra:",
+    "options": ["Cólera", "Fiebre Amarilla", "Tosferina", "Viruela"],
+    "correctIndex": 1
+  },
+  {
+    "id": 10,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Dónde se sentará el acompañante de una persona en condiciones físicas especiales?:",
+    "options": [
+      "En la butaca inmediatamente posterior",
+      "En la butaca contigua a la suya o al otro lado del pasillo según la compañía",
+      "Es indiferente mientras sepa que se tiene que hacer cargo de él y esté informado de sus obligaciones",
+      "En la butaca inmediatamente anterior"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 11,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Es necesario que se escuche desde los lavabos el sistema de anuncios al pasaje?",
+    "options": ["Si, siempre", "No", "No siempre, ya que tienen un sistema de luces", "Es recomendable pero no obligatorio"],
+    "correctIndex": 0
+  },
+  {
+    "id": 12,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "El sistema de interfono entre la tripulación proporciona comunicación en ambos sentidos entre los puestos de:",
+    "options": ["Cabina de pasaje y galleys", "Cabina de Mando y estaciones de TCPs", "Entre los puestos de Cabina de Mando", "Cabina de Mando y los lavabos"],
+    "correctIndex": 1
+  },
+  {
+    "id": 13,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Qué edad deberán tener dos niños para que pueden ocupar el mismo asiento estando sujetos por el mismo cinturón?",
+    "options": ["Mayores de 2 años", "Menores de 12 años", "No está permitido en ninguna circunstancia", "Mayores de 6 y menores de 12 años"],
+    "correctIndex": 2
+  },
+  {
+    "id": 14,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Qué tripulantes deben disponer de manera obligatoria de linterna de emergencia operativa?:",
+    "options": ["Todos los TCPs a bordo", "Todos los TCPs", "Todos los tripulantes requeridos", "Solo para el Comandante"],
+    "correctIndex": 2
+  },
+  {
+    "id": 15,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Un pasajero con un trastorno del desarrollo intelectual es:",
+    "options": ["Un WCHS", "Un pasajero no ambulatorio", "Un STCR", "Un pasajero ambulatorio"],
+    "correctIndex": 3
+  },
+  {
+    "id": 16,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Cuántas luces tiene el chaleco salvavidas de abordo?:",
+    "options": ["Ninguna", "Una", "Dos fijas", "Dos intermitentes"],
+    "correctIndex": 3
+  },
+  {
+    "id": 17,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Las radiobalizas de los aviones han de tener una duración mínima de:",
+    "options": ["24 horas", "12 horas", "100 horas", "48 horas"],
+    "correctIndex": 0
+  },
+  {
+    "id": 18,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "La dirección con la que circulan los vientos en una borrasca es:",
+    "options": [
+      "En sentido de las agujas del reloj en el hemisferio Norte",
+      "En sentido de las agujas del reloj en el hemisferio Sur y contrario a estas en el hemisferio Norte",
+      "En el sentido contrario al de las agujas del reloj en el hemisferio Sur",
+      "Siempre en el sentido contrario a las agujas de un reloj"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 19,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "El ángulo que forma la trayectoria de un objeto en movimiento con la dirección del Norte se llama",
+    "options": ["Destino", "Rumbo", "Dirección de movimiento", "Objetivo"],
+    "correctIndex": 1
+  },
+  {
+    "id": 20,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "El amaraje realizado con las mayores garantías de seguridad, dependerá de tres factores que, en orden de importancia, son:",
+    "options": [
+      "Estado del mar y viento, tipo de aeronave, técnica y habilidad del piloto",
+      "Destreza del piloto, estado del mar y tipo de avería",
+      "Estado de la aeronave, tipo de avería y técnica y habilidad del piloto",
+      "Estado de la mar, destreza del piloto y tranquilidad del pasaje"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 21,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "El transmisor automático de la localización de emergencia también es conocido como:",
+    "options": ["PSU", "PRM", "PBE", "ELT"],
+    "correctIndex": 3
+  },
+  {
+    "id": 22,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿A qué parámetro asociarías las siglas NM?",
+    "options": ["Distancia", "Velocidad", "Altura", "Peso"],
+    "correctIndex": 0
+  },
+  {
+    "id": 23,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "El orden de prioridad del sistema eléctrico de un avión es:",
+    "options": ["GPU - APU - Generador", "APU - Generador - GPU", "Generador - APU - GPU", "APU - GPU - Generador"],
+    "correctIndex": 1
+  },
+  {
+    "id": 24,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Qué activa los extintores fijos de los lavabos?:",
+    "options": [
+      "Se activan cuando salta el detector de humos",
+      "Se activan desde cockpit cuando el Comandante ve la luz de 'humo en WC' encendida",
+      "Se activan cuando alcanzan una determinada temperatura",
+      "Los activa el sobrecargo desde el panel frontal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 25,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "El número total de unidades dispensadoras de oxígeno suplementario en aviones presurizados será como mínimo:",
+    "options": [
+      "Superior al menos en un 10% al número de asientos",
+      "Superior al menos en un 2% al número de asientos",
+      "Superior al menos en un 15% al número de asientos",
+      "Ha de ser de 1 por asiento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 26,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "El aumento de sustentación que se produce al desplegar los Flaps se debe principalmente a:",
+    "options": ["El aumento de la superficie del ala", "La disminución de la resistencia del aire", "El aumento de la curvatura del ala", "El aumento del número de alerones desplegados"],
+    "correctIndex": 2
+  },
+  {
+    "id": 27,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "La autorización para despegar nos la otorga:",
+    "options": ["La Torre de Control", "El Comandante de la nave", "El operador de la nave", "La Compañía Aérea"],
+    "correctIndex": 0
+  },
+  {
+    "id": 28,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Entre qué horas recoge la normativa que nuestro ritmo circadiano es de menor rendimiento?:",
+    "options": ["Entre las 4:00 y las 7:00 horas", "Entre las 15:00 y las 16:00 horas", "Entre las 2:00 y las 5:59 horas", "Entre las 1:00 y las 6:59 horas"],
+    "correctIndex": 3
+  },
+  {
+    "id": 29,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "El Reglamento define como 'base':",
+    "options": [
+      "Lugar asignado por el operador para comenzar y terminar los tiempos de actividad y en el que, por lo general, el operador no se responsabiliza del alojamiento del tripulante",
+      "Son cada una de las ciudades en las que hace escala en un vuelo",
+      "Es la ciudad donde está la central de la Aerolínea",
+      "Es la ciudad desde la que salen todos los vuelos de esa compañía, sea cual sea su destino"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 30,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "La presurización de un avión la proporciona el sistema:",
+    "options": ["Neumático", "Hidráulico", "Eléctrico", "Automático"],
+    "correctIndex": 3
+  },
+  {
+    "id": 31,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "El tren de aterrizaje es accionado:",
+    "options": ["Hidráulicamente", "Eléctricamente", "Neumáticamente", "Automáticamente"],
+    "correctIndex": 0
+  },
+  {
+    "id": 32,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Qué pasajeros pueden ser admitidos en la cabina de mando durante el vuelo?:",
+    "options": [
+      "Nadie bajo ningún concepto",
+      "Un representante de la autoridad desempeñando sus funciones y los miembros de la tripulación de servicio",
+      "Solo el Sobrecargo",
+      "Cualquiera que esté acreditado, pero solo podrán entrar de uno en uno"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 33,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "El transporte de dinamita o torpedos en un avión está considerado mercancías peligrosas de clase:",
+    "options": ["1", "2", "3", "5"],
+    "correctIndex": 0
+  },
+  {
+    "id": 34,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Los vuelos comerciales operan generalmente en la:",
+    "options": ["Estratosfera", "Ionosfera", "Troposfera", "Mesosfera"],
+    "correctIndex": 2
+  },
+  {
+    "id": 35,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Para saber a qué velocidad se mueve un avión se utilizan:",
+    "options": ["El Tubo de Pilot y la Sonda Estática", "El altímetro y el velocímetro", "El Tubo de Pilot y el velocímetro", "El altímetro y el variómetro"],
+    "correctIndex": 0
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "id": 36,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Un pasajero presenta una herida con hemorragia, ¿cómo sabremos que esta es arterial?",
+    "options": [
+      "La sangre es rojo brillante y sale a borbotones coincidiendo con las pulsaciones",
+      "Apenas sale sangre y esta es de color rojo vivo",
+      "El color de la sangre es rojo oscuro y sale de manera continua",
+      "La herida es superficial y apenas sangra"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 37,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Qué última comprobación debemos realizar antes del embarque de pasajeros y una vez haya abandonado el avión todo personal ajeno a la compañía?",
+    "options": [
+      "Chequeo de material de emergencia portátil",
+      "Chequeo de equipos fijos del avión",
+      "Chequearemos el catering",
+      "Chequeo de seguridad, Security Check"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 38,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Que deben hacer los TCPs para el aterrizaje una vez se haya encendido la señal luminosa de 'abróchense los cinturones'?",
+    "options": [
+      "Ocupar sus asientos",
+      "Deberán facilitar a los pasajeros la información sobre vuelos en conexión y puertas de embarque",
+      "Prepararán la cabina para el aterrizaje",
+      "Deberán facilitar a los pasajeros la información sobre puertas de embarque"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 39,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Qué es lo primero que haremos si en un vuelo embarcan, sin conocimiento de la tripulación, algún pasajero no admitido en un país o deportado del mismo?",
+    "options": [
+      "Los expulsaremos rápidamente del avión",
+      "Les solicitaremos la tarjeta de embarque y comprobaremos que son pasajeros de nuestro vuelo",
+      "Se les dará la bienvenida a bordo pero les mantendremos de pie, sin asiento, a la espera de órdenes",
+      "Lo pondremos en conocimiento del Comandante inmediatamente"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 40,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Cuando hemos armado o desarmado rampas, el compañero situado en frente de nosotros verá que hemos cumplido correctamente con esta acción y viceversa y a este cometido se le conoce como:",
+    "options": ["Cross Check", "Armado cruzado", "Comprobación por parejas", "Doble comprobación"],
+    "correctIndex": 0
+  },
+  {
+    "id": 41,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "En caso de turbulencia, si la señal de 'cinturones' está encendida durante un tiempo prolongado, ¿cada cuánto tiempo se efectuarán los avisos recordatorios a los pasajeros?",
+    "options": ["Siempre que sea necesario", "Cada 5 minutos", "No es necesario volver a repetir los anuncios", "Cada 10 minutos"],
+    "correctIndex": 0
+  },
+  {
+    "id": 42,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Con qué nombre se conocen las fases de despegue, aterrizaje y operaciones por debajo de los 10.000 Ft?",
+    "options": ["Fase de peligro", "Fases críticas del vuelo", "Cockpit estéril", "Operación de alto riesgo"],
+    "correctIndex": 1
+  },
+  {
+    "id": 43,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Cuál sería la cadencia prevista de evacuación de pasajeros en una rampa de doble vía?",
+    "options": ["1 pasajero por segundo", "2 pasajeros por segundo", "5 por puerta cada segundo", "90 por minuto"],
+    "correctIndex": 1
+  },
+  {
+    "id": 44,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "El orden correcto de las instrucciones que tienen que dar los TCPs al pasaje en una evacuación son:",
+    "options": [
+      "Desabróchense los cinturones, por aquí, salten a la rampa, corran para alejarse",
+      "Corran para alejarse, por aquí, salten a la rampa, abróchense los cinturones",
+      "Desabróchense los cinturones, corran para alejarse, por aquí, salten a la rampa",
+      "Sálvese quien pueda, corran para alejarse, por aquí, salten a la rampa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 45,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Quién es el encargado de informar al Comandante de que la cabina está preparada para el despegue y/o el aterrizaje?",
+    "options": ["Cada TCP tras sus comprobaciones", "El Sobrecargo", "El punto fuerte", "El copiloto"],
+    "correctIndex": 1
+  },
+  {
+    "id": 46,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "En una emergencia prevista instruiremos a los pasajeros para que sepan cómo actuar, y esto es que:",
+    "options": [
+      "Piensen rápidamente en como tirarse de la rampa",
+      "Se agarren fuertemente a los laterales de la rampa mientras se deslizan para no salirse fuera",
+      "Se quiten las gafas, dentaduras postizas, zapatos de tacón y collares",
+      "Vayan haciendo una fila en la salida de emergencia más próxima antes de que el avión se detenga"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 47,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Los supervivientes de un posible accidente hacen una señal en forma de V. Esto significa que:",
+    "options": ["Necesitan ayuda médica", "Necesitan ayuda", "No hay heridos", "No hay supervivientes"],
+    "correctIndex": 1
+  },
+  {
+    "id": 48,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Se dispondrá de medios para achicar el agua que haya podido entrar en la balsa dentro de la bolsa de supervivencia?",
+    "options": ["No", "Si", "Solo en las rampas balsas", "Solo en las balsas adicionales"],
+    "correctIndex": 1
+  },
+  {
+    "id": 49,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "En supervivencia en zona ártica ¿qué tipo de hielo debemos utilizar para conseguir agua potable?",
+    "options": ["Hielo viejo marino", "Ningún tipo de hielo es potable", "Hielo nuevo marino", "Cualquier tipo de hielo"],
+    "correctIndex": 0
+  },
+  {
+    "id": 50,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Para conseguir la estabilidad longitudinal de una aeronave los centros de gravedad y aerodinámicos han de estar:",
+    "options": [
+      "El centro de gravedad debe estar por delante del centro aerodinámico",
+      "El centro aerodinámico debe estar por delante del centro de gravedad",
+      "El centro de gravedad y el centro aerodinámico deben coincidir",
+      "Da igual como estén mientras la aeronave esté nivelada"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 51,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Las turbulencias se clasifican según su intensidad en:",
+    "options": ["Ligera, moderada, fuerte y severa", "Grado I, II y III", "Fuerzas I, II y III", "Leves o graves"],
+    "correctIndex": 0
+  },
+  {
+    "id": 52,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Para que el oxígeno de la PBE Air Liquide fluya, hemos de:",
+    "options": [
+      "No hacer nada. Una vez puesta la capucha fluye automáticamente",
+      "Una vez puesta la capucha tiraremos de la anilla a nuestra derecha",
+      "Para que el oxígeno salga hay que tirar de los dos cordones que cuelgan a los lados de la cabeza",
+      "Abrir la llave de apertura de la botella de oxígeno"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 53,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "De acuerdo con la clasificación europea, de qué clase es un fuego cuyo combustible son metales combustibles como el magnesio o el potasio?",
+    "options": ["Clase A", "Clase B", "Clase C", "Clase D"],
+    "correctIndex": 3
+  },
+  {
+    "id": 54,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Qué condiciones deben darse en la atmósfera para que se forme una tormenta?",
+    "options": [
+      "Que la atmósfera esté cargada de humedad y el aire sea seco",
+      "Que la atmósfera sea inestable y el aire sea húmedo",
+      "Que haya nubes de tipo estratiforme y mucho viento",
+      "Que hayan nubes de tipo cumuliformes y mucho viento"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 55,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿En cuál de estos casos puede el Comandante denegar el embarque de una persona?",
+    "options": [
+      "Cuando parezca estar sobria",
+      "Cuando haya tomado antiinflamatorios",
+      "Cuando se sepa que es portador de sustancias psicotrópicas",
+      "Cuando sea una persona ciega sin acompañamiento"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 56,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Cuál sería la duración mínima de los equipos de oxígeno de protección para la tripulación?",
+    "options": ["20 minutos", "10 minutos", "25 minutos", "15 minutos"],
+    "correctIndex": 0
+  },
+  {
+    "id": 57,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "En el Airbus 350 de fuselaje ancho, configurado con 366 asientos de pasajeros, el número de TCPs mínimo requerido será de:",
+    "options": ["4", "5", "6", "8"],
+    "correctIndex": 2
+  },
+  {
+    "id": 58,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Los cirros son nubes de aspecto:",
+    "options": [
+      "Denso y potente que provocan chubascos y tormentas eléctricas",
+      "Gris que pueden provocar lloviznas",
+      "Aislado y denso que se desarrollan verticalmente",
+      "Filamentoso que no provocan precipitaciones"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 59,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "La parte del avión que puede no ir presurizado es:",
+    "options": ["La cabina de mando y de pasaje", "La bodega", "Los compartimentos eléctricos y electrónicos", "Los Galleys"],
+    "correctIndex": 1
+  },
+  {
+    "id": 60,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Los Entrenamientos de Refresco se imparten cuando el TCP:",
+    "options": [
+      "Lleva más de seis meses alejado de sus funciones",
+      "Va a volar en época donde hay mucha más actividad",
+      "Cada seis meses de trabajo efectivo para no olvidar conceptos",
+      "Cada vez que cambie de tipo de avión dentro de la misma compañía"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 61,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Todos los miembros de la tripulación de cabina deben llevar puestos sus uniformes de tripulantes de cabina de la compañía:",
+    "options": [
+      "Solo en vuelos comerciales",
+      "Siempre salvo en navidades",
+      "No es obligatorio que sea de la compañía, con tal de que vayan uniformados igual",
+      "Siempre, para ser identificados como miembro de la tripulación de cabina de pasajeros"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 62,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "La Temperatura del Punto de Rocío es:",
+    "options": [
+      "Aquella en la cual se evapora el Rocío",
+      "Aquella en la cual se evapora el agua",
+      "Aquella en la cual se condensa el vapor de agua",
+      "Aquella en la cual se condensa la niebla"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 63,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Qué explica el Teorema de Bernoulli acerca de la presión y la velocidad?",
+    "options": [
+      "Si disminuye la velocidad del aire, disminuye la presión",
+      "Si aumenta la velocidad del aire, aumenta la presión",
+      "Si disminuye la velocidad del aire, aumenta la presión y viceversa",
+      "La velocidad del aire no influye en la presión"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 64,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Las normas internacionales sobre mercancías peligrosas están reguladas en el:",
+    "options": ["Anexo 15", "Anexo 28", "Anexo 17", "Anexo 18"],
+    "correctIndex": 3
+  },
+  {
+    "id": 65,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Las etiquetas de la división 6,2 pueden tener unas dimensiones mínimas de:",
+    "options": ["1 x 1 cm", "5 x 5 cm", "2 x 2 cm", "15 x 15 cm"],
+    "correctIndex": 2
+  },
+  {
+    "id": 66,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "La función del compresor es:",
+    "options": [
+      "Comprimir y quemar aire",
+      "Comprimir y enviar el aire a la cámara de combustión",
+      "Aumentar la velocidad del volumen de aire",
+      "Disminuir la presión del volumen de aire"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 67,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "El movimiento del avión alrededor de su eje longitudinal (X)",
+    "options": ["Guiñada", "Cabeceo", "Alabeo", "Barrena"],
+    "correctIndex": 2
+  },
+  {
+    "id": 68,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Cuántas clases de mercancías peligrosas hay?",
+    "options": ["7", "10", "12", "9"],
+    "correctIndex": 3
+  },
+  {
+    "id": 69,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "¿Qué documentación es requerida para el despacho de una mercancía peligrosa?",
+    "options": [
+      "Declaración del expedidor y el NOTOC",
+      "El DNI y el billete de embarque del pasajero en cuestión",
+      "Un informe médico de potenciales riesgos para la salud",
+      "Un certificado de la Guardia Civil"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 70,
+    "topic": "Emergencias y primeros auxilios",
+    "question": "Las reglas de la OACI referentes a los TCPs se establecen en el:",
+    "options": ["Anexo 15", "Anexo 6", "Anexo 12", "Anexo 10"],
+    "correctIndex": 1
+  }
+]

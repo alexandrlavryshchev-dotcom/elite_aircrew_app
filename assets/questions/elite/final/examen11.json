@@ -1,0 +1,352 @@
+[
+  {
+    "id": "examen3_1",
+    "topic": "Examen 3",
+    "text": "Para la puesta en marcha de los motores de reacción se puede emplear?",
+    "options": ["Unas pinzas unidas a otro motor.", "El sistema hidráulico del avión.", "Energía eléctrica procedente del APU.", "La chispa de una turbina."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_2",
+    "topic": "Examen 3",
+    "text": "El instrumento aeronáutico encargado de medir la altitud del avión es el:",
+    "options": ["Altímetro.", "Anemómetro.", "Variómetro.", "Alturímetro."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_3",
+    "topic": "Examen 3",
+    "text": "La presión atmosférica se mide en milibares con un:",
+    "options": ["Variómetro.", "Altímetro.", "Barómetro.", "Presiómetro."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_4",
+    "topic": "Examen 3",
+    "text": "¿Dónde están ubicados los medios de frenado en un avión comercial?",
+    "options": ["En el tren de aterrizaje primario y en los motores.", "En los pedales de cabina.", "En las alas y alerones.", "Únicamente en los motores del avión."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_5",
+    "topic": "Examen 3",
+    "text": "¿Cuál de estos sistemas ayuda al aterrizaje cuando las condiciones meteorológicas son adversas?",
+    "options": ["ADF.", "RADAR.", "ILS.", "GPS."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_6",
+    "topic": "Examen 3",
+    "text": "La actividad de una tormenta es máxima, con lluvia o granizo y truenos, en su etapa:",
+    "options": ["Inicial.", "De madurez.", "De actividad máxima.", "De disipación."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_7",
+    "topic": "Examen 3",
+    "text": "El engelamiento es un fenómeno que se caracteriza por:",
+    "options": ["Congelación de gotas de agua en la atmósfera que caen en forma de granizo.", "Frío a grandes alturas.", "Congelación de gotas de agua en las superficies del avión, tanto en tierra como en vuelo.", "Producción de hielo para la refrigeración de los motores del avión."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_8",
+    "topic": "Examen 3",
+    "text": "¿A qué sistema de la aeronave pertenece la válvula Crossfeed?",
+    "options": ["Al hidráulico.", "Al neumático.", "Al sistema de combustible.", "Al eléctrico."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_9",
+    "topic": "Examen 3",
+    "text": "Las puertas de los aviones se enumeran:",
+    "options": ["De atrás hacia delante.", "De delante hacia atrás.", "De derecha a izquierda.", "Pares a la derecha e impares a la izquierda."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_10",
+    "topic": "Examen 3",
+    "text": "Cuando un avión se encuentra en una situación de emergencia, lo comunicará por radio diciendo:",
+    "options": ["Atención Torre de control, tenemos una emergencia y necesitamos prioridad para aterrizar.", "SOS repetido tres veces, seguido del tipo de emergencia, tipo de avión, número de pasajeros a bordo, etc.", "HELP repetido tres veces, seguido del tipo de emergencia, tipo de avión, número de pasajeros a bordo, etc.", "MAYDAY repetido tres veces, seguido del tipo de emergencia, tipo de avión, número de pasajeros a bordo, etc."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_11",
+    "topic": "Examen 3",
+    "text": "¿Cómo define el “tiempo de vuelo” el convenio de Tokio?",
+    "options": ["Al tiempo que transcurre desde el inicio hasta el final de la actividad del TCP.", "Al tiempo que transcurre desde que el TCP se presenta en el aeropuerto hasta el final de la actividad del TCP.", "Al tiempo que transcurre desde que se aplica la fuerza motriz para despegar hasta que termina el recorrido de aterrizaje.", "Al tiempo que transcurre desde el despegue hasta el aterrizaje del avión."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_12",
+    "topic": "Examen 3",
+    "text": "¿Qué significan las letras EC-JFN en un avión?",
+    "options": ["Es el código IATA de una compañía aérea española.", "Es la marca de nacionalidad y la matrícula de una aeronave española.", "Es la matrícula de una aeronave de Ecuador.", "Que la aeronave pertenece a la Comunidad Económica Europea."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_13",
+    "topic": "Examen 3",
+    "text": "Los documentos aeronáuticos que debe portar un TCP para poder ejercer su trabajo son:",
+    "options": ["El Certificado de Tripulante de Cabina de Pasajeros y el Certificado Médico.", "El Certificado de Tripulante de Cabina de Pasajeros y tarjeta de identificación de la compañía para la que vuela.", "El Certificado de Tripulante de Cabina de Pasajeros y el pasaporte o DNI.", "El Certificado de Tripulante de Cabina de Pasajeros y el certificado de Vacunación internacional actualizado."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_14",
+    "topic": "Examen 3",
+    "text": "La comisión más importante establecida por la OACI se denomina:",
+    "options": ["La Comisión de Aeronavegación.", "La Comisión de Rutas Aéreas.", "La Comisión del Personal de vuelo.", "La Comisión de estudios aeronáuticos."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_15",
+    "topic": "Examen 3",
+    "text": "El concepto de facilitación del transporte aéreo incluye las siguientes actividades:",
+    "options": ["Aeródromos, aparcamientos y servicios.", "Aduanas, Compañías y billetes.", "Inmigración, aduanas y sanidad exterior.", "Aeropuertos y aduanas."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_16",
+    "topic": "Examen 3",
+    "text": "¿Cómo se llaman las comprobaciones de equipo de emergencia que se realiza previa al vuelo?",
+    "options": ["CCLB.", "Pre flight check.", "Security checks.", "The list."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_17",
+    "topic": "Examen 3",
+    "text": "¿Qué indica el encendido y apagado intermitente de las luces de “cinturones” en vuelo?",
+    "options": ["Es la señal para adoptar la postura de protección para el impacto.", "Es la señal que nos indica una turbulencia imprevista.", "Es la señal para que la tripulación auxiliar ocupe sus puestos de emergencia.", "Es la señal para que el sobrecargo acuda inmediatamente a Cockpit."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_18",
+    "topic": "Examen 3",
+    "text": "En caso de una despresurización lenta, si se localiza la zona afectada ¿se debe alejar a los pasajeros de dicha zona?",
+    "options": ["Sí, siempre que sea posible.", "No es necesario si volamos por debajo de 25.000ft.", "En ningún caso ya que es peor andarlos moviendo.", "No, si las máscaras de oxígeno fijo han saltado, ya que estarán más seguros en sus asientos."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_19",
+    "topic": "Examen 3",
+    "text": "Aquellas emergencias que finalizan con una evacuación, suelen clasificarse en:",
+    "options": ["Normales o de emergencia.", "Previstas o imprevistas.", "Libres o guiadas.", "En tierra siempre son previstas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_20",
+    "topic": "Examen 3",
+    "text": "¿En qué fases del vuelo está prohibido, salvo por razones de máxima urgencia, entrar en la cabina de mando?",
+    "options": ["Durante las llamadas fases críticas del vuelo.", "Durante el despegue.", "Durante el aterrizaje.", "Durante el vuelo en general."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_21",
+    "topic": "Examen 3",
+    "text": "El Briefing es realizado por el Sobrecargo previo al vuelo:",
+    "options": ["No, solo lo puede realizar el Comandante.", "Sí, y sin autorización del Comandante.", "Sí, aunque previa autorización del Comandante y siempre y cuando el mismo delegue en el Sobrecargo para su realización.", "No, los TCPs no hacen el briefing."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_22",
+    "topic": "Examen 3",
+    "text": "¿Dónde deberán colocarse los TCPs durante el embarque de los pasajeros?",
+    "options": ["Según procedimiento operativo de la compañía.", "Dos delante, uno detrás y otro en ventanillas.", "Uno delante, uno detrás y dos en ventanillas.", "Según los que haya, repartiremos por igual delante, detrás y en ventanillas."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_23",
+    "topic": "Examen 3",
+    "text": "¿Cómo se identificará a un pasajero incapaz de subir, bajar o desplazarse dentro de una aeronave sin ayuda?",
+    "options": ["WCHS.", "WCHR.", "WCHC.", "STCR."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_24",
+    "topic": "Examen 3",
+    "text": "¿Cuándo se armarán las rampas de evacuación de las puertas de emergencia?",
+    "options": ["Una vez esté el avión en cabecera de pista y antes del despegue.", "Cuando el sobrecargo o el comandante de la orden y siempre antes del rodaje.", "Una vez que cada TCP haya cerrado su puerta armará su rampa.", "Siempre antes de la retirada de las escalerillas de embarque."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_25",
+    "topic": "Examen 3",
+    "text": "Las evacuaciones en el mar se conocen también como:",
+    "options": ["Evacuaciones normales.", "Amerizaje o amaraje.", "Evacuaciones marinas.", "Evacuaciones imprevistas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_26",
+    "topic": "Examen 3",
+    "text": "En caso de encontrar una posible bomba en pleno vuelo, ¿qué es lo primero que debería hacer el TCP que lo descubriese?",
+    "options": ["Informará inmediatamente a los pasajeros por megafonía por si hay alguien que sepa desactivarla.", "Cortar los cables y/o conexiones eléctricas visibles para así desactivarla.", "Meterla en el horno de la zona de los galleys para que no se expanda la explosión.", "No tocarla e informar inmediatamente al Comandante."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_27",
+    "topic": "Examen 3",
+    "text": "Ante una emergencia en la que una persona se le clava un objeto, hemos de:",
+    "options": ["Inmovilizarlo con gasas limpias sin extraerlo y trasladarlo urgentemente.", "Extraerlo rápidamente y taponar la herida con presión directa.", "Aplicar un torniquete para evitar el sangrado y extraerlo.", "Poner oxígeno, colocar sentado y tranquilizar."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_28",
+    "topic": "Examen 3",
+    "text": "En la RCP básica:",
+    "options": ["Abrimos la vía aérea, iniciamos el masaje cardiaco y comprobamos si recobra la consciencia.", "Comprobamos el estado de consciencia, abrimos la vía aérea con la maniobra frente-mentón y comprobamos si respira “ver-oír-sentir”.", "Si no tiene pulso ni respira. Iniciamos las compresiones torácicas rápidamente.", "Comprobamos si respira e iniciamos el boca-boca hasta que reaccione."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_29",
+    "topic": "Examen 3",
+    "text": "De acuerdo a su función, se llama vena:",
+    "options": ["Al vaso sanguíneo que lleva sangre rica en CO2.", "Al vaso sanguíneo que lleva sangre rica en O2", "Al vaso sanguíneo que lleva sangre rica en N2.", "Al vaso sanguíneo que lleva sangre rica en azúcar."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_30",
+    "topic": "Examen 3",
+    "text": "¿Qué es un síncope?",
+    "options": ["Una escasez de riego cerebral acompañado de hipotensión y mareo con desvanecimiento.", "Un trombo en una vena profunda de las piernas.", "Un problema respiratorio grave.", "Un tipo de reacción alérgica grave."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_31",
+    "topic": "Examen 3",
+    "text": "En medicina llamamos cianosis a:",
+    "options": ["Las intoxicaciones debidas a cianuro.", "Las dolencias relacionadas con el nervio ciático.", "La coloración azulada o negruzca de la piel.", "Al mareo por movimiento."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_32",
+    "topic": "Examen 3",
+    "text": "En la diabetes tenemos disminuida la capacidad del organismo para metabolizar:",
+    "options": ["El azúcar.", "Las proteínas.", "Las grasas.", "Los hidratos de carbono."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_33",
+    "topic": "Examen 3",
+    "text": "La maniobra de Valsalva consiste en:",
+    "options": ["Espirar fuertemente por la boca teniendo tapada la nariz.", "Colocarnos tumbados con las piernas en alto.", "Masticar mucho chicle de golpe para tragar aire.", "Espirar fuertemente por la nariz, estando esta tapada con los dedos."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_34",
+    "topic": "Examen 3",
+    "text": "El cordón umbilical une:",
+    "options": ["Al niño con el sistema nervioso de la madre.", "Al niño con la placenta de la que obtiene el alimento y oxígeno.", "A la placenta con la madre por la que pasan los nutrientes.", "No une nada. Es un sistema de anclaje del bebé."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_35",
+    "topic": "Examen 3",
+    "text": "Cuando se hiperventila:",
+    "options": ["Se aumenta el número de respiraciones y aumenta la cantidad de O2 en sangre.", "Se aumenta el número de respiraciones y disminuye la cantidad de O2 en sangre.", "Se disminuye el número de respiraciones y se mantiene la cantidad de O2 en sangre.", "Respiraciones y O2 se mantienen en niveles aceptables."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_36",
+    "topic": "Examen 3",
+    "text": "La causa más frecuente de obstrucción de la vía aérea superior en gente que está inconsciente es:",
+    "options": ["La comida.", "Las mucosidades.", "La lengua que al relajarse obstruye el conducto.", "Prótesis dentales"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_37",
+    "topic": "Examen 3",
+    "text": "En caso de algún incidente con mercancías peligrosas en un galley habría que:",
+    "options": ["Desconectar los circuitos eléctricos y encender la señal de “No fumar” y sacar a los pasajeros si los hubiese.", "Evacuar a todos los pasajeros de esa zona y llevarlos a la parte delantera del avión, lo más cerca posible de los pilotos.", "Hacer saltar el oxígeno de emergencias.", "Conectar las luces de emergencia del avión."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_38",
+    "topic": "Examen 3",
+    "text": "Las sustancias más peligrosas requieren un tipo de embalaje del grupo:",
+    "options": ["I.", "II.", "III.", "IV."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_39",
+    "topic": "Examen 3",
+    "text": "Los líquidos pirofóricos son aquellos que cuando entran en contacto con el aire:",
+    "options": ["Explotan.", "Arden.", "No reaccionan de ninguna manera.", "Se volatilizan."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_40",
+    "topic": "Examen 3",
+    "text": "Las etiquetas para las mercancías peligrosas de clase 3 son de color:",
+    "options": ["Verde.", "Rojo.", "Rojo, blanco y azul.", "Negro."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_41",
+    "topic": "Examen 3",
+    "text": "¿Puede un pasajero llevar en la cabina de pasaje como equipaje de mano una silla de ruedas con acumuladores derramables?",
+    "options": ["Sí, sin problemas.", "No, en ningún caso.", "Muchas veces depende de la compañía.", "Solamente si lo autoriza el comandante."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_42",
+    "topic": "Examen 3",
+    "text": "Según normativa, el Entrenamiento Periódico se realizará de manera general cada 12 meses naturales y más profundamente cada 3 años:",
+    "options": ["Esta afirmación es falsa.", "Esta afirmación en correcta.", "El Entrenamiento Periódico se realiza siempre cada 6 meses con el mismo contenido.", "No hay normativa específica relativa al Entrenamiento Periódico."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_43",
+    "topic": "Examen 3",
+    "text": "El Certificado Médico necesario para poder ejercer las funciones de TCP ha de ser:",
+    "options": ["Clase AA.", "Clase IB.", "Clase 2.", "Clase CC."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_44",
+    "topic": "Examen 3",
+    "text": "Un TCP mayor de 50 años tendrá que renovar el Cerificado Médico CC cada:",
+    "options": ["24 meses.", "60 meses.", "6 meses.", "12 meses."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_45",
+    "topic": "Examen 3",
+    "text": "Mediante que procedimiento se descargan los extintores de los lavabos:",
+    "options": ["Automáticamente, cuando se detecta una temperatura alta en el interior de la papelera, saltan.", "Automáticamente, cuando se detecta una temperatura de 77/80ºC en el interior de la papelera, las puntas de cera se derriten y se descarga el producto.", "Automáticamente, cuando se detecta una temperatura de 88/90ºC en el interior de la papelera, las puntas de cera se derriten y se descarga el producto.", "Cuando el detecto de humos del techo del lavabo se activa, automáticamente saltan los extintores."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_46",
+    "topic": "Examen 3",
+    "text": "¿Qué incluye la comprobación pre-vuelo en relación con extintores BCF?",
+    "options": ["Presencia, carga (aguja del manómetro en zona verde), número y fecha de caducidad.", "Presencia, carga (aguja del manómetro en zona verde) y pasador/precinto de seguridad íntegro.", "Presencia y pasador/precinto de seguridad íntegro.", "Presencia, carga (aguja del manómetro en zona verde), pasador/precinto de seguridad íntegro y fecha de caducidad."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_47",
+    "topic": "Examen 3",
+    "text": "¿Cómo podemos parar el flujo de oxígeno de las mascarillas de los PSU una vez activadas?",
+    "options": ["Volviendo a tirar de una de ellas.", "A través de un interruptor situado en Cockpit.", "Una vez puestos en marcha no pueden pararse.", "Cerrando manualmente el cajetín"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_48",
+    "topic": "Examen 3",
+    "text": "Entre las cosas que podemos hacer en un amerizaje para evitar la deshidratación se encuentra:",
+    "options": ["Bañarnos en el mar cada 3 horas para permanecer mojados.", "Mojar las ropas para evitar sudar y así la pérdida de líquidos.", "Comer, ya que los alimentos tienen parte de agua.", "A pleno sol, no podremos hacer nada."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_49",
+    "topic": "Examen 3",
+    "text": "Tras un aterrizaje de emergencia, y para poder ser localizados más fácilmente, recomiendan:",
+    "options": ["Apartarse todo lo posible de los restos del avión.", "No apartarse mucho de los restos del avión.", "Buscar un lugar muy abierto y muy lejos del avión.", "Nos hemos de esconder todo lo posible."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_50",
+    "topic": "Examen 3",
+    "text": "¿Cuáles son las partes del organismo más susceptibles de congelación?",
+    "options": ["Cara, manos y pies.", "Nariz y ojos.", "El organismo se congela todo al mismo tiempo.", "Los pelos."],
+    "correctIndex": 0
+  }
+]

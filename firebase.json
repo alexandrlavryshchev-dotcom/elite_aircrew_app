@@ -1,1 +1,39 @@
-{"flutter":{"platforms":{"dart":{"lib/firebase_options.dart":{"projectId":"adv-formacion-apppp","configurations":{"web":"1:530951938601:web:0cc998c25e893abe9a3238"}}}}}}
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "eliteaircrew-app",
+          "appId": "1:840800333512:android:1e0f3b0be584f5ee1efffd",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "eliteaircrew-app",
+          "configurations": {
+            "android": "1:840800333512:android:1e0f3b0be584f5ee1efffd",
+            "ios": "1:840800333512:ios:5af32c5e1aa00ab31efffd",
+            "macos": "1:840800333512:ios:5af32c5e1aa00ab31efffd",
+            "web": "1:840800333512:web:bdab7b8dab4242721efffd",
+            "windows": "1:840800333512:web:afa68271583ba0e11efffd"
+          }
+        }
+      }
+    }
+  },
+  "hosting": {
+    "public": "build/web",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "destination": "/index.html"
+      }
+    ]
+  }
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "id": "examen_1",
+    "topic": "examen 1",
+    "text": "¿Cuál de los siguiente elementos influye en la sustentación?",
+    "options": [
+      "Ángulo de salida y densidad.",
+      "Ángulo de ataque, densidad y velocidad.",
+      "Ángulo de ataque, densidad, velocidad y superficie de las alas.",
+      "Ángulo de ataque, densidad, velocidad y peso del avión."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_2",
+    "topic": "examen 1",
+    "text": "El movimiento de los alerones de un avión se caracteriza porque:",
+    "options": [
+      "Cuando uno sube el otro baja.",
+      "Su manejo es automático.",
+      "Solo se mueven hacia fuera.",
+      "Solo se mueven hacia dentro."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_3",
+    "topic": "examen 1",
+    "text": "El movimiento de un avión alrededor de su eje vertical se llama:",
+    "options": [
+      "Balanceo/Roll.",
+      "Guiñada/Yaw.",
+      "Alabeo/Roll.",
+      "Cabeceo/Pitch."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_4",
+    "topic": "examen 1",
+    "text": "De los siguiente dispositivos ¿cuáles son hipersustentadores?",
+    "options": [
+      "Cuerda y timón.",
+      "Borde de ataque y borde de salida.",
+      "Alerones y timón de cola.",
+      "Flaps y Slats."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_5",
+    "topic": "examen 1",
+    "text": "¿Qué seria correcto decir sobre el número Match?",
+    "options": [
+      "Equivale a la velocidad de la luz.",
+      "Relaciona la velocidad del avión con la del sonido.",
+      "Solo se utiliza en despegues y aterrizajes.",
+      "Es máxima en vuelo de crucero."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_6",
+    "topic": "examen 1",
+    "text": "La presión aumenta con la altura:",
+    "options": [
+      "Solo en el hemisferio norte.",
+      "Solo en el hemisferio sur.",
+      "Es correcto, la presión aumenta con la altura.",
+      "Es incorrecto, la presión disminuye con la altura."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_7",
+    "topic": "examen 1",
+    "text": "Los momentos más críticos para entrar en pérdida son:",
+    "options": [
+      "A bajas velocidades, si no se ha recogido a tiempo el tren de aterrizaje y en días nublados.",
+      "Atravesando tormentas, en el despegue y si llevamos viento de cola.",
+      "Despegue, aproximación final y turbulencias.",
+      "Despegue, aterrizaje y crucero."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_8",
+    "topic": "examen 1",
+    "text": "A la fuerza que genera un motor a reacción se le conoce como:",
+    "options": [
+      "Resistencia.",
+      "Impulso.",
+      "Empuje.",
+      "Potencia."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_9",
+    "topic": "examen 1",
+    "text": "En el planeta Tierra tenemos:",
+    "options": [
+      "365 husos horarios.",
+      "24 husos horarios.",
+      "Los meridianos marcan la latitud.",
+      "Los paralelos marcan la longitud."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_10",
+    "topic": "examen 1",
+    "text": "Los rumbos y las rutas:",
+    "options": [
+      "Se denominan por tres cifras de 000° hasta 180°.",
+      "Se denominan por tres cifras de 000° hasta 359°.",
+      "Se denominan con dos cifras de 00° a 24° Norte o Sur.",
+      "No son lo mismo por lo que cada una se denomina de una manera."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_11",
+    "topic": "examen 1",
+    "text": "¿Qué organización es la responsable de expedir todas las licencias y certificados de vuelo, tanto para tripulantes de vuelo como para TCPs en España?",
+    "options": ["AENA","AESA","EASA","OACI"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_12",
+    "topic": "examen 1",
+    "text": "Las libertades del aire se establecieron en el:",
+    "options": ["Convenio de Montreal","Convenio de Roma","Convenio de Chicago","Convenio de Varsovia"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_13",
+    "topic": "examen 1",
+    "text": "El Convenio de Chicago se aplica a:",
+    "options": ["Las aeronaves militares, de aduanas y de policía.","Las aeronaves de aduanas, de policía y civiles.","Las aeronaves de policía.","Solamente a las aeronaves civiles."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_14",
+    "topic": "examen 1",
+    "text": "Un avión de bandera española que transporta pasajeros desde Génova hasta Madrid hace uso de la:",
+    "options": ["Primera libertad del aire","Tercera libertad del aire","Cuarta libertad del aire","Segunda libertad del aire"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_15",
+    "topic": "examen 1",
+    "text": "Las siglas de la CEAC corresponden a:",
+    "options": ["La Conferencia de Estados de Aviación Civil","La Conferencia Europea Aeronáutica Civil","La Conferencia Europea de Aviación Civil","La Conferencia de Estados Aeronáuticos Civiles"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_16",
+    "topic": "examen 1",
+    "text": "¿Qué indican las siglas PSI?",
+    "options": ["Velocidad","Superficie","Presión","Altura"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_17",
+    "topic": "examen 1",
+    "text": "¿Qué cinturón de seguridad utilizarán los Infants siempre que sea necesario su uso?",
+    "options": ["El mismo cinturón de seguridad de adulto con el que viajen.","Su asiento con su propio cinturón de seguridad.","Un cinturón bucle sobre el asiento del adulto que lo acompañe (cinturón canguro).","No usan cinturones. Se anclan los capazos al asiento."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_18",
+    "topic": "examen 1",
+    "text": "Llamamos Infant a un niño cuya edad está comprendida entre los:",
+    "options": ["0-2 años (no cumplidos en la fecha del vuelo)","2-12 años (no cumplidos en la fecha del vuelo)","2-15 años (no cumplidos en la fecha del vuelo)","12-15 años (no cumplidos en la fecha del vuelo)"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_19",
+    "topic": "examen 1",
+    "text": "¿Cuándo debe el TCP sujetarse con el atalaje de seguridad en las operaciones previstas antes del aterrizaje?",
+    "options": ["Inmediatamente después de que se encienda el aviso de “Abróchense los cinturones”.","Inmediatamente antes de notificar al Comandante que la cabina está asegurada.","Una vez finalizadas las labores de seguridad y como muy tarde al recibir la señal convenida para aterrizaje.","Inmediatamente después de que terminen las comprobaciones de seguridad de la cabina de pasajeros."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_20",
+    "topic": "examen 1",
+    "text": "¿Cuántos botiquines de Primeros Auxilios, como mínimo, debe llevar un avión de 195 asientos de pasajeros?",
+    "options": ["1","2","3","0"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_21",
+    "topic": "examen 1",
+    "text": "¿Qué acción obligatoria realizará un TCP antes de abrir una salida de emergencia durante una evacuación de emergencia?",
+    "options": ["No debe perder el tiempo mirando nada ya que es urgente su apertura.","Valorará las condiciones exteriores antes de proceder a su apertura.","Comunicará con el Comandante para pedir autorización.","Desarmará la rampa."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_22",
+    "topic": "examen 1",
+    "text": "¿Con qué nombre se conoce el movimiento del avión en tierra?",
+    "options": ["Caminar","Taxiing","Movimiento en pista","Ralentí"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_23",
+    "topic": "examen 1",
+    "text": "Las comprobaciones de las linternas de emergencia de cada transportín se chequean mediante:",
+    "options": ["Un indicador de luz roja que parpadea cada 6 a 10 segundos.","Se chequea únicamente su presencia y ubicación.","Encendiéndola para ver si funcionan las pilas.","Un indicador de luz roja que parpadea cada 10-20 segundos."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_24",
+    "topic": "examen 1",
+    "text": "¿En caso de despresurización explosiva, cuál será la primera medida a tomar?",
+    "options": ["Sentarnos y asegurarnos.","Ponernos en contacto con Cockpit y esperar instrucciones.","Localizar la botella de oxígeno portátil mas cercana.","Coger la primera máscara disponible y asegurarnos donde sea posible."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_25",
+    "topic": "examen 1",
+    "text": "¿Qué nombre damos a la unidad de energía externa en tierra que solo proporciona energía eléctrica?",
+    "options": ["APU","GPU","PSU","PSI"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_26",
+    "topic": "examen 1",
+    "text": "¿Con qué suministro de oxígeno suplementario  deberá contar un avión?",
+    "options": ["Un 110% de la capacidad del avión.","Para el 100% de los asientos.","Para el 50%.","Para el 200%"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_27",
+    "topic": "examen 1",
+    "text": "La frecuencia respiratoria normal es de:",
+    "options": ["8-10 respiraciones/minuto.","12-20 respiraciones/minuto.","32-40 respiraciones/minuto.","60-100 respiraciones/minuto."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_28",
+    "topic": "examen 1",
+    "text": "Ante un pasajero que presenta un cuerpo extraño en su ojo debemos:",
+    "options": ["Intentar extraerlo con una gasa estéril y mucho cuidado.","Mandarle que se frote enérgicamente el ojo para que se desprenda.","Echar un colirio del botiquín y tapar ambos ojos para que no se maree.","Lavarlo con suero para favorecer que lo expulse él solo y taparlo con una gasa"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_29",
+    "topic": "examen 1",
+    "text": "En un proceso de hiperventilación hay un/una:",
+    "options": ["Aumento de CO2 en sangre.","Disminución de CO2 en sangre.","Aumento de nitrógeno en sangre.","Disminución de nitrógeno en sangre."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_30",
+    "topic": "examen 1",
+    "text": "Una fractura abierta es:",
+    "options": ["Una fractura en la que tendremos que taponar la herida antes y luego inmovilizar la fractura con vendaje.","No existe la fractura abierta.","La fractura que, para reducirla, debemos abrir la piel en quirófano.","Mucho menos grave que la fractura cerrada."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_31",
+    "topic": "examen 1",
+    "text": "La Cadena Epidemiológica está formada por tres eslabones que son:",
+    "options": ["Comunidad infectada, agua estancada y bacterias.","Persona sana, germen, persona enferma.","Agente patógeno, via de transmisión y huésped.","Higiene, limpieza y desinfección."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_32",
+    "topic": "examen 1",
+    "text": "Ante un pasajero inconsciente con una glucemia de 35 mg/ml debemos:",
+    "options": ["Administrar agua con azúcar.","Colocar en PLS y poner un terrón de azúcar o similar bajo su lengua.","No podremos hacer nada.","Buscar rápidamente a alguien que le administre insulina."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_33",
+    "topic": "examen 1",
+    "text": "¿Qué es la cinetosis o aerocinetosis?",
+    "options": ["Coloración azulada o negruzca de la piel.","Mareo por movimiento.","Baja tension arterial.","Acumulación de líquidos en los pies."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_34",
+    "topic": "examen 1",
+    "text": "Los síntomas más frecuentes de la Enfermedad Descompresiva (EDC) son:",
+    "options": ["Picores.","Bends.","Chockes.","Neurológicos."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_35",
+    "topic": "examen 1",
+    "text": "Si una mujer está embarazada de 39 semanas y vuela, hay que saber que:",
+    "options": ["Si se pone de parto será prematuro, con riesgo para la madre y El Niño.","El Niño está perfectamente formado para vivir.","Un niño tan pequeño, con la presión de la cabina, tiene muy pocas probabilidades de vivir.","Como el niño aún no está perfectamente formado, nos podemos esperar cualquier cosa."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_36",
+    "topic": "examen 1",
+    "text": "El contagio directo se produce por:",
+    "options": ["Contacto de persona sana con persona sana.","Beber aguas contaminadas.","Comer productos caducados.","Contacto de persona enferma con persona sana."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_37",
+    "topic": "examen 1",
+    "text": "¿Puede ser etiquetada como mercancía peligrosa una botella de oxígeno que transporte un pasajero con fines médicos?",
+    "options": ["El pasajero puede haber sido autorizado a llevarla y, aunque no es necesario, estar etiquetada.","Nunca, ya que las botellas de oxígeno salvan vidas.","El oxígeno que es para uso personal no va etiquetado nunca.","Como no va en bodega no es necesario etiquetarlo."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_38",
+    "topic": "examen 1",
+    "text": "Los grupos de embalaje para las mercancías peligrosas a bordo pueden ser:",
+    "options": ["De madera, plástico o metal.","Grandes o pequeñas.","Del grupo I, II y III.","Del tipo I, II, III y IV."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_39",
+    "topic": "examen 1",
+    "text": "Di cual de estas mercancías peligrosas está totalmente prohibido su transporte por aire:",
+    "options": ["Cartuchos de calibre 12 para caza menor.","Materiales radioactivos conocidos.","Animales vivos que estén infectados.","Explosivos que contengan a la vez clorato y sales de amonio."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_40",
+    "topic": "examen 1",
+    "text": "¿Qué nombre recibe el producto final de una operación de empaquetado:",
+    "options": ["Embalaje.","Paquete.","Bulto.","Entrega."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_41",
+    "topic": "examen 1",
+    "text": "Según el anexo 18 al Convenio sobre Aviación Civil Internacional, el explotador:",
+    "options": ["Velará porque no le suceda nada a ningún tripulante relacionado con mercancías peligrosas.","Protegerá al Comandante de riesgos por mercancías peligrosas.","Facilitará en su Manual de Operaciones información apropiada para el transporte de mercancías peligrosas.","Asegurará al pasaje que no sucederán incidentes con mercancías peligrosas a bordo."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_42",
+    "topic": "examen 1",
+    "text": "El número máximo de habilitaciones en aeronaves de diferente tipo, en cuanto a sistemas de emergencia y evacuación, que pueden figurar en una licencia de un TCP es de:",
+    "options": ["Una.","Dos.","Tres.","Cuatro."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_43",
+    "topic": "examen 1",
+    "text": "El objetivo primario de la existencia de TCP a bordo es:",
+    "options": ["Enseñar a ponerse los chalecos salvavidas e indicar las salidas de emergencia.","Asumir el control de la cabina de pasajeros en cualquier situación de emergencia.","Repartir bebidas, comidas y periódicos y ayudar a colocar el equipaje de mano.","Vigilar que no se suban maletas grandes a bordo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_44",
+    "topic": "examen 1",
+    "text": "Para calcular el número de TCPs que conforman la tripulación del avión, entre otros criterios, se tendrá en cuenta la capacidad de la aeronave por grupos o fracciones de grupos de:",
+    "options": ["19 pasajeros.","19 asientos.","50 pasajeros.","50 asientos."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_45",
+    "topic": "examen 1",
+    "text": "¿Cuántos equipos respiratorios de protección debemos llevar en cabina de pasajeros?",
+    "options": ["Uno por cada TCP a bordo.","Uno por cada galley.","Uno por estación de TCP.","Uno por cada TCP requerido."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_46",
+    "topic": "examen 1",
+    "text": "En caso de localizar fuego a bordo, ¿quién debe atacarlo inmediatamente con el extintor apropiado más próximo?",
+    "options": ["El TCP que lo descubra en primer lugar.","El sobrecargo.","El copiloto.","El TCP responsable de la zona."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_47",
+    "topic": "examen 1",
+    "text": "¿En qué casos pueden usarse las máscaras de colocación rápida de los pilotos?",
+    "options": ["Sólo para casos médicos.","Despresurización.","Humo, gases tóxicos, despresurización y primeros auxilios.","Sólo para casos de despresurización."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_48",
+    "topic": "examen 1",
+    "text": "¿Con qué podemos hacer señales Morse de noche?",
+    "options": ["Usando un espejo.","Con una linterna.","Con una cerilla.","Haciendo señales de humo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_49",
+    "topic": "examen 1",
+    "text": "¿En qué caso es obligatorio llevar chaleco salvavidas a bordo de una aeronave?",
+    "options": ["Es obligatorio en todas las aeronaves, vuelen donde vuelen.","Siempre que la ruta sobrevuele el agua.","Cuando nos alejemos a mas de 40 MN de la costa y sobrevuele agua.","Cuando nos alejemos a mas de 50 MN de la costa y sobrevuele agua."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_50",
+    "topic": "examen 1",
+    "text": "Si un pasajero hubiese subido bebidas alcohólicas a la balsa:",
+    "options": ["Estas deben guardarse para cuando la sed apriete.","Se confiscarán rápidamente y solo se podrán utilizar para desinfectar heridas.","Se guardarán para las frías noches.","En una evacuación de emergencia no se puede sacar alcohol del avión."],
+    "correctIndex": 3
+  }
+]

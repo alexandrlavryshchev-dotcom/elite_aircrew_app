@@ -1,0 +1,442 @@
+[
+  {
+    "id": "examen_51",
+    "topic": "Examen 1",
+    "text": "Cuando se utiliza la abreviatura FWD, se están refiriendo a la:",
+    "options": ["Cabina de vuelo.", "Cola del avión.", "Parte delantera de la cabina.", "Panza del fuselaje."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_52",
+    "topic": "Examen 1",
+    "text": "El movimiento del avión alrededor de su eje vertical (Z) se llama:",
+    "options": ["Guiñada.", "Cabeceo.", "Alabeo.", "Barrena."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_53",
+    "topic": "Examen 1",
+    "text": "Un motor de reacción necesita encendido continuo por lo que las bujías de encendido estarán siempre funcionando:",
+    "options": ["Es verdadero.", "No, solo durante la puesta en marcha.", "No existen tales bujías.", "Los motores de reacción encienden por aire comprimido."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_54",
+    "topic": "Examen 1",
+    "text": "¿Cómo se denomina el sistema de frenado que depende directamente de los motores del avión?",
+    "options": ["Spoiler.", "Reversa.", "Aerofreno.", "Pistón de frenado."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_55",
+    "topic": "Examen 1",
+    "text": "Los extremos del eje terrestre se denominan:",
+    "options": ["Longitud y latitud.", "Polos.", "Meridianos.", "Paralelos."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_56",
+    "topic": "Examen 1",
+    "text": "El círculo más grande de los que se pueden distinguir sobre la superficie terrestre es el:",
+    "options": ["Meridiano de Greenwich.", "Paralelo.", "Ecuador.", "Trópico de Cáncer."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_57",
+    "topic": "Examen 1",
+    "text": "En un avión comercial, para evitar deslizamiento sobre la pista en el aterrizaje se usa el sistema:",
+    "options": ["ABS.", "Slide-off.", "Anti-skid.", "Echar sal en la pista."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_58",
+    "topic": "Examen 1",
+    "text": "¿Qué es el TAFOR?",
+    "options": [
+      "Un tipo de comunicador con tierra.",
+      "Un tipo de turbulencia.",
+      "Un informe meteorológico de un aeródromo a una hora determinada.",
+      "Un informe meteorológico que señala la previsión o pronóstico."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_59",
+    "topic": "Examen 1",
+    "text": "La hora local de España Peninsular:",
+    "options": [
+      "Es GMT +1 en invierno y GMT +2 en verano.",
+      "Es GMT en invierno y GMT +1 en verano.",
+      "Es GMT +2 en invierno y GMT +1 en verano.",
+      "Coincide con el huso horario en el que se encuentra."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_60",
+    "topic": "Examen 1",
+    "text": "¿Cuál de las siguientes nubes se considera de tipo convectivo?",
+    "options": ["Cirros.", "Estratos.", "Cúmulos.", "Niebla."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_61",
+    "topic": "Examen 1",
+    "text": "La función básica de la Comisión de Estudio y Análisis de Notificaciones de Incidentes de Tránsito Aéreo (CEANITA) es:",
+    "options": [
+      "Evitar las notificaciones a las tripulaciones que han sido sancionadas.",
+      "Recibir, tramitar y realizar estudios de las notificaciones de incidentes de tránsito aéreo.",
+      "Estudiar y analizar los problemas personales entre los miembros de una tripulación.",
+      "Realizar las mismas actividades que la CIAIAC."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_62",
+    "topic": "Examen 1",
+    "text": "De acuerdo con la normativa, para que se pueda decir que una persona o cosa están a bordo de una aeronave, se han de dar las siguientes condiciones:",
+    "options": [
+      "Que se encuentre en el interior o en contacto con la aeronave.",
+      "Que se encuentre en el interior de la aeronave.",
+      "Que se encuentre en el mismo aeródromo que la aeronave.",
+      "Que se encuentre en contacto con la aeronave."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_63",
+    "topic": "Examen 1",
+    "text": "De entre todas las Regiones de Navegación Aérea, España tiene espacio aéreo de soberanía en la zona:",
+    "options": ["En todo el mundo.", "Mediterránea y Cantábrica.", "Europea y Africana.", "Europea y Sudamericana."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_64",
+    "topic": "Examen 1",
+    "text": "El Anexo 2 al Convenio sobre Aviación Civil es:",
+    "options": ["Las vacunaciones obligatorias.", "El transporte sin riesgo de mercancías peligrosas.", "El reglamento del aire.", "Las habilitaciones del TCP."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_65",
+    "topic": "Examen 1",
+    "text": "Considere el siguiente ejemplo: Air France (matrícula francesa) toma pasajeros en Madrid para llevarlos a París y de allí a Nueva York. ¿Qué libertad del aire ampara este vuelo?",
+    "options": ["Tercera.", "Sexta.", "Quinta.", "Séptima."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_66",
+    "topic": "Examen 1",
+    "text": "Si tenemos una aeronave de 59 asientos, ¿cuántos megáfonos llevaremos a bordo?",
+    "options": ["1.", "1, aunque no es obligatorio.", "2.", "Ninguno. No es obligatorio llevarlos."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_67",
+    "topic": "Examen 1",
+    "text": "Cuando nos referimos a la PBE lo hacemos en referencia a:",
+    "options": [
+      "El extintor de agua.",
+      "El sistema de oxígeno de emergencia.",
+      "La presión del oxígeno de primeros auxilios.",
+      "El equipo respiratorio de protección."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_68",
+    "topic": "Examen 1",
+    "text": "En vuelo que operen por encima de qué altura cada pasajero debe disponer de una máscara de presentación automática?",
+    "options": ["Por encima de los 30.000ft.", "Por encima de los 25.000ft.", "Por encima de los 18.000ft.", "Por encima de los 20.000ft."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_69",
+    "topic": "Examen 1",
+    "text": "¿Quién es el encargado de comunicar las anomalías ocurridas durante las comprobaciones diarias al Comandante?",
+    "options": ["El TCP que lo detecte.", "El Sobrecargo.", "Se le dirá a mantenimiento y estos al Comandante.", "El copiloto."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_70",
+    "topic": "Examen 1",
+    "text": "¿En qué vuelos es obligatorio dar instrucciones de seguridad al pasaje sobre el uso de las máscaras de oxígeno de emergencia?",
+    "options": [
+      "En todos los vuelos.",
+      "En vuelos en los que la altitud de crucero sea superior a 25.000ft.",
+      "En vuelos en los que la altitud de crucero sea superior a 15.000ft.",
+      "Se realizará a criterio del Comandante."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_71",
+    "topic": "Examen 1",
+    "text": "Con qué periodicidad se debe realizar durante la noche una inspección a la cabina de pasajeros?",
+    "options": ["Cada 60 minutos.", "Cada 30 minutos.", "Cada 15 minutos.", "Cada 120 minutos."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_72",
+    "topic": "Examen 1",
+    "text": "Con qué siglas se designa a las personas preseleccionadas para una emergencia?",
+    "options": ["PSU.", "PSP/ABP/P-PAX.", "PBP.", "PSI."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_73",
+    "topic": "Examen 1",
+    "text": "Qué significan las siglas STCR?",
+    "options": ["Pasajero en camilla.", "Pasajero invidente.", "Caso médico.", "Pasajero sordomudo."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_74",
+    "topic": "Examen 1",
+    "text": "Se pueden abrir manualmente las tapas de las PSU que contienen las máscaras de oxígeno de emergencia para pasajeros?",
+    "options": [
+      "No, nunca.",
+      "Si, mediante un objeto punzante o MRT.",
+      "Si, mediante un interruptor on/off en el panel del sobrecargo.",
+      "Solo con la llave maestra que tiene el Sobrecargo."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_75",
+    "topic": "Examen 1",
+    "text": "El extintor fijo de los lavabos está compuesto por:",
+    "options": ["Agua.", "Halón.", "Freón.", "Halón+freón."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_76",
+    "topic": "Examen 1",
+    "text": "Podemos definir como “desalojo” en un avión:",
+    "options": [
+      "Aterrizamos en el aeropuerto y bajan los pasajeros.",
+      "Cuando, en un secuestro, la policía hace bajar al pasaje.",
+      "Una evacuación controlada de urgencia sin riesgo para pasajeros, tripulación o aeronave.",
+      "Cuando la evacuación del avión se realiza en más de 15 minutos."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_77",
+    "topic": "Examen 1",
+    "text": "Recibimos un aviso en vuelo porque hay una persona inconsciente:",
+    "options": [
+      "Avisamos rápidamente al Comandante y evacuamos a todos los pasajeros de su entorno.",
+      "Observamos el entorno en busca de pistas, comprobamos que respira y colocamos en PLS.",
+      "Igual está dormido, por lo que le tapamos y le dejamos descansar.",
+      "Vamos preparando toallas y agua caliente."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_78",
+    "topic": "Examen 1",
+    "text": "Calcular la extensión de una quemadura, usando la Regla de Wallace, para una superficie quemada que incluye un brazo y una pierna completos",
+    "options": ["9%.", "18%.", "27%.", "36%."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_79",
+    "topic": "Examen 1",
+    "text": "Si un niño que acaba de nacer quiere mamar:",
+    "options": [
+      "Lo dejamos, ya que es beneficioso para él y para la madre.",
+      "Lo primero que tiene que tomar un recién nacido es biberón de glucosa.",
+      "No lo dejaremos hasta pasadas unas horas, ya que se puede ahogar.",
+      "Nunca querrán mamar nada más nacer: solo lloran."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_80",
+    "topic": "Examen 1",
+    "text": "Si se realiza submarinismo, antes de realizar un vuelo hay que dejar pasar un mínimo de:",
+    "options": ["6 horas.", "24 horas", "12 horas", "3 días."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_81",
+    "topic": "Examen 1",
+    "text": "Son signos de hipoxia, entre otros:",
+    "options": ["Disnea y cianosis.", "Hormigueo en los dedos y boca y sensación de opresión.", "Ictericia de piel y mucosas.", "Erupciones en la piel con exudado."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_82",
+    "topic": "Examen 1",
+    "text": "Qué factores predisponen para la baropatía intestinal o aerocolia?",
+    "options": [
+      "Masticar chicle, comer deprisa y las comidas flatulentas.",
+      "Comer despacio, beber alcohol y fumar.",
+      "No beber lo suficiente durante el vuelo.",
+      "Comer bocadillos y tomar picantes."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_83",
+    "topic": "Examen 1",
+    "text": "A bordo, el motivo más habitual que provoca hiperventilación en el pasaje es:",
+    "options": ["La altura.", "Las turbulencias.", "Los retrasos.", "El jet-lag."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_84",
+    "topic": "Examen 1",
+    "text": "En cabina, los TCPs soportarán condiciones especiales en cuanto a:",
+    "options": ["Temperatura ambiente.", "Sequedad y cantidad de oxígeno.", "Impertinencia de los pasajeros.", "Gases de combustión."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_85",
+    "topic": "Examen 1",
+    "text": "Cómo hemos de actuar en caso de hemorragia externa:",
+    "options": [
+      "Colocar un torniquete distalmente si el sangrado es venoso.",
+      "Colocar gasas sobre la herida y levantarla para revisar que ya no sangra.",
+      "Realizar presión directa sobre el punto de sangrado y no revisar la herida.",
+      "Colocar un torniquete proximalmente si es sangrado es arterial."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_86",
+    "topic": "Examen 1",
+    "text": "La salida de sangre pulsátil de una herida nos indica que el sangrado es:",
+    "options": ["Arterial.", "Venoso", "Capilar venoso.", "Capilar arterial."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_87",
+    "topic": "Examen 1",
+    "text": "Las mercancías peligrosas de clase 3 son:",
+    "options": ["Explosivos.", "Sólidos inflamables.", "Gases.", "Líquidos inflamables."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_88",
+    "topic": "Examen 1",
+    "text": "Las etiquetas para las mercancías peligrosas de clase I son de color:",
+    "options": ["Verde.", "Rojo.", "Naranja.", "Negro."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_89",
+    "topic": "Examen 1",
+    "text": "Qué anexo de la OACI corresponde al transporte sin riesgo de mercancías peligrosas por vía aérea?",
+    "options": ["El anexo 8.", "El anexo 18.", "El anexo 16.", "El anexo 17."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_90",
+    "topic": "Examen 1",
+    "text": "¿A qué clase y división corresponden los sólidos inflamables?",
+    "options": ["4.1.", "4.2.", "4.3.", "4.4."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_91",
+    "topic": "Examen 1",
+    "text": "Qué mide el IT (Índice de Transporte) de una mercancía peligrosa de clase 7?",
+    "options": [
+      "La volatibilidad de los gases.",
+      "El volumen del líquido contenido.",
+      "El nivel de radiación máximo a 1 metro de distancia del bulto.",
+      "El radio de seguridad ante una posible explosión."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_92",
+    "topic": "Examen 1",
+    "text": "El Entrenamiento Periódico incluirá:",
+    "options": [
+      "Técnicas de emergencias, evacuación, procedimientos de seguridad y CRM.",
+      "Mercancías peligrosas, CRM y Primeros auxilios + DESA.",
+      "Técnicas de emergencias, evacuación, primeros auxilios y botiquines, procedimientos de seguridad y CRM.",
+      "Primeros auxilios y botiquines, Técnicas de evacuación y Procedimientos de salvamento."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_93",
+    "topic": "Examen 1",
+    "text": "Para la obtención de las habilitaciones, el TCP tendrá que superar:",
+    "options": ["Entrenamiento inicial.", "Entrenamiento periódico.", "Entrenamiento de seguridad.", "Entrenamiento de conversión y/o diferencias."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_94",
+    "topic": "Examen 1",
+    "text": "Cómo se denomina a toda persona a quien la Dirección de una compañía aérea puede asignar obligaciones que ha de cumplir en tierra y a bordo, durante la preparación, realización y finalización de un vuelo relacionadas con la función de pilotaje?",
+    "options": ["Tripulante de Cabina de Pasajeros.", "Copiloto.", "Tripulante de Vuelo.", "Comandante."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_95",
+    "topic": "Examen 1",
+    "text": "Cuál es la temperatura de fusión de las boquillas de descarga del extintor automático de los lavabos?",
+    "options": ["70ºC.", "97ºC.", "De 77 a 80ºC.", "De 60 a 70ºC."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_96",
+    "topic": "Examen 1",
+    "text": "La normativa indica que cuando esté puesta la PBE ésta no deberá impedir la comunicación:",
+    "options": [
+      "La normativa no dice nada al respecto.",
+      "Es imposible hablar con la PBE puesta porque en ella hay presión positiva.",
+      "Verdadero.",
+      "Sí pero el manual indica que nos comuniquemos por signos."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_97",
+    "topic": "Examen 1",
+    "text": "Qué haremos inmediatamente si detectamos humo negro en cabina de pasaje que viene del aire acondicionado?",
+    "options": [
+      "Dejar todo lo que se esté haciendo y dedicarnos a apagar el fuego, repartiendo funciones.",
+      "Avisar a la cabina de mando inmediatamente.",
+      "Lo primero colocarnos la Full Face.",
+      "Ese humo es un Tourchin y no presenta ningún problema."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_98",
+    "topic": "Examen 1",
+    "text": "Si tuviéramos que alejarnos de un avión envuelto en llamas, humo o con riesgo de incendio ¿hacia dónde lo haríamos?",
+    "options": ["Es indiferente mientras lo haga nos rápido.", "En contra del viento.", "En la misma dirección que el viento.", "Hacia la cola del avión."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_99",
+    "topic": "Examen 1",
+    "text": "Qué salidas de emergencia no se abrirán en un amaraje?",
+    "options": [
+      "Las situadas sobre la línea de flotación del avión.",
+      "Las salidas sobre los planos.",
+      "Las de cabina de mando.",
+      "Las que estén total o parcialmente debajo del agua, o castigadas por el oleaje."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_100",
+    "topic": "Examen 1",
+    "text": "Cuáles son las características del hielo marino nuevo?",
+    "options": [
+      "Es de color azulado, las esquinas redondeadas y carente de sal.",
+      "Es de color grisáceo, muy duro y es salado.",
+      "Es un hielo azulado con mucha cantidad de sal.",
+      "El hielo es transparente y por ser del mar siempre tiene sal."
+    ],
+    "correctIndex": 0
+  }
+]

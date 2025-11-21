@@ -1,0 +1,247 @@
+[
+  {
+    "id": "examen_general_36",
+    "topic": "Examen General",
+    "text": "¿Qué altura mínima ha de tener el borde inferior del ala para estar equipada con rampas?",
+    "options": ["1,63 m", "1,73 m", "1,83 m", "1,93 m"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_37",
+    "topic": "Examen General",
+    "text": "¿Puede ser etiquetada como mercancía peligrosa una botella de oxígeno que transporte un pasajero con fines médicos?",
+    "options": ["El pasajero puede haber sido autorizado a llevarla y, aunque no es necesario, haber sido etiquetada", "Nunca, ya que las botellas de oxígeno salvan vidas", "El oxígeno que es para uso personal no va etiquetado nunca", "Como no va en bodega no es necesario etiquetarlo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_38",
+    "topic": "Examen General",
+    "text": "Los grupos de embalaje para las mercancías peligrosas a bordo pueden ser:",
+    "options": ["Grandes o pequeñas", "Del grupo I, II y III", "Del tipo I, II, III y IV"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_39",
+    "topic": "Examen General",
+    "text": "Di cuál de estas mercancías peligrosas está totalmente prohibido su transporte por el aire:",
+    "options": ["Cartuchos del calibre 12 para caza menor", "Materiales radiactivos conocidos", "Animales vivos que estén infectados", "Explosivos que contengan a la vez clorato y sales de amonio"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_40",
+    "topic": "Examen General",
+    "text": "¿Qué nombre recibe el producto final de una operación de empaquetado?",
+    "options": ["Embalaje", "Paquete", "Bulto", "Entrega"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_41",
+    "topic": "Examen General",
+    "text": "Según el Anexo 18 al Convenio sobre Aviación Civil Internacional, el explotador:",
+    "options": ["Velará porque no le suceda nada a cualquier tripulante relacionado con mercancías peligrosas", "Protegerá al Comandante de riesgos por mercancías peligrosas", "Facilitará en su Manual de Operaciones información apropiada para el transporte de mercancías peligrosas", "Asegurará al pasaje que no sucederán incidentes con mercancías peligrosas a bordo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_42",
+    "topic": "Examen General",
+    "text": "El número máximo de habilitaciones en aeronaves de diferente tipo, en cuanto a sistemas de emergencia y evacuación, que pueden figurar en una licencia de TCP es de:",
+    "options": ["Una", "Dos", "Tres", "Cuatro"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_43",
+    "topic": "Examen General",
+    "text": "El objetivo primario de la existencia de Tripulantes de Cabina de pasajeros a bordo es:",
+    "options": ["Enseñar a ponerse los chalecos salvavidas e indicar las salidas de emergencia", "Asumir el control de la cabina de pasajeros ante cualquier situación de emergencia", "Repartir bebidas, comidas y periódicos y ayudar a colocar el equipaje de mano", "Vigilar que no se suban maletas grandes a bordo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_44",
+    "topic": "Examen General",
+    "text": "Para calcular el número de TCPs que conforman la tripulación del avión, entre otros criterios, se tendrá en cuenta la capacidad de la aeronave por grupos o fracciones de:",
+    "options": ["19 pasajeros", "19 asientos", "50 pasajeros", "50 asientos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_45",
+    "topic": "Examen General",
+    "text": "En caso de localizar fuego a bordo ¿Quién debe atacarlo inmediatamente con el extintor apropiado más próximo?",
+    "options": ["El primer TCP que se lo encuentra", "El sobrecargo", "El copiloto", "El TCP responsable de la zona"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_46",
+    "topic": "Examen General",
+    "text": "¿En qué casos pueden usarse las máscaras de colocación rápida de los pilotos?",
+    "options": ["Sólo por casos médicos", "Despresurización", "Humos, gases tóxicos, despresurización y primeros auxilios", "Sólo para casos de despresurización"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_47",
+    "topic": "Examen General",
+    "text": "¿Con qué podemos hacer señales Morse de noche?",
+    "options": ["Usando un espejo", "Con una linterna", "Con una cerilla", "Haciendo señales de humo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_48",
+    "topic": "Examen General",
+    "text": "¿En qué caso es obligatorio llevar chaleco salvavidas a bordo de una aeronave?",
+    "options": ["Es obligatorio para todas las aeronaves, vuelen donde vuelen", "Siempre que la ruta sobrevuele agua", "Cuando nos alejamos a mas de 40NM de la costa y sobrevuele agua", "Cuando nos alejemos a más de 50NM de la costa y sobrevuele agua"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_49",
+    "topic": "Examen General",
+    "text": "Si un pasajero hubiese subido bebidas alcohólicas a la balsa:",
+    "options": ["Estas deben guardarse para cuando la sed apriete", "Se confiscarán rápidamente y solo se podrán utilizar para desinfectar heridas", "Se guardarán para las frías noches", "En una evacuación de emergencia no se puede sacar alcohol del avión"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_50",
+    "topic": "Examen General",
+    "text": "La frecuencia respiratoria normal es de:",
+    "options": ["8-10 respiraciones / minuto", "12-20 respiraciones / minuto", "32-40 respiraciones / minuto", "60-100 respiraciones / minuto"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_51",
+    "topic": "Examen General",
+    "text": "¿Qué es la cinetosis o aerocinetosis?",
+    "options": ["Coloración azulada o negruzca de la piel", "Mareo por movimiento", "Baja tensión arterial", "Acumulación de líquidos en los pies"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_52",
+    "topic": "Examen General",
+    "text": "¿Cómo debe de estar la rampa (en las puertas de servicio) en el caso de que estemos repostando combustible con pasajeros a bordo?",
+    "options": ["La rampa deberá estar armada", "La rampa deberá estar desarmada", "La rampa deberá estar desarmada, puerta blocada y libre de obstáculos", "La rampa deberá estar armada, blocada y libre de obstáculos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_53",
+    "topic": "Examen General",
+    "text": "¿Qué duración aproximada tiene el Halon?",
+    "options": ["3 a 8 segundos", "7 a 10 segundos", "10 a 12 segundos", "10 a 15 segundos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_54",
+    "topic": "Examen General",
+    "text": "Si vuelo un avión con una configuración máxima aprobada de asientos de 301 a 400 cuántos números de extintores debo llevar:",
+    "options": ["2", "3", "4", "5"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_55",
+    "topic": "Examen General",
+    "text": "La intensidad del viento en aviación se expresa en:",
+    "options": ["Kilómetros/hora", "Millas náuticas", "Nudos", "Fuerza 0-5"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_56",
+    "topic": "Examen General",
+    "text": "¿Cuál es el órgano asesor de la OACI?",
+    "options": ["Las Asambleas", "El Consejo General del Poder Judicial", "Las Comisiones Técnicas", "Los Estatutos Aeronáuticos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_57",
+    "topic": "Examen General",
+    "text": "¿Cómo puede comprobar un TCP que la rampa de su salida de emergencia asignada está operativa antes de un vuelo?",
+    "options": ["A través del visor que nos permite comprobar la presión de la rampa", "La comprobación de rampas las realiza el personal de mantenimiento a cargo", "A través del panel FAP (Forward Attendant Panel)", "Armando y desarmando la rampa con la puerta abierta"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_58",
+    "topic": "Examen General",
+    "text": "De qué trata el anexo de la OACI 7",
+    "options": ["Seguridad", "Registros de matriculación", "Cartas aeronáuticas", "Reglamento del aire"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_59",
+    "topic": "Examen General",
+    "text": "El oxígeno es transportado en la sangre en:",
+    "options": ["Los glóbulos blancos o leucocitos", "Las plaquetas o trombocitos", "Los glóbulos rojos o hematíes", "El plasma sanguíneo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_60",
+    "topic": "Examen General",
+    "text": "Según la normativa actual, la edad de los UM está comprendida entre:",
+    "options": ["2-12 años", "0-5 años", "5-12 años", "5-13 años"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_61",
+    "topic": "Examen General",
+    "text": "Cuando se hiperventila:",
+    "options": ["Aumenta en CO2 en sangre", "Aumenta el O2 en sangre", "El nivel de CO2 y O2 es correcto en sangre", "Aumenta el nitrógeno en sangre"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_62",
+    "topic": "Examen General",
+    "text": "La orden de “tripulación a sus puestos” dada por el comandante, estando el avión en tierra, significa",
+    "options": ["Iniciar la evacuación", "Posibilidad de realizar un procedimiento de emergencia", "Sentarse y abrocharse el cinturón", "Riesgo de turbulencia severa"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_63",
+    "topic": "Examen General",
+    "text": "¿Qué superficie tiene una mayor curvatura?",
+    "options": ["El Intradós del ala", "El morro del avión", "El Extradós del ala", "El timón de cola"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_64",
+    "topic": "Examen General",
+    "text": "¿Cuál de los siguientes es el elemento fundamental para que un avión se sustente en el aire?",
+    "options": ["Las alas", "El fuselaje", "Los motores", "El peso del avión"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_65",
+    "topic": "Examen General",
+    "text": "¿A qué llamamos velocidad de pérdida?",
+    "options": ["A la que se pone un avión para aterrizar", "A la que hace que el avión pierde empuje", "A la que aparece si perdemos uno de los motores", "A la que hace que el avión pierda la sustentación"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_66",
+    "topic": "Examen General",
+    "text": "El movimiento de Alabeo de un avión es controlado por:",
+    "options": ["Los Flaps", "Los Slats", "Los Spoilers", "Los alerones"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_67",
+    "topic": "Examen General",
+    "text": "¿A qué velocidad puede entrar en pérdida un avión?",
+    "options": ["Por debajo de 1000 km/h", "A la de despegue", "Cuando excede el límite máximo de velocidad", "Puede entrar en pérdida en cualquier velocidad cuando se excede el ángulo de ataque crítico"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_68",
+    "topic": "Examen General",
+    "text": "Los fenómenos que actúan sobre el ala de un avión se basan en dos principios:",
+    "options": ["Teorema de Bernoulli y Efecto Venturi", "Efecto de Bernoulli y Teorema de Venturi", "Ley de Boyle-Mariotte y Ley de Henry", "Efecto Venturi y Efecto Mariposa"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_69",
+    "topic": "Examen General",
+    "text": "Cuando un avión asciende en la atmósfera, la presión dentro de la cabina:",
+    "options": ["Aumenta", "Disminuye", "No varía", "No tenemos datos suficientes"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_70",
+    "topic": "Examen General",
+    "text": "Respecto a los Anexos al Convenio de Chicago:",
+    "options": ["Hay 19 y entre ellos están: Mercancías Peligrosas, Licencias al Personal, Aeronavegabilidad, Aeródromos y Búsqueda y Salvamento", "Hay 10 y entre ellos están: Mercancías Peligrosas, Licencias al Personal, Protección del Medio Ambiente y Búsqueda y Salvamento", "Hay 19 y entre ellos están: Vuelos Regulares, Libertades del Aire, y Acrobacia Aérea", "Hay 10 y entre ellos están: Vuelos Regulares, Libertades del Aire y Acrobacia Aérea"],
+    "correctIndex": 0
+  }
+]

@@ -1,0 +1,352 @@
+[
+  {
+    "id": "examen_1",
+    "topic": "Examen 1",
+    "text": "Las líneas que unen puntos de igual temperatura se llaman:",
+    "options": ["Isofónicas", "Isóteras", "Isobaras", "Isotermas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_2",
+    "topic": "Examen 1",
+    "text": "Los gases que se enumeran a continuación son los principales componentes de la atmósfera, ¿cuál es el más abundante?",
+    "options": ["Helio", "Argón", "Oxígeno", "Nitrógeno"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_3",
+    "topic": "Examen 1",
+    "text": "La extensión UTC, empleada como referencia de tiempo en la navegación aérea, se refiere a:",
+    "options": ["Huso horario", "Hora local", "Hora Universal Coordinada", "Diferencia horaria"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_4",
+    "topic": "Examen 1",
+    "text": "¿Qué es un Kt.?",
+    "options": ["Medida de altura", "Medida de longitud", "Un nudo, la velocidad igual a 1 Km. Por hora", "Un nudo, la velocidad igual a 1 Nm. Por hora"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_5",
+    "topic": "Examen 1",
+    "text": "Los breakers son:",
+    "options": ["Mecanismos de control para subidas de tensión", "Sistemas de aire acondicionado", "Generadores de corriente", "Acumuladores de corriente"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_6",
+    "topic": "Examen 1",
+    "text": "La corriente alterna estándar en Estados Unidos (y en los aviones) es de:",
+    "options": ["220 V", "110 V", "280 V", "110V"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_7",
+    "topic": "Examen 1",
+    "text": "¿Qué sucede en una turbina?",
+    "options": ["El estrator se mueve con el eje del motor", "El rotor gira con el eje del motor y el estrator no se mueve", "El rotor se queda parado mientras el estrator coge velocidad", "Rotor y estrator giran a la vez"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_8",
+    "topic": "Examen 1",
+    "text": "El movimiento del avión alrededor de su eje lateral (Y) se llama:",
+    "options": ["Guiñada", "Cabeceo", "Alabeo", "Barrena"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_9",
+    "topic": "Examen 1",
+    "text": "Las nubes de tipo convectivo generan:",
+    "options": ["Tornados", "Tormentas", "Ciclones", "Anticiclones"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_10",
+    "topic": "Examen 1",
+    "text": "La incapacidad de un piloto en la fase de aterrizajes pierde suponer:",
+    "options": ["Que no pueda aterrizar el avión hasta que se haya recuperado por completo", "Seguir en el aire y solicitar un médico", "Que un TCP sea requerido por el piloto que vuela el avión para que lea las listas correspondientes", "Que pregunten por megafonía si hay un piloto a bordo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_11",
+    "topic": "Examen 1",
+    "text": "¿A qué tipo de aeronaves no se aplica el Convenio de Chicago?",
+    "options": ["A las civiles", "A las del estado", "A los vuelos regulares", "A los vuelos chárter"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_12",
+    "topic": "Examen 1",
+    "text": "¿Qué se define como “tiempo de vuelo” en el Convenio de Tokio referente al comandante?",
+    "options": ["Al tiempo que transcurre desde el despegue hasta el aterrizaje", "Al tiempo que transcurre desde el cierre hasta la apertura de puertas", "Al tiempo que transcurre desde que se presenta en el aeropuerto hasta que lo abandona", "Al tiempo que transcurre desde el inicio del embarque hasta el final del desembarque del pasaje"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_13",
+    "topic": "Examen 1",
+    "text": "Es obligatoria la presencia de al menos un TCP en aviones con una configuración mínima de:",
+    "options": ["54 asientos", "43 asientos", "35 asientos", "19 asientos"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_14",
+    "topic": "Examen 1",
+    "text": "¿Qué documentación de carácter personal debe llevar consigo un TCP?",
+    "options": ["Tarjeta de compañía, pasaporte, visados exigidos y certificado internacional de vacunación", "DNI (o carné de conducir), pasaporte, visados exigidos y certificado internacional de vacunación", "Tarjeta de compañía, pasaporte, licencia de TCP y certificado internacional de vacunación exigido", "Tarjeta de compañía, tarjeta de la Seguridad Social, pasaporte, visados exigidos y licencia de TCP"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_15",
+    "topic": "Examen 1",
+    "text": "¿Qué nivel de alcoholemia es el máximo permitido para un TCP en el ejercicio de sus funciones?",
+    "options": ["Ninguno", "0.2/mil", "0.002/mil", "2/mil"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_16",
+    "topic": "Examen 1",
+    "text": "Como regla general, el número de TCPs a bordo exigible es:",
+    "options": ["Uno por cada 50 asientos", "Para aeronaves de más de 19 asientos, uno por cada 50 asientos o fracción", "Para aeronaves de 19 asientos, uno por cada 50 pasajeros", "Para aeronaves de 20 pasajeros o más, uno por cada 50 pasajeros"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_17",
+    "topic": "Examen 1",
+    "text": "La empresa EUROCONTROL es la:",
+    "options": ["Organización de aviación civil europea", "Controladores aéreos europeos", "Organización europea para la seguridad de la navegación aérea", "Control europeo de aeronaves"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_18",
+    "topic": "Examen 1",
+    "text": "Se llama polizón:",
+    "options": ["Al que no ha pagado el billete con el que vuela", "Al que se apodera ilícitamente de una aeronave en vuelo", "Al que se embarca de manera clandestina en una aeronave", "Al que embarca con un billete de menor precio que el establecido"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_19",
+    "topic": "Examen 1",
+    "text": "¿Qué precaución tendremos con la válvula Venturi de las rampas cuando se realice un amaraje?",
+    "options": ["Que esté colocada en posición off para que no se escape el aire", "No hay que tener ninguna precaución especial", "Que esta quede en la superficie para que en el inflado aspire aire y no agua de mar", "En un amaraje la gente se tira al agua directamente, no son necesarias las rampas"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_20",
+    "topic": "Examen 1",
+    "text": "Un menor que en la fecha del vuelo no ha cumplido los 2 años de edad es un:",
+    "options": ["CHD", "UM", "YP", "Infant/baby"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_21",
+    "topic": "Examen 1",
+    "text": "Los pasajeros en silla de ruedas embarcarán:",
+    "options": ["Los primeros", "Los últimos", "Cuando les corresponda", "Cuando diga el comandante"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_22",
+    "topic": "Examen 1",
+    "text": "De las siguientes abreviaturas cuál corresponde a un pasajero que necesita silla de ruedas:",
+    "options": ["WCHR", "PRM", "PSP", "PSU"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_23",
+    "topic": "Examen 1",
+    "text": "¿Qué altura mínima ha de tener el borde inferior del ala para estar equipada con rampa?",
+    "options": ["1,63m", "1,73m", "1,83m", "1,93m"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_24",
+    "topic": "Examen 1",
+    "text": "El éxito de una evacuación depende, entre otros factores, de:",
+    "options": ["Las circunstancias y la capacidad de reacción, organización y decisión de los tripulantes", "Lo claras que estén las instrucciones en el Manual de Operaciones", "De que el pasaje hable nuestro idioma y pueda comprender rápido las órdenes dadas", "Del tipo de avión"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_25",
+    "topic": "Examen 1",
+    "text": "Cuando un avión reposta combustible con los pasajeros a bordo:",
+    "options": ["Los letreros de “abróchense los cinturones” deben estar encendidos", "Los letreros de “no fumar” deben permanecer apagados", "Las luces de cabina deben estar a mínima intensidad", "Las puertas que no se utilicen para entrada, salida o servicio del avión, deben permanecer cerradas y con la rampa desarmada"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_26",
+    "topic": "Examen 1",
+    "text": "Un pasajero deportado potencialmente peligroso que viaja con escolta se identifica como:",
+    "options": ["DEPU", "DEPA", "DEPORT", "INAD"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_27",
+    "topic": "Examen 1",
+    "text": "El sistema nervioso central está formado por:",
+    "options": ["Nervio espinal y médula espinal", "Cerebro y médula espinal", "Nervios, periféricos y centrales", "Neuronas, dendritas y cerebelo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_28",
+    "topic": "Examen 1",
+    "text": "En el tratamiento de la hiperventilación sería correcto:",
+    "options": ["Administrar oxígeno y controlar el ritmo cardiaco", "Poner una bolsa sobre la boca y nariz del pasajero, haciéndole reinhalar su propio CO2 y controlar el ritmo respiratorio", "Hasta que no se ponga cianótico, el cuerpo lo compensa", "Colocar tumbado, tranquilizar y poner oxígeno"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_29",
+    "topic": "Examen 1",
+    "text": "Cómo podremos evitar el mareo de los pasajeros en determinadas situaciones límite:",
+    "options": ["Colocando una bolsa anti mareo", "Tumbándolos y elevando las piernas", "Dándoles agua", "Administrando pastillas anti mareo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_30",
+    "topic": "Examen 1",
+    "text": "El hematoma cerebral y la hemorragia cerebral, son signos de:",
+    "options": ["ACVA o ICTUS trombótico", "TVP", "ACVA o ICTUS hemorrágico", "IAM"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_31",
+    "topic": "Examen 1",
+    "text": "Son signos y síntomas de quemadura de primer grado:",
+    "options": ["Piel enrojecida y gran sensibilidad y dolor en la zona", "Ampolla y dolor", "Aspecto blanquecino, seco y/o con zonas de necrosis", "Sangrado sin dolor"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_32",
+    "topic": "Examen 1",
+    "text": "La función principal de los glóbulos rojos es:",
+    "options": ["Defensa del organismo", "Transportar oxígeno", "Formación de coágulos", "Respuesta inmunitaria"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_33",
+    "topic": "Examen 1",
+    "text": "El oxígeno de primeros auxilios en un avión:",
+    "options": ["Está contenido en las PSU", "Se encuentra en una botella individual que trasladan los TCPs cuando es necesario", "Está bajo los asientos y se saca en las emergencias", "Hay que solicitarlo a la compañía antes de embarcar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_34",
+    "topic": "Examen 1",
+    "text": "La hipoxia, en general, se soluciona:",
+    "options": ["Bajando la altitud", "Subiendo la altitud", "Efectuando reposo", "Recibiendo oxígeno"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_35",
+    "topic": "Examen 1",
+    "text": "Los síntomas de fractura son:",
+    "options": ["Dolor intenso, posible deformidad y limitación funcional", "Sangrado y dolor", "Enrojecimiento de la zona y fiebre", "Aparición de vesículas y escozor"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_36",
+    "topic": "Examen 1",
+    "text": "Tras realizar submarinismo, ¿cuánto tiempo ha de transcurrir como mínimo antes que podamos viajar en una aeronave presurizada?",
+    "options": ["2 horas", "24 horas", "48 horas", "3 días"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_37",
+    "topic": "Examen 1",
+    "text": "El transporte de alcoholes o acetonas en un avión está considerado mercancía peligrosa de clase:",
+    "options": ["1", "2", "3", "5"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_38",
+    "topic": "Examen 1",
+    "text": "Las mercancías peligrosas tipo explosivos, deberán llevar una etiqueta color:",
+    "options": ["Verde", "Blanco", "Naranja", "Rojo"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_39",
+    "topic": "Examen 1",
+    "text": "El orden correcto de verificación de un incidente con mercancías peligrosas a bordo será:",
+    "options": ["Identificar el producto, notificar al comandante, retirar a los pasajeros y colocarse los guantes", "Notificar al comandante, identificar el producto y colocarse los guantes y PBE", "Colocarse los guantes y PBE, retirar a los pasajeros y notificar al comandante", "Retirar a los pasajeros, notificar al comandante, identificar el producto y ponerse los guantes"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_40",
+    "topic": "Examen 1",
+    "text": "Todo líquido que puede inflamarse espontáneamente en contacto con el aire a temperatura igual o inferior a 55ºC se llama:",
+    "options": ["Líquido pirolítico", "Líquido pirofórico", "Líquido piroso", "Líquido inflamable"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_41",
+    "topic": "Examen 1",
+    "text": "¿Qué significa la clave alfabética X?",
+    "options": ["Venenoso", "Corrosivo", "Comburente", "Irritante"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_42",
+    "topic": "Examen 1",
+    "text": "Dentro del entrenamiento inicial del TCP se incluyen, entre otros:",
+    "options": ["Entrenamiento con fuego y humo, de supervivencia en el agua y primeros auxilios y RCP", "Entrenamiento de supervivencia en zona polar, desértica y en el agua y simulación de casos de embriaguez", "Entrenamiento con fuego y humo, de supervivencia en el agua y de manejo de la aeronave", "Evacuación por rampas, supervivencia en el agua y manejo de la aeronave"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_43",
+    "topic": "Examen 1",
+    "text": "¿Cuál es la abreviatura que designa al manual del Tripulante de Cabina de Pasajeros?",
+    "options": ["TCPML", "Cabin Crew Book", "CCB", "MTCP"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_44",
+    "topic": "Examen 1",
+    "text": "¿Con qué nombre se conoce a la primera puerta del lado izquierdo del avión?",
+    "options": ["1I", "1D", "1R", "1L"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_45",
+    "topic": "Examen 1",
+    "text": "Cuando el fuego se encuentra localizado únicamente en la zona de los galleys, ¿qué debemos hacer tan pronto como sea posible?",
+    "options": ["Atacar el fuego con el extintor correspondiente", "Rociar con agua toda la zona con el fin de enfriarla", "Desconectar los interruptores y sacar los CB", "Avisar al comandante"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_46",
+    "topic": "Examen 1",
+    "text": "¿Podemos usar botellas portátiles de oxígeno en caso de humo o fuego?",
+    "options": ["No nunca", "Sólo en caso de fuegos eléctricos", "Sólo en incidentes con mercancías peligrosas", "Sí, se pueden y deben usar"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_47",
+    "topic": "Examen 1",
+    "text": "¿Cuál es el número mínimo de extintores portátiles que ha de llevar una aeronave configurada con 101 asientos de pasajeros?",
+    "options": ["1", "2", "3", "4"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_48",
+    "topic": "Examen 1",
+    "text": "¿Es importante cómo caigan las balsas en el agua para su inflado automático?",
+    "options": ["Sí, porque si cae bocabajo el primero en llegar al agua tiene que darle la vuelta", "Sí, porque si no cae bien se puede hundir", "Da igual porque tiene un sistema que expulsa el agua al darle la vuelta a la balsa reversible", "Hay que procurar que el orificio de inflado quede fuera del agua o quedará inutilizada"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_49",
+    "topic": "Examen 1",
+    "text": "Un importante factor a tener en cuenta cuando se trata de supervivencia en zonas frías es:",
+    "options": ["Que el viento aumenta el frío", "Cuando consigamos hacer un fuego nos sentemos lo más cerca de él posible", "Friccionar con nieve miembros congelados", "Beber mucho alcohol"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_50",
+    "topic": "Examen 1",
+    "text": "Tras un aterrizaje forzoso en tierra, ¿cuál es el mayor peligro del que debemos protegernos?",
+    "options": ["Del frío en zonas árticas", "De insolación en el desierto", "De incendio a bordo del avión", "Una vez detenido el avión no hay peligro alguno"],
+    "correctIndex": 2
+  }
+]

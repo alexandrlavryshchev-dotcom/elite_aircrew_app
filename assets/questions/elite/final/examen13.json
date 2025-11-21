@@ -1,0 +1,422 @@
+[
+  {
+    "id": "examen_51",
+    "topic": "Examen 1",
+    "text": "El engelamiento puede generar:",
+    "options": ["Pérdida de potencia en los motores", "Aumento de potencia en los motores", "Dificultad para el aterrizaje", "Nada especial"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_52",
+    "topic": "Examen 1",
+    "text": "¿Cuál es la izquierda de un avión?",
+    "options": ["Depende del tipo de avión", "Sentado y mirando al morro, nuestro brazo derecho señala el lado izquierdo", "Sentado y mirando a los pasajeros, nuestro lado izquierdo señala el lado izquierdo", "Sentado y mirando el morro, nuestro brazo izquierdo señala el lado izquierdo"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_53",
+    "topic": "Examen 1",
+    "text": "Los compensadores del avión sirven para:",
+    "options": ["Aliviar tensiones y así poder ayudar al piloto", "Bajar el tren de aterrizaje", "Subir el tren de aterrizaje", "Estabilizar la nave"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_54",
+    "topic": "Examen 1",
+    "text": "Las luces del tren de aterrizaje se iluminan:",
+    "options": ["En verde arriba y blocado", "En verde abajo y blocado y en rojo en tránsito", "En verde y rojo en tránsito", "En blanco intermitente"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_55",
+    "topic": "Examen 1",
+    "text": "Llamamos viento cruzado al viento:",
+    "options": ["Que sopla perpendicular a la pista de aterrizaje", "Que atravesamos durante el vuelo en el interior de una nube", "Racheado que trae granizo y lluvia", "Que sopla contra el morro del avión al despegar"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_56",
+    "topic": "Examen 1",
+    "text": "Los pilotos confirmarán la sintonización correcta de las estaciones VOR y NDB:",
+    "options": ["Por alfabeto aeronáutico", "Por código Morse", "Siempre en inglés", "En el idioma del país donde se encuentre la estación"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_57",
+    "topic": "Examen 1",
+    "text": "En las altas presiones, las presiones aumentan por las isobaras desde el exterior hacia el centro, donde son máximas. Estas se conocen como:",
+    "options": ["Tormentas", "Borrascas", "Anticiclones", "Tornados"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_58",
+    "topic": "Examen 1",
+    "text": "¿Qué lectura nos proporciona el anemómetro?",
+    "options": ["El rumbo indicado", "La velocidad del avión", "La posición del avión", "La altitud del avión"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_59",
+    "topic": "Examen 1",
+    "text": "El sistema neumático proporciona energía neumática (aire a presión) para que funcione:",
+    "options": ["El aire acondicionado del avión", "La presión de los neumáticos", "Las luces de emergencia del avión", "Los electrodomésticos del galley"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_60",
+    "topic": "Examen 1",
+    "text": "Cuando hablamos de Plan de Vuelo es correcto decir:",
+    "options": ["Es obligatorio para los aviones y helicópteros", "Es obligatorio para todos los aviones en territorio español", "Solo es obligatorio para los aviones militares", "Solo es obligatorio para los aviones civiles"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_61",
+    "topic": "Examen 1",
+    "text": "¿Cuáles son los idiomas oficiales de la OACI?",
+    "options": ["Chino, ruso, inglés, francés y español", "Inglés, chino, español, francés y polaco", "Español, inglés, francés, chino, ruso y árabe", "Ruso, árabe, inglés, francés y español"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_62",
+    "topic": "Examen 1",
+    "text": "¿Dónde se establecen las condiciones exigidas a los TCPs para poder ejercer sus funciones, así como los requisitos de formación y mantenimiento de sus entrenamientos?",
+    "options": ["En la normativa EU-OPS", "En el libro de funciones y entrenamientos necesarios para el TCP", "AirCrew-AirOperations", "En el manual de Operaciones del TCP"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_63",
+    "topic": "Examen 1",
+    "text": "En qué Anexo al Convenio de Chicago están reguladas las Licencias al Personal?",
+    "options": ["Anexo 1", "Anexo 2", "Anexo 3", "Anexo 9"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_64",
+    "topic": "Examen 1",
+    "text": "Toda empresa dedicada al transporte aéreo de viajeros ha de contar con un certificado:",
+    "options": ["MBO", "DUE", "ATS", "AOC"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_65",
+    "topic": "Examen 1",
+    "text": "¿Quién es el encargado de llevar un registro de la radiación cósmica a la que un tripulante puede verse expuesto?",
+    "options": ["Los tripulantes no están expuestos a la radiación cósmica", "La Mutua de Accidentes", "Cada tripulante debe llevar su registro", "El Operador"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_66",
+    "topic": "Examen 1",
+    "text": "El inflado de las rampas se produce a través de:",
+    "options": ["Una botella de aire comprimido", "Una palanca de inflado manual", "2/3 de aire del exterior y 1/3 de aire de una botella de gas", "Depende de la rampa"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_67",
+    "topic": "Examen 1",
+    "text": "¿Cómo se llama el documento donde el Sobrecargo recibe toda la información referida a las peticiones de comidas especiales para los pasajeros?",
+    "options": ["Hoja de menús", "PIL", "AIP", "La comanda"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_68",
+    "topic": "Examen 1",
+    "text": "La DEMO de seguridad que se ofrece a los pasajeros es obligatorio realizarla:",
+    "options": ["Antes del rodaje del avión por pista", "Al llegar a la altura de crucero", "Antes del despegue, siendo obligatorio señalar salidas de emergencia y rutas de evacuación", "Antes del despegue, pudiendo incluir salidas de emergencia y rutas de evacuación"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_69",
+    "topic": "Examen 1",
+    "text": "¿Cuáles de los siguientes elementos configuran el sistema de comunicaciones de un avión de pasajeros?",
+    "options": ["Tablillas de pictogramas", "Sistema de anuncios al pasaje PA e interfonos", "Teléfonos móviles", "Megáfonos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_70",
+    "topic": "Examen 1",
+    "text": "¿Tiene utilidad el uso de una botella de oxígeno portátil para usarlo contra humo o gases tóxicos?",
+    "options": ["No tiene utilidad", "Si tiene utilidad", "Sólo en caso de incidentes con mercancías peligrosas", "Sólo en caso de fuego o humo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_71",
+    "topic": "Examen 1",
+    "text": "¿Qué significan las siglas WCHR?",
+    "options": [
+      "Pasajero en silla de ruedas que no es capaz de desplazarse largas distancias, subir o bajar escaleras ni moverse dentro de la cabina",
+      "Pasajero en silla de ruedas que no es capaz de desplazarse largas distancias ni subir o bajar escaleras pero si es capaz de moverse dentro de la cabina",
+      "Pasajero en silla de ruedas que no es capaz de desplazarse largas distancias pero si es capaz de subir o bajar escaleras y moverse dentro de la cabina",
+      "Pasajero ambulatorio"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_72",
+    "topic": "Examen 1",
+    "text": "¿Qué condiciones deben cumplirse para que el Sobrecargo o un TCP pueda iniciar una evacuación?",
+    "options": [
+      "Que la gravedad del caso lo justifique",
+      "Que los tripulantes técnicos estén incapacitados o ausentes",
+      "Que el avión esté completamente parado",
+      "Que se cumplan las tres condiciones anteriores simultáneamente"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_73",
+    "topic": "Examen 1",
+    "text": "¿Con qué nombre se conoce a la primera puerta del lado derecho del avión?",
+    "options": ["1L", "1R", "1L o 1R", "1D"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_74",
+    "topic": "Examen 1",
+    "text": "En caso de evacuación en el mar, si tenemos que lanzar balsas o pasaje al agua desde las salidas sobre el plano ¿por dónde debe hacerse?",
+    "options": ["Por el borde de salida", "Por el borde de ataque", "Por el Intradós", "Nunca se utilizarán en mar las salidas de emergencia sobre los planos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_75",
+    "topic": "Examen 1",
+    "text": "¿Qué se entiende a bordo por oxígeno de primeros auxilios?",
+    "options": [
+      "Al equipo portátil de oxígeno para uso exclusivo de los TCPs",
+      "Al equipo portátil de oxígeno para protección de los efectos tóxicos del humo y gases tóxicos",
+      "Al oxígeno contenido en el PSU y utilizado en caso de descompresión de la cabina",
+      "Al oxígeno que puede requerirse para determinados pasajeros por motivos de salud"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_76",
+    "topic": "Examen 1",
+    "text": "Los signos y síntomas de una despresurización lenta incluyen:",
+    "options": ["Fuerte ruido en cabina con abundante niebla", "Apertura de las tapas del PSI", "Sensación de frío y taponamiento de oídos", "Expansión de los gases intestinales"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_77",
+    "topic": "Examen 1",
+    "text": "¿Cuántas compresiones por minuto debemos conseguir con el masaje cardiaco?",
+    "options": ["60 compresiones por minuto", "80 compresiones por minuto", "100 compresiones por minuto", "150 compresiones por minuto"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_78",
+    "topic": "Examen 1",
+    "text": "En caso de lipotimia o desmayo, tendremos que colocar a la persona en la posición de:",
+    "options": ["Seguridad", "Supino", "Antishock", "Prono"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_79",
+    "topic": "Examen 1",
+    "text": "Acusamos más el reajuste horario en nuestro cuerpo cuando el desplazamiento se ha realizado hacia el:",
+    "options": ["Este", "Oeste", "Norte", "Sur"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_80",
+    "topic": "Examen 1",
+    "text": "Ante un pasajero con un ataque de pánico:",
+    "options": ["Le ordenamos en tono firme y alto que se calle", "Le dejamos tranquilo para no ponerle más nervioso", "Lo tranquilizaremos en tono calmado y relajado", "Le tranquilizaremos y le pondremos oxígeno"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_81",
+    "topic": "Examen 1",
+    "text": "En caso de que un pasajero presente una crisis asmática moderada y no viaje con su medicamento habitual ¿cómo podríamos ayudarle?",
+    "options": [
+      "Sentarlo en una posición que favorezca la expansión del tórax (brazos sobre el asiento delantero, por ejemplo) y administrarle oxígeno",
+      "Colocar una bolsa sobre su boca y nariz y hacerle respirar en ella hasta que mejore",
+      "Tranquilizarle y colocarle el oxígeno de emergencia",
+      "Avisar al Comandante y preparar la evacuación"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_82",
+    "topic": "Examen 1",
+    "text": "Ante una descompresión rápida en pleno vuelo, nosotros:",
+    "options": [
+      "Ayudaremos a los pasajeros a colocarse las mascarillas de oxígeno",
+      "Antes de nada anclaremos los carros y cerraremos los racks",
+      "Nos colocaremos el oxígeno y nos anclaremos a un punto hasta la estabilización de la aeronave",
+      "Nos tiraremos al suelo hasta la estabilización de la nave"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_83",
+    "topic": "Examen 1",
+    "text": "Cuando oímos a un pasajero decir “me atraganto”, nuestra actuación será:",
+    "options": [
+      "Darle 5 golpes Interescapulares para que salga",
+      "Animarle a que siga tosiendo enérgicamente",
+      "Realizarle la maniobra de Heimlich 5 veces rápidamente",
+      "Alternar 5 golpes interescapulares con 5 compresiones abdominales"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_84",
+    "topic": "Examen 1",
+    "text": "De acuerdo a su función, se llama arteria:",
+    "options": [
+      "Al vaso sanguíneo que lleva sangre rica en CO2",
+      "Al vaso sanguíneo que lleva sangre rica en O2",
+      "Al vaso sanguíneo que lleva sangre rica en N2",
+      "Al vaso sanguíneo que lleva sangre rica en azúcar"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_85",
+    "topic": "Examen 1",
+    "text": "El nervio auditivo transmite las ondas sonoras al cerebro desde:",
+    "options": ["El tímpano", "El oído externo", "El oído interno", "El oído medio"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_86",
+    "topic": "Examen 1",
+    "text": "La cinetosis consiste en:",
+    "options": [
+      "Falta de adaptación a la rotación de la hélices",
+      "Proceso de pérdida de conocimiento con hipotensión",
+      "Falta de adaptación al movimiento",
+      "Subida de tensión con visión borrosa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_87",
+    "topic": "Examen 1",
+    "text": "El transporte de lejías en un avión está considerado mercancía peligrosa de clase:",
+    "options": ["3", "5", "7", "9"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_88",
+    "topic": "Examen 1",
+    "text": "Dentro de los materiales radiactivos hay distintos tipos, que son:",
+    "options": ["Categoría I, II y III", "Activos o inactivos", "Peligrosos y mortales", "Tipo A, B y C"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_89",
+    "topic": "Examen 1",
+    "text": "Los embalajes específicos de Naciones Unidas (UN):",
+    "options": [
+      "Solo pueden ser cajas de madera",
+      "En el exterior figurará: LIMITED QUANTITY-LTD QTY",
+      "En su exterior han de ser marcados con un código de especificación",
+      "Son los únicos tipos de embalajes válidos en una aeronave"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_90",
+    "topic": "Examen 1",
+    "text": "Las mercancías peligrosas de clase 8 son:",
+    "options": ["Materiales radioactivos", "Explosivos", "Materiales corrosivos", "Materiales magnetizados"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_91",
+    "topic": "Examen 1",
+    "text": "El correcto etiquetado de las mercancías peligrosas es responsabilidad de:",
+    "options": [
+      "La compañía aérea",
+      "El personal de manipulación y etiquetado de mercancías peligrosas",
+      "El Comandante de la aeronave",
+      "El expedidor de la mercancía"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_92",
+    "topic": "Examen 1",
+    "text": "Para la obtención del Certificado de Tripulante de Cabina de Pasajeros hay que superar:",
+    "options": [
+      "Entrenamiento inicial",
+      "Entrenamiento periódico",
+      "Entrenamiento de seguridad",
+      "Entrenamiento de conversión y diferencias"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_93",
+    "topic": "Examen 1",
+    "text": "En el Airbus 320 de fuselaje estrecho, configurado con 80 asientos de pasajeros, el número de TCPs mínimo requerido será de:",
+    "options": ["4", "5", "2", "3"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_94",
+    "topic": "Examen 1",
+    "text": "Puede la Autoridad competente, en casos excepcionales, exigir a un operador que aumente el número de TCPs mínimos?",
+    "options": ["En casos excepcionales si pueden", "Nunca ya que exceden sus competencias", "Las Autoridades no opinan en ningún caso sobre la tripulación a bordo de una aeronave", "Pueden recomendar, pero nunca exigir"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_95",
+    "topic": "Examen 1",
+    "text": "¿Cómo podremos evaluar la intensidad de un fuego que se ha producido dentro del lavabo?",
+    "options": [
+      "Hasta que no se abre la puerta y se ve no se sabe la magnitud de un incendio",
+      "Observando la salida de humo por debajo de la puerta y orificios de ventilación y tocando la puerta",
+      "Calculando el tiempo que hace que salió del baño el último pasajero",
+      "Es imposible evaluarlo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_96",
+    "topic": "Examen 1",
+    "text": "La ubicación de las PBE a bordo, en cabina de pasaje, será:",
+    "options": [
+      "En un lugar adyacente a cada puesto de servicio de cada TCP requerido",
+      "Junto a la puerta de Cockpit y en la zona final del avión",
+      "Todas juntas en un armario adyacente a la zona de galleys",
+      "Junto a cada botella de oxígeno de protección en cabina de pasaje"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_97",
+    "topic": "Examen 1",
+    "text": "¿Cómo serán considerados los TCPs que excedan del número mínimo requerido y los miembros de la tripulación adicional a efectos del suministro de oxígeno?",
+    "options": ["Como tripulación requerida", "Como pasajeros", "Como personas de overbooking", "No se cuentan en ningún caso"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_98",
+    "topic": "Examen 1",
+    "text": "¿Cuáles son las características del hielo marino viejo?",
+    "options": [
+      "Es de color azulado, las esquinas redondeadas y carente de sal",
+      "Es de color grisáceo, muy duro y carente de sal",
+      "Es un hielo azulado con mucha cantidad de sal",
+      "El hielo es transparente y por ser del mar siempre tiene sal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_99",
+    "topic": "Examen 1",
+    "text": "¿Qué material utilizaremos en supervivencia para hacer humo negro para conseguir que nos localicen?",
+    "options": ["Ramas y troncos de árboles", "Combustible", "Neumáticos", "Nuestra ropa"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_100",
+    "topic": "Examen 1",
+    "text": "Las bengalas son elementos para la producción de:",
+    "options": ["Señales auditivas", "Señales luminosas", "Señales acústicas", "Señales de GPS"],
+    "correctIndex": 1
+  }
+]

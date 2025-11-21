@@ -1,0 +1,352 @@
+[
+  {
+    "id": "aviacion_001",
+    "topic": "Fisiología y Normativa",
+    "text": "La afirmación “La cantidad de gas disuelta en un líquido es directamente proporcional a la presión que ejerce el gas sobre el mismo”. ¿Con qué ley física de los gases se corresponde?",
+    "options": ["Ley de Boyle-Mariotte", "Ley de Dalton", "Ley de Henry", "Ley de Graham"],
+    "correctIndex": 2
+  },
+  {
+    "id": "aviacion_002",
+    "topic": "Fisiología y Normativa",
+    "text": "¿Qué tipo de hipoxia es el más frecuente en el medio aeronáutico?",
+    "options": ["Hipoxia-hipóxica", "Hipoxia anémica", "Hipoxia por estancamiento", "Hipoxia histotóxica"],
+    "correctIndex": 0
+  },
+  {
+    "id": "aviacion_003",
+    "topic": "Fisiología y Normativa",
+    "text": "Una hipoxia puede producirse por:",
+    "options": ["Una reducción del flujo sanguíneo al someter al organismo a altas aceleraciones", "Una disminución de la presión ambiental que produce una disminución de la pO2 pulmonar", "Determinadas intoxicaciones como la que produce el alcohol", "Todas son ciertas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "aviacion_004",
+    "topic": "Fisiología y Normativa",
+    "text": "El Tiempo Útil de Conciencia a una altura de 25.000 pies es de:",
+    "options": ["De 3 a 5 minutos", "De 1 a 2 minutos", "De 15 a 20 segundos", "De 15 a 20 minutos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "aviacion_005",
+    "topic": "Fisiología y Normativa",
+    "text": "¿Cuál de las leyes físicas de los gases explica la aparición de dolor e inflamación en los oídos durante los descensos?",
+    "options": ["Ley de Boyle-Mariotte", "Ley de Dalton", "Ley de Henry", "Ley de Graham"],
+    "correctIndex": 0
+  },
+  {
+    "id": "aviacion_006",
+    "topic": "Fisiología y Normativa",
+    "text": "La parte del oído en la que se produce la aerotitis o barotitis es:",
+    "options": ["El oído externo", "El oído medio", "El oído interno", "La oreja"],
+    "correctIndex": 1
+  },
+  {
+    "id": "aviacion_007",
+    "topic": "Fisiología y Normativa",
+    "text": "El reajuste de los ritmos biológicos tras un desfase horario es más difícil cuando el desplazamiento se ha producido hacia el:",
+    "options": ["Este", "Oeste", "Norte", "Sur"],
+    "correctIndex": 0
+  },
+  {
+    "id": "aviacion_008",
+    "topic": "Procedimientos",
+    "text": "¿A qué llamamos PSP?",
+    "options": ["Al sistema de anuncios al pasaje.", "Pasajeros supuestamente preparados.", "A un efectivo extintor.", "Pasajeros preseleccionados."],
+    "correctIndex": 3
+  },
+  {
+    "id": "aviacion_009",
+    "topic": "Procedimientos",
+    "text": "Durante una emergencia prevista, ¿cuál sería una de las primeras explicaciones que les daríamos a los ABP/PSP durante nuestro briefing?",
+    "options": ["Cómo se abren las salidas de emergencia y cómo se inflan las rampas.", "Cómo ayudar a los pasajeros al final de la rampa.", "Cómo ayudar a sacar del avión los equipos de emergencia.", "Cuándo y cómo alejar a los pasajeros de las proximidades del avión"],
+    "correctIndex": 0
+  },
+  {
+    "id": "aviacion_010",
+    "topic": "Procedimientos",
+    "text": "En una emergencia prevista, el comandante deberá informar al sobrecargo de los siguientes puntos:",
+    "options": ["Tipo de emergencia, ETA (Estimated Time of Arrival), lugar de aterrizaje, señal de protección convenida e instrucciones especiales.", "Tiempo de vuelo, condiciones atmosféricas e información adicional.", "Tiempo para impacto e instrucciones especiales.", "ETA (Estimated Time of Arrival), lugar de aterrizaje e instrucciones especiales."],
+    "correctIndex": 0
+  },
+  {
+    "id": "aviacion_011",
+    "topic": "Procedimientos",
+    "text": "Una de las primeras acciones que deberá hacer un TCP, tan pronto el avión esté estabilizado y le sea posible, durante una despresurización explosiva nocturna será",
+    "options": ["Abrir los baños y comprobar que no haya nadie", "Contactar con el resto de la tripulación y solicitar instrucciones", "Gritar a los pasajeros repetidamente: AGÁNCHENSE PROTÉJANSE", "Encender las luces de cabina de pasajeros si fuera necesario"],
+    "correctIndex": 3
+  },
+  {
+    "id": "aviacion_012",
+    "topic": "Procedimientos",
+    "text": "En caso de aterrizaje de emergencia, si el TCP ocupa un asiento situado en dirección contraria a la marcha del avión, deberá:",
+    "options": ["Entrelazar las manos detrás de la cabeza tirando de ella hacia el pecho", "Cambiar de asiento para uno que vaya en la dirección de marcha del avión y adoptar los procedimientos generales", "Adoptar una posición erecta, apoyando la espalda contra el respaldo", "Juntar muy bien las piernas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "aviacion_013",
+    "topic": "Procedimientos",
+    "text": "Son síntomas de la despresurización explosiva:",
+    "options": ["Taponamiento de vías nasales, brusco aumento del nivel de ruido, fuerte sensación de frío y movimientos de balanceo", "Taponamiento de oídos, brusco aumento del nivel de ruido, fuerte sensación de frío", "Ruido intenso, asfixia e hipoxia, corriente de aire y expansión gases internos", "Taponamiento de oídos, lento aumento del nivel de ruido sin sensación de frío"],
+    "correctIndex": 2
+  },
+  {
+    "id": "aviacion_014",
+    "topic": "Procedimientos",
+    "text": "Cuando se produce un aterrizaje de emergencia en tierra, ¿cuál es el peligro más inminente del que debemos proteger a los pasajeros?",
+    "options": ["Meteorología", "Insolación y/o deshidratación", "Incendio del avión", "Los derivados de la actuación de los servicios de emergencia."],
+    "correctIndex": 2
+  },
+  {
+    "id": "aviacion_015",
+    "topic": "Procedimientos",
+    "text": "En caso de descompresión, la principal precaución que deben tomar los TCP es:",
+    "options": ["Avisar al pasaje.", "Asegurarse de que el pasaje se pone el cinturón.", "Avisar al Comandante.", "Asegurar su provisión de oxígeno."],
+    "correctIndex": 3
+  },
+  {
+    "id": "aviacion_016",
+    "topic": "Formación",
+    "text": "Cuando un Tripulante de Cabina de Pasajeros se somete a un proceso de entrenamiento de cualquier tipo:",
+    "options": ["No tiene obligaciones ulteriores.", "Debe someterse a un proceso de verificación.", "Ha de ser examinado nuevamente.", "Se debe retirar del trabajo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "aviacion_017",
+    "topic": "Formación",
+    "text": "De acuerdo con la normativa vigente, el número máximo de habilitaciones de tipo que puede tener anotadas en una licencia un TCP es de:",
+    "options": ["Indefinido", "Tres", "Dos", "Exclusivamente una"],
+    "correctIndex": 0
+  },
+  {
+    "id": "aviacion_018",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuál es el producto final de la operación de empacado, que comprende el embalaje en sí y su contenido preparado de forma idónea para el transporte?",
+    "options": ["Es la definición de bulto.", "Es la definición de embalaje.", "Es la definición de sobre-embalaje externo.", "Es la definición de dispositivo de carga unitarizada."],
+    "correctIndex": 0
+  },
+  {
+    "id": "aviacion_019",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuáles son las mercancías peligrosas correspondientes a las clases 3-1-7-4?",
+    "options": ["Explosivos, líquidos inflamables, gases y materiales radioactivos.", "Explosivos, substancias comburentes, materiales radioactivos y gases.", "Líquidos inflamables, explosivos, materiales radioactivos y sólidos inflamables.", "Líquidos inflamables, material radioactivo, explosivos y gases"],
+    "correctIndex": 1
+  },
+  {
+    "id": "aviacion_020",
+    "topic": "Procedimientos",
+    "text": "En las condiciones para una evacuación lo primero que tenemos que tener en cuenta es que el AVIÓN ESTE PARADO. Avión parado significa:",
+    "options": ["Que se ha detenido la marcha sobre el suelo. Normalmente implicaría también que los motores estén apagados.", "Entre las condiciones para una evacuación en tierra no se tiene en cuenta que el motor esté parado", "Tanto A como B podrían ser ciertas, dependiendo de la emergencia", "Todas son incorrectas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "aviacion_021",
+    "topic": "Formación",
+    "text": "Si queremos consultar en las EU OPS la subparte que regula los entrenamientos de formación y requisitos para los miembros de la tripulación lo haríamos en:",
+    "options": ["La subparte R", "La subparte K", "La subparte O", "La subparte S"],
+    "correctIndex": 1
+  },
+  {
+    "id": "aviacion_022",
+    "topic": "Formación",
+    "text": "El apartado CC.CCA.105 del Reglamento (UE) 290/2012 establece la validez del certificado del miembro de tripulación de cabina de pasajeros, estableciendo que se expedirán con duración ilimitada y conservarán su validez salvo que:",
+    "options": ["Sean suspendidos o revocados por la compañía aérea", "Su titular no haya ejercido las atribuciones correspondientes durante los 60 meses anteriores en al menos un tipo de aeronave", "Conservarán su validez en cualquier circunstancia", "El mencionado artículo no indicia que su duración sea ilimitada"],
+    "correctIndex": 1
+  },
+  {
+    "id": "aviacion_023",
+    "topic": "Fisiología",
+    "text": "Señala la característica de la despresurización lenta:",
+    "options": ["Formación de niebla.", "Sensación de frío.", "Ruido silbante localizado.", "Presentación automática de mascarillas de oxígeno"],
+    "correctIndex": 2
+  },
+  {
+    "id": "aviacion_024",
+    "topic": "Procedimientos",
+    "text": "Si creemos que las condiciones exteriores de una salida de emergencia son inseguras para una evacuación ¿Qué deberíamos hacer?",
+    "options": ["Advertir a los pasajeros y decidir todos juntos lo que hacemos", "Se actuará según se crea conveniente dependiendo del momento", "Impedir la apertura de la misma, montar la cinta de seguridad si disponemos de ella e impedir la evacuación por esa salida", "No importan las condiciones exteriores. Hay que abrir la salida."],
+    "correctIndex": 2
+  },
+  {
+    "id": "aviacion_025",
+    "topic": "Procedimientos",
+    "text": "Cuando hablamos de señal de protección convenida en caso de un aterrizaje de emergencia nos referimos a:",
+    "options": ["La señal para que protejamos a los pasajeros de humo en cabina", "La señal de evacuación del avión", "Tripulación de cabina a sus puestos", "La señal para adoptar la posición de seguridad en un aterrizaje de emergencia"],
+    "correctIndex": 3
+  },
+  {
+    "id": "aviacion_026",
+    "topic": "Procedimientos",
+    "text": "Las primeras premisas en una emergencia serán:",
+    "options": ["Serenidad", "Sentido común", "Sentido de la responsabilidad", "Todas las anteriores son correctas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "aviacion_027",
+    "topic": "Procedimientos",
+    "text": "¿Cuáles, de los siguientes grupos de personas, serán seleccionados en primer lugar como ABPs?:",
+    "options": ["Grupos deportivos", "Pasajeros masculinos", "TCPs sin puesto de emergencia asignado", "Miembros de las fuerzas de seguridad del estado"],
+    "correctIndex": 3
+  },
+  {
+    "id": "aviacion_028",
+    "topic": "Mercancías Peligrosas",
+    "text": "La información a los pasajeros sobre mercancías peligrosas se les dará a través de:",
+    "options": ["Los pasajeros no recibirán información sobre mercancías peligrosas.", "Información verbal al acceder a la aeronave.", "Información escrita en el billete.", "Hojas repartidas en los aeropuertos."],
+    "correctIndex": 1
+  },
+  {
+    "id": "aviacion_029",
+    "topic": "Procedimientos",
+    "text": "En cuanto al código de llamadas entre la tripulación, señala la respuesta correcta:",
+    "options": ["Una llamada: llamada de cockpit a TCP.", "Dos llamadas: llamada entre dos estaciones TCP o bien entre estación TCP y cockpit (en este caso utilizando el botón CAPTAIN) o viceversa.", "Tres llamadas: llamada para acudir INMEDIATAMENTE a cockpit el TCP más próximo.", "Todas son correctas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "aviacion_030",
+    "topic": "Mercancías Peligrosas",
+    "text": "En cuanto a la normativa española relacionada con el transporte de MMPP por vía aérea, indicar que las principales referencias son:",
+    "options": ["Real Decreto NUM 1749/84, que incorpora a la legislación española las normas de Anexo 18 OACI. Y la Ley de Seguridad Aérea (21/2003).", "Real Decreto NUM 1789/94, que incorpora a la legislación española las normas de Anexo 18 OACI. Y la Ley de Seguridad Aérea (21/2003).", "La Ley de Seguridad Aérea (21/2003).", "La Ley de Navegación Aérea, que recoge la normativa del Anexo 14 de OACI."],
+    "correctIndex": 0
+  },
+  {
+    "id": "aviacion_031",
+    "topic": "Procedimientos",
+    "text": "Durante la evacuación de emergencia, ¿Cuándo se lanzará por la rampa el TCP asignado a esa salida?",
+    "options": ["El primero, para enseñar a los pasajeros y ayudar desde abajo.", "Cuando su zona esté evacuada y coja su material de emergencia.", "Cuando su zona esté totalmente evacuada, compruebe que su ayuda no es necesaria.", "Lo antes que pueda."],
+    "correctIndex": 0
+  },
+  {
+    "id": "aviacion_032",
+    "topic": "Procedimientos",
+    "text": "Una vez detenido el avión en una emergencia prevista, los pasajeros permanecerán sentados hasta que:",
+    "options": ["Se ordene la evacuación de emergencia.", "Se vea fuego en el avión.", "Que vengan los bomberos y los equipos de rescate preparados.", "Que se abran las salidas de emergencia."],
+    "correctIndex": 0
+  },
+  {
+    "id": "aviacion_033",
+    "topic": "Horas de vuelo",
+    "text": "El total de horas de actividad de vuelo permitidas por un TCP, ¿viene dado por la hora a la que firma y el número de sectores a realizar?:",
+    "options": ["Sí. El máximo permitido es de 13 horas.", "Sí. El máximo de horas permitidas es de 12 horas si se comienza en base, y de 10 horas si se comienza fuera de base.", "No. El total de horas permitida lo determina la compañía en función del tipo de vuelo a realizar, y del número de TCP a bordo.", "Sí. El máximo de horas permitidas es de 15 horas."],
+    "correctIndex": 2
+  },
+  {
+    "id": "aviacion_034",
+    "topic": "Regulación",
+    "text": "Según la EU-OPS, a los miembros de la tripulación les está permitido tomar bebidas alcohólicas:",
+    "options": ["Hasta 8 horas antes de iniciar un servicio.", "Hasta 12 horas antes de iniciar un servicio.", "Hasta 24 horas antes de iniciar un servicio.", "Se pueden tomar bebidas alcohólicas estando de servicio hasta los límites que determina la Ley de Navegación Aérea"],
+    "correctIndex": 0
+  },
+  {
+    "id": "aviacion_035",
+    "topic": "Formación",
+    "text": "A lo largo de su vida profesional un Tripulante de cabina de Pasajeros deberá realizar los siguientes procesos de entrenamiento:",
+    "options": ["Inicial, de conversión y diferencias, periódico, de refresco", "Inicial, de conversión, periódico, de refresco", "Inicial, de conversión y diferencias, de refresco", "Inicial, de conversión y diferencias, periódico."],
+    "correctIndex": 0
+  },
+  {
+    "id": "aviacion_036",
+    "topic": "Organismos",
+    "text": "Las siglas IATA hacen referencia a:",
+    "options": ["Asociación Internacional de Transporte Asociativo.", "Asociación Internacional de Transporte Aéreo.", "Asociación Insular de Transporte Aeronáutico.", "Asociación Internacional de Teletransporte Astrofísico"],
+    "correctIndex": 1
+  },
+  {
+    "id": "aviacion_037",
+    "topic": "Organismos",
+    "text": "AESA Y EASA contribuyen a mantener la seguridad aérea en:",
+    "options": ["España y Europa respectivamente", "Europa y España respectivamente", "AESA está relacionado únicamente con la seguridad en aviación militar.", "Todas son falsas."],
+    "correctIndex": 0
+  },
+  {
+    "id": "aviacion_038",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué información nos proporcionan las etiquetas de riesgo de MMPP?",
+    "options": ["Peligrosidad, precio, caducidad y manipulación", "Peligrosidad y riesgo.", "Peligrosidad y grado de saturación.", "Peligrosidad, caducidad, riesgo y manipulación."],
+    "correctIndex": 1
+  },
+  {
+    "id": "aviacion_039",
+    "topic": "Organismos",
+    "text": "Los organismos internacionales de aviación civil con capacidad de establecer normas, a distintos niveles son:",
+    "options": ["OACI, CEAC, EASA, JAA, IATA", "OACI, EASA, JAA, IATA", "OACI, EASA, AESA.", "OACI, EASA, JAA OACI, IATA, JAA"],
+    "correctIndex": 0
+  },
+  {
+    "id": "aviacion_040",
+    "topic": "PMR",
+    "text": "Los acompañantes de PMR tienen que cumplir los siguientes requisitos:",
+    "options": ["Tener los 18 años cumplidos, y debe volar un acompañante por cada PMR.", "La respuesta a) es correcta añadiendo que en el caso de sordos y ciegos es suficiente con que tengan los 12 años cumplidos. En este caso podrá llevar cada acompañante 3 PMR.", "Los PMR únicamente pueden volar acompañados.", "Todas son falsas"],
+    "correctIndex": 1
+  },
+  {
+    "id": "aviacion_041",
+    "topic": "Documentación",
+    "text": "¿Qué documento tiene carácter obligatorio para un TCP?",
+    "options": ["DNI en vigor", "Pasaporte en vigor", "Documento de la compañía", "Certificado de vacuna"],
+    "correctIndex": 0
+  },
+  {
+    "id": "aviacion_042",
+    "topic": "PMR",
+    "text": "Según OPS 1.250 referente al Transporte de personas con movilidad reducida el operador establecerá procedimientos para que a las personas con movilidad reducida no se les asignen asientos en los que su presencia podría:",
+    "options": ["Impedir a la tripulación desempeñar sus funciones.", "Obstruir el acceso a los equipos de emergencia.", "Impedir la evacuación del avión en caso de emergencia.", "Todas ellas son correctas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "aviacion_043",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Qué tipo de mercancías peligrosas existen?",
+    "options": ["Mercancías peligrosas aceptables.", "Mercancías peligrosas prohibidas.", "Mercancías peligrosas exceptuadas.", "Todas son correctas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "aviacion_044",
+    "topic": "Formación",
+    "text": "El operador garantizará que los miembros de la tripulación de cabina de pasajeros realicen un…………..que cubra las operaciones asignadas a cada tripulante de cabina en procedimientos y maniobras normales y de emergencia, adecuados a los tipos o variantes del avión en que desempeñan sus funciones.",
+    "options": ["Entrenamiento inicial", "Entrenamiento de conversión", "Entrenamiento periódico", "Entrenamiento de familiarización"],
+    "correctIndex": 0
+  },
+  {
+    "id": "aviacion_045",
+    "topic": "Mercancías Peligrosas",
+    "text": "Las etiquetas que indican el riesgo y la peligrosidad cuando transportamos una mercancía peligrosa tienen forma:",
+    "options": ["Rectangular.", "Redonda.", "Triangular.", "Cuadrada, colocada sobre un vértice."],
+    "correctIndex": 3
+  },
+  {
+    "id": "aviacion_046",
+    "topic": "Procedimientos",
+    "text": "¿Qué presión deben tener las botellas de los toboganes inflables?:",
+    "options": ["Entre 2.8 y 3.2 psi", "Entre 1500 y 3000 bar", "Entre 2800 y 3000 bar", "Entre 2800 y 3200 psi"],
+    "correctIndex": 3
+  },
+  {
+    "id": "aviacion_047",
+    "topic": "Mercancías Peligrosas",
+    "text": "¿Cuáles son las mercancías peligrosas correspondientes a las clases 3-1-7-4?",
+    "options": ["Explosivos, líquidos inflamables, gases y materiales radioactivos.", "Explosivos, substancias comburentes, materiales radioactivos y gases.", "Líquidos inflamables, explosivos, materiales radioactivos y sólidos inflamables.", "Líquidos inflamables, material radioactivo, explosivos y gases."],
+    "correctIndex": 1
+  },
+  {
+    "id": "aviacion_048",
+    "topic": "Procedimientos",
+    "text": "¿Cuál de las siguientes opciones no es una condición para evacuar?",
+    "options": ["Porque lo ordene el comandante", "Porque veamos fuego o humo en el interior o exterior del avión", "Por una emergencia imprevista", "Porque veamos iniciar la evacuación por cualquier área del avión."],
+    "correctIndex": 3
+  },
+  {
+    "id": "aviacion_049",
+    "topic": "Extintores",
+    "text": "¿Cuál es la duración aproximada de un BCF?",
+    "options": ["2 a 4 segundos", "6 a 9 segundos", "12 a 18 segundos", "Nunca inferior a 60 segundos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "aviacion_050",
+    "topic": "Gestión aeroportuaria",
+    "text": "¿Qué organismo se ocupa de la gestión de los aeropuertos españoles?",
+    "options": ["AESA", "EASA", "AENA", "IATA"],
+    "correctIndex": 2
+  }
+]

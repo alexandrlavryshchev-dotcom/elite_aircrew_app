@@ -1,0 +1,352 @@
+[
+  {
+    "id": "examen_1",
+    "topic": "Examen 1",
+    "text": "Al borde anterior de un plano en aeronáutica lo llamamos:",
+    "options": ["Borde de salida.", "Borde de ataque.", "Flap.", "Cuerda."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_2",
+    "topic": "Examen 1",
+    "text": "Los slats son dispositivos:",
+    "options": ["Hipersustentadores.", "De aceleración.", "De frenado.", "Que aumentan la curvatura del ala."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_3",
+    "topic": "Examen 1",
+    "text": "Para conseguir controlar el movimiento de balanceo de una aeronave se cuenta con:",
+    "options": ["Los alerones.", "El timón de dirección.", "El timón de profundidad.", "Los spoilers."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_4",
+    "topic": "Examen 1",
+    "text": "Cuando la suma de todas las fuerzas en el centro del gravedad de una aeronave es cero, es que:",
+    "options": ["La aeronave tiene movimientos de alabeo ligeros.", "Está volando a velocidad de crucero y a máxima altura.", "No existen movimientos de cabeceo, alabeo o guiñada.", "Solo tiene movimientos de guiñada esporádicos."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_5",
+    "topic": "Examen 1",
+    "text": "¿Cuál es la presión atmosférica a nivel del mar, equivalente a 1 atmósfera de presión?",
+    "options": ["760 mm de mercurio.", "670 mm de mercurio.", "350 milibares.", "670 milibares."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_6",
+    "topic": "Examen 1",
+    "text": "La forma de la Tierra es:",
+    "options": ["Completamente redonda.", "Redonda o achatada según la estación del año.", "Irregular y achatada por los polos.", "Irregular y achatada por el ecuador."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_7",
+    "topic": "Examen 1",
+    "text": "Las variables principales de la atmósfera son:",
+    "options": ["Temperatura, presión y densidad.", "Presión, densidad y volumen.", "Temperatura, humedad y densidad.", "Temperatura, humedad y presión."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_8",
+    "topic": "Examen 1",
+    "text": "¿Qué condiciones han de darse en la atmósfera para que se forme una tormenta?",
+    "options": ["Alta humedad y para presión.", "Alta humedad con estabilidad.", "Alta humedad y alta presión.", "Alta humedad e inestabilidad."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_9",
+    "topic": "Examen 1",
+    "text": "La intensidad del viento en aviación se expresa en:",
+    "options": ["Kilómetros/hora.", "Millas náuticas.", "Nudos.", "Fuerza 0-5."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_10",
+    "topic": "Examen 1",
+    "text": "¿De dónde se obtiene energía eléctrica de un avión en tierra?",
+    "options": ["De los motores del avión al ralentí.", "De las baterías recargables.", "Del APU.", "De los generadores eléctricos de sus propios motores."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_11",
+    "topic": "Examen 1",
+    "text": "La competencia para la inspección de la seguridad del transporte aéreo en España corresponde a:",
+    "options": ["EASA.", "AESA.", "AENA.", "SENASA."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_12",
+    "topic": "Examen 1",
+    "text": "En el transporte de pasajeros, el billete es un documento obligatorio según el Convenio de:",
+    "options": ["Varsovia.", "Roma.", "Helsinki.", "Montreal."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_13",
+    "topic": "Examen 1",
+    "text": "Respecto a los Anexos al Convenio de Chicago:",
+    "options": ["Hay 19 y entre ellos están: Mercancías Peligrosas, licencias al personal, aeronavegabilidad, aeródromos y búsqueda y salvamento.", "Hay 10 y entre ellos están: mercancías peligrosas, licencias al personal, protección del medio ambiente y búsqueda y salvamento.", "Hay 19 y entre ellos están: vuelos regulares, libertades del aire y acrobacias aéreas.", "Hay 10 y entre ellos están: vuelos regulares, libertades del aire y protección del medio ambiente."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_14",
+    "topic": "Examen 1",
+    "text": "La insubordinación o alzamiento general contra la autoridad del Comandante se llama:",
+    "options": ["Acto ilícito.", "Alzamiento de pasaje.", "Sedición.", "Desacato a la autoridad."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_15",
+    "topic": "Examen 1",
+    "text": "El “tiempo de actividad” del TCP es:",
+    "options": ["El necesario para preparar, realizar y finalizar un vuelo o varios vuelos en el día.", "El tiempo durante el cual un tripulante realiza tareas de algún tipo encomendadas por el operador.", "El transcurrido desde que llega al aeropuerto hasta que éste finaliza y se entrega el avión a otra tripulación.", "El que pasa desde que el avión despega hasta que vuelve a aterrizar."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_16",
+    "topic": "Examen 1",
+    "text": "¿Dónde debemos situar a un pasajero invidente que viaja acompañado de un perro lazarillo?",
+    "options": ["A ser posible, en una butaca detrás de un mamparo.", "En una butaca próxima a la ventanilla.", "En una butaca próxima a la salida de emergencia.", "Los perros siempre van en bodega, aunque sea lazarillo."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_17",
+    "topic": "Examen 1",
+    "text": "Según la normativa actual, la edad de los UM está comprendida entre los:",
+    "options": ["2-12 años.", "0-5 años.", "5-12 años.", "5-13 años."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_18",
+    "topic": "Examen 1",
+    "text": "En un avión de 2 pisos hay instalados 345 asientos: 145 en el segundo piso y 200 en el primero. ¿Cuántos TCPs, como mínimo, deben ir en el avión?",
+    "options": ["5 en total.", "6 en total.", "9 en total.", "7 en total."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_19",
+    "topic": "Examen 1",
+    "text": "Es obligatorio que un avión esté equipado con un sistema de comunicación a los pasajeros siempre que su configuración sea de:",
+    "options": ["50 asientos para pasajeros.", "Más de 50 asientos en total.", "Más de 19 asientos para pasajeros.", "19 asientos para pasajeros."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_20",
+    "topic": "Examen 1",
+    "text": "Deberán estar equipados con chalecos salvavidas todos los aviones que despeguen sobre el agua o se alejen de la línea de costa más de:",
+    "options": ["20 NM.", "100 NM.", "15 NM.", "50 NM."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_21",
+    "topic": "Examen 1",
+    "text": "Los motivos más habituales para la no admisión de una persona en un estado son:",
+    "options": ["Defectos de la documentación y decisión de las autoridades de inmigración.", "Emisiones de alertas de búsqueda.", "Defectos en el documentación y decision de las autoridades de emigración.", "Tener antecedentes penales."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_22",
+    "topic": "Examen 1",
+    "text": "¿Qué nombre reciben las máscaras de colocación rápidas para los pilotos ubicadas en Cockpit?",
+    "options": ["MCR.", "QQM.", "HDQ.", "QDM."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_23",
+    "topic": "Examen 1",
+    "text": "A los sistemas de sujeción infantil homologados para ser utilizados en un avión, se les conoce con las siglas:",
+    "options": ["CFR.", "INF.", "CRD.", "SIH."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_24",
+    "topic": "Examen 1",
+    "text": "¿Qué código identifica a un pasajero que viaja en camilla?",
+    "options": ["BLND.", "STCR.", "DEPA.", "WCHR."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_25",
+    "topic": "Examen 1",
+    "text": "En caso de evacuación de emergencia ¿cuándo evacuarán los PRM que no puedan desplazarse con facilidad?",
+    "options": ["En primer lugar.", "En último lugar.", "En secuencia normal.", "Si tiene acompañante, en su lugar."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_26",
+    "topic": "Examen 1",
+    "text": "¿Qué tipo de alimentación eléctrica tienen los megáfonos de a bordo?",
+    "options": ["Está conectado al sistema de anuncios al pasaje.", "Está conectado a las baterías del sistema de iluminación de emergencia.", "Es un equipo autónomo, alimentado con pilas.", "Es una batería conectada al sistema eléctrico normal del avión."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_27",
+    "topic": "Examen 1",
+    "text": "Cuando en una persona se produce una situación de urgencia, los primero que tenemos que asegurar es:",
+    "options": ["Controlar las hemorragias.", "Que las vías aéreas están permeables.", "Que la persona se mantenga en la PLS.", "Evitar que ingiera ningún medicamento."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_28",
+    "topic": "Examen 1",
+    "text": "Respecto a las radiaciones ionizantes es correcto decir que:",
+    "options": ["Son de orígen cósmico, con capacidad de alterar la estructura iónica de la materia.", "La troposfera es un escudo natural contra este tipo de radiación.", "Es la mayor fuente de luz visible.", "Son las emitidas por las telefonías móviles."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_29",
+    "topic": "Examen 1",
+    "text": "Si un pasajero asmático sufre una crisis en vuelo, hemos de:",
+    "options": ["Acomodarle sentado, colocarle oxígeno y facilitarle broncodilatadores.", "Acomodarle tumbado y colocarle oxígeno.", "Facilitarle broncodilatadores (si él no los lleva) y preparar su evacuación urgente del avión.", "Hidratarle dándole mucha agua."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_30",
+    "topic": "Examen 1",
+    "text": "La epilepsia es una enfermedad del sistema nervioso que suele cursar con:",
+    "options": ["Tetania.", "Convulsiones.", "Mareos repentinos.", "Cambios de personalidad."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_31",
+    "topic": "Examen 1",
+    "text": "¿Qué órganos ayudan en el proceso de la digestión?",
+    "options": ["Riñones.", "Bazo y páncreas.", "Hígado, vesícula biliar y páncreas.", "Tiroides."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_32",
+    "topic": "Examen 1",
+    "text": "¿Con qué nombre se conoce en aeronáutica al “mal de movimiento”?",
+    "options": ["Mareitis.", "Cinetosis.", "TVP.", "Hipotensión."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_33",
+    "topic": "Examen 1",
+    "text": "Dentro de la higiene personal de la tripulación para la prevención de contaminación de los alimentos, se incluye:",
+    "options": ["Lavado de manos habitual.", "Ducharse con antisépticos antes y después de cada vuelo.", "Llevar las heridas al aire para que sequen antes.", "Lavado de dientes después de cada comida y antes de acostarse."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_34",
+    "topic": "Examen 1",
+    "text": "El jet-lag aparece cuando:",
+    "options": ["El avión sale temprano por la mañana y aterriza ya de noche.", "El vuelo discurre a lo largo de una noche.", "Se viaja en el mismo meridiano de sur a norte.", "Se cruzan más de 4 husos horarios de manera rápida."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_35",
+    "topic": "Examen 1",
+    "text": "Los TCP a bordo de una aeronave tienen una condiciones laborales especiales en cuanto a:",
+    "options": ["Humedad, presión, temperatura y % de oxígeno ambiente.", "Humedad, presión, espacio y % de oxígeno ambiente.", "Presión, espacio, temperatura y condiciones de precariedad laboral.", "Temperatura, compañerismo y trato de los clientes."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_36",
+    "topic": "Examen 1",
+    "text": "En una despresurización a 40.000ft. de altura, los TCPs en movimiento contamos con un TUC de:",
+    "options": ["6-10 minutos.", "3-5 minutos.", "8-10 segundos.", "20-30 segundos."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_37",
+    "topic": "Examen 1",
+    "text": "La división 5.2 corresponde a:",
+    "options": ["Líquidos explosivos desensibilizados.", "Gases no inflamables no tóxicos.", "Peróxidos orgánicos.", "Sustancias infecciosas."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_38",
+    "topic": "Examen 1",
+    "text": "El anexo al Convenio sobre Aviación Civil Internacional titulado \"Transporte sin riesgo de mercancías peligrosas por vía aérea\" es el número:",
+    "options": ["8.", "14.", "18.", "24."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_39",
+    "topic": "Examen 1",
+    "text": "Las mercancías peligrosas permitidas a bordo son aquellas que:",
+    "options": ["Son aceptadas como carga y en bodega.", "Se pueden llevar como equipaje facturado.", "Podemos llevar en nuestro equipaje de mano.", "Únicamente las que ha decidido el sobrecargo."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_40",
+    "topic": "Examen 1",
+    "text": "Si en una etiqueta de embalaje pone \"THIS SIDE UP\" significa que:",
+    "options": ["Ese embalaje puede subir al avión.", "Que el lado que indica ha de situarse siempre hacia arriba.", "Que el embalaje se abre por la parte de arriba.", "Ese texto no aparece nunca en un embalaje."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_41",
+    "topic": "Examen 1",
+    "text": "Los grupos de embalaje I, II y III indican:",
+    "options": ["El grado de riesgo de la mercancía de mayor a menor.", "El grado de riesgo de la mercancía de menor a mayor.", "La tarifa que han pagado de mayor a menor.", "El tamaño del bulto de mayor a menor."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_42",
+    "topic": "Examen 1",
+    "text": "Se requerirán TCPs siempre que se opere una aeronave cuya configuración sea:",
+    "options": ["Cuando así lo requiera el comandante.", "Transportar a un mínimo de 50 pasajeros.", "Estar certificada para transportar más de 19 pasajeros.", "Cuando sea mixta, pasajeros y carga."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_43",
+    "topic": "Examen 1",
+    "text": "¿En qué consiste el briefing en aeronáutica?",
+    "options": ["Una técnica de CRM.", "Un sistema de conexión a tierra por radio.", "Un sistema de evacuar el avión.", "Un procedimiento para establecer las recomendaciones de seguridad."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_44",
+    "topic": "Examen 1",
+    "text": "¿Qué documentación aeronáutica deben llevar los TCPs en cada vuelo obligatoriamente?",
+    "options": ["Pasaporte, licencia y certificado médico.", "Licencia, certificado médico, tarjeta de identificación de la compañía y pasaporte.", "Certificado médico, licencia, pasaporte y registros de entrenamientos y verificaciones.", "Licencia, certificado médico y certificado de habilitaciones y cursos en vigor."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_45",
+    "topic": "Examen 1",
+    "text": "¿Cuál será según la normativa la capacidad mínima de cada botella de oxígeno portátil?",
+    "options": ["310L.", "1800psi.", "120L.", "1500psi."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_46",
+    "topic": "Examen 1",
+    "text": "En caso de humo o gases tóxicos, ¿cuál será el material de emergencia a utilizar?",
+    "options": ["Máscaras de oxígeno de emergencia.", "La PBE.", "Botella portátil de oxígeno.", "La PSI."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_47",
+    "topic": "Examen 1",
+    "text": "Las hachas o pata de cabra ubicadas en cabina de pasajeros:",
+    "options": ["Deberán situarse en lugar visible y de fácil acceso.", "Nunca deberán ser visibles para los pasajeros.", "Por su potencial peligrosidad solo van ubicadas en cabina de vuelo.", "Se colocarán en el rack 1L."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_48",
+    "topic": "Examen 1",
+    "text": "En caso de conseguir agua pura de lluvia, ¿qué debemos hacer antes de consumirla?",
+    "options": ["Filtrarla.", "Nada, la bebemos directamente.", "Añadirle una pequeña cantidad de agua de mar, té o café para aumentar sus beneficios o potabilizarla dejándola al sol un mínimo de 6 horas.", "Desalinizarla."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_49",
+    "topic": "Examen 1",
+    "text": "¿Por qué debo lanzar el ancla flotante al mar lo antes posible una vez que se ha separado la balsa del avión?",
+    "options": ["Para evitar que olas muevan mucho la balsa.", "Para no alejarme mucho de la zona del amerizaje.", "Para disminuir el peso de la balsa.", "Da lo mismo lanzarla o no."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_50",
+    "topic": "Examen 1",
+    "text": "Respecto a las bengalas día/noche es correcto decir:",
+    "options": ["Que en un extremo emite humo (día) y el otro llama roja (noche).", "Que en realidad son 2 bengalas. Una para el día (humo) y otra para la noche (llama roja) identificadas.", "Que están hechas con un material pirotécnico que es visible igual en día que de noche, indistintamente.", "Si utilizamos el extremo del día queda inutilizado el de la noche y viceversa."],
+    "correctIndex": 1
+  }
+]

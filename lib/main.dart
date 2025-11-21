@@ -34,7 +34,7 @@ class AdvFormacionApp extends StatelessWidget {
       builder: (context, snapshot) {
         final user = snapshot.data;
         return MaterialApp(
-          title: 'ADV Formación',
+          title: 'Elite Aircrew',
           debugShowCheckedModeBanner: false,
           theme: AppTheme.lightTheme,
           home: user == null ? const LoginScreen() : const DashboardScreen(),

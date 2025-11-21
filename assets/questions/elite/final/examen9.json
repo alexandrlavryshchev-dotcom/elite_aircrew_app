@@ -1,0 +1,352 @@
+[
+  {
+    "id": "examen2_1",
+    "topic": "Examen 2",
+    "text": "El elemento fundamental para que se produzca la sustentación de una aeronave es:",
+    "options": ["La potencia que generan los motores.", "El ala o plano.", "El peso de la aeronave.", "La velocidad a la que vaya."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_2",
+    "topic": "Examen 2",
+    "text": "Los flaps actúan:",
+    "options": ["Aumentando la curvatura del ala.", "Compensando los movimientos de guiñada del avión.", "Como aerofrenos de la aeronave en tierra.", "Redireccionando los gases de salida del avión para decelerarlo."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_3",
+    "topic": "Examen 2",
+    "text": "¿A qué parte del avión llamamos extradós y cómo se comporta en ella el aire?",
+    "options": ["Parte superior del plano, donde la presión es menor.", "Parte inferior del plano, donde la presión es mayor.", "Parte inferior del plano, donde la presión es menor.", "Parte superior del plano, donde la presión es mayor."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_4",
+    "topic": "Examen 2",
+    "text": "La fuerza que es paralela y en sentido opuesto al movimiento recto y nivelado de un avión es:",
+    "options": ["La resistencia.", "El peso.", "La sustentación.", "El empuje."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_5",
+    "topic": "Examen 2",
+    "text": "La fuerza producida por la atracción gravitatoria de la tierra se conoce como:",
+    "options": ["Potencia.", "Empuje.", "Peso.", "Reacción."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_6",
+    "topic": "Examen 2",
+    "text": "¿A cuántos grados esféricos corresponde un huso horario?",
+    "options": ["9º.", "13º.", "11º.", "15º."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen2_7",
+    "topic": "Examen 2",
+    "text": "La latitud se mide en grados, minutos y segundos y será siempre:",
+    "options": ["Norte y sur.", "Positiva o negativa.", "Puede ser norte/sur o este/oeste.", "Este y oeste."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_8",
+    "topic": "Examen 2",
+    "text": "El movimiento de giro de la Tierra sobre su propio eje se produce:",
+    "options": ["De oeste a este.", "En 365 días y cuarto.", "De este a oeste.", "En 24 horas y cuarto."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_9",
+    "topic": "Examen 2",
+    "text": "En aeronáutica la velocidad del avión la medimos en:",
+    "options": ["Mach.", "Nudos(Kt.)", "Kilómetros por hora (Km/h)", "Millas náuticas (Mn)"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_10",
+    "topic": "Examen 2",
+    "text": "En aeronáutica se conoce como elevación:",
+    "options": ["Es lo mismo que altitud y altura.", "A la altura a la que va un vuelo.", "A la distancia entre el nivel del mar y el nivel terrestre.", "A la altitud que alcanza una aeronave."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen2_11",
+    "topic": "Examen 2",
+    "text": "¿Cada cuántos años se reúne ordinariamente la Asamblea de la OACI?",
+    "options": ["Cada 3.", "Cada 4.", "Cada 5.", "Cuando sea necesario."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_12",
+    "topic": "Examen 2",
+    "text": "¿En qué año se crea la AESA?",
+    "options": ["2005.", "2012.", "2008.", "2007."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_13",
+    "topic": "Examen 2",
+    "text": "Según la normativa europea el número de horas de actividad acumuladas en 7 días consecutivos nunca será mayor de:",
+    "options": ["60h.", "40h.", "80h.", "100h."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_14",
+    "topic": "Examen 2",
+    "text": "Cuando tenemos un avión fletado por una agencia de viajes ¿quién es el máximo responsable a bordo?",
+    "options": ["El operador.", "El comandante.", "La agencia de viajes.", "El comandante y el sobrecargo a partes iguales."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_15",
+    "topic": "Examen 2",
+    "text": "Como regla general, el número de TCPs a bordo exigible es:",
+    "options": ["Uno por cada 50 asientos.", "Para aeronaves de más de 19 asientos, uno por cada 50 asientos.", "Para aeronaves de 19 asientos, uno por cada 19 asientos.", "Para aeronaves de 50 asientos, uno por cada 100 asientos."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_16",
+    "topic": "Examen 2",
+    "text": "En caso de una emergencia prevista, se seleccionará a un cierto número de pasajeros PSP para ayudar durante la evacuación. ¿Cuál será la primera explicación que habrá que darles?",
+    "options": ["Cómo y cuándo abrir las salidas de emergencia.", "Separar las rampas en caso de amaraje.", "Ayudar a sacar del avión los equipos de emergencia.", "Ayudar en tierra a los PRM."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_17",
+    "topic": "Examen 2",
+    "text": "¿Con qué nombre se conoce el movimiento del avión en tierra?",
+    "options": ["Caminar.", "Movimiento en pista.", "Rodaje.", "Ralentí."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_18",
+    "topic": "Examen 2",
+    "text": "En caso de un aterrizaje de emergencia, si el TCP ocupa un asiento situado en sentido de la marcha, deberá adoptar la siguiente posición:",
+    "options": ["Espalda contra el respaldo, piernas ligeramente apoyadas sobre el suelo y ligeramente separadas. Mentón apoyado sobre el pecho.", "Mentón ligeramente elevado, apoyando la espalda contra el respaldo.", "Adoptar un a posición erecta, apoyando la espalda contra el respaldo.", "Colocar las piernas muy juntas."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_19",
+    "topic": "Examen 2",
+    "text": "Al saltar un CB de cualquier sistema eléctrico ¿pueden los TCPs reasentarlo sin previa autorización del comandante?",
+    "options": ["Si.", "No, nunca.", "Lo podemos resetear si nos autoriza el sobrecargo.", "Si pero solo se podrá resetear una vez."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_20",
+    "topic": "Examen 2",
+    "text": "Ante un amaraje previsto que requiera que un PRM se coloque el chaleco salvavidas, este:",
+    "options": ["Se podrá inflar antes de salir del avión.", "Nunca se inflarán antes de salir del avión.", "Da igual cuando se inflen, lo importante es que lo lleve puesto.", "El chaleco de los PRMs se infla automáticamente al detectar el agua."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_21",
+    "topic": "Examen 2",
+    "text": "En una situación de emergencia prevista ¿qué indicaría el encendido y apagado intermitente de las luces FSB/NS?",
+    "options": ["Es la señal para adoptar la posición de seguridad para el impacto “Brace for Impact”.", "No existe esta maniobra. Indica que los letreros se han averiado.", "Es la señal para abrocharse los cinturones de seguridad y no fumar bajo ningún concepto.", "Es la señal para que cualquier TCP acuda inmediatamente a la cabina de mando."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_22",
+    "topic": "Examen 2",
+    "text": "Si la aeronave ha de admitir pasajeros especiales armados a bordo:",
+    "options": ["El comandante no debe presentarles si llevamos más de un pasajero armado.", "Deberá llevar la munición separada del arma.", "Deben mediar en caso de que haya conflicto a bordo.", "Debe pasar inadvertido llevando el arma a la vista."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_23",
+    "topic": "Examen 2",
+    "text": "Un suceso relacionado con la operación de un avión diferente de un accidente pero que afecta o puede afectar a la seguridad de las operaciones se llama:",
+    "options": ["Accidente menor.", "Alteración del orden normal.", "Percance aéreo.", "Incidente."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen2_24",
+    "topic": "Examen 2",
+    "text": "¿En qué circunstancias de las planteadas se realizan los chequeos previos al vuelo?",
+    "options": ["Las realizará únicamente la tripulación que realice el primer vuelo del día.", "Únicamente es necesario cuando el avión viene de hangares.", "Cuando durante la rotación programada se realiza un cambio de avión.", "Previo a cada uno de los vuelos que realice ese avión ese día."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen2_25",
+    "topic": "Examen 2",
+    "text": "¿Qué tendremos en cuenta antes de armar una rampa?",
+    "options": ["Que la presión del manómetro sea correcta.", "Que no esté ya armada.", "Que no hay finger o escalera acoplada a la puerta.", "Que el avión ya está rodando."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_26",
+    "topic": "Examen 2",
+    "text": "¿Quién es el responsable de comprobar la documentación de los TCPs antes del vuelo?",
+    "options": ["El sobrecargo.", "El Crew Control Department.", "El comandante.", "Cada TCP."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_27",
+    "topic": "Examen 2",
+    "text": "Las neuronas son las encargadas de:",
+    "options": ["Transmitir los impulsos nerviosos a través del organismo.", "Detectar los niveles de azúcar en sangre.", "Actuar en caso de falta de oxígeno en sangre.", "Impedir que la tensión arterial se eleve demasiado."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_28",
+    "topic": "Examen 2",
+    "text": "Si un pasajero sufre una crisis de hiperglucemia en pleno vuelo hemos de:",
+    "options": ["Suministrar agua con azúcar.", "Solicitar un sanitario a bordo, pues necesita que le inyecten insulina.", "Colocarle en PLS y asegurar la vía aérea.", "Abrigarlo bien."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_29",
+    "topic": "Examen 2",
+    "text": "La parte del oído donde se produce la barotitis o aerotitis es:",
+    "options": ["Oído externo.", "Oído medio.", "Oído interno.", "Oído profundo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_30",
+    "topic": "Examen 2",
+    "text": "La salmonelosis es una infección:",
+    "options": ["Respiratoria.", "Circulatoria.", "Digestiva.", "Nerviosa."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_31",
+    "topic": "Examen 2",
+    "text": "El intercambio de gases en los pulmones, se realiza entre los capilares y:",
+    "options": ["La tráquea.", "Los bronquios derecho e izquierdo.", "Las bases de los pulmones.", "Los alveolos pulmonares."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen2_32",
+    "topic": "Examen 2",
+    "text": "Dificultad en el habla, desviación de la boca y dificultad en la marcha pueden ser indicativos de estar sufriendo un:",
+    "options": ["TVP.", "IAM.", "ACVA o ICTUS.", "TEP."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_33",
+    "topic": "Examen 2",
+    "text": "¿Qué son los Bends?",
+    "options": ["Signos respiratorios de la enfermedad descompresiva (EDC).", "Signos articulares de la enfermedad descompresiva (EDC).", "Signos cutáneos de la enfermedad descompresiva (EDC).", "Signos neurológicos de la enfermedad descompresiva (EDC)."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_34",
+    "topic": "Examen 2",
+    "text": "Un pasajero está sufriendo una arritmia conocida como taquicardia cuando su corazón late a un ritmo:",
+    "options": ["Superior de 100 latidos/minuto.", "Inferior a 100 latidos/minuto.", "Superior a 60 latidos/minuto.", "Inferior a 60 latidos/minuto."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_35",
+    "topic": "Examen 2",
+    "text": "¿Qué es lo primero que hemos de hacer ante un pasajero inconsciente que respira?",
+    "options": ["Tranquilizarla, poner oxígeno y colocar semisentado.", "Administrarle una cafinitrina sublingual para evitar infartos.", "Colocarle en la posición lateral de seguridad, retirando las ropas que dificulten la respiración.", "Colocarle en la posición antishock con oxígeno."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_36",
+    "topic": "Examen 2",
+    "text": "Los glóbulos rojos o hematíes:",
+    "options": ["Son una defensa contra la anemia.", "Transportan el oxígeno en la hemoglobina.", "Están formados por agua en su 90%.", "Cuando se aglutinan forman trombos."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_37",
+    "topic": "Examen 2",
+    "text": "Según la ley ¿quién tiene la responsabilidad de informar a los pasajeros de las mercancías peligrosas que no pueden ser transportadas en una aeronave?",
+    "options": ["El comandante.", "El explotador.", "El sobrecargo.", "El expendedor del billete."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_38",
+    "topic": "Examen 2",
+    "text": "Si un TCP observa en cabina, antes del despegue, a un pasajero con un paquete identificado con una etiqueta de mercancía peligrosa, ha de:",
+    "options": ["Comunicárselo inmediatamente al sobrecargo y este al comandante.", "Comunicárselo al personal de carga para que lo recojan y lo metan en bodega.", "Comunicárselo a nuestro compañero a ver el que opina.", "Si lo tiene en cabina, es porque le habrán autorizado. No hay que hacer nada."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_39",
+    "topic": "Examen 2",
+    "text": "El objetivo de la Reglamentación Nacional para el transporte de mercancías peligrosas es intensificar:",
+    "options": ["El tráfico aéreo.", "La seguridad.", "Los controles aéreos.", "La vigilancia."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_40",
+    "topic": "Examen 2",
+    "text": "El índice de transporte (IT) se asocia a las mercancías peligrosas de clase:",
+    "options": ["2", "4", "7", "9"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_41",
+    "topic": "Examen 2",
+    "text": "Las etiquetas para las mercancías peligrosas de clase 4 son de color:",
+    "options": ["Blancas la 4.1, rojas las 4.2 y azules las 4.3.", "Negro y amarillo todas.", "Rojas todas.", "Blanco y rojo las 4.1 y 4.2 y azules las 4.3."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_42",
+    "topic": "Examen 2",
+    "text": "Los TCPs que están a disposición del operador para ser llamados, por ejemplo, para un servicio en caso de enfermedad o impedimento de otro TCP o para vuelos adicionales, estará de:",
+    "options": ["Día franco.", "Imaginaria.", "Actividad aérea.", "Posicionamiento."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen2_43",
+    "topic": "Examen 2",
+    "text": "Para volar por primera vez con una compañía, el TCP deberá tener superados:",
+    "options": ["El entrenamiento inicial.", "El entrenamiento inicial y el de conversión y/o diferencias.", "El reconocimiento médico periódico y el entrenamiento periódico.", "El entrenamiento en seguridad, emergencia mercancías peligrosas y CRM."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_44",
+    "topic": "Examen 2",
+    "text": "Tener actualizada la cartilla de vacunación es responsabilidad de:",
+    "options": ["La compañía.", "Cada tripulante.", "Médico de cabecera.", "Médico de la compañía."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_45",
+    "topic": "Examen 2",
+    "text": "En caso de presencia de humo negro procedente del aire acondicionado, ¿qué equipo de oxígeno protegerá a los TCPs?",
+    "options": ["El equipo portátil de primeros auxilios.", "El equipo fijo de oxígeno de emergencia del avión.", "La PBE.", "Cuando hay fuego o humo en cabina nunca se puede utilizar oxígeno."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_46",
+    "topic": "Examen 2",
+    "text": "¿Qué incluye la comprobación pre vuelo en relación con el hacha/pata de cabra?",
+    "options": ["Presencia.", "Presencia y precinto.", "Precinto.", "Presencia, precinto y ubicación."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen2_47",
+    "topic": "Examen 2",
+    "text": "Los fuegos clasificados como de tipo B son los asociados a combustibles:",
+    "options": ["Líquidos.", "Sólidos.", "Gaseosos.", "Eléctricos."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_48",
+    "topic": "Examen 2",
+    "text": "¿Cuál es la duración mínima de una bengala día/noche?",
+    "options": ["Unos 60 segundos.", "Unos 15 segundos.", "Unos 30 segundos.", "Unos 2 minutos."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_49",
+    "topic": "Examen 2",
+    "text": "¿Cuántas orejetas de inflado tenemos en un chaleco salvavidas de 2 cámaras mixto adulto/niño?",
+    "options": ["Cuatro.", "Una.", "Dos.", "Tres."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_50",
+    "topic": "Examen 2",
+    "text": "¿Está indicado comer si no tenemos bebidas potables?",
+    "options": ["No, porque aumentará nuestra sed.", "Si, porque los alimentos contienen agua.", "Solo si la temperatura es alta.", "Solo si la temperatura es baja."],
+    "correctIndex": 0
+  }
+]

@@ -1,0 +1,547 @@
+[
+  {
+    "id": "examen_general_71",
+    "topic": "Examen General",
+    "text": "La fuerza de la sustentación es producida:",
+    "options": [
+      "Cuando la velocidad en el extradós es mayor que en el intradós.",
+      "Cuando la velocidad en el intradós es mayor que en el extradós.",
+      "Por la forma alargada de las alas.",
+      "Por la potencia de los motores"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_72",
+    "topic": "Examen General",
+    "text": "Definición de Altitud:",
+    "options": [
+      "Distancia entre el avión y la superficie terrestre.",
+      "Distancia entre el avión y el nivel del mar.",
+      "Altura entre dos puntos.",
+      "Distancia entre el mar y un punto en la superficie terrestre."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_73",
+    "topic": "Examen General",
+    "text": "¿Qué explica el teorema de Bernoulli acerca de la presión y la velocidad?",
+    "options": [
+      "Si disminuye la presión, disminuye la velocidad.",
+      "Si aumenta la densidad, disminuye la presión.",
+      "Si aumenta la presión, aumenta la velocidad.",
+      "Si disminuye la presión, aumenta la velocidad."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_74",
+    "topic": "Examen General",
+    "text": "El movimiento de Cabeceo se realiza sobre el eje:",
+    "options": ["Transversal", "Longitudinal.", "Vertical", "Guiñada"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_75",
+    "topic": "Examen General",
+    "text": "El APU se utiliza para:",
+    "options": [
+      "En situación de supervivencia.",
+      "Para mejorar el repostaje de combustible.",
+      "Principalmente para proporcionar energía eléctrica y/o neumática al avión.",
+      "Comprobar el material de emergencia del avión."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_76",
+    "topic": "Examen General",
+    "text": "¿Qué tipo de nube asociamos generalmente a la tormenta?",
+    "options": ["Nimbostratos", "Cirrostratos.", "Estratocúmulos.", "Cumulonimbos"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_77",
+    "topic": "Examen General",
+    "text": "El engelamiento de una aeronave puede generar:",
+    "options": [
+      "Pérdida de potencia en los motores y disminución de la sustentación.",
+      "No es una circunstancia a tener en cuenta",
+      "Incomodidad para los pasajeros por un descenso de la temperatura en cabina.",
+      "Hipoxia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_78",
+    "topic": "Examen General",
+    "text": "¿A cuánto equivale una milla náutica?",
+    "options": ["1.852 m.", "1.609 m", "3.3 km", "1.000 m"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_79",
+    "topic": "Examen General",
+    "text": "Las cuatro fuerzas que intervienen en el vuelo de una aeronave son:",
+    "options": [
+      "Peso, resistencia, aerodinámica y sustentación.",
+      "Empuje, intensidad, gravedad y resistencia.",
+      "Peso, resistencia, sustentación y empuje.",
+      "Empuje, sustentación, propulsión y gravedad."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_80",
+    "topic": "Examen General",
+    "text": "El lado del embarque de un avión es el lado:",
+    "options": [
+      "Derecho mirando hacia la cabina de vuelo.",
+      "Izquierdo mirando a la cabina de vuelo.",
+      "Derecho mirando a la cola del avión.",
+      "Izquierdo mirando a la cola del avión"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_81",
+    "topic": "Examen General",
+    "text": "¿Qué organización tiene como misión servir al tráfico en Europa?",
+    "options": ["Eurocontrol.", "CFMU", "ATC", "CEAC"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_82",
+    "topic": "Examen General",
+    "text": "¿En qué situaciones se considera que un TCP está aclimatado?",
+    "options": [
+      "Un TCP se considera aclimatado a una zona horaria con una diferencia de hasta 3 horas en relación con la hora local de su punto de partida.",
+      "Un TCP se considera aclimatado a una zona horario con una diferencia de hasta 4 horas en relación con la hora local de su punto de partida.",
+      "Un TCP se considera aclimatado a una zona horaria con una diferencia de hasta 5 horas en relación con la hora local de su punto de partida.",
+      "Un TCP se considera aclimatado a una zona horaria con una diferencia de hasta 2 horas en relación con la hora local de su punto de partida"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_83",
+    "topic": "Examen General",
+    "text": "La normativa de actividad y descanso que afecta a las tripulaciones se recoge entre otros documentos en:",
+    "options": [
+      "El Manual de Operaciones de la compañía.",
+      "El CCOM",
+      "La Subparte Q de la EU-OPS",
+      "El Reglamento ORO.FTL"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_84",
+    "topic": "Examen General",
+    "text": "EASA y AESA son respectivamente autoridades en materia de seguridad:",
+    "options": ["En Europa y España", "En América y la UE", "A nivel mundial y en España", "Únicamente en Europa"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_85",
+    "topic": "Examen General",
+    "text": "El Convenio de Tokio trata de:",
+    "options": [
+      "Mercancías Peligrosas.",
+      "Secuestros y otros actos ilícitos o delitos cometidos a bordo",
+      "Equipo de supervivencia",
+      "Tráfico aéreo."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_86",
+    "topic": "Examen General",
+    "text": "¿Qué edad mínima deben tener los niños para que puedan viajar solos (UM)?",
+    "options": ["2 años", "5 años", "8 años", "Ninguna de las anterios"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_87",
+    "topic": "Examen General",
+    "text": "¿Puede interrumpirse una evacuación de emergencia una vez iniciada?",
+    "options": [
+      "Si, siempre",
+      "No, nunca",
+      "Siempre que lo ordene el comandante.",
+      "Siempre que lo ordene un miembro de la tripulación"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_88",
+    "topic": "Examen General",
+    "text": "Durante el repostado de combustible con pasajeros a bordo:",
+    "options": [
+      "Las señales de “no fumar” estarán encendidas y “abróchense los cinturones” estarán apagadas.",
+      "Las señales de “abróchense los cinturones” y de “no fumar” estarán apagadas.",
+      "Las señales de “abróchense los cinturones” y de “no fumar” estarán apagadas.",
+      "Las señales de “no fumar” estarán apagadas y “abróchense los cinturones” estarán encendidas."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_89",
+    "topic": "Examen General",
+    "text": "¿Qué entendemos por cabina de vuelo estéril?",
+    "options": [
+      "Cuando es posible el acceso a la cabina de vuelo.",
+      "Cuando la comunicación entre cockpit y TCP se limita a la información relativa a la seguridad operacional.",
+      "Cuando el acceso a la cabina de vuelo es limitado.",
+      "Cuando se ha precintado el acceso a la cabina de vuelo."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_90",
+    "topic": "Examen General",
+    "text": "¿Cuándo es obligatoria la presencia de balsas a bordo?",
+    "options": [
+      "Cuando la aeronave se aleje más de 60 minutos o 50 NM de un aeropuerto para realizar un aterrizaje de emergencia.",
+      "Cuando la aeronave se aleje más de 120 minutos o 400 NM de un aeropuerto para realizar un aterrizaje de emergencia.",
+      "Cuando la aeronave se aleje más de 50 minutos o 120 NM de un aeropuerto para realizar un aterrizaje de emergencia.",
+      "Cuando la aeronave se aleje más de 400 minutos o 100 MN de un aeropuerto para realizar un aterrizaje de emergencia."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_91",
+    "topic": "Examen General",
+    "text": "Los aviones comerciales están certificados para ser evacuados en:",
+    "options": [
+      "90 segundos utilizando todas las salidas de emergencia disponibles.",
+      "90 segundos utilizando la mitad de las puertas de emergencia.",
+      "120 segundos utilizando todas las salidas de emergencia disponibles.",
+      "120 segundos utilizando la mitad de las puertas de emergencia."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_92",
+    "topic": "Examen General",
+    "text": "En el briefing que el comandante da al sobrecargo en una emergencia prevista, ETA significa:",
+    "options": [
+      "Tiempo estimado de llegada.",
+      "Señal de protección.",
+      "Un tipo de instrucción especial.",
+      "Confirmación de la evacuación."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_93",
+    "topic": "Examen General",
+    "text": "Según la normativa, las capuchas antihumo (smoke hoods) deben tener una duración mínima de:",
+    "options": ["5 minutos", "10 minutos", "15 minutos", "20 minutos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_94",
+    "topic": "Examen General",
+    "text": "Síntomas de una despresurización lenta:",
+    "options": ["Taponamiento de oídos.", "Hipoxia", "Fuerte corriente de aire.", "Expansión de aires internos."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_95",
+    "topic": "Examen General",
+    "text": "La finalidad de las mascarillas de oxígeno de los cajetines es:",
+    "options": [
+      "Proporcionar oxígeno durante un fuego.",
+      "Proporcionar oxígeno si hay humo en la cabina.",
+      "Proporcionar oxígeno si se produce una despresurización.",
+      "Proporcionar oxígeno exclusivamente a la tripulación de vuelo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_96",
+    "topic": "Examen General",
+    "text": "En caso de una evacuación en tierra, los TCP ordenarán a los pasajeros que abandonen el avión a través de los planos:",
+    "options": [
+      "Por el borde a escape.",
+      "Por el borde de salida.",
+      "Por el borde flotación.",
+      "Por el borde de ataque"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_97",
+    "topic": "Examen General",
+    "text": "Indica las acciones en caso de fuego en una batería de litio:",
+    "options": [
+      "Mover el dispositivo electrónico.",
+      "Echar hielo seco sobre el aparato y desconectar.",
+      "Alejar a los pasajeros de la zona afectada, apagar el fuego y enfriar el dispositivo con agua o líquidos no inflamables.",
+      "Extinguir el fuego y nunca echar agua al ser un aparato electrónico."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_98",
+    "topic": "Examen General",
+    "text": "En una situación de humo negro en cabina de pasaje los TCP deben:",
+    "options": [
+      "Echarse al suelo, taparse nariz y boca.",
+      "Informar al CMTE, coger botella de oxígeno con mascarilla en toma HI.",
+      "Informar al CMTE, utilizar PBE, cerrar aireadores, gritar a los pax si es posible: “agáchense y tápense la nariz y la boca”.",
+      "Solicitar al comandante el despliegue de las máscaras de oxígeno de los PSU."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_99",
+    "topic": "Examen General",
+    "text": "Los extintores BCF actúan sobre el fuego:",
+    "options": [
+      "Enfriándolo.",
+      "Reduciendo el oxígeno de la combustión.",
+      "Reduciendo el combustible presente.",
+      "Bajando la temperatura del combustible"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_100",
+    "topic": "Examen General",
+    "text": "“Combinación de medidas, medios humanos, recursos materiales para proteger la aviación civil de inferencia ilícita”, corresponde con la definición de:",
+    "options": [
+      "Programa Nacional de Seguridad.",
+      "Actos de Interferencia Ilícita.",
+      "Zona restringida de seguridad.",
+      "Aviation Security."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_101",
+    "topic": "Examen General",
+    "text": "¿Es obligatorio controlar el acceso y chequear las identidades de toda aquella persona que quiera subir al avión durante una escala?",
+    "options": [
+      "No es necesario ya que el personal del aeropuerto ya lo ha hecho.",
+      "Se hará solo según criterio de la tripulación.",
+      "Es obligatorio, no se dejará subir a nadie que no porte su identificación correspondiente.",
+      "Es obligatorio, pero a veces se pueden hacer excepciones según la normativa del aeropuerto."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_102",
+    "topic": "Examen General",
+    "text": "Según el Programa Nacional de Seguridad para la Aviación Civil, la puerta de cabina de vuelo:",
+    "options": [
+      "Permanecerá cerrada desde el momento en que se cierren puertas y bloqueada en despegue y aterrizaje.",
+      "Permanecerá cerrada y bloqueada desde que se cierran puertas hasta la aproximación, que permanecerá sólo cerrada.",
+      "Permanecerá cerrada y bloqueada sólo en caso de emergencia.",
+      "Permanecerá cerrada y bloqueada desde que se cierran puertas hasta que se paren los motores y se abran las puertas."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_103",
+    "topic": "Examen General",
+    "text": "Las etiquetas de Mercancías Peligrosas pueden ser de dos clases:",
+    "options": [
+      "De clase y división.",
+      "De grupo de transporte.",
+      "De manipulación y transporte.",
+      "De riesgo y manipulación."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_104",
+    "topic": "Examen General",
+    "text": "¿De qué color son las etiquetas de la clase 1?",
+    "options": ["Blanca", "Rojo", "Naranja", "Verde"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_105",
+    "topic": "Examen General",
+    "text": "En MMPP ¿qué uso le damos a la tabla 2.3 A?",
+    "options": [
+      "Conocer las MMPP que pueden ser transportadas a bordo de una aeronave por pasajeros o tripulación.",
+      "Conocer cómo actuar en caso de incidente con MMPP",
+      "Clasificar las MMPP",
+      "Conocer cómo deben ser empaquetadas las MMPP"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_106",
+    "topic": "Examen General",
+    "text": "Indica cuál es el explosivo (clase 1) que pueden transportan los pasajeros siempre facturado a bordo de una aeronave:",
+    "options": [
+      "Fuegos artificiales.",
+      "Munición de guerra.",
+      "Está totalmente prohibido transportar explosivos.",
+      "Munición deportiva, de la división 1.4S (máximo 5 kg)."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_107",
+    "topic": "Examen General",
+    "text": "Si un incidente en vuelo se advierte la presencia de una sustancia química que puede identificarse por el número ONU, ¿dónde encontraremos su procedimiento de emergencia?",
+    "options": [
+      "En el manual de operaciones.",
+      "No tenemos en vuelo dicha información.",
+      "En el libro “Orientación sobre respuestas de emergencia”.",
+      "Llamando a operaciones de la compañía."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_108",
+    "topic": "Examen General",
+    "text": "La amenaza principal en el caso de un amaraje es:",
+    "options": ["La falta de agua dulce.", "El cansancio.", "La hipotermia.", "Los tiburones"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_109",
+    "topic": "Examen General",
+    "text": "La fluoresceína es un producto:",
+    "options": [
+      "Colorante e insoluble en el agua,",
+      "Decolorante e insoluble en el agua,",
+      "Decolorante y soluble en el agua.",
+      "Colorante y soluble en el agua."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_110",
+    "topic": "Examen General",
+    "text": "La gran decisión se refiere a:",
+    "options": [
+      "Abandonar el avión tras haber pasado 48 horas del impacto o la duración de la/s radiobaliza/s.",
+      "Dejar a los heridos junto a los restos de la aeronave y partir de busca de ayuda.",
+      "Organizarse en grupos y nombrar a un líder.",
+      "Determinar las rutas y organizar los grupos para ir en busca de ayuda."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_111",
+    "topic": "Examen General",
+    "text": "¿Cuál es la función principal de un glóbulo rojo?",
+    "options": [
+      "Defensa celular del organismo.",
+      "Participar en la coagulación.",
+      "Inmunizar el cuerpo.",
+      "Transportar oxígeno"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_112",
+    "topic": "Examen General",
+    "text": "La fiebre amarilla se previene:",
+    "options": [
+      "A través de una vacuna que protege durante 10 años.",
+      "A través de una quimioprofilaxis suministradas por pastillas.",
+      "Únicamente tomando medidas higiénicas y de protección.",
+      "No hay forma de prevenirla."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_113",
+    "topic": "Examen General",
+    "text": "Si una persona ha sufrido una lipotimia o mareo, ¿en qué postura le colocaremos?",
+    "options": [
+      "Decúbito lateral izquierdo.",
+      "Posición lateral derecho.",
+      "Decúbito prono.",
+      "Decúbito supino con piernas elevadas."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_114",
+    "topic": "Examen General",
+    "text": "Los barotraumatismos son:",
+    "options": [
+      "Lesiones óseas.",
+      "Lesiones por diferencia de presión.",
+      "Lesiones por falta de oxígeno.",
+      "Lesiones por diferencia de altura."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_115",
+    "topic": "Examen General",
+    "text": "Si un pasajero está inconsciente pero respira y tiene pulso, ¿qué haremos?",
+    "options": [
+      "Dejarle tranquilo y taparle con una manta.",
+      "Ponerle en posición lateral de seguridad.",
+      "Tumbarle en el suelo y elevarle las piernas.",
+      "Proporcionarle oxígeno."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_116",
+    "topic": "Examen General",
+    "text": "Un pasajero que se queja de dolor torácico irradiado al brazo izquierdo acompañado de signos vegetativos como mareos, sudoración y palidez puede estar padeciendo:",
+    "options": [
+      "Un cuadro de hiperventilación.",
+      "Un ataque de histeria.",
+      "Un infarto agudo de miocardio.",
+      "Una úlcera de duodeno complicada"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_117",
+    "topic": "Examen General",
+    "text": "Sabemos que una persona necesita una RCP cuando:",
+    "options": [
+      "Está inconsciente y no tiene constantes vitales.",
+      "Está inconsciente, pero tiene constantes vitales.",
+      "Respira bien y tiene latido, pero no contesta a nuestras preguntas.",
+      "Está consciente e hiperventila."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_118",
+    "topic": "Examen General",
+    "text": "¿Cuándo está indicada la maniobra de Valsalva?",
+    "options": [
+      "En caso de mareo.",
+      "En caso de insuficiencia respiratoria.",
+      "En descenso si sentimos molestias en el oído.",
+      "En caso de vómitos."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_119",
+    "topic": "Examen General",
+    "text": "¿Qué debemos hacer en el caso de que un paciente sufre una hemorragia?",
+    "options": [
+      "Administrar medicación del First Aid Kit (FAK).",
+      "Aplicar presión directa hasta que la hemorragia ceda y no retirar las gasas.",
+      "Colocar al paciente en la posición lateral de seguridad.",
+      "Abrir inmediatamente el EMK."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_120",
+    "topic": "Examen General",
+    "text": "El tipo de hipoxia más frecuente en el medio aéreo es la:",
+    "options": ["Histotóxica.", "Anémica.", "Hipóxica", "Hipoxia por estancamiento."],
+    "correctIndex": 2
+  }
+]

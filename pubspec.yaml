@@ -13,14 +13,18 @@ dependencies:
   # Paquetes
   cupertino_icons: ^1.0.6
   flutter_native_splash: ^2.3.2
-  firebase_core: ^3.5.0
-  firebase_auth: ^5.2.0
+  firebase_core: ^3.15.2
+  firebase_auth: ^5.7.0
   cloud_firestore: ^5.0.0
   provider: ^6.0.5
   intl: ^0.19.0
   percent_indicator: ^4.2.2
   fl_chart: ^1.1.1
   confetti: ^0.7.0
+  syncfusion_flutter_pdfviewer: ^24.1.41
+  open_filex: ^4.3.2
+  path_provider: ^2.0.17
+  url_launcher: ^6.1.10
 
 
 
@@ -29,24 +33,58 @@ dev_dependencies:
     sdk: flutter
   flutter_lints: ^3.0.0
 
+
 flutter:
   uses-material-design: true
 
   assets:
-    - assets/images/adv-logo.png
-    - assets/questions/examenaesa.json
-    - assets/questions/entrevistas.json
-    - assets/questions/ingles/
+    - assets/images/
+    - assets/questions/ingles/ingles_aero.json
+    - assets/questions/ingles/ingles_cambridge.json
+    - assets/questions/ingles/ingles_gral.json
     - assets/questions/roleplay/roleplay.json
-    - assets/questions/tcp/conocimientos_teoricos.json
-    - assets/questions/tcp/normativa.json
     - assets/questions/tcp/asistencia.json
+    - assets/questions/tcp/conocimientos_teoricos.json
+    - assets/questions/tcp/incendios.json
     - assets/questions/tcp/medicina.json
     - assets/questions/tcp/mercancias.json
+    - assets/questions/tcp/normativa.json
     - assets/questions/tcp/seguridad_nav.json
-    - assets/questions/tcp/incendios.json
     - assets/questions/tcp/supervivencia.json
-    - assets/images/student_avatar.png
+    - assets/questions/entrevistas.json
+    - assets/manual/
+    - assets/questions/elite/final/examen1.json
+    - assets/questions/elite/final/examen2.json
+    - assets/questions/elite/final/examen3.json
+    - assets/questions/elite/final/examen4.json
+    - assets/questions/elite/final/examen5.json
+    - assets/questions/elite/final/examen6.json
+    - assets/questions/elite/final/examen7.json
+    - assets/questions/elite/final/examen8.json
+    - assets/questions/elite/final/examen9.json
+    - assets/questions/elite/final/examen10.json
+    - assets/questions/elite/final/examen11.json
+    - assets/questions/elite/final/examen12.json
+    - assets/questions/elite/final/examen13.json
+    - assets/questions/elite/final/examen14.json
+    - assets/questions/elite/final/examen15.json
+    - assets/questions/elite/final/examen16.json
+    - assets/questions/elite/general/examen1.json
+    - assets/questions/elite/general/examen2.json
+    - assets/questions/elite/general/examen3.json
+    - assets/questions/elite/general/examen4.json
+    - assets/questions/elite/general/examen5.json
+    - assets/questions/elite/general/examen6.json
+    - assets/questions/elite/general/examen7.json
+    - assets/questions/elite/general/examen8.json
+    - assets/questions/elite/general/examen9.json
+    - assets/questions/elite/general/examen10.json
+    - assets/questions/elite/general/examen11.json
+    - assets/questions/elite/general/examen12.json
+    - assets/questions/elite/general/examen13.json
+    - assets/questions/elite/general/examen14.json
+    - assets/questions/elite/general/examen15.json
+    - assets/questions/elite/general/examen16.json
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.

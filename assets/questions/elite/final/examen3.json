@@ -1,0 +1,602 @@
+[
+  {
+    "id": "examen3_1",
+    "topic": "Examen 3",
+    "text": "¿Qué superficie tiene una mayor curvatura?",
+    "options": [
+      "El intradós del ala.",
+      "El morro del avión.",
+      "El extradós del ala.",
+      "El timón de cola."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_2",
+    "topic": "Examen 3",
+    "text": "¿Cuál de los siguientes es el elemento fundamental para que un avión se sustente en el aire?",
+    "options": [
+      "Las alas.",
+      "El fuselaje.",
+      "Los motores.",
+      "El peso del avión."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_3",
+    "topic": "Examen 3",
+    "text": "¿A qué llamamos velocidad de pérdida?",
+    "options": [
+      "A la que se pone el avión para aterrizar.",
+      "A la que hace que el avión pierde empuje.",
+      "A la que aparece si perdemos uno de los motores.",
+      "A la que hace que el avión pierda la sustentación."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_4",
+    "topic": "Examen 3",
+    "text": "El movimiento de alabeo de un avión es controlado por:",
+    "options": [
+      "Los flaps.",
+      "Los slats.",
+      "Los spoilers.",
+      "Los alerones."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_5",
+    "topic": "Examen 3",
+    "text": "¿A qué velocidad puede entrar en pérdida un avión?",
+    "options": [
+      "Por debajo de 1000 km/h.",
+      "A la de despegue.",
+      "Cuando excede el límite máximo de velocidad.",
+      "Puede entrar en pérdida a cualquier velocidad cuando se excede el ángulo de ataque crítico."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_6",
+    "topic": "Examen 3",
+    "text": "Los fenómenos que actúan sobre el ala de un avión se basan en dos principios:",
+    "options": [
+      "Teorema de Bernoulli y efecto Venturi.",
+      "Efecto de Bernoulli y teorema de Venturi.",
+      "Ley de Boyle-Mariotte y Ley de Henry.",
+      "Efecto Venturi y efecto mariposa."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_7",
+    "topic": "Examen 3",
+    "text": "Cuando un avión asciende en la atmósfera, la presión dentro de la cabina:",
+    "options": [
+      "Como norma general aumenta respecto a la que tenía en tierra.",
+      "Disminuye respecto a la que tenía en tierra.",
+      "No varía de la que tenía en tierra.",
+      "No tenemos datos suficientes."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_8",
+    "topic": "Examen 3",
+    "text": "Los mandos primarios de un avión son:",
+    "options": [
+      "Flaps y slats.",
+      "Spoilers y alerones.",
+      "Estabilizadores horizontales, timón de profundidad y timón de dirección.",
+      "Alerones, timón de profundidad y timón de dirección."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_9",
+    "topic": "Examen 3",
+    "text": "Para conseguir la estabilidad vertical de una aeronave se cuenta con el:",
+    "options": [
+      "Alerón.",
+      "Timón de dirección.",
+      "Timón de profundidad.",
+      "Spoiler."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_10",
+    "topic": "Examen 3",
+    "text": "Cuando una aeronave se encuentra en el aire actúan sobre ella cuatro fuerzas que son:",
+    "options": [
+      "Peso, resistencia, aerodinámica y sustentación.",
+      "Empuje, intensidad, gravedad y resistencia.",
+      "Sustentación, resistencia, peso y empuje.",
+      "Empuje, sustentación, gravedad y resistencia."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_11",
+    "topic": "Examen 3",
+    "text": "Según la legislación vigente, el plazo de validez del certificado médico aeronáutico de un TCP de 25 años es de:",
+    "options": [
+      "3 años.",
+      "5 años.",
+      "10 años.",
+      "4 años."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_12",
+    "topic": "Examen 3",
+    "text": "¿Qué organismo es el encargado de evaluar la seguridad de los aviones de terceros países?",
+    "options": [
+      "OACI.",
+      "AENA.",
+      "UEE.",
+      "EASA."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_13",
+    "topic": "Examen 3",
+    "text": "El billete o contrato de transporte aéreo es un documento:",
+    "options": [
+      "Nominativo e intransferible.",
+      "Nominativo siempre que volemos en un destino internacional.",
+      "Nominativo contra la persona que compró el billete.",
+      "Nominativo y transferible con una autorización del titular."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_14",
+    "topic": "Examen 3",
+    "text": "Iberia realiza vuelos entre Guatemala y Miami y sus aviones tienen base en Guatemala. ¿Qué libertad del aire ampara este vuelo?",
+    "options": [
+      "Sexta.",
+      "Séptima.",
+      "Cuarta.",
+      "Tercera."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_15",
+    "topic": "Examen 3",
+    "text": "¿Cómo indicaremos en aeronáutica la palabra AVIÓN?",
+    "options": [
+      "Alfa-beta-inca-omega-nono.",
+      "Alfa-victor-india-oscar-november.",
+      "Ana-victor-india-oscar-naira.",
+      "Alfa-beta-inca-omega-nada."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_16",
+    "topic": "Examen 3",
+    "text": "¿Puede un UM ir sentado en una salida de emergencia?",
+    "options": [
+      "Sí, siempre que le acompañe un familiar.",
+      "Sí, mientras que al lado haya un adulto cualquiera.",
+      "No, nunca.",
+      "Depende de la edad del UM."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_17",
+    "topic": "Examen 3",
+    "text": "¿A qué material de emergencia asociarías las siglas PSU?",
+    "options": [
+      "Sistemas contraincendios.",
+      "Oxígeno de emergencia.",
+      "Anuncios al pasaje.",
+      "Oxígeno de primeros auxilios."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_18",
+    "topic": "Examen 3",
+    "text": "¿Cómo se colocará a los Infants siempre que sea necesario el uso de cinturones?",
+    "options": [
+      "En brazos de los adultos sujetos por el cinturón de seguridad de los mismos.",
+      "Sentados en su asiento correspondiente con su propio cinturón.",
+      "Dos como máximo en el mismo asiento sujetos por el mismo cinturón.",
+      "Utilizando un dispositivo de sujeción homologado (cinturón canguro u otro CRD)."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_19",
+    "topic": "Examen 3",
+    "text": "Para que un adulto pueda llevar a su cargo dos Infants se ha de cumplir:",
+    "options": [
+      "Que deben sentarse cerca de una salida de emergencia.",
+      "Que el adulto esté sentado a menos de 3 asientos de ellos.",
+      "Que la compañía lo autorice y uno de ellos ocupar un asiento utilizando un dispositivo homologado para tal fin.",
+      "Tenga el respaldo un poco más ancho que la mayoría."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_20",
+    "topic": "Examen 3",
+    "text": "¿Qué debe hacer el TCP si cree que las condiciones exteriores de una salida de emergencia son inseguras para la evacuación?",
+    "options": [
+      "Advertirlo a los pasajeros para que salgan con cuidado.",
+      "Ante una emergencia no se pierde tiempo en mirar las condiciones exteriores del avión.",
+      "Impedir la apertura de la misma, montar una cinta de seguridad si disponemos de ella e impedir la evacuación por esa salida.",
+      "Impedir que los pasajeros salgan por ella, cubriendo la puerta abierta con nuestro cuerpo."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_21",
+    "topic": "Examen 3",
+    "text": "¿Cuándo se lanzará por la rampa, durante una evacuación de emergencia, el TCP responsable de esa salida?",
+    "options": [
+      "Cuando su zona esté totalmente evacuada, compruebe que su ayuda no es necesaria en las demás, y coja el material de emergencia que le haya sido asignado.",
+      "En cuanto vea la ocasión.",
+      "Cuando su zona esté evacuada.",
+      "Hasta que no haya salido el Comandante permanecerá en el avión."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_22",
+    "topic": "Examen 3",
+    "text": "Por razones de seguridad, cuando el despegue o el aterrizaje se realice por la noche:",
+    "options": [
+      "Se atenuarán las luces de la cabina de pasajeros.",
+      "Se apagarán las luces de cabina de pasajeros.",
+      "Se atenuarán las luces de emergencia.",
+      "Se apagarán las luces de emergencia."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_23",
+    "topic": "Examen 3",
+    "text": "¿Cuántos megáfonos, como mínimo, debe llevar un avión de 98 asientos de pasajeros?",
+    "options": [
+      "Dos.",
+      "Ninguno.",
+      "Tres.",
+      "Uno."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_24",
+    "topic": "Examen 3",
+    "text": "¿Cuáles de los siguientes grupos de personas serán seleccionados en primer lugar como PSPs?",
+    "options": [
+      "Jóvenes atléticos.",
+      "Niños de 12-14 años.",
+      "TCPs sin puesto de emergencia asignado.",
+      "Personal sanitario a bordo."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_25",
+    "topic": "Examen 3",
+    "text": "¿Cuál ha de ser la duración mínima de los generadores de oxígeno de emergencia?",
+    "options": [
+      "25 minutos como mínimo.",
+      "10 minutos como mínimo.",
+      "Todo el tiempo en que la altitud de presión de la cabina sea superior a 15.000ft.",
+      "15 minutos como mínimo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_26",
+    "topic": "Examen 3",
+    "text": "El material de emergencia que se utilice o rompa durante el vuelo, se anotará en:",
+    "options": [
+      "La check list.",
+      "La lista de material de emergencia.",
+      "La lista de materiales para reposición.",
+      "El Cabin Lock Book."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_27",
+    "topic": "Examen 3",
+    "text": "Si nos exponemos a grandes alturas sin el necesario oxígeno suplementario, nos exponemos a padecer una:",
+    "options": [
+      "Hipoxia anémica.",
+      "Hipoxia por estancamiento.",
+      "Hipoxia histotóxica.",
+      "Hipoxia hipóxica."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_28",
+    "topic": "Examen 3",
+    "text": "En una despresurización a 30.000ft de altura, contamos con un TUC de:",
+    "options": [
+      "6-10 minutos.",
+      "3-5 minutos.",
+      "1-2 minutos.",
+      "15-20 segundos."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_29",
+    "topic": "Examen 3",
+    "text": "Si un pasajero sufre un episodio de sangrado nasal, se le tratará a base de:",
+    "options": [
+      "Apretar su parte blanda de la nariz durante unos minutos, echando su cabeza hacia adelante.",
+      "Respiraciones acompasadas por la nariz.",
+      "Poniéndole un torniquete nasal.",
+      "Apretar su parte blanda de la nariz durante unos minutos, echando su cabeza hacia atrás."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_30",
+    "topic": "Examen 3",
+    "text": "La función principal de los glóbulos rojos o hematíes es:",
+    "options": [
+      "Participar en el proceso de coagulación de la sangre.",
+      "La defensa del organismo frente a infecciones.",
+      "Colaborar en la respuesta inmunológica del organismo.",
+      "Transportar el oxígeno por la sangre."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_31",
+    "topic": "Examen 3",
+    "text": "Ante un pasajero que nos solicita un analgésico por cefalea, nosotros:",
+    "options": [
+      "Le recomendaremos el que a nosotros nos dé el mejor resultado.",
+      "Los analgésicos son inocuos, por lo que le daremos el que nos solicite.",
+      "Solo se lo proporcionaremos si la compañía así nos lo ha indicado y siempre que dispongamos del correspondiente documento firmado donde asume los posibles riesgos que esto conlleva.",
+      "Tendremos que pedir siempre permiso del Comandante."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_32",
+    "topic": "Examen 3",
+    "text": "La baropatía intestinal o aerocolia es:",
+    "options": [
+      "Acúmulo de heces en los intestinos.",
+      "Inflamación del intestino grueso por la presurización de cabina.",
+      "Dolor abdominal por diferencias de presión de cabina con los gases de los intestinos.",
+      "No existe esta patología."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_33",
+    "topic": "Examen 3",
+    "text": "¿Cuáles son las fases del parto por orden cronológico?",
+    "options": [
+      "Expulsivo, dilatación y alumbramiento.",
+      "Alumbramiento, dilatación y expulsivo.",
+      "Dilatación, alumbramiento y expulsivo.",
+      "Dilatación, expulsivo y alumbramiento."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_34",
+    "topic": "Examen 3",
+    "text": "Las vacunas son:",
+    "options": [
+      "Preparados genéticos de los laboratorios.",
+      "Preparados de gérmenes vivos, muertos o atenuados.",
+      "Mezclas de anticuerpos.",
+      "Invento de las farmacéuticas para enriquecerse."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_35",
+    "topic": "Examen 3",
+    "text": "El contagio indirecto se produce por:",
+    "options": [
+      "Contacto de persona sana con persona sana.",
+      "Entre madre e hijo en el nacimiento.",
+      "Al beber aguas previamente contaminadas por seres infectados.",
+      "Besarse con una persona enferma."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_36",
+    "topic": "Examen 3",
+    "text": "El jet-lag se acusa en mayor medida cuando los vuelos son:",
+    "options": [
+      "Norte-sur.",
+      "Chárter.",
+      "Transmeridianos.",
+      "Comerciales."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_37",
+    "topic": "Examen 3",
+    "text": "Las mercancías peligrosas se identifican por un nombre de expedición y un número llamado:",
+    "options": [
+      "ONU.",
+      "NUM.",
+      "NR.",
+      "PSP."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_38",
+    "topic": "Examen 3",
+    "text": "Las mercancías peligrosas de clase 7 son:",
+    "options": [
+      "Líquidos inflamables.",
+      "Explosivos.",
+      "Mercancías peligrosas diversas.",
+      "Materiales radioactivos."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_39",
+    "topic": "Examen 3",
+    "text": "¿Cuál de estas sustancias se puede transportar bajo el título de mercancías exentas?",
+    "options": [
+      "Cartuchos de caza del calibre 12.",
+      "Perfumes, colonias, bebidas alcohólicas y combustible.",
+      "Perfumes y petardos.",
+      "Alcohol y explosivos."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_40",
+    "topic": "Examen 3",
+    "text": "Las etiquetas de las mercancías peligrosas pueden ser de dos clases:",
+    "options": [
+      "De embalaje y de transporte.",
+      "De peligrosidad y de inocuidad.",
+      "De clase preferente y de clase urgente.",
+      "De riesgo y de manipulación."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_41",
+    "topic": "Examen 3",
+    "text": "Las sustancias que en contacto con el agua emiten gases inflamables se consideran:",
+    "options": [
+      "Estas sustancias no existen.",
+      "Sustancias comburentes.",
+      "Gases inflamables.",
+      "Sólidos inflamables."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_42",
+    "topic": "Examen 3",
+    "text": "¿Qué periodo de validez tiene el Entrenamiento Periódico de un TCP?",
+    "options": [
+      "5 años naturales.",
+      "12 meses naturales.",
+      "6 meses naturales.",
+      "Hasta que se cambie de tipo de avión."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_43",
+    "topic": "Examen 3",
+    "text": "Cuando nos referimos a cockpit, hablamos de:",
+    "options": [
+      "Cabina de vuelo.",
+      "Cabina de pasajeros.",
+      "Zona de galleys.",
+      "El puesto del comandante en la aeronave."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_44",
+    "topic": "Examen 3",
+    "text": "Para un avión configurado con 50 asientos, la tripulación auxiliar mínima obligatoria será de:",
+    "options": [
+      "1 TCP que hará las funciones de sobrecargo.",
+      "2 TCP y uno de ellos ha de ser sobrecargo.",
+      "1 TCP y no hace falta que sea sobrecargo.",
+      "Hasta 50 asientos no es necesario tripulación auxiliar."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_45",
+    "topic": "Examen 3",
+    "text": "¿Dónde podemos encontrar extintores fijos en cabina de pasajeros?",
+    "options": [
+      "En los hornos.",
+      "Cerca de todos los sistemas eléctricos.",
+      "No hay extintores fijos en cabina de pasajeros.",
+      "En los lavabos."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_46",
+    "topic": "Examen 3",
+    "text": "¿Con qué sistema de a bordo asociarías las siglas BCF?",
+    "options": [
+      "Sistema de oxígeno de emergencia.",
+      "Sistema de presurización.",
+      "Sistema de protección de gases tóxicos.",
+      "Sistema de extinción de incendios."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_47",
+    "topic": "Examen 3",
+    "text": "¿Qué conocemos como torching?",
+    "options": [
+      "Es el humo o ráfaga de fuego no peligroso, que puede aparecer durante un cambio de potencia del motor, tanto en tierra como en vuelo.",
+      "Es la ráfaga de fuego peligrosa, que aparece cuando se prende un motor.",
+      "Es el humo no peligroso que sale de los hornos cuando se calientan.",
+      "Esto no existe en aeronáutica."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_48",
+    "topic": "Examen 3",
+    "text": "Cuando tengamos un espejo o heliógrafo, en caso de emergencia podremos:",
+    "options": [
+      "Pedir socorro haciendo reflejos.",
+      "No se suelen poner espejos porque en los accidentes se rompen.",
+      "Utilizarlos para hacer el código Coriolis.",
+      "Romperlo para tener un objeto punzante."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_49",
+    "topic": "Examen 3",
+    "text": "¿Cuántas balsas salvavidas llevaremos en caso de que sea obligatorio para un vuelo concreto?",
+    "options": [
+      "Una por cada fracción de 100 pasajeros.",
+      "Para el 80% de la capacidad del avión.",
+      "Al menos la mitad de las salidas de emergencia.",
+      "El número suficiente para alojar a todas las personas a bordo."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_50",
+    "topic": "Examen 3",
+    "text": "Las normas de supervivencia en el desierto aconsejan que si se tiene que caminar en busca de ayuda se haga:",
+    "options": [
+      "Durante el día.",
+      "Durante las primeras y últimas horas del día y durante la noche.",
+      "Durante el día y la noche.",
+      "Es indistinto, mientras se vaya por la sombra."
+    ],
+    "correctIndex": 1
+  }
+]

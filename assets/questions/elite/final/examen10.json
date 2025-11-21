@@ -1,0 +1,502 @@
+[
+  {
+    "id": "examen_1",
+    "topic": "Examen 1",
+    "text": "En aviación llamamos ruta:",
+    "options": [
+      "Al ángulo que forma el Ecuador con respecto al meridiano magnético.",
+      "Al ángulo que forma la línea trazada entre dos puntos A y B con respecto al paralelo norte.",
+      "Al ángulo que forma la línea trazada entre dos puntos A y B con respecto al meridiano geográfico.",
+      "Al ángulo que forma la línea trazada entre dos puntos A y B con respecto al paralelo sur."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_2",
+    "topic": "Examen 1",
+    "text": "Si en el meridiano 0 (Greenwich) son las 17:30 GMT. ¿Qué hora es a 40º Este?",
+    "options": ["Son las 14:30h.", "La misma hora GMT.", "Las 21:15.", "Las 20:00h."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_3",
+    "topic": "Examen 1",
+    "text": "Podemos decir que la temperatura en la Tierra:",
+    "options": [
+      "Varía solo con la altitud y el lugar geográfico.",
+      "Varía solo con la latitud y la época del año.",
+      "Varía según altitud, latitud y época del año.",
+      "Varía solo según la zona geográfica."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_4",
+    "topic": "Examen 1",
+    "text": "¿Cuál es la capa de la atmósfera donde se producen más fenómenos atmosféricos?",
+    "options": ["La ozonosfera.", "La troposfera.", "La ionosfera.", "La termosfera."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_5",
+    "topic": "Examen 1",
+    "text": "En caso de una despresurización de cabina en pleno vuelo:",
+    "options": [
+      "La presión de cabina aumentaría.",
+      "La presión de cabina disminuiría.",
+      "La presión de cabina se mantendría constante.",
+      "La cabina entraría en gravedad 0."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_6",
+    "topic": "Examen 1",
+    "text": "La energía eléctrica en un avión en vuelo procede de:",
+    "options": ["La propia inercia de vuelo.", "Los generadores.", "El APU.", "El GPU."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_7",
+    "topic": "Examen 1",
+    "text": "Un aterrizaje con viento de cola es:",
+    "options": ["El ideal para aterrizar.", "Un peligro potencial.", "No afecta al aterrizaje.", "Nunca se aterriza con viento en cola."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_8",
+    "topic": "Examen 1",
+    "text": "¿Qué tipo de fluido utiliza el sistema hidráulico del avión?",
+    "options": ["Líquido hidráulico.", "Agua mineralizada.", "Aceite sin refinar.", "Mezcla de gasóleo con aceite y agua."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_9",
+    "topic": "Examen 1",
+    "text": "La fuerza desviadora del viento debida a la rotación de la Tierra se llama:",
+    "options": ["Fuerza de rotación.", "Fuerza de Coriolis.", "Fuerza centrífuga.", "Fuerza de Venturi."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_10",
+    "topic": "Examen 1",
+    "text": "El instrumento que marca la velocidad aerodinámica del avión es:",
+    "options": ["El GPS aeronáutico.", "El variómetro.", "El velocímetro.", "El anemómetro."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_11",
+    "topic": "Examen 1",
+    "text": "¿Quién tiene la responsabilidad de la aeronave, su tripulación, viajeros, equipaje, carga y correo transportados?",
+    "options": [
+      "El Comandante desde que toma el mando de la aeronave.",
+      "El Comandante desde que toma el mando de la aeronave, salvo que el segundo sea más antiguo.",
+      "La compañía que opera la aeronave.",
+      "Comandante y Sobrecargo a partes iguales."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_12",
+    "topic": "Examen 1",
+    "text": "Las verificaciones por parte del operador, según la normativa europea, se deben realizar:",
+    "options": [
+      "Con el entrenamiento inicial y el periódico.",
+      "Con el entrenamiento inicial, el de conversión/diferencias y los vuelos de familiarización.",
+      "Con el entrenamiento inicial, el de conversión/diferencias, el periódico y el de refresco.",
+      "Con el entrenamiento de conversión/diferencias, el periódico y el de refresco."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_13",
+    "topic": "Examen 1",
+    "text": "¿Cuál es el órgano asesor de la OACI?",
+    "options": ["Las Asambleas.", "El Consejo General del Poder Judicial.", "Las Comisiones Técnicas.", "Los Estatutos Aeronáuticos."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_14",
+    "topic": "Examen 1",
+    "text": "La matrícula de una aeronave española estará formada por:",
+    "options": ["3 letras.", "2 letras.", "3 letras y 2 números.", "2 letras y 3 números."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_15",
+    "topic": "Examen 1",
+    "text": "Prevenir las colisiones entre aeronaves y de estas con los obstáculos en tierra y agilizar y mantener el movimiento ordenado del tránsito aéreo, es función de:",
+    "options": [
+      "La Dirección General de Aviación Civil.",
+      "La Guardia Civil aeroportuaria.",
+      "El Servicio de Control de Tránsito Aéreo.",
+      "El personal del aeropuerto."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_16",
+    "topic": "Examen 1",
+    "text": "Una vez hayamos pasado el control de seguridad y lleguemos al avión, y tras solicitar permiso al comandante para subir, si es el caso, ¿qué es lo primero que debemos hacer?",
+    "options": [
+      "Chequear el material de emergencia.",
+      "Dejar nuestras cosas personales en un armario.",
+      "Comprobar la carga de catering.",
+      "Chequear el PA."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_17",
+    "topic": "Examen 1",
+    "text": "Durante la carga de combustible en el embarque, desembarque o permanencia a bordo de los pasajeros:",
+    "options": [
+      "Se encenderán los letreros de “Abróchense los cinturones” y “No fumar”.",
+      "Se encenderán los letreros de “Abróchense los cinturones”.",
+      "No debe haber encendida ninguna luz por peligro de explosión.",
+      "Deberá mantenerse despejada en tierra la zona situada debajo de las salidas previstas para la evacuación de emergencia y el despliegue de rampas."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_18",
+    "topic": "Examen 1",
+    "text": "¿Cómo se denomina el tirador para inflar una rampa manual, si de forma automática no se inflase?",
+    "options": ["Not Inflate Pull.", "Ditching Line.", "Push to Inflate.", "Pull to Inflate."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_19",
+    "topic": "Examen 1",
+    "text": "¿Cómo se designan los puestos de los TCP durante un vuelo?",
+    "options": [
+      "Durante el briefing, el sobrecargo lo designará bajo la supervisión o delegación del comandante.",
+      "Vienen ya asignados por la compañía en la documentación que nos entregan prevuelo.",
+      "Por antigüedad: los más veteranos escogen el puesto que desean ocupar.",
+      "El sobrecargo los reparte según su exclusivo criterio, pues dependen de él."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_20",
+    "topic": "Examen 1",
+    "text": "¿Cuál sería la ubicación correcta del equipaje de mano en operación normal?",
+    "options": [
+      "Bajo el asiento delantero o en los racks.",
+      "En el baño si su volumen excede la capacidad del rack.",
+      "Puede estar en el pasillo a nuestro lado, siempre que lo retiremos cuando pase alguien.",
+      "En operación normal donde queramos, no hay sitio definido."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_21",
+    "topic": "Examen 1",
+    "text": "¿Cómo puede comprobar un TCP que la rampa de su salida de emergencia asignada está operativa antes de un vuelo?",
+    "options": [
+      "A través del visor que nos permite comprobar la presión de la rampa.",
+      "La comprobación de rampas la realiza el personal de mantenimiento al cargo.",
+      "A través del panel FAP (Forward Attendant Panel).",
+      "Armando y desarmando la rampa con la puerta abierta."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_22",
+    "topic": "Examen 1",
+    "text": "En un amaraje, ¿cuál es la mayor amenaza para la integridad de una balsa en las proximidades del avión?",
+    "options": [
+      "Las partes metálicas desgarradas del avión.",
+      "El fuerte viento.",
+      "El estado de la mar.",
+      "La succión hacia la zona de los motores."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_23",
+    "topic": "Examen 1",
+    "text": "Durante el vuelo y siempre que la señal de “Abróchense los cinturones” esté apagada, los TCP podrán autorizar el uso de aparatos electrónicos que no interfieran con el instrumental de cabina de mando, como por ejemplo:",
+    "options": ["Teléfonos móviles.", "Juguetes dirigidos por radio control.", "Walkie-talkies.", "Reproductores MP3."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_24",
+    "topic": "Examen 1",
+    "text": "Si al abrir la puerta en una evacuación de emergencia, falla la inflación automática de la rampa, la primera acción a tomar por el TCP asignado a dicha salida será:",
+    "options": [
+      "Tratará de inflarlo manualmente tirando del tirador rojo “PULL”.",
+      "Cerrará la puerta y dirigirá a los pasajeros hacia la salida de emergencia más cercana.",
+      "Bloqueará con su cuerpo la salida para que no salga nadie por ella.",
+      "Las rampas no fallan nunca."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_25",
+    "topic": "Examen 1",
+    "text": "¿En qué momento se realiza el conteo de pasaje?",
+    "options": [
+      "Cuando lo ordene el comandante.",
+      "Cuando lo ordene el sobrecargo.",
+      "Cuando todo el pasaje esté a bordo, antes del cierre de puertas.",
+      "Cuando todo el pasaje esté a bordo y lo ordene el comandante."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_26",
+    "topic": "Examen 1",
+    "text": "Durante un apoderamiento ilícito de una aeronave (secuestro) los TCPs:",
+    "options": [
+      "Si tienen ocasión, deberán convencer a los secuestradores para que cesen en su empeño.",
+      "Nunca informarán al pasaje para evitar situaciones de pánico.",
+      "Se abstendrán de opinar o discutir con los secuestradores sobre sus intenciones, ideología, religión.",
+      "La prioridad de los TCPs será la de liberar a los pasajeros."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_27",
+    "topic": "Examen 1",
+    "text": "Ante un pasajero que presenta hemorragia externa con herida en la piel, ¿cómo sabremos que es un sangrado venoso?",
+    "options": [
+      "La sangre es rojo brillante y sale a borbotones coincidiendo con las pulsaciones.",
+      "Apenas sale sangre y esta es de color rojo vivo.",
+      "El color de la sangre es rojo oscuro y sale de manera continua.",
+      "La herida es superficial y apenas sangra."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_28",
+    "topic": "Examen 1",
+    "text": "Un pasajero de 55 años con una tensión habitual de 190/100 mmHg es una persona:",
+    "options": ["Normotensa.", "Hipertensa.", "Hipotensa.", "Con riesgo inminente de padecer un ICTUS."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_29",
+    "topic": "Examen 1",
+    "text": "La maniobra de Valsalva, en general, está indicada realizarla:",
+    "options": ["Durante el despegue.", "Durante el vuelo.", "Durante el aterrizaje.", "En caso de pérdida de conocimiento."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_30",
+    "topic": "Examen 1",
+    "text": "Ante una mujer que se pone de parto a bordo del avión, el TCP ha de:",
+    "options": [
+      "Mantener la calma y preparar una zona tranquila.",
+      "Avisar a su marido y/o madre.",
+      "Pedir un sacerdote a bordo para el bautizo.",
+      "Mejor no hace nada, por si hay complicaciones."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_31",
+    "topic": "Examen 1",
+    "text": "Las primeras manifestaciones del Jet-lag son de tipo:",
+    "options": [
+      "Psico-intelectual (cambios de humor, lentitud de reflejos…)",
+      "Hormonal (cambios en la menstruación, caída de pelo…)",
+      "Gastrointestinal (náuseas, diarrea, gases…)",
+      "Cardiovascular (lip Otilia, hipertensión..)"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_32",
+    "topic": "Examen 1",
+    "text": "La ansiedad y el miedo pueden generar un cuadro de:",
+    "options": ["Hipoxia.", "ICTUS.", "Hiperventilación", "Muerte"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_33",
+    "topic": "Examen 1",
+    "text": "Ante un accidente aéreo nuestra ayuda ha de estar dirigida prioritariamente a los heridos clasificados como:",
+    "options": ["Prioridad 0.", "Prioridad 1.", "Prioridad 2.", "Prioridad 3."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_34",
+    "topic": "Examen 1",
+    "text": "Ante un atragantamiento incompleto, parcial o leve actuaremos:",
+    "options": [
+      "Dando 5 golpes interescapulares para que salga.",
+      "Recomendando que continúe tosiendo enérgicamente.",
+      "Realizando la maniobra de Heimlich 5 veces.",
+      "Alternando 5 golpes interescapulares con la maniobra de Heimlich."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_35",
+    "topic": "Examen 1",
+    "text": "El lugar adecuado para realizar el masaje cardiaco es:",
+    "options": [
+      "Es igual el sitio, con tal que lo hagamos bien.",
+      "Línea media intermamilar, sobre el esternón.",
+      "Justo encima del pezón o mamila izquierda, sobre el corazón.",
+      "Debajo del pezón o mamila izquierda."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_36",
+    "topic": "Examen 1",
+    "text": "En la RCP a los niños:",
+    "options": [
+      "Se realizarán 2 insuflaciones de rescate y luego el masaje cardiaco 30:5.",
+      "Realizaremos el masaje cardiaco con 2 brazos, moderando la fuerza.",
+      "Se realizará antes 5 insuflaciones cortas de rescate y el masaje se realizará con un brazo.",
+      "Los niños son difíciles de reanimar, por lo que pediremos ayuda a un sanitario."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_37",
+    "topic": "Examen 1",
+    "text": "La reglamentación de mercancías peligrosas de la OACI (Anexo 18):",
+    "options": ["Solamente se aplica en Europa.", "Es una normativa internacional.", "No es aplicable en España.", "La OACI no reglamenta las mercancías peligrosas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_38",
+    "topic": "Examen 1",
+    "text": "Los rizadores eléctricos para el pelo están permitidos a bordo si solo se lleva uno por pasajero:",
+    "options": [
+      "No existe limitación",
+      "La cantidad depende de la compañía.",
+      "Siempre tiene que autorizarlo el comandante.",
+      "Sí, uno como equipaje de mano o como equipaje facturado."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_39",
+    "topic": "Examen 1",
+    "text": "Las etiquetas de manipulación llevan en su interior:",
+    "options": [
+      "Solo se permiten dibujos.",
+      "Solo llevan texto en inglés.",
+      "Están prohibidas letras y dibujos: solo llevan colores diferentes y flechas.",
+      "Pueden ser de diferentes colores, con letras, textos, dibujos…"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_40",
+    "topic": "Examen 1",
+    "text": "¿A quién corresponde la declaración del expedidor de una mercancía?",
+    "options": [
+      "A la persona o empresa que recibe la mercancía.",
+      "A la persona o empresa que envía la mercancía.",
+      "A la empresa que transporta la mercancía.",
+      "A la persona que certifica el embalaje."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_41",
+    "topic": "Examen 1",
+    "text": "Las dimensiones de la etiquetas de manipulación CAO son:",
+    "options": ["120x110 cm.", "1,2x1,1 cm.", "12x11 cm.", "120x120 cm."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_42",
+    "topic": "Examen 1",
+    "text": "A lo largo de su vida profesional, un TCP deberá realizar, como mínimo, los siguientes procesos de entrenamiento:",
+    "options": [
+      "Seguridad, emergencias y de refresco.",
+      "Inicial, de conversión, periódico y de refresco.",
+      "Inicial, de conversión y diferencias, de refresco.",
+      "Inicial, de conversión y diferencias, periódico."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_43",
+    "topic": "Examen 1",
+    "text": "¿Qué define el reglamento como Miembro de la Tripulación de Cabina de Pasajeros?",
+    "options": [
+      "Es el personal uniformado que realiza labores de atención al pasaje en cabina.",
+      "Es el TCP que tiene superado el curso de atención al pasajero y CRM.",
+      "Cualquier miembro de la tripulación, que no sea de la tripulación de vuelo, que desempeñe funciones en cabina de pasajeros para la seguridad de los mismos asignadas por el operador o comandante.",
+      "Los TCP que han superado el Entrenamiento Inicial y poseen uniforme de la compañía."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_44",
+    "topic": "Examen 1",
+    "text": "Con el término “ocupantes de cabina de pasaje” nos referimos a:",
+    "options": [
+      "Todos los pasajeros.",
+      "Los pasajeros más la Tripulación de Cabina.",
+      "Los pasajeros más toda la tripulación del avión.",
+      "Solo los Tripulantes de Cabina."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_45",
+    "topic": "Examen 1",
+    "text": "El llamado “Triángulo del fuego” está compuesto por tres elementos:",
+    "options": [
+      "Oxígeno, aire y calor.",
+      "Aire, material inflamable y oxígeno.",
+      "Calor, temperatura y llama.",
+      "Oxígeno, calor y material inflamable."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_46",
+    "topic": "Examen 1",
+    "text": "¿Qué incluye la comprobación pre-vuelo en relación con los guantes de protección?",
+    "options": ["Presencia.", "Precinto.", "Presencia y precinto.", "Presencia, ubicación y precinto."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_47",
+    "topic": "Examen 1",
+    "text": "En caso de humo blanco procedente del aire acondicionado, ¿es peligroso?",
+    "options": [
+      "El humo a bordo siempre es peligroso.",
+      "El humo nunca es blanco.",
+      "Es humo no peligroso procedente de la condensación del circuito del aire.",
+      "Siempre lo pondremos en conocimiento de mantenimiento."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_48",
+    "topic": "Examen 1",
+    "text": "¿Cuáles de los siguientes líquidos estaría contraindicado beber en caso de supervivencia en el desierto?",
+    "options": ["Agua de lluvia.", "Agua de rocío.", "Refrescos carbonatados sin azúcar.", "Bebidas alcohólicas."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_49",
+    "topic": "Examen 1",
+    "text": "¿Cuántas orejetas de inflado tenemos en un chaleco salvavidas de dos cámaras para adulto?",
+    "options": ["Ninguna.", "Una.", "Dos.", "Tres."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_50",
+    "topic": "Examen 1",
+    "text": "Tras un amerizaje forzoso, ¿cuál es el peligro del que debemos protegernos?",
+    "options": [
+      "Peligro de frío.",
+      "Peligro de insolación.",
+      "Peligro de hundimiento del avión.",
+      "No hay peligro inminente si los planos están en la superficie."
+    ],
+    "correctIndex": 2
+  }
+]

@@ -1,0 +1,312 @@
+[
+  {
+    "id": "examen_general_36",
+    "topic": "Examen General",
+    "text": "Algunas clases de mercancías peligrosas se subdividen en grupos llamados",
+    "options": ["Subgrupos", "Subclases", "Divisiones", "Mercancías no peligrosas"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_37",
+    "topic": "Examen General",
+    "text": "Las etiquetas de color verde indican que la mercancía de ese contenedor es un:",
+    "options": ["Gas inflamable", "Gas no inflamable", "Líquido inflamable", "Líquido no inflamable"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_38",
+    "topic": "Examen General",
+    "text": "¿Cuál de las siguientes ciudades es sede regional de la OACI?",
+    "options": ["Barcelona", "El Cairo", "Namibia", "Venecia"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_39",
+    "topic": "Examen General",
+    "text": "La organización responsable de expedir las licencias y certificados para Tripulantes de Vuelo y Cabina de Pasajeros en España es:",
+    "options": [
+      "Aeropuertos Españoles y Navegación Aérea",
+      "Ministerio del Interior",
+      "Ministerio del Aire Español",
+      "Agencia Estatal de Seguridad Aérea"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_40",
+    "topic": "Examen General",
+    "text": "Las sustancias comburentes (oxidantes) y los peróxidos orgánicos, corresponden a la:",
+    "options": ["Clase 2", "Clase 7", "Clase 6", "Clase 5"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_41",
+    "topic": "Examen General",
+    "text": "El color de las etiquetas de los materiales radiactivos de clase 7 es:",
+    "options": ["Rojo", "Blanco y Rojo", "Rojo y Amarillo", "Blanco y Amarillo"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_42",
+    "topic": "Examen General",
+    "text": "¿Qué Anexo al Convenio de Chicago corresponde al Reglamento del Aire?",
+    "options": ["Anexo 1", "Anexo 4", "Anexo 2", "Anexo 6"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_43",
+    "topic": "Examen General",
+    "text": "La Normativa estipula que las cuantías respecto a las indemnizaciones a los pasajeros y sus mercancías se abonen en:",
+    "options": ["Dólares", "Derechos especiales de Giro", "Euros", "Libras"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_44",
+    "topic": "Examen General",
+    "text": "Señalar la afirmación correcta:",
+    "options": [
+      "Jamás se dará de comer o de beber a una persona inconsciente por el riesgo de asfixia",
+      "Dar de comer está indicado en el cuadro de abdomen agudo",
+      "Ante una lipotimia podría estar bien administrar alguna bebida alcohólica o excitante",
+      "Para subir la tensión lo mejor es colocar a la persona en PLS"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_45",
+    "topic": "Examen General",
+    "text": "¿Qué células sanguíneas se encargan del transporte de oxígeno?",
+    "options": ["La insulina", "Los trombositos", "El colesterol", "Los hematíes"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_46",
+    "topic": "Examen General",
+    "text": "Considere el siguiente ejemplo: un avión de Air France (matrícula francesa), parte de Francia y transporta pasajeros entre México y Madrid. En su vuelo Francia-México-Madrid, ¿Qué libertad del aire lo ampara?",
+    "options": ["Quinta", "Septima", "Tercera", "Primera"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_47",
+    "topic": "Examen General",
+    "text": "La respiración es un proceso:",
+    "options": ["Voluntario y Discontinuo", "Voluntario y Continuo", "Involuntario y Discontinuo", "Involuntario y Continuo"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_48",
+    "topic": "Examen General",
+    "text": "Las siglas RCP corresponden a:",
+    "options": [
+      "Reanimación Cardiopulmonar",
+      "Reanimación Cardiaca en parada",
+      "Resurrección Cardiaca y Pulmonar",
+      "Resucitación Coronaria en Parada"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_49",
+    "topic": "Examen General",
+    "text": "Una vez que los TCPs estén en sus puestos y preparados para el despegue:",
+    "options": [
+      "Realizarán el Security Check",
+      "Realizarán el Cross Check",
+      "Adoptarán la postura de protección para un posible impacto",
+      "Realizarán en Silent Review"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_50",
+    "topic": "Examen General",
+    "text": "La primera acción de un TCP al llegar al avión, tras la realización del briefing en la oficina de firmas es:",
+    "options": [
+      "Chequear el catering de comidas y bebidas",
+      "Chequear el equipo de emergencia",
+      "Chequear el equipo de emergencia de Cockpit y hacer Security Search",
+      "Chequear el sistema de oxígeno y extinción de incendios y realizar el Security Check"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_51",
+    "topic": "Examen General",
+    "text": "Que valor debe indicar la aguja del manómetro de una botella de oxígeno de primeros auxilios para saber que está llena:",
+    "options": ["Entre 1500 y 1800 PSI", "Entre 2800 y 3200 PSI", "Entre 1000 y 1400 PSI", "En 500 PSI"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_52",
+    "topic": "Examen General",
+    "text": "Las pinzas para cerrar el cordón umbilical, el tensiómetro, el glucómetro y las mascarillas de seguridad con filtro para realizar un boca-boca en caso de RCP, se encuentran:",
+    "options": [
+      "En un armario especial ubicado en los galleys",
+      "En el FAK",
+      "En el EMK",
+      "Todo eso no suele ir a bordo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_53",
+    "topic": "Examen General",
+    "text": "Para prevenir la Trombosis Venosa Profunda (TVP) de un pasajero es recomendable:",
+    "options": [
+      "Ofrecerle alguna bebida alcohólica suave",
+      "Que consuma una bebida isotónica y corra por el avión",
+      "Permitirle dar algún paseo por cabina y que beba suficiente agua",
+      "Que se tumbe en el pasillo y ponga las piernas en alto durante el viaje"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_54",
+    "topic": "Examen General",
+    "text": "En un avión con 250 asientos, ¿cuántos botiquines de primeros auxilios llevará en la Cabina de Mando?",
+    "options": ["3", "2", "1", "Ninguno"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_55",
+    "topic": "Examen General",
+    "text": "Entre las precauciones que hay que tener a la hora de administrar oxígeno de primeros auxilios a un pasajero se encuentra:",
+    "options": [
+      "Ver antes si es alérgico a algo",
+      "Utilizarlo siempre con la Full-Face",
+      "Limpiarle el rostro para eliminar la grasa o los restos de cremas o maquillaje",
+      "Comprobar su grupo sanguíneo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_56",
+    "topic": "Examen General",
+    "text": "Son partes de las salidas de emergencias en un avión:",
+    "options": [
+      "Los asideros, pata de cabra, luces de EXIT y cinta de seguridad",
+      "El visor de ARM/DESARM, ojo de buey y pata de cabra",
+      "Los asideros, el ojo de buey, y las indicaciones de exit/salida",
+      "La puerta, los asideros, la rampa y la escalerilla"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_57",
+    "topic": "Examen General",
+    "text": "Las cuerdas de evacuación de las ventanillas de emergencia serán utilizadas:",
+    "options": [
+      "Únicamente si hay fuego a bordo por el riesgo de explosión de la rampa",
+      "Únicamente en caso de amaraje y ancladas al ala",
+      "Únicamente si el aterrizaje se ha realizado en el desierto",
+      "En las salidas de emergencias solo hay rampas o rampas/balsas pero nunca cuerdas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_58",
+    "topic": "Examen General",
+    "text": "En un cuadro de hiperventilación aparecen los siguientes síntomas:",
+    "options": [
+      "Cefalea, mareo, nerviosismo y cianosis",
+      "Cefalea, mareo, vómitos e ictericia",
+      "Cefalea, mareo, hormigueo y palidez de la piel",
+      "Cefalea, mareo, convulsiones y sensación de ahogo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_59",
+    "topic": "Examen General",
+    "text": "De los gases que se enumeran a continuación, dí cual se encuentra en una proporción del 21% en la atmósfera terrestre:",
+    "options": ["Nitrógeno", "Carbono", "Oxígeno", "Hidrógeno"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_60",
+    "topic": "Examen General",
+    "text": "¿Con qué clave se define a un PRM que necesita silla de ruedas para distancias largas pero puede subir o bajar escaleras?",
+    "options": ["WCHC", "WCHR", "WCHS", "MEDA"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_61",
+    "topic": "Examen General",
+    "text": "¿Cuándo comunicará el Sobrecargo a su tripulación la orden del Comandante de armar rampas?",
+    "options": [
+      "Esa orden no la da el Sobrecargo",
+      "Tan pronto como el Comandante de la orden de cerrar puertas",
+      "En cuanto se cierren las puertas",
+      "Justo antes del despegue"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_62",
+    "topic": "Examen General",
+    "text": "Un cuadro de tos seca, dolor torácico opresivo y dificultad respiratoria en un pasajero que ha realizado submarinismo, nos hace pensar que está sufriendo:",
+    "options": ["Chokes", "Aches", "Bends", "Suffocation"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_63",
+    "topic": "Examen General",
+    "text": "La bolsa de líquido amniótico durante el parto se rompe:",
+    "options": [
+      "Al final de la dilatación y antes del expulsivo",
+      "Después del alumbramiento",
+      "Antes de empezar a dilatar",
+      "No se rompe en ningún momento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_64",
+    "topic": "Examen General",
+    "text": "¿Qué clave identifica a un pasajero en condiciones físicas especiales por ser invidente?",
+    "options": ["BLND", "BED", "DEAF", "MEDA"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_65",
+    "topic": "Examen General",
+    "text": "¿Deberán encenderse las luces de 'cinturones' y 'no fumar' en caso de una despresurización lenta en cabina?",
+    "options": ["Sí", "No es necesario", "Sólo si la despresurización hizo saltar las máscaras", "Sólo las luces de 'no fumar'"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_66",
+    "topic": "Examen General",
+    "text": "¿Cuáles son las frecuencias que, en general, puede emitir la radiobaliza, según el modelo?",
+    "options": ["151.5 MHz y 243 MHz", "243.0 MHz y 500 MHz", "121.5 MHz, 243 MHz y 406 MHz", "121.0 MHz y 406 MHz"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_67",
+    "topic": "Examen General",
+    "text": "Para activar la pila de la luz de las cunas flotantes tiraremos de la lengüeta marcada con:",
+    "options": ["Tirar de aquí", "Light ON", "Pull to Light", "Encendido"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_68",
+    "topic": "Examen General",
+    "text": "Los supervivientes de un posible accidente hacen una señal en forma de X, eso significa que:",
+    "options": ["Necesitan ayuda", "Necesitan ayuda médica", "No necesitan nada", "No hay supervivientes"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_69",
+    "topic": "Examen General",
+    "text": "Si un avión está certificado para 175 pasajeros y está equipado con el número mínimo de hachas reglamentario, ¿cuántas de éstas se situarán en la cabina de pasajeros?",
+    "options": ["1", "2", "3", "Ninguna"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_70",
+    "topic": "Examen General",
+    "text": "¿Existe normativa que indique que como mínimo uno de los extintores portátiles ubicados en cabina de pasajeros ha de ser de Halón 1211?",
+    "options": ["Si existe", "No existe", "Sí, pero el mínimo han de ser tres", "Sí, pero solo obliga en cabina de vuelo"],
+    "correctIndex": 0
+  }
+]

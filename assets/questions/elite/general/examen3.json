@@ -1,0 +1,247 @@
+[
+  {
+    "id": "examen_general_1",
+    "topic": "Examen General",
+    "text": "¿Qué nombre reciben las máscaras de colocación rápida para los pilotos ubicadas en Cockpit?",
+    "options": ["MCR", "PSE", "APU", "QDM"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_2",
+    "topic": "Examen General",
+    "text": "¿Cuánto duran, aproximadamente, los extintores de BCF de 1 kilo de capacidad?",
+    "options": ["De 6 a 9 segundos", "De 2 a 4 segundos", "De 14 a 20 segundos", "Menos de 3 segundos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_3",
+    "topic": "Examen General",
+    "text": "¿Cuál es uno de los parámetros a valorar para llevar en una aeronave elementos de flotación conjuntos?",
+    "options": ["Cuando se aleje a más de 500NM de la costa", "Cuando se aleje a más de 40NM de la costa", "Cuando se aleje a más de 50NM de la costa", "Cuando se aleje a más de 400NM de la costa"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_4",
+    "topic": "Examen General",
+    "text": "Las aeronaves deben ir provistas de, como mínimo, un transmisor automático de emergencia capaz de transmitir en las frecuencias civiles:",
+    "options": ["121.5 y 243.0 Mhz", "121.5 y 406 Mhz", "121.5/406 y 243.0 Mhz", "121.0/243.5 y 406 Mhz"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_5",
+    "topic": "Examen General",
+    "text": "¿Cuándo está indicado utilizar las bengalas día/noche?",
+    "options": ["Inmediatamente, después de activar las balizas de emergencia", "Sólo durante la noche que es cuando se ven mejor", "Cuando se presuma que pueden ser percibidas", "Cuando nos parezca indicado"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_6",
+    "topic": "Examen General",
+    "text": "¿Puede un pasajero subir al avión en su equipaje de mano una caja de fósforos de seguridad?",
+    "options": ["No puede llevarlo nunca", "Sí, pero tiene que informar al Comandante", "Sí, siempre que no lo utilice", "Sí, puede llevarlo sin problemas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_7",
+    "topic": "Examen General",
+    "text": "Hablando de etiquetas de riesgo es correcto decir:",
+    "options": ["Que tienen forma cuadrada", "Que tienen forma circular", "Que tienen forma de rombo", "Que tienen forma triangular"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_8",
+    "topic": "Examen General",
+    "text": "¿Qué significa el color azul de fondo en una etiqueta de mercancías peligrosas?",
+    "options": ["Que pueden arder espontáneamente", "Que pueden explotar con el calor", "Sustancia corrosiva y/o mercancías peligrosas varias", "Sustancias que, en contacto con el agua, emiten gases inflamables"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_9",
+    "topic": "Examen General",
+    "text": "El transporte de pesticidas en un avión está considerado mercancía peligrosa de clase:",
+    "options": ["2", "4", "6", "8"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_10",
+    "topic": "Examen General",
+    "text": "Según la normativa, se consideran variantes de tipo de avión a los aspectos:",
+    "options": ["Fuselaje ancho y fuselaje estrecho", "Manejo de salidas de emergencia, ubicación y tipo de equipos de seguridad y procedimientos de emergencia", "Ubicación y tipo de seguridad y procedimientos de emergencia", "Que sean de distinta compañía aérea"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_11",
+    "topic": "Examen General",
+    "text": "¿Qué origen tiene el oxígeno de los PSU que se utiliza en caso de despresurización?",
+    "options": ["Cartucho de oxígeno comprimido", "Botella de aire presurizado", "Generador químico de oxígeno", "Contenedores centralizados de oxígeno"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_12",
+    "topic": "Examen General",
+    "text": "La fuerza de sustentación es producida por:",
+    "options": ["La diferencia de presión entre la parte superior e inferior del fuselaje", "La diferencia de presión entre la parte superior e inferior de la cabina", "La diferencia de presión entre la parte superior e inferior del ala", "La diferencia de presión a nivel de la tierra y en altura"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_13",
+    "topic": "Examen General",
+    "text": "Los Flaps se encuentran en:",
+    "options": ["El borde de salida o de fuga del ala", "Junto a los alerones", "Sobre el ala pegado a la cabina", "Bajo el timón de salida del ala"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_14",
+    "topic": "Examen General",
+    "text": "Las fuerzas que actúan sobre un avión de forma combinada para volar son:",
+    "options": ["Empuje, sustentación, peso y velocidad", "Empuje, resistencia, peso y velocidad", "Empuje, sustentación, peso y resistencia", "Sustentación, peso, resistencia y velocidad"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_15",
+    "topic": "Examen General",
+    "text": "El número Mach es una medida de velocidad que nos indica:",
+    "options": ["La velocidad del avión respecto a otro que vuela a su lado", "La velocidad del avión en relación con la velocidad del aire en la troposfera", "La velocidad del avión en relación con la del sonido", "La velocidad del avión en relación con la de la luz"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_16",
+    "topic": "Examen General",
+    "text": "Para conseguir la estabilidad longitudinal de una aeronave se cuenta con el:",
+    "options": ["Alerón", "Timón de dirección", "Timón de profundidad", "Spoiler"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_17",
+    "topic": "Examen General",
+    "text": "La presión atmosférica o barométrica con la altura:",
+    "options": ["Aumenta", "Disminuye", "Se mantiene constante", "Primero disminuye y luego aumenta"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_18",
+    "topic": "Examen General",
+    "text": "El gas más importante para la meteorología es:",
+    "options": ["Nitrógeno", "Hidrógeno", "Dióxido de carbono", "Vapor de agua"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_19",
+    "topic": "Examen General",
+    "text": "La nube considerada la más peligrosa para los vuelos es:",
+    "options": ["CU", "NB", "CB", "ST"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_20",
+    "topic": "Examen General",
+    "text": "El Manual de Operaciones (MO):",
+    "options": ["Afecta únicamente a la tripulación técnica", "Afecta únicamente a la tripulación técnica y al personal de tierra", "Afecta a la tripulación técnica y a los TCPs", "Afecta únicamente a los TCPs"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_21",
+    "topic": "Examen General",
+    "text": "Según la Normativa Europea, llamamos “tiempo de vuelo” a:",
+    "options": ["Todo el tiempo que el avión está en el aire", "Desde que el avión comienza a moverse por sus propios medios hasta que se detiene en el destino", "A la suma de todo el tiempo que ese avión está en el aire, aunque sean diferentes vuelos", "A las horas que un avión está en el aire en 24 horas"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_22",
+    "topic": "Examen General",
+    "text": "Las tripulaciones de vuelo en España dependen directamente de:",
+    "options": ["AENA", "AESA", "SENASA", "EASA"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_23",
+    "topic": "Examen General",
+    "text": "¿Qué debe hacer el Sobrecargo cuando se iluminen los letreros “Abróchense los cinturones”?",
+    "options": ["Sentarse lo más pronto posible", "Continuar con la operación rutinaria", "Contactar inmediatamente con el Comandante", "Revisar antes de abrochar su cinturón que todos los TCPs lo tienen puesto"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_24",
+    "topic": "Examen General",
+    "text": "¿Qué es lo que verificamos fundamentalmente en las inspecciones de los lavabos?",
+    "options": ["Que no se ve, ni se huele humo. Que no se ha descargado el extintor automático y que el extintor de humo funciona correctamente y no ha sido manipulado", "Que el agua fría sale fría y el agua caliente sale caliente", "Que la puerta antes de entrar está fría", "Que no se ha quedado encerrado ningún pasajero"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_25",
+    "topic": "Examen General",
+    "text": "En general y tras el aterrizaje de la aeronave, ¿Cuándo se desarmarán las rampas?",
+    "options": ["No es necesario desarmarlas", "Al ir rodando por pista tras el aterrizaje", "En cuanto el avión toque tierra", "En el aparcamiento, con el avión parado, y una vez que el Sobrecargo reciba autorización de cabina de mando"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_26",
+    "topic": "Examen General",
+    "text": "¿Qué es un MEDA?",
+    "options": ["Un médico a bordo", "Un caso médico", "Un pasajero en silla de ruedas", "Son los enfermos que viajan en camilla"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_27",
+    "topic": "Examen General",
+    "text": "La calificación de emergencia prevista/imprevista se hace en función de:",
+    "options": ["La sorpresa que nos cause el momento", "Si está contemplada en el Manual de Operaciones de la compañía o no", "Esta clasificación no existe. Las emergencias son imprevistas siempre", "El tiempo del que se disponga para preparar la evacuación"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_28",
+    "topic": "Examen General",
+    "text": "¿Qué clave identifica a un PMR por su sordera?",
+    "options": ["BED", "BLND", "DEAF", "MEDA"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_29",
+    "topic": "Examen General",
+    "text": "¿Qué edad comprende a un Infant?",
+    "options": ["De 2 años cumplidos a 12 años cumplidos", "De 0 a 2 años, cumplidos los 2 a fecha del vuelo", "De 2 años cumplidos a 12 años, no habiendo cumplido los 14 a la fecha del vuelo", "De 0 a 2 años, no habiendo cumplido los 2 a fecha del vuelo"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_30",
+    "topic": "Examen General",
+    "text": "La causa más frecuente de hiperventilación en vuelo es:",
+    "options": ["El pánico o miedo", "El consumo exagerado de aspirinas", "El fuerte dolor de oídos", "La hipoxia"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_31",
+    "topic": "Examen General",
+    "text": "Ante un pasajero que presenta graves quemaduras por llama, primeramente hemos de:",
+    "options": ["Cubrirlo con mantas para que no pierda calor", "Retirarle rápidamente todas las ropas y ponerle pomada", "Empapar el cuerpo con agua fresca o aplicar compresas mojadas para enfriar la zona afectada", "Darle de beber para reponer líquidos que haya podido perder"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_32",
+    "topic": "Examen General",
+    "text": "La trompa de Eustaquio comunica:",
+    "options": ["El oído externo y el oído medio", "El oído medio y la nasofaringe", "El oído interno y el nervio auditivo", "El oído medio y el oído interno"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_33",
+    "topic": "Examen General",
+    "text": "Cuando nace un niño en un avión, ¿Cuál deberá ser nuestra primera actuación?",
+    "options": ["Limpiarle las secreciones de la nariz y boca y abrigarle", "Lavarle bien con agua templada", "Cerrar y cortar el cordón umbilical", "Dárselo a la madre"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_34",
+    "topic": "Examen General",
+    "text": "Que sería correcto decir si estamos hablando de botiquines a bordo de un avión:",
+    "options": ["No se aconseja llevarlos a bordo si no va un sanitario que los maneje", "Es obligatorio llevarlos en cualquier aeronave y comprobar su estado periódicamente", "Es conveniente llevarlos, aunque no es recomendable su utilización", "Los botiquines a bordo sólo los maneja el Comandante de la aeronave"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_35",
+    "topic": "Examen General",
+    "text": "¿Cuándo es más efectivo el uso de la pistola de señales?",
+    "options": ["De día", "De noche", "En el mar", "En una zona de arbolada"],
+    "correctIndex": 1
+  }
+]

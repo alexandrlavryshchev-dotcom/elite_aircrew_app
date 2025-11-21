@@ -1,0 +1,247 @@
+[
+  {
+    "id": "examen_general_106",
+    "topic": "Examen General",
+    "text": "¿Cómo se denomina a la fuerza generada por un motor de propulsión?",
+    "options": ["Tracción", "Impulso", "Potencia", "Empuje"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_107",
+    "topic": "Examen General",
+    "text": "En caso de oxígeno proveniente de un generador químico, ¿qué precauciones debemos tener en cuenta?",
+    "options": ["Los generadores químicos alcanzan altas temperaturas una vez puestos en marcha", "Tras la reacción química el contenedor se congela", "No se necesita ninguna precaución adicional", "No disponemos de generadores químicos en el avión"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_108",
+    "topic": "Examen General",
+    "text": "¿A qué se llama en aeronáutica \"un día libre suelto\"?",
+    "options": ["A un día completo sin volar", "No existe \"día libre suelto\"", "A un día libre que incluye dos noches locales", "A un día libre que incluye una noche local"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_109",
+    "topic": "Examen General",
+    "text": "Las superficies de control secundarias con las que un piloto mantiene el control de una aeronave son:",
+    "options": ["Flaps, Slats y Spoiler", "Flaps y Slats únicamente", "Timón de profundidad, alerones y timón de dirección", "Timón de profundidad, alerones, timón de dirección y Flaps y Slats"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_110",
+    "topic": "Examen General",
+    "text": "A la diferencia angular entre el Norte Geográfico y el Norte Magnético, se le denomina:",
+    "options": ["Diferencia angular", "Declinación", "Ángulo geográfico", "Ángulo magnético"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_111",
+    "topic": "Examen General",
+    "text": "En vuelos con un único TCP a bordo, en el caso de que éste no tenga experiencia:",
+    "options": ["El Comandante deberá nombrar a un segundo TCP que le instruya", "Además de los entrenamientos inicial, seguridad, conversión y/o diferencias, deberá someterse a formación extra y a vuelos de familiarización de al menos 20 horas", "Deberá realizar vuelos de familiarización previos, de al menos 12 horas de duración", "No sucede nada. Siempre tiene que haber un primer día"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_112",
+    "topic": "Examen General",
+    "text": "La Tripulación completa de una aeronave deberá superar un Curso de Conversión antes de ser:",
+    "options": ["Cuando pasen de TCPs a Pilotos", "Considerado apto para ser nombrado Sobrecargo", "Designado para operar otro tipo de avión", "Autorizado por AESA para recibir el certificado de TCP"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_113",
+    "topic": "Examen General",
+    "text": "Llamamos rumbo o derrota:",
+    "options": ["Al ángulo que forma la dirección del morro del avión con el meridiano geográfico/magnético", "Al ángulo que forma el morro del avión con el Ecuador", "A la dirección a la que nos dirigimos", "Desde el aeropuerto, al punto de aterrizaje hacia el que volaremos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_114",
+    "topic": "Examen General",
+    "text": "Teniendo en cuenta la hora legal y la hora local en España Peninsular, diremos que en invierno ésta es:",
+    "options": ["La hora local es GMT y la hora legal GMT+1", "La hora local es la hora legal (la del huso) + 2: GMT+2", "La hora local es la hora legal (la del huso) + 1: GMT+1", "La hora local y la hora legal son la misma: GMT"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_115",
+    "topic": "Examen General",
+    "text": "Las mercancías peligrosas de clase 5 son:",
+    "options": ["Cerillas, azufre y celuloides", "Sustancias, comburentes y peróxidos", "Mercancías peligrosas diversas", "Materiales radioactivos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_116",
+    "topic": "Examen General",
+    "text": "El índice de transporte (IT) es aplicable, únicamente, a los artículos:",
+    "options": ["Venenosos", "Corrosivos", "Explosivos", "Radiactivos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_117",
+    "topic": "Examen General",
+    "text": "Las dos formas diferentes de Isobaras que hay son:",
+    "options": ["Altas y bajas presiones", "Altas y medianas presiones", "Ciclones y tornados", "Borrascas y chubascos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_118",
+    "topic": "Examen General",
+    "text": "Las líneas imaginarias que van uniendo los puntos con los mismos valores de presión se llaman:",
+    "options": ["Husos", "Paralelos", "Meridianos", "Isobaras"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_119",
+    "topic": "Examen General",
+    "text": "La clase 9 de mercancías peligrosas incluye:",
+    "options": ["Gases inflamables", "Mercancías peligrosas diversas", "Materiales radioactivos", "Sustancias corrosivas"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_120",
+    "topic": "Examen General",
+    "text": "Las mercancías peligrosas en aviación están clasificadas en:",
+    "options": ["7 clases", "9 clases", "10 clases", "11 clases"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_121",
+    "topic": "Examen General",
+    "text": "Señala, en el orden correcto ascendente, las capas de la atmósfera:",
+    "options": ["Troposfera, Estratosfera, Mesosfera y Termosfera", "Mesosfera, Termosfera, Troposfera y Estratosfera", "Termosfera, Troposfera, Estratosfera y Exosfera", "Exosfera, Mesosfera, Troposfera y Termosfera"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_122",
+    "topic": "Examen General",
+    "text": "¿Qué proporciona el APU (Auxiliary Power Unit) a un avión en tierra?",
+    "options": ["Proporciona aire acondicionado", "Proporciona energía eléctrica", "Proporciona una fuerza auxiliar de empuje", "Proporciona energía neumática y energía eléctrica"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_123",
+    "topic": "Examen General",
+    "text": "Las sustancias tóxicas y los venenos llevan unas etiquetas cuyo fondo es de color:",
+    "options": ["Rojo", "Negro", "Blanco", "Naranja"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_124",
+    "topic": "Examen General",
+    "text": "Un cuerpo extraño enclavado en la vía respiratoria puede ser expulsado mediante la llamada:",
+    "options": ["Maniobra de Valsalva", "Maniobra de Heimlich", "Maniobra de frente-mentón", "Triple maniobra de tracción mandibular"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_125",
+    "topic": "Examen General",
+    "text": "El sistema hidráulico de un avión:",
+    "options": ["Es utilizado para el cambio de ruedas del tren de aterrizaje únicamente", "Nos proporciona energía adicional y aire a presión", "Mueve los mandos de vuelo, tanto primarios como secundarios", "Los aviones no tienen sistema hidráulico, sólo neumático"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_126",
+    "topic": "Examen General",
+    "text": "¿Cuál de los siguientes instrumentos se vería afectado si se bloqueara el Tubo de Pilot?",
+    "options": ["Variómetro", "Barómetro", "Altímetro", "Anemómetro"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_127",
+    "topic": "Examen General",
+    "text": "La movilización de heridos o lesionados puede agravar su estado, en especial si se trata de:",
+    "options": ["Personas con hemorragias", "Personas quemadas", "Personas con posibles lesiones medulares", "Personas en parada cardiorespiratoria"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_128",
+    "topic": "Examen General",
+    "text": "Entre las recomendaciones alimenticias para el vuelo, tanto para pasajeros como para tripulación, se incluye:",
+    "options": ["Consumir únicamente carnes poco hechas con ensalada", "Ni realizar comidas muy copiosas ni beber refrescos con gas", "No ingerir nada sólido cuatro horas antes del vuelo", "Tomar bebidas con cafeínas y excitantes para mantenernos bien despiertos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_129",
+    "topic": "Examen General",
+    "text": "La cadena de huesecillos (martillo, yunque y estribo) se sitúan en:",
+    "options": ["Oído externo", "Oído medio", "Oído interno", "Oído profundo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_130",
+    "topic": "Examen General",
+    "text": "Cuando sucede una incapacitación del Comandante, el orden de sucesión en el mando es:",
+    "options": ["Segundo Piloto, Sobrecargo y TCP de mayor antigüedad", "Sobrecargo, Segundo Piloto y el TCP más dispuesto", "El TCP más preparado, el Sobrecargo y el Segundo Piloto", "De entre toda la tripulación el que mantenga más la calma"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_131",
+    "topic": "Examen General",
+    "text": "El descanso mínimo, siempre que el tripulante descanse en la base, será igual a la actividad precedente y en cualquier caso no inferior a:",
+    "options": ["12 horas", "8 horas", "72 horas", "24 horas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_132",
+    "topic": "Examen General",
+    "text": "La barosinusitis o aerosinusitis:",
+    "options": ["Sólo afectará a los que están operados de amígdalas", "Para evitarla sería recomendable la maniobra de Valsalva para abrir la Trompa de Eustaquio", "Afectará a la mayoría de los pasajeros a bordo", "Afecta únicamente a las personas que padecen sinusitis o tienen congestión nasal"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_133",
+    "topic": "Examen General",
+    "text": "Son signos y síntomas de quemadura de segundo grado:",
+    "options": ["Piel enrojecida y gran sensibilidad y dolor en la zona", "Ampolla y dolor", "Aspecto blanquecino, seco y/ o con zonas de necrosis", "Sangrado sin dolor"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_134",
+    "topic": "Examen General",
+    "text": "El certificado de Tripulante de Cabina de Pasajeros y el Certificado Médico son documentos:",
+    "options": ["Aeronáuticos", "Personales", "Opcionales", "Secretos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_135",
+    "topic": "Examen General",
+    "text": "El Consejo de la OACI se compone de:",
+    "options": ["36 Estados", "40 Estados", "50 Estados", "10 Estados"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_136",
+    "topic": "Examen General",
+    "text": "La Comisión de Estudio y Análisis de Notificaciones de Incidentes de Tránsito Aéreo (CEANITA) presta asesoramiento y colaboración a:",
+    "options": ["AENA", "FAA", "AESA", "EASA"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_137",
+    "topic": "Examen General",
+    "text": "¿Qué procedimiento debemos esperar tras una despresurización?",
+    "options": ["Descenso de emergencia", "Presurización de la cabina de nuevo", "Seguir volando normalmente, pues se dispone de oxígeno", "Contar el número de pasajeros por si faltara alguno"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_138",
+    "topic": "Examen General",
+    "text": "Una broncoconstricción (estrechamiento del bronquio) con disnea indica:",
+    "options": ["Obstrucción por cuerpo extraño", "Asma bronquial", "Tromboembolismo pulmonar", "Neumonía"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_139",
+    "topic": "Examen General",
+    "text": "¿Qué diferencias básicas encontraremos en la RCP practicada a un bebé frente a la realizada a un adulto?",
+    "options": ["Utilizaremos únicamente 2 dedos y las insuflaciones serán más pequeñas, abarcando boca y nariz", "No hay diferencia significativa salvo la fuerza con la que se realiza", "A los bebés no podremos hacerle la RCP. Solo puede el personal sanitario", "Para realizar el masaje cardiaco le acomodaremos en una cama mullida y blanda"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_140",
+    "topic": "Examen General",
+    "text": "Para comprobar que una persona respira hemos de:",
+    "options": ["Abrir la vía aérea y colocar un Tubo de Guedel", "Ver-oír- y sentir la respiración", "Tomar el pulso carotideo", "Observar su cara hasta que se ponga cianótica"],
+    "correctIndex": 1
+  }
+]

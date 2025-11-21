@@ -1,0 +1,247 @@
+[
+  {
+    "id": "examen_general_71",
+    "topic": "Examen General",
+    "text": "¿Hacia dónde debemos estar apuntando con la pistola de señales antes de apretar el gatillo?",
+    "options": ["Horizontalmente", "Verticalmente, hacia arriba", "Hacia la aeronave que creemos que nos está viendo", "Hacia el sonido, cuando pensemos que las señales pueden ser oídas"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_72",
+    "topic": "Examen General",
+    "text": "¿Qué efecto puede tener el hielo o el frío sobre el Tubo de Pilot?",
+    "options": ["Que nos dé falsas lecturas el anemómetro", "Que nos dé falsas lecturas el altímetro", "Que no sepamos si el avión está o no nivelado", "No le afecta para nada, ya que va bajo cubierta"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_73",
+    "topic": "Examen General",
+    "text": "Los servicios de búsqueda y salvamentos del SAR tienen como misión:",
+    "options": ["Buscar y rescatar todas las personas accidentadas en España", "Localizar aeronaves siniestradas y coordinar las ayudas necesarias", "Localizar barcos y aeronaves siniestradas en el mar", "Los SAR no son servicios de búsqueda y salvamento"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_74",
+    "topic": "Examen General",
+    "text": "El altímetro de un avión mide:",
+    "options": ["La altitud y la altura del avión medida en pies", "La altitud del avión medida en metros", "La altitud y la altura a la que vuela un avión en metros", "La altura a la que mide un avión en metros"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_75",
+    "topic": "Examen General",
+    "text": "¿Cuándo está indicado lanzar al agua la radiobaliza tras un amaraje?",
+    "options": ["Cuando calculemos que ya nos pueden estar buscando", "Cuando se escuche ruido de barcos o aviones", "Lo antes posible", "Lo más probable es que no tengamos la radiobaliza en la balsa"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_76",
+    "topic": "Examen General",
+    "text": "¿Es lo mismo Halón 1211 y BCF?",
+    "options": ["No, de ninguna manera", "Son parecidos, pero no exactamente iguales", "Sí, es la manera de llamar al bromoclorodifluorometano", "El Halón 1211 no existe"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_77",
+    "topic": "Examen General",
+    "text": "En las bajas presiones, las presiones disminuyen por las isobaras desde el exterior hacia el centro, donde son mínimas. Estas se conocen como:",
+    "options": ["Tormentas", "Borrascas", "Anticiclones", "Tornados"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_78",
+    "topic": "Examen General",
+    "text": "La niebla, la neblina y la bruma son fenómenos que:",
+    "options": ["Pueden descargar agua en cualquier momento", "Son muy peligrosas para la navegación de noche", "Nos dificultan la visibilidad", "Son fenómenos atmosféricos sin relación entre ellas"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_79",
+    "topic": "Examen General",
+    "text": "De acuerdo con la clasificación europea, de qué clase es un fuego cuyo combustible son líquidos inflamables como la gasolina?",
+    "options": ["Clase A", "Clase B", "Clase C", "Clase D"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_80",
+    "topic": "Examen General",
+    "text": "Los extintores portátiles, y como mínimo una unidad, estarán colocados según normativa:",
+    "options": ["En cabina de vuelo, en cabina de pasajeros y en cada galley", "En cabina de vuelo, en cabina de pasajeros, en cada galley y en los lavabos", "En cabina de vuelo y de pasajeros", "En cabina de vuelo, en cada galley, en cada compartimento de equipaje de clase A/B, en cada compartimento de carga de clase E y en el compartimento de pasaje"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_81",
+    "topic": "Examen General",
+    "text": "¿Qué nos proporciona una estación VOR?",
+    "options": ["Radioayuda", "Combustible", "Electricidad", "Información climatológica"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_82",
+    "topic": "Examen General",
+    "text": "Las salidas de emergencia de un avión:",
+    "options": ["Siempre son las del lado derecho", "Solo se usan las del lado izquierdo", "Se usan las de ambos lados indistintamente", "Solo son las que tienen rampas"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_83",
+    "topic": "Examen General",
+    "text": "¿Qué es la ID?",
+    "options": ["Tarjeta de identificación del pasajero", "Tarjeta de identificación de un tripulante necesario para realizar el vuelo y que entrega a su llegada", "Tarjeta de identificación de un tripulante necesario para realizar un vuelo y debe estar visible para pasar los controles de acceso a la aeronave", "Tarjeta de identificación del Comandante"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_84",
+    "topic": "Examen General",
+    "text": "Según la normativa, ¿con cuantas horas de antelación debemos presentarnos al servicio para embarcar en un avión de 100 asientos o más y con un sector inicial igual o inferior a 3h bloque?",
+    "options": ["45 minutos antes de la hora programada del despegue", "50 minutos antes de la hora programada del despegue", "65 minutos antes de la hora programada del despegue", "90 minutos antes de la hora programada del despegue"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_85",
+    "topic": "Examen General",
+    "text": "La disminución de temperatura a medida que se asciende en la atmósfera, varía:",
+    "options": ["10º C por cada 1000 ft", "2º C por cada 1000 ft", "10º F por cada 1000 ft", "2º F por cada 1000 ft"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_86",
+    "topic": "Examen General",
+    "text": "¿Qué nos indica el variómetro de un avión y en qué unidades mide?",
+    "options": ["Las variaciones en la velocidad horizontal (aceleraciones positivas o negativas, ft/minuto)", "Las variaciones en el régimen de ascenso y descenso (velocidad vertical en ft/minuto)", "Variaciones en la velocidad horizontal (aceleraciones positivas o negativas)", "Variaciones en la presión atmosférica o barométrica (milibares)"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_87",
+    "topic": "Examen General",
+    "text": "¿Qué asiento ocupa el tripulante denominado como F/O?",
+    "options": ["El asiento delantero izquierdo de la cabina de vuelo", "El asiento delantero derecho de la cabina de vuelo", "El asiento justo detrás del Comandante (supervisor)", "El asiento 1-R"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_88",
+    "topic": "Examen General",
+    "text": "El transporte de gases no inflamables/no tóxicos en un avión está considerado mercancía peligrosa de clase:",
+    "options": ["1", "2", "3", "No es una mercancía peligrosa"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_89",
+    "topic": "Examen General",
+    "text": "¿Cómo se denomina a la distancia angular entre el meridiano 0º de Greenwich y un meridiano cualquiera?",
+    "options": ["Latitud", "Deriva", "Longitud", "Rumbo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_90",
+    "topic": "Examen General",
+    "text": "¿Cuál es la función primaria del sistema motor o planta de potencia del avión?",
+    "options": ["Suministrar energía eléctrica al avión", "Suministrar aire acondicionado y aire medicinal", "Proporcionar al avión propulsión necesaria para poder realizar el vuelo", "Suministrar el empuje necesario para lograr la máxima sustentación en vuelo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_91",
+    "topic": "Examen General",
+    "text": "El transporte de bacterias, virus o desechos clínicos en general en un avión está considerado mercancía peligrosa de clase:",
+    "options": ["2", "4", "6", "8"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_92",
+    "topic": "Examen General",
+    "text": "El arsénico, la nicotina y los pesticidas son mercancías peligrosas clasificadas en la clase:",
+    "options": ["2", "4", "6", "8"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_93",
+    "topic": "Examen General",
+    "text": "Según la legislación vigente, la validez del certificado médico aeronáutico de un TCP menor de 40 años es de:",
+    "options": ["10 meses", "5 años", "10 años", "5 meses"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_94",
+    "topic": "Examen General",
+    "text": "Según la Ley de Navegación Aérea, para ser Comandante en una aeronave civil con bandera española:",
+    "options": ["Hay que ser español y mayor de edad", "Hay que ser ciudadano europeo con más de 21 años", "Hay que tener 25 años cumplidos", "Hay que estar nacionalizado español y tener más de 21 años y 100 horas de vuelo"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_95",
+    "topic": "Examen General",
+    "text": "Los embalajes para mercancías peligrosas en cantidades limitadas:",
+    "options": ["Sólo pueden ser cajas de madera", "En el exterior figurará: LIMITED QUANTITY-LTD. QTY", "En su exterior han de ser marcados con un código de especificación", "Son los únicos tipos de embalajes válidos en una aeronave"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_96",
+    "topic": "Examen General",
+    "text": "El transporte de baterías, líquidos, con ácido en un avión está considerado mercancía peligrosa de clase:",
+    "options": ["2", "4", "6", "8"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_97",
+    "topic": "Examen General",
+    "text": "En un accidente aéreo, los fallecidos se designarán con la prioridad:",
+    "options": ["0", "1", "2", "3"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_98",
+    "topic": "Examen General",
+    "text": "La Dirección General de Aviación Civil es el organismo español dependiente de:",
+    "options": ["El Ministerio del Interior", "El Ministerio de Defensa", "El Ministerio de Transporte", "El Ministerio de Fomento"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_99",
+    "topic": "Examen General",
+    "text": "El artículo 97 de la Ley de Navegación Aérea fija que el transportista está obligado a transportar, junto con cada pasajero, su equipaje:",
+    "options": ["Con los límites de peso que se fijen en los reglamentos", "Sin límite de peso ni número de bultos", "Sin límite, siempre que haya espacio dentro de la aeronave", "No está obligado, ya que todo el equipaje ha de ser facturado y llevado en bodega"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_100",
+    "topic": "Examen General",
+    "text": "El embarazo de una TCP:",
+    "options": ["Es motivo más que suficiente para el despido", "No impide realizar las actividades en el avión hasta la semana 39", "Si no provoca anormalidades permite viajar hasta el tercer mes de gestación", "Según la normativa está exenta de volar desde el primer día de gestación"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_101",
+    "topic": "Examen General",
+    "text": "Un esguince es una lesión de:",
+    "options": ["Hueso", "Ligamento", "Tendón", "Articulación"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_102",
+    "topic": "Examen General",
+    "text": "La comisión encargada de estudiar todos los accidentes e incidentes en aviación civil que se producen en territorio español, y evitar así su repetición, se llama:",
+    "options": ["AESA", "CIAIAC", "SENASA", "IATA"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_103",
+    "topic": "Examen General",
+    "text": "Todas las opciones corresponden a luces de emergencia del avión menos una:",
+    "options": ["Iluminación general de cabina y letreros de EXIT/SALIDA", "Luces de punta de plano", "Luces de los pasillos y del piso de los pasajes que conducen a las salidas de emergencia", "Luces del exterior de las salidas que iluminan desde el umbral hasta el suelo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_104",
+    "topic": "Examen General",
+    "text": "Respecto del corazón, se llama arteria a:",
+    "options": ["Los vasos sanguíneos que salen del corazón", "Los vasos sanguíneos que entran al corazón", "Los vasos sanguíneos que van hacia la cabeza", "Los vasos sanguíneos que van hacia los pulmones"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_105",
+    "topic": "Examen General",
+    "text": "Una hiperventilación:",
+    "options": ["Es una emergencia médica que merece desviar la ruta", "No es grave si no pasa de 250 latidos/minuto", "Hay que tratarla pero no está considerada urgencia vital", "Es grave solo cuando se empieza a poner cianótico"],
+    "correctIndex": 3
+  }
+]

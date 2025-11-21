@@ -1,4 +1,3 @@
-// Fichero: lib/screens/tests/test_results_screen.dart
 import 'package:flutter/material.dart';
 import 'package:adv_formacion/config/app_theme.dart';
 
@@ -7,7 +6,8 @@ class TestResultsScreen extends StatelessWidget {
   final int correctCount;
   final int totalQuestions;
   final bool isAesaExam;
-  final VoidCallback? onRetry; // Para el examen AESA
+  final bool isEliteExam; // 🔹 Para Elite finales
+  final VoidCallback? onRetry;
 
   const TestResultsScreen({
     super.key,
@@ -15,6 +15,7 @@ class TestResultsScreen extends StatelessWidget {
     required this.correctCount,
     required this.totalQuestions,
     this.isAesaExam = false,
+    this.isEliteExam = false,
     this.onRetry,
   });
 
@@ -22,8 +23,9 @@ class TestResultsScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     final double percentage = totalQuestions > 0 ? (correctCount / totalQuestions) : 0.0;
 
-    // Criterio de aprobado AESA: mínimo 38/50
-    final bool isPassed = isAesaExam ? (correctCount >= 38 && totalQuestions == 50) : (percentage >= 0.7); // 70% para tests normales
+    final bool isPassed = (isAesaExam || isEliteExam)
+        ? (correctCount >= 38)
+        : (percentage >= 0.7); // 70% para tests normales
 
     final Color resultColor = isPassed ? AppColors.highlight : AppColors.error;
     final String resultText = isPassed ? '¡APROBADO!' : 'SUSPENSO';
@@ -32,7 +34,7 @@ class TestResultsScreen extends StatelessWidget {
       backgroundColor: AppColors.white,
       appBar: AppBar(
         title: Text('Resultados: $title'),
-        automaticallyImplyLeading: false, // Quitar el botón de volver
+        automaticallyImplyLeading: false,
         backgroundColor: AppColors.primary,
       ),
       body: Center(
@@ -47,7 +49,6 @@ class TestResultsScreen extends StatelessWidget {
                 color: resultColor,
               ),
               const SizedBox(height: 20),
-
               Text(
                 resultText,
                 style: TextStyle(
@@ -57,7 +58,6 @@ class TestResultsScreen extends StatelessWidget {
                 ),
               ),
               const SizedBox(height: 20),
-
               Card(
                 elevation: 6,
                 child: Padding(
@@ -89,15 +89,15 @@ class TestResultsScreen extends StatelessWidget {
                           color: AppColors.primary,
                         ),
                       ),
-                      if (isAesaExam)
+                      if ((isAesaExam || isEliteExam) && !isPassed)
                         Padding(
                           padding: const EdgeInsets.only(top: 10),
                           child: Text(
-                            isPassed ? '¡Has superado el mínimo de 38!' : 'Necesitas al menos 38 correctas para aprobar.',
+                            'Necesitas al menos 38 correctas para aprobar.',
                             textAlign: TextAlign.center,
                             style: TextStyle(
                               fontSize: 14,
-                              color: isPassed ? Colors.green.shade700 : AppColors.error,
+                              color: AppColors.error,
                               fontWeight: FontWeight.bold,
                             ),
                           ),
@@ -108,12 +108,11 @@ class TestResultsScreen extends StatelessWidget {
               ),
               const SizedBox(height: 40),
 
-              // Botones de acción
+              // Botón volver al dashboard
               SizedBox(
                 width: double.infinity,
                 child: ElevatedButton(
                   onPressed: () {
-                    // Volver al Dashboard (navegación principal)
                     Navigator.of(context).popUntil((route) => route.isFirst);
                   },
                   style: ElevatedButton.styleFrom(
@@ -124,7 +123,8 @@ class TestResultsScreen extends StatelessWidget {
                 ),
               ),
 
-              if (isAesaExam && onRetry != null) ...[
+              // Botón reintentar si aplica
+              if ((isAesaExam || isEliteExam) && onRetry != null) ...[
                 const SizedBox(height: 15),
                 SizedBox(
                   width: double.infinity,

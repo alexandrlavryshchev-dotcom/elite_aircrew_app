@@ -1,3 +1,15 @@
+// build.gradle.kts (nivel proyecto)
+buildscript {
+    repositories {
+        google()
+        mavenCentral()
+    }
+    dependencies {
+        // Plugin de Google Services para Firebase
+        classpath("com.google.gms:google-services:4.4.4")
+    }
+}
+
 allprojects {
     repositories {
         google()
@@ -5,6 +17,7 @@ allprojects {
     }
 }
 
+// Opcional: cambiar la carpeta de build
 val newBuildDir: Directory =
     rootProject.layout.buildDirectory
         .dir("../../build")
@@ -15,10 +28,12 @@ subprojects {
     val newSubprojectBuildDir: Directory = newBuildDir.dir(project.name)
     project.layout.buildDirectory.value(newSubprojectBuildDir)
 }
+
 subprojects {
     project.evaluationDependsOn(":app")
 }
 
+// Tarea para limpiar build
 tasks.register<Delete>("clean") {
     delete(rootProject.layout.buildDirectory)
 }

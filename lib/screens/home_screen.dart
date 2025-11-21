@@ -82,7 +82,7 @@ class _HomeScreenState extends State<HomeScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Bienvenido a ADV Formación'),
+        title: const Text('Bienvenido a Elite Aircrew'),
         backgroundColor: AppColors.moradoAcademia,
         centerTitle: true,
       ),

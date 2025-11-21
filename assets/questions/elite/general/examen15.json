@@ -1,0 +1,407 @@
+[
+  {
+    "id": 71,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "¿Cómo se considera a cualquier paralelo distinto al Ecuador?",
+    "options": ["Un círculo menor", "Un círculo mayor", "Un meridiano menor", "Un meridiano mayor"],
+    "correctIndex": 0
+  },
+  {
+    "id": 72,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "¿Qué longitud tendrá un punto situado en la superficie terrestre en el meridiano opuesto a Greenwich?",
+    "options": ["0º", "180º", "90 W", "90 E"],
+    "correctIndex": 1
+  },
+  {
+    "id": 73,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "¿Alrededor de qué eje del avión se produce el movimiento denominado alabeo?",
+    "options": ["Lateral", "Longitudinal", "Oblicuo", "Vertical"],
+    "correctIndex": 1
+  },
+  {
+    "id": 74,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "¿Cómo se denomina al movimiento del avión alrededor de su eje vertical?",
+    "options": ["Guiñada", "Alabeo", "Cabeceo", "Barrena"],
+    "correctIndex": 0
+  },
+  {
+    "id": 75,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "¿Cuál de los siguientes elementos se considera una superficie de mando de vuelo?",
+    "options": ["Empenaje de cola", "Tubo Pitot", "Timón de profundidad", "Encastre del ala"],
+    "correctIndex": 2
+  },
+  {
+    "id": 76,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "En un avión comercial de pasajeros, ¿qué parte del ala tiene mayor curvatura?",
+    "options": [
+      "El intradós, para acelerar las partículas de aire en esta superficie.",
+      "El intradós, para decelerar las partículas de aire en esta superficie.",
+      "El extradós, para acelerar las partículas de aire en esta superficie.",
+      "El extradós, para decelerar las partículas de aire en esta superficie."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 77,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "Si creemos que las condiciones exteriores de una salida de emergencia son inseguras para una evacuación ¿Qué deberíamos hacer?",
+    "options": [
+      "Advertir a los pasajeros y decidir todos juntos lo que hacemos",
+      "Se actuará según se crea conveniente dependiendo del momento",
+      "Impedir la apertura de la misma, montar la cinta de seguridad si disponemos de ella e impedir la evacuación por esa salida",
+      "No importan las condiciones exteriores. Hay que abrir la salida."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 78,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "En una emergencia prevista, el comandante deberá informar al sobrecargo de los siguientes puntos:",
+    "options": [
+      "Tipo de emergencia, ETA (Estimated Time of Arrival), lugar de aterrizaje, señal de protección convenida e instrucciones especiales.",
+      "Tiempo de vuelo, condiciones atmosféricas e información adicional.",
+      "Tiempo para impacto e instrucciones especiales.",
+      "ETA (Estimated Time of Arrival), lugar de aterrizaje e instrucciones especiales"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 79,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "¿Cuál es el procedimiento correcto a seguir, en caso de que saltase un “circuit breaker” y quedase desconectado?",
+    "options": [
+      "Volvemos a introducir el CB y si salta de nuevo, avisamos al comandante",
+      "Desconectar el aparato y no utilizarlo más",
+      "El comandante deberá ser informado y pediremos su autorización para volverlo a conectar",
+      "Anotarlo en el LogBook y llegados a tierra comentárselo al comandante."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 80,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "En caso de amaraje, es muy importante ordenar a los pasajeros que:",
+    "options": [
+      "No se coloquen el chaleco hasta haber salido del avión",
+      "Lleven consigo todo lo que consideren conveniente de cara a la supervivencia",
+      "Que no abran las salidas de emergencia bajo ningún concepto",
+      "A los pasajeros que evacuan por los planos, la importancia de hacerlo por el borde de ataque"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 81,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "Si tuviésemos la necesidad de emplear el chaleco salvavidas, para su correcta utilización será necesario:",
+    "options": [
+      "Inflarlo dentro del avión antes de salir.",
+      "Salir con él en la mano y ponérnoslo e inflarlo cuando estemos en el agua.",
+      "Sacarlo de su alojamiento, ponérnoslo, ajustarlo bien e inflarlo fuera del avión.",
+      "Primero se lo pondremos a los niños que lo puedan necesitar y luego nos lo pondremos nosotros."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 82,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "¿Cuál es el procedimiento habitual en la comprobación prevuelo de los megáfonos?",
+    "options": [
+      "Comprobar si tiene pilas",
+      "Comprobar si está en su sitio",
+      "Ubicarlo en compañía del sobrecargo para así dar fe de su correcta comprobación",
+      "Ubicación correcta y apretando el gatillo se hace audible un clic, lo que significa que tiene pilas y está operativo."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 83,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "¿De qué color son las etiquetas de las Mercancías Peligrosas de la Clase 6 (Sustancias tóxicas y sustancias infecciosas)?",
+    "options": ["Verde", "Rojo", "Amarillo y Blanco", "Blanco"],
+    "correctIndex": 3
+  },
+  {
+    "id": 84,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "La clase 5 de la clasificación de MMPP en función del riesgo que supone su transporte, corresponde a:",
+    "options": ["Sólidos inflamables", "ComburIentes. (con i)", "Líquidos inflamables", "Todas son incorrectas"],
+    "correctIndex": 1
+  },
+  {
+    "id": 85,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "El servicio de búsqueda y salvamento (S.A.R. Search and Rescue) tiene por misión localizar aeronaves siniestradas y hacer llegar lo más rápidamente posible ayuda. Para ello cuenta con:",
+    "options": [
+      "Jefatura a nivel nacional, Centros Coordinadores de Salvamento (RCC), Centros Secundarios de Salvamento y medios aéreos de búsqueda y rescate y red de comunicaciones.",
+      "Jefatura a nivel nacional, Centros Coordinadores de Salvamento y medios aéreos y terrestres de búsqueda y rescate",
+      "Jefatura a nivel provincial, Centros Coordinadores de Salvamento (RCA) y Centros Secundarios de Salvamento (RCS) así como medios aéreos de búsqueda y rescate.",
+      "Jefatura a nacional, Asamblea y Centros de Activación de Emergencias."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 86,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "La insubordinación o alzamiento contra la autoridad, incluida la autoridad del comandante de una aeronave se llama:",
+    "options": ["Apoderamiento ilícito", "Sedición", "Desacato", "Alzamiento"],
+    "correctIndex": 1
+  },
+  {
+    "id": 87,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "¿Qué condiciones han de cumplir los embalajes?",
+    "options": [
+      "Deben ser de buena calidad y cerrar de modo seguro",
+      "Si están en contacto con mercancías peligrosas, deben ser resistentes a toda reacción química con ellas.",
+      "El material de relleno o absorbente no reaccionará peligrosamente con los recipientes",
+      "Todas son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 88,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "Si durante un vuelo, un pasajero presentase una crisis de epilepsia. ¿Cuál de los siguientes medicamentes podríamos administrarle?",
+    "options": ["Valium", "Fortasec", "Gluscomón", "Aspirina"],
+    "correctIndex": 0
+  },
+  {
+    "id": 89,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "Señala cuál de las siguientes medicaciones no está indicada para el tratamiento de una crisis alérgica:",
+    "options": ["Polaramine", "Urbasón", "Digoxina", "Adrenalina"],
+    "correctIndex": 2
+  },
+  {
+    "id": 90,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "Ante un pasajero que presenta una crisis hipertensiva, ¿Qué medicamento de los siguientes está contraindicado administrárselo?",
+    "options": ["Captopril", "Adrenalina", "Adalat", "Seguril"],
+    "correctIndex": 1
+  },
+  {
+    "id": 91,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "¿Qué podemos utilizar para desinfectar una herida?",
+    "options": ["Clorina", "Cristalmina", "Algodón", "A y B son correctas"],
+    "correctIndex": 3
+  },
+  {
+    "id": 92,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "Si durante un vuelo un pasajero comienza a presentar mareos o vértigos debido a turbulencias, le daremos:",
+    "options": ["Valium", "Caproamín", "Methergin", "Stugeron"],
+    "correctIndex": 3
+  },
+  {
+    "id": 93,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "El Valium se le administrará a un pasajero con:",
+    "options": ["Convulsiones", "Ansiedad", "Una hipertensión arterial severa", "Todas son correctas"],
+    "correctIndex": 1
+  },
+  {
+    "id": 94,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "A un pasajero que presenta acidez gástrica, debemos darle:",
+    "options": ["Almax", "Priperam", "Abundante agua", "A y C son ciertas"],
+    "correctIndex": 3
+  },
+  {
+    "id": 95,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "El Polaramine debemos administrárselo a una persona que presenta:",
+    "options": ["Una reacción alérgica", "Cefálea", "Vómitos", "Vértigo"],
+    "correctIndex": 0
+  },
+  {
+    "id": 96,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "Un dolor de cabeza puede aliviarse con:",
+    "options": ["Apiretal", "Termalgin", "Nolotil", "Todas ellas"],
+    "correctIndex": 3
+  },
+  {
+    "id": 97,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "A un pasajero al que le damos una Valeriana o un Valium, presenta:",
+    "options": ["Vómitos", "Una crisis de ansiedad", "Un Infarto", "Una lipotimia"],
+    "correctIndex": 1
+  },
+  {
+    "id": 98,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "A un pasajero al que le hemos administrado Valium, le hemos aislado la vía aérea y colocado un tubo de Guedel a modo de mordedor, hemos apartado todas las cosas a su alrededor y le hemos puesto oxígeno. Esto se debe a que la persona presenta:",
+    "options": ["Desmayo", "Convulsiones", "Shock", "Hemorragia"],
+    "correctIndex": 1
+  },
+  {
+    "id": 99,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "Cualquier bulto considerado mercancía peligrosa deberá ir marcado con:",
+    "options": [
+      "Tipo de embalaje.",
+      "Nombre de la empresa expedidora, remitente y destinatario.",
+      "Número ONU y/o denominación del artículo.",
+      "Todas las respuestas son correctas."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 100,
+    "topic": "Navegación, aeronáutica y primeros auxilios",
+    "question": "Según el teorema de Bernoulli:",
+    "options": [
+      "A más velocidad del aire, más presión.",
+      "A más presión, más velocidad del aire.",
+      "A más velocidad del aire, menor presión.",
+      "Todas las respuestas son falsas."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 101,
+    "topic": "Examen general de TCP y aviación",
+    "question": "¿Qué clave identifica a un PRM por su sordera?",
+    "options": ["BED", "BLND", "DEAF", "MEDA"],
+    "correctIndex": 2
+  },
+  {
+    "id": 102,
+    "topic": "Examen general de TCP y aviación",
+    "question": "En el transporte de carga, ¿qué documento se considera contrato de transporte?",
+    "options": ["La carta de porte aéreo", "El billete", "Talón de equipajes", "Ninguna de las anteriores es cierta"],
+    "correctIndex": 0
+  },
+  {
+    "id": 103,
+    "topic": "Examen general de TCP y aviación",
+    "question": "¿Cómo se llama la capa de la atmósfera en la que transcurren normalmente los vuelos comerciales?",
+    "options": ["Estratosfera", "Tropopausa", "Troposfera", "Mesosfera"],
+    "correctIndex": 2
+  },
+  {
+    "id": 104,
+    "topic": "Examen general de TCP y aviación",
+    "question": "¿Dónde se sitúa la ozonosfera?",
+    "options": ["La troposfera", "La estratosfera", "La termosfera", "La ionosfera"],
+    "correctIndex": 1
+  },
+  {
+    "id": 105,
+    "topic": "Examen general de TCP y aviación",
+    "question": "¿Cuál es la duración mínima del oxígeno de emergencia o suplementario para pasajeros?",
+    "options": ["15 minutos", "10 minutos", "20 minutos", "25 minutos"],
+    "correctIndex": 0
+  },
+  {
+    "id": 106,
+    "topic": "Examen general de TCP y aviación",
+    "question": "La salida de sangre pulsátil de una herida nos indica que el sangrado es:",
+    "options": ["Venoso", "Arterial", "Capilar venoso", "Capilar arterial"],
+    "correctIndex": 1
+  },
+  {
+    "id": 107,
+    "topic": "Examen general de TCP y aviación",
+    "question": "¿Por encima de qué altitud entramos en la llamada 'fase crítica' por hipoxia?",
+    "options": ["10.000 ft", "12.000 ft", "15.000 ft", "20.000 ft"],
+    "correctIndex": 0
+  },
+  {
+    "id": 108,
+    "topic": "Examen general de TCP y aviación",
+    "question": "La aerocinetosis está relacionada con:",
+    "options": ["Gases internos", "Falta de humedad", "Respiración lenta", "Mareos repentinos"],
+    "correctIndex": 3
+  },
+  {
+    "id": 109,
+    "topic": "Examen general de TCP y aviación",
+    "question": "De acuerdo con la clasificación europea, ¿cómo clasificaríamos un fuego originado en un compartimento eléctrico o electrónico?",
+    "options": ["Clase A", "Clase D", "Clase C", "Clase E"],
+    "correctIndex": 2
+  },
+  {
+    "id": 110,
+    "topic": "Examen general de TCP y aviación",
+    "question": "La evacuación total de pasaje y tripulación en una emergencia ha de durar menos de:",
+    "options": ["90 minutos", "90 segundos", "9 segundos", "60 segundos"],
+    "correctIndex": 1
+  },
+  {
+    "id": 111,
+    "topic": "Examen general de TCP y aviación",
+    "question": "Si un pasajero presenta mareos o vértigos debido a turbulencias, se le administrará:",
+    "options": ["Valium", "Caproamín", "Methergin", "Stugeron"],
+    "correctIndex": 3
+  },
+  {
+    "id": 112,
+    "topic": "Examen general de TCP y aviación",
+    "question": "Un dolor de cabeza puede aliviarse con:",
+    "options": ["Apiretal", "Termalgin", "Nolotil", "Todas ellas"],
+    "correctIndex": 3
+  },
+  {
+    "id": 113,
+    "topic": "Examen general de TCP y aviación",
+    "question": "Para desinfectar una herida podemos utilizar:",
+    "options": ["Clorina", "Cristalmina", "Algodón", "A y B son correctas"],
+    "correctIndex": 3
+  },
+  {
+    "id": 114,
+    "topic": "Examen general de TCP y aviación",
+    "question": "Según el teorema de Bernoulli:",
+    "options": ["A más velocidad del aire, más presión", "A más presión, más velocidad del aire", "A más velocidad del aire, menor presión", "Todas las respuestas son falsas"],
+    "correctIndex": 2
+  },
+  {
+    "id": 115,
+    "topic": "Examen general de TCP y aviación",
+    "question": "La fuerza que se opone al empuje durante un vuelo a altitud de crucero se denomina:",
+    "options": ["Resistencia", "Tracción", "Aceleración", "Sustentación"],
+    "correctIndex": 0
+  },
+  {
+    "id": 116,
+    "topic": "Examen general de TCP y aviación",
+    "question": "Uno de los mandos de vuelo situados en el borde de ataque del ala que ayuda a la sustentación se llama:",
+    "options": ["Flaps", "Slaps", "Slats", "Spoiler"],
+    "correctIndex": 2
+  },
+  {
+    "id": 117,
+    "topic": "Examen general de TCP y aviación",
+    "question": "¿Cómo se manipulan los mandos del timón de profundidad?",
+    "options": ["Moviendo la palanca de izquierda a derecha", "Moviendo la palanca hacia delante o hacia detrás", "Accionando los pedales", "Extendiendo los flaps"],
+    "correctIndex": 1
+  },
+  {
+    "id": 118,
+    "topic": "Examen general de TCP y aviación",
+    "question": "Si un cohete despegara de la Tierra, ¿en qué orden se encontrarían las capas de la atmósfera?",
+    "options": ["Troposfera, estratosfera, mesosfera, termosfera, exosfera", "Troposfera, termosfera, mesosfera, estratosfera, exosfera", "Estratosfera, mesosfera, exosfera, termosfera, troposfera", "Exosfera, estratosfera, mesosfera, troposfera, termosfera"],
+    "correctIndex": 0
+  },
+  {
+    "id": 119,
+    "topic": "Examen general de TCP y aviación",
+    "question": "¿Cuántos grados gira la Tierra en 1 hora?",
+    "options": ["10º", "15º", "30º", "20º"],
+    "correctIndex": 1
+  },
+  {
+    "id": 120,
+    "topic": "Examen general de TCP y aviación",
+    "question": "La hora local en el meridiano 0 (Greenwich) es 17:30, ¿qué hora es a 30 grados este?",
+    "options": ["16:30", "17:30", "19:30", "Es la misma"],
+    "correctIndex": 2
+  }
+]

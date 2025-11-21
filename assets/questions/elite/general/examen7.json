@@ -1,0 +1,327 @@
+[
+  {
+    "id": "examen_general_1",
+    "topic": "Examen General",
+    "text": "El convenio de Varsovia trata de:",
+    "options": [
+      "Responsabilidad del transportista frente a los pasajeros y sus mercancías",
+      "Normativa Internacional del Transporte Aéreo",
+      "Responsabilidad del Comandante frente a un accidente por el transporte de mercancías peligrosas",
+      "Las cuantias de las indemnizaciones por despido improcedente de los miembros de las tripulaciones"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_2",
+    "topic": "Examen General",
+    "text": "El órgano propulsor de un motor de reacción es:",
+    "options": ["El compresor", "La hélice", "La tobera", "La turbina"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_3",
+    "topic": "Examen General",
+    "text": "Una milla nautica (1NM) equivale a:",
+    "options": ["1,582 KM", "1,852 m", "1,852 Km", "118,520 cm"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_4",
+    "topic": "Examen General",
+    "text": "¿Que significa la palabra ELEVACIÓN?",
+    "options": [
+      "Distancia vertical de un punto con la superficie terrestre",
+      "Distancia vertical de un punto con relación al nivel del mar",
+      "Distancia vertical de un punto sobre la superficie terrestre y el nivel del mar",
+      "Ninguna de las respuestas anteriores es correcta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_5",
+    "topic": "Examen General",
+    "text": "¿Que es un KT?",
+    "options": [
+      "Medida de altura",
+      "Medida de longitud",
+      "Medida de la velocidad del sonido",
+      "Ninguna de las anteriores es correcta"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_6",
+    "topic": "Examen General",
+    "text": "La velocidad que podemos observar en el anemómetro es la:",
+    "options": ["IAS", "TAS", "MACH", "GS"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_7",
+    "topic": "Examen General",
+    "text": "El APU (Auxiliary Power Unit) es:",
+    "options": [
+      "Proporciona aire acondicionado",
+      "Una fuente auxiliar de empuje",
+      "Proporciona energía eléctrica",
+      "A y C son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_8",
+    "topic": "Examen General",
+    "text": "¿Cuantos grados centigrados serian 50ºF?",
+    "options": ["15ºC", "10ºC", "20ºC", "25ºC"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_9",
+    "topic": "Examen General",
+    "text": "¿Las libertades del aire consideradas como técnicas son?",
+    "options": ["Primera", "Primera y Segunda", "Tercera, Cuarta y Quinta", "Todas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_10",
+    "topic": "Examen General",
+    "text": "Un avión de bandera Española transporta pasajeros desde Genova hasta Madrid. Esta haciendo uso de:",
+    "options": [
+      "Tercera libertad del aire",
+      "Cuarta libertad del aire",
+      "Quinta libertad del aire",
+      "Sexta libertad del aire"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_11",
+    "topic": "Examen General",
+    "text": "Los miembros de la tripulación no deberán consumir alcohol ¿Desde cuantas horas antes del vuelo?",
+    "options": ["12 Horas", "8 Horas", "10 Horas", "24 Horas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_12",
+    "topic": "Examen General",
+    "text": "¿Que es un MEDA?",
+    "options": [
+      "Una tarjeta de seguro internacional",
+      "Medicación Asistida para un PAX",
+      "Un medico a bordo",
+      "Aquel pasajero que requiere autorización medica para volar"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_13",
+    "topic": "Examen General",
+    "text": "La hemoglobina tiene una afinidad por el monoxido de carbono con respecto a la de oxigeno. Por un factor de:",
+    "options": ["100-120", "200-210", "300", "10-20"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_14",
+    "topic": "Examen General",
+    "text": "Señala la correcta:",
+    "options": [
+      "Las venas salen del corazón",
+      "Las venas entran en el corazón",
+      "Algunas venas salen y otras entran",
+      "Ninguna es correcta"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_15",
+    "topic": "Examen General",
+    "text": "Las dos regiones mas vulnerables de la columna vertebral son:",
+    "options": [
+      "Región lumbar y dorsal",
+      "Región dorsal y sacra",
+      "Región cervical y lumbar",
+      "Ninguna es correcta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_16",
+    "topic": "Examen General",
+    "text": "El T.U.C a 40.000 pies es de:",
+    "options": ["1 a 2 minutos", "2 a 4 minutos", "15 a 20 segundos", "40 a 60 segundos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_17",
+    "topic": "Examen General",
+    "text": "Llamamos Cianosis a:",
+    "options": [
+      "Coloración amarillenta de los ojos",
+      "Palidez de la piel y las mucosas",
+      "Coloración azulada de la piel y la mucosidad",
+      "Ninguna de las anteriores"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_18",
+    "topic": "Examen General",
+    "text": "La trombosis venosa profunda (TVP) es:",
+    "options": [
+      "Una complicación vascular",
+      "Una enfermedad cerebral",
+      "Una forma de circulacion de la sangre",
+      "Una enfermedad veterinaria"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_19",
+    "topic": "Examen General",
+    "text": "¿Cuantos megáfonos debe llevar un avión de 80 asientos de pasajeros?",
+    "options": ["4", "3", "2", "1"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_20",
+    "topic": "Examen General",
+    "text": "¿Con cuanto tiempo de antelación se dará la señal de despegue?",
+    "options": ["No existe ningún aviso previo ni call out previo al despegue", "30 seg", "1 min", "5 min"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_21",
+    "topic": "Examen General",
+    "text": "Hasta cuando se debe mantener la posición de impacto?",
+    "options": [
+      "Hasta que hayan pasado los impactos mas fuertes y duros",
+      "Hasta que el avión se haya parado completamente",
+      "Hasta que se apague la señal de NO SMOKING",
+      "Las respuestas A y C son correctas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_22",
+    "topic": "Examen General",
+    "text": "Para que un avión sea certificado deberá demostrarse que es posible abandonarlo por la totalidad de los pasajeros, excluidos los menores de dos años y la tripulación, utilizando el 50 % de las salidas de emergencia en un tiempo igual o inferior a:",
+    "options": ["60 seg", "90 seg", "120 seg", "150 seg"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_23",
+    "topic": "Examen General",
+    "text": "¿Cuanto dura el sistema de O2 del pasaje?",
+    "options": [
+      "Al menos unos 15 minutos",
+      "Mas de 20 minutos",
+      "Lo que se tarde durante el descenso de emergencia",
+      "Lo que establezca el MBO y la tripulación técnica"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_24",
+    "topic": "Examen General",
+    "text": "Si se produce un fuego en la cabina de pasajeros, este deberá ser atacado por:",
+    "options": [
+      "Por el primer TCP que lo vea",
+      "Por el Sobrecargo",
+      "Por el TCP mas antiguo",
+      "El tripulante de mayores aptitudes"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_25",
+    "topic": "Examen General",
+    "text": "El fuego se combate atacando:",
+    "options": [
+      "Su contorno y los alrededores",
+      "La base del mismo",
+      "La zona mas caliente y azulada",
+      "La parte superior del mismo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_26",
+    "topic": "Examen General",
+    "text": "Una de las frecuencias de radiobaliza es de:",
+    "options": ["120.5 Mhz", "121.5 Mhz", "122.5 Mhz", "125.5 Mhz"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_27",
+    "topic": "Examen General",
+    "text": "Entre las señales visuales que pueden utilizar los supervivientes de un accidente para hacer indicaciones a quienes los buscan desde el aire, se encuentra la V, que significa:",
+    "options": ["Necesitamos ayuda medica", "Necesitamos ayuda", "Estamos todos bien", "Necesitamos ayuda alimenticia"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_28",
+    "topic": "Examen General",
+    "text": "¿Es verdadera la sentencia: `` Si no tiene agua no coma´´?",
+    "options": ["Es falsa", "Es verdadera", "Depende de las circunstancias", "Dicha afirmación no tiene ninguna relación"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_29",
+    "topic": "Examen General",
+    "text": "¿Cual seria el deletreo correcto según el alfabeto aeronáutico de la palabra MALETA?",
+    "options": [
+      "MIKE-ALFA-LOSA-HECTOR-TIERRA-ALFA",
+      "MICROPHONE-ALFA-LIMA-ECHO-TANGO-ALFA",
+      "MICROPHONE-ALFA-LOSA-ECHO-TANGO-ALFA",
+      "MIKE-ALFA-LIMA-ECHO-TANGO-ALFA"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_30",
+    "topic": "Examen General",
+    "text": "Los canales semicirculares se encuentran en:",
+    "options": ["El pabellón auricular", "El oído interno", "El oído externo", "El oído medio"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_31",
+    "topic": "Examen General",
+    "text": "Un pasajero puede sufrir un ataque de taquicardia cuando su corazón late a un ritmo:",
+    "options": [
+      "Superior a 100 latidos por minuto",
+      "Superior a 60 latidos por minuto",
+      "Menor a 60 latidos por minuto",
+      "Menor de 100 latidos por minuto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_32",
+    "topic": "Examen General",
+    "text": "El anexo 4 del convenio de Chicago corresponde a",
+    "options": ["Operación de aeronaves", "Seguridad", "Cartas aeronáuticas", "Servicio de transito aéreo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_33",
+    "topic": "Examen General",
+    "text": "¿Como se denomina el sistema de frenado que depende directamente de los motores de los aviones?",
+    "options": ["Spoilers", "Reversas", "Aerofrenos", "Ninguna de las anteriores"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_34",
+    "topic": "Examen General",
+    "text": "La División 2.3 de la Clase 2 ``Gases´´, corresponde a:",
+    "options": ["Gases inflamables", "Gases no inflamables no toxicos", "Gases volatiles", "Gases tóxicos"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_35",
+    "topic": "Examen General",
+    "text": "Las sustancias tóxicas, infecciosas y radioactivas de la Categoría I, usan una etiqueta color:",
+    "options": ["Blanco", "Negro", "Rojo", "Naranja"],
+    "correctIndex": 2
+  }
+]

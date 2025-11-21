@@ -1,0 +1,602 @@
+[
+  {
+    "id": "examen2_1",
+    "topic": "Examen 2",
+    "text": "Los slats de un avión son:",
+    "options": [
+      "Dispositivos utilizados para el movimiento de alabeo.",
+      "Elementos hipersustentadores situado en el borde de ataque.",
+      "Alerones que desplegamos en los despegues.",
+      "Adornos que se colocan en el fuselaje para que sea viso desde tierra."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_2",
+    "topic": "Examen 2",
+    "text": "¿A qué parte del avión llamamos intradós y cómo se comporta en ella el aire?",
+    "options": [
+      "Parte superior del plano, donde la presión es menor.",
+      "Parte inferior del plano, donde la presión es mayor.",
+      "Parte inferior del plano, donde la presión es menor.",
+      "Parte superior del plano, donde la presión es mayor."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_3",
+    "topic": "Examen 2",
+    "text": "Para que un avión alabee a la derecha, el piloto ha de girar:",
+    "options": [
+      "El timón de dirección a la izquierda.",
+      "Los spoilers de dirección a la izquierda.",
+      "El timón de profundidad atraviesa a tope.",
+      "El alerón izquierdo abajo y el derecho arriba."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen2_4",
+    "topic": "Examen 2",
+    "text": "¿Qué nombre recibe el ángulo que forma la cuerda con la dirección de la corriente libre de aire?",
+    "options": [
+      "Extradós.",
+      "Ángulo de ataque.",
+      "Intradós.",
+      "Borde de salida."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_5",
+    "topic": "Examen 2",
+    "text": "Uno de los motivos por los que un avión puede entrar en pérdida es:",
+    "options": [
+      "Por exceso de peso.",
+      "Por exceso de velocidad.",
+      "Por sobrepasar el ángulo de ataque crítico.",
+      "Por sobrepasar el ángulo de salida crítico."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_6",
+    "topic": "Examen 2",
+    "text": "En una aeronave, los spoilers:",
+    "options": [
+      "Rompen la corriente aerodinámica en el entrados, disminuyendo la resistencia y aumentando la sustentación.",
+      "Se utiliza únicamente para girar la aeronave.",
+      "Rompen la corriente aerodinámica en el entrados, aumentando la resistencia y disminuyendo la sustentación.",
+      "Son un tipo de hipersustentadores de los aviones turbohélice."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_7",
+    "topic": "Examen 2",
+    "text": "Los movimientos del avión con respecto de su eje longitudinal se conoce como:",
+    "options": [
+      "Alabeo, balanceo o roll.",
+      "Cabeceo o pitch.",
+      "Guiñada o Pitch.",
+      "Guiñada o yak."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_8",
+    "topic": "Examen 2",
+    "text": "El número Mach se refiere a:",
+    "options": [
+      "La velocidad a la que un avión vuela con respecto a la velocidad de la luz.",
+      "La velocidad a la que va el sonido con respecto a la velocidad de un avión a reacción.",
+      "La velocidad a la que un avión vuela con respecto a la velocidad del sonido.",
+      "El número mach no tiene nada que ver con los aviones."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_9",
+    "topic": "Examen 2",
+    "text": "Como regla general el despegue de un avión se hará:",
+    "options": [
+      "En contra del viento.",
+      "En contra del viento si estamos bajo la influencia de una borrasca.",
+      "En la misma dirección del viento.",
+      "En la misma dirección del viento si estamos bajo la influencia de un anticiclón."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_10",
+    "topic": "Examen 2",
+    "text": "Según el Teorema de Bernouilli:",
+    "options": [
+      "Si la velocidad de una partícula de aire aumenta, su presión también aumenta.",
+      "La presión y la velocidad de las partículas del aire no guardan ninguna relación entre si.",
+      "Si la presión de las partículas disminuye, su velocidad también disminuye.",
+      "Si la velocidad de una partícula de aire aumenta, su presión disminuye."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen2_11",
+    "topic": "Examen 2",
+    "text": "¿En qué convenio se regula y limita por primera vez la responsabilidad del transportista frente a los pasajeros?",
+    "options": [
+      "Convenio de Varsovia.",
+      "Convenio de Helsinki.",
+      "Convenio de Madrid.",
+      "Convenio de Roma."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_12",
+    "topic": "Examen 2",
+    "text": "La normativa básica para la Seguridad de la Aviación Civil en España recibe el nombre de:",
+    "options": [
+      "Normativa Básica de Seguridad Aérea.",
+      "Estatutos de la Aviación Civil de España.",
+      "Lay de Navegación Aérea.",
+      "Ley de Seguridad Aérea."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen2_13",
+    "topic": "Examen 2",
+    "text": "En la identificación de las aeronaves españolas figurarán las siguientes marcas:",
+    "options": [
+      "Nacionalidad (bandera española) y en su interior la matrícula (tres letras).",
+      "Código de la matrícula (tres letras), código de la nacionalidad (EC) y nacionalidad (bandera española).",
+      "Código de la nacionalidad (ES) y nacionalidad (bandera española).",
+      "La nacionalidad (bandera española) mas el número de avión (tres letras y dos números)."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_14",
+    "topic": "Examen 2",
+    "text": "El máximo responsable de lo que sucede en un avión en pleno vuelo es:",
+    "options": [
+      "El comandante en cockpit y el TCP en cabina de pasajeros.",
+      "El Sobrecargo en cabina de pasajeros.",
+      "El operador de la nave siempre es el último responsable de todo.",
+      "El Comandante de la aeronave."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen2_15",
+    "topic": "Examen 2",
+    "text": "El Anexo 13 al Convenio sobre Aviación Civil Internacional es:",
+    "options": [
+      "La investigación de accidentes.",
+      "La declaración de accidentes.",
+      "Determina la responsabilidad frente a los accidentes.",
+      "Las normas de evacuación en un accidente."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_16",
+    "topic": "Examen 2",
+    "text": "¿A qué operación asociarías las siglas ABP?",
+    "options": [
+      "Pasajero ciego con perro lazarillo.",
+      "Pasajeros seleccionados para ayudar en una posible evacuación.",
+      "Unidad de servicio al pasajero.",
+      "Pasajero movilidad reducida."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_17",
+    "topic": "Examen 2",
+    "text": "¿Qué posición de emergencia adoptará un tripulante cuyo puesto operativo está en el sentido contrario a la marcha?",
+    "options": [
+      "Cabeza y espalda en posición vertical, apoyando la espalda contra el respaldo y piernas cruzadas a la altura de los tobillos.",
+      "Mentón sobre el pecho, apoyando la espalda contra el respaldo.",
+      "Mentón ligeramente elevado, apoyando la espalda contra el respaldo, piernas firmemente apoyadas en el suelo y ligeramente separadas.",
+      "Mentón pegado al pecho, apoyando la espalda contra el respaldo, con manos bajo las piernas."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_18",
+    "topic": "Examen 2",
+    "text": "¿Quién es el responsable de la distribución de posiciones de los TCPs antes del vuelo?",
+    "options": [
+      "El Sobrecargo.",
+      "La compañía.",
+      "El coordinador.",
+      "El jefe de auxiliares."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_19",
+    "topic": "Examen 2",
+    "text": "Según la vigente normativa, las limitaciones sobre chalecos son:",
+    "options": [
+      "Ha de haber 1/pasajero equipado con una luz que se active con el agua.",
+      "Ha de haber 1/tripulante, 1/pasajero y 1/bebé.",
+      "Debe haber 1/pasajero con luz y silbato.",
+      "Debe haber 1/persona a bordo y equipado con una luz."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_20",
+    "topic": "Examen 2",
+    "text": "Antes de iniciar el rodaje de la aeronave por pista:",
+    "options": [
+      "Los TCPs deben realizar la demostración de seguridad.",
+      "Los TCPs deben armar las rampas.",
+      "El Comandante debe dar a los pasajeros la información sobre el vuelo.",
+      "Los TCPs deben estar sentados y asegurados en sus transportines."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen2_21",
+    "topic": "Examen 2",
+    "text": "¿Qué se conoce en aeronáutica como un UM?",
+    "options": [
+      "Al pasajero de 5 a 12 años que viaja acompañado.",
+      "Al menor de 2 a 12 años, sin cumplir los 12 años en la fecha del vuelo, que viaja solo.",
+      "Al menor de 5 a 12 años, cumplidos los 12 años en la fecha del vuelo, que viaja solo.",
+      "Al menor de 5 a 12 años, sin cumplir los 12 años en la fecha del vuelo y que viaja solo."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_22",
+    "topic": "Examen 2",
+    "text": "¿Se puede sentar a un Child de 10 años en una salida de emergencia?",
+    "options": [
+      "No, los child nunca pueden sentarse en salidas de emergencia.",
+      "Si, mientras que vaya acompañado de un adulto.",
+      "Si porque a partir de los 9 años ya pueden sentarse en salida de emergencia.",
+      "Sólo en caso de que no sea una ventanilla de emergencia."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_23",
+    "topic": "Examen 2",
+    "text": "¿Cómo debe un TCP comprobar de forma correcta el material de emergencia asignado?",
+    "options": [
+      "De memoria, agilizando así la comprobación del mismo.",
+      "Con la Lista de Chequeo del material de emergencia en mano. Cada TCP chequeará su zona asignada.",
+      "El TCP responsable de la zona deberá chequear junto con el personal de mantenimiento que el material de emergencia esté en perfectas condiciones.",
+      "El Sobrecargo será el responsable de comprobar que todo el material de emergencia esté en perfectas condiciones."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_24",
+    "topic": "Examen 2",
+    "text": "Los pasajeros de movilidad reducida se dividen en:",
+    "options": [
+      "Ciegos y sordos.",
+      "Con sillas de ruedas y ciegos.",
+      "Ambulatorios y no ambulatorios.",
+      "Con sillas de ruedas y/o muletas y ciegos y/o sordos."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen2_25",
+    "topic": "Examen 2",
+    "text": "Una vez iniciada una evacuación:",
+    "options": [
+      "Puede suspenderse si consideramos que ya ha pasado el peligro.",
+      "No deberá interrumpirse nunca, aunque el peligrosa haya pasado.",
+      "Puede detenerse solo si lo ordena el Comandante.",
+      "Lo que nos dejemos en el avión no podremos volver a recogerlo en ningún momento."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_26",
+    "topic": "Examen 2",
+    "text": "¿Qué se entiende en aeronáutica por 'atalaje'?",
+    "options": [
+      "Cualquier cinta que nos sujete al asiento.",
+      "El cinturón de seguridad de los asientos de los TCPs.",
+      "El conjunto de cinturones de seguridad y tirantes unidos en un único cierre.",
+      "Conjunto de cinturón, tirantes y reposacabezas."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_27",
+    "topic": "Examen 2",
+    "text": "Hablando de hipoxia, sería correcto decir:",
+    "options": [
+      "Es indicativo de exceso de hemoglobina en sangre.",
+      "Si es muy grave puede aparecer ictericia.",
+      "Es la falta de oxígeno en el organismo.",
+      "Se corrige colocando una bolsa sobre la boca y nariz para que respire en ella."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_28",
+    "topic": "Examen 2",
+    "text": "Dentro de las radiaciones ionizantes se encuentran:",
+    "options": [
+      "Las hertzianas.",
+      "Los rayos X.",
+      "Las microondas.",
+      "Los radares infrarrojos."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_29",
+    "topic": "Examen 2",
+    "text": "¿Qué significan las siglas FAK?",
+    "options": [
+      "Botiquín de primeros auxilios.",
+      "Desfibrilador semiautomático.",
+      "Botiquín médico de emergencia.",
+      "Radiobaliza de emergencia."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_30",
+    "topic": "Examen 2",
+    "text": "En caso de que un pasajero sufra una crisis epiléptica en pleno vuelo, la prioridad del TCP será:",
+    "options": [
+      "Inmovilizar al pasajero rapidamente.",
+      "Suministrarle medicación urgente.",
+      "Evitar que se lesione golpeándose.",
+      "Tranquilizarle para que deje de moverse."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_31",
+    "topic": "Examen 2",
+    "text": "Lo primero que debe hacer el TCP tras una descompresión durante el TUC será:",
+    "options": [
+      "Obtener oxígeno para el compañero más cercano.",
+      "Poner inmediatamente oxígeno al Comandante.",
+      "Obtener oxígeno para sí mismo y así evitar una incapacitación por hipoxia.",
+      "Llevar el carro al galley y anclarlo convenientemente."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_32",
+    "topic": "Examen 2",
+    "text": "Una de las patologías que incluye el 'síndrome tromboembólico' es:",
+    "options": [
+      "El traumatismo óseo.",
+      "El paro cardio-respiratorio.",
+      "La trombosis venosa profunda.",
+      "La intoxicación por medicamentos."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_33",
+    "topic": "Examen 2",
+    "text": "¿Cuál será la actuación más correcta en caso de luxación de un hueso?",
+    "options": [
+      "Intentar poner en su sitio la articulación afectada lo antes posible.",
+      "Mandar a la persona que ella misma se la coloque en su sitio.",
+      "Inmovilizarla tal y como esté colocando una férula o vendaje, moderando las maniobras de tracción, y no intentar nunca reducirla.",
+      "Colocar la parte afectada hacia abajo para que llegue bien la sangre."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_34",
+    "topic": "Examen 2",
+    "text": "Un pasajero que ha de ser transportado hasta el aeropuerto en la llamada 'posición de seguridad' consiste en colocarlo:",
+    "options": [
+      "Boca arriba o supino.",
+      "Boca abajo o prono.",
+      "En posición lateral.",
+      "En fowler."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_35",
+    "topic": "Examen 2",
+    "text": "Si un pasajero diabético sufre una crisis de hipoglucemia a bordo, hemos de tratarlo:",
+    "options": [
+      "Evacuándolo urgentemente.",
+      "Suministrándole analgésicos.",
+      "Suministrándole agua con azúcar.",
+      "Haciéndole caminar por la aeronave."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_36",
+    "topic": "Examen 2",
+    "text": "¿Qué inhalador broncodilatador para el asma podremos encontrar en el botiquín de abordo?",
+    "options": [
+      "Terbasmin (terbutalina).",
+      "Ventolin (salbutamol).",
+      "Becotide (beclometasona).",
+      "Serevent (salmeterol)."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_37",
+    "topic": "Examen 2",
+    "text": "Las mercancías peligrosas son artículos o sustancias capaces de suponer un gran riesgo para:",
+    "options": [
+      "La seguridad, el medio ambiente y la salud en general.",
+      "Únicamente para los integrantes del vuelo.",
+      "El Comandante al mando de la aeronave.",
+      "No todas las mercancías peligrosas son un gran riesgo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_38",
+    "topic": "Examen 2",
+    "text": "Las medidas inmediatas que deberá tomar un TCP ante un incidente relacionado con mercancías peligrosas es:",
+    "options": [
+      "Gritar MAYDAY para que todos estén alerta.",
+      "Identificar el producto y refrigerarlo con un extintor de agua.",
+      "Ponerse el equipo de protección y las mascarillas de oxígeno al pasaje.",
+      "Notificarlo al Comandante e identificar el producto."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen2_39",
+    "topic": "Examen 2",
+    "text": "¿Qué significan las siglas CAO?",
+    "options": [
+      "Avión solo pasaje.",
+      "Avión solo carguero.",
+      "Avión carguero/pasaje.",
+      "Certificado de operador aéreo."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_40",
+    "topic": "Examen 2",
+    "text": "La división 4.2 de sólidos inflamables corresponde a:",
+    "options": [
+      "Sustancias ignífugas.",
+      "Sustancias que en presencia de una chispa explotan.",
+      "Sustancias que presentan riesgo de combustión espontánea.",
+      "Sustancias que en contacto con el agua emiten gases inflamables."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen2_41",
+    "topic": "Examen 2",
+    "text": "¿Dónde deben ir alojadas las municiones para uso deportivo?",
+    "options": [
+      "No se puede transportar ninguna clase de munición.",
+      "Deben ir colocadas en el equipaje facturado, sujetas a las limitaciones preceptivas.",
+      "Fuera del equipaje facturado, a la vista e identificadas correctamente.",
+      "Deben viajar facturadas y en bodega, pero en un vuelo diferente al del pasajero."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_42",
+    "topic": "Examen 2",
+    "text": "La validez del certificado de TCP está supeditado a que el TCP:",
+    "options": [
+      "Este dado de alta en una compañía aérea y volando.",
+      "Realice los entrenamientos marcados por la compañía.",
+      "Haya pagado las tasas de dicho certificado.",
+      "Posea un certificado médico de clase CC vigente."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen2_43",
+    "topic": "Examen 2",
+    "text": "¿En cuántos tipos de aeronaves puede ejercer legalmente sus funciones un TCP?",
+    "options": [
+      "Únicamente en un tipo de avión.",
+      "En tres como máximo.",
+      "Como máximo en cuatro, con la aprobación de la Autoridad y siempre que para dos de ellos los procedimientos normales y de emergencia, el equipo de seguridad, el manejo de las salidas de emergencia y la ubicación y equipos portátiles de seguridad sean exactamente iguales.",
+      "No hay limite siempre que estés habilitado."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_44",
+    "topic": "Examen 2",
+    "text": "El operador garantizará que se incluya un TCP como mínimo cuando:",
+    "options": [
+      "Los vuelos sean comerciales únicamente.",
+      "La capacidad mínima del avión sea de 50 asientos.",
+      "Sea un vuelo comercial de duración superior a 1 hora.",
+      "La aeronave esté certificada para llevar más de 19 asientos de pasajeros."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen2_45",
+    "topic": "Examen 2",
+    "text": "El extintor bromoclorodifluorometano o BCF está indicado para sofocar fuegos:",
+    "options": [
+      "A,B,C,D",
+      "A,B,C,E",
+      "B,C,D,E",
+      "A,C,D,E"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen2_46",
+    "topic": "Examen 2",
+    "text": "¿Dónde estará ubicada el hacha de emergencia en caso de haber sólo una a bordo?",
+    "options": [
+      "Es indiferente, solo ha de estar identificado.",
+      "Cerca de una estación de TCPs.",
+      "En el último rack de la derecha.",
+      "En Cockpit."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen2_47",
+    "topic": "Examen 2",
+    "text": "En caso de aparición de gases tóxicos o humo en cabina producidos por un fuego a bordo, el TCP se colocará la máscara de protección portátil denominada:",
+    "options": [
+      "PBE.",
+      "BCF.",
+      "MEG.",
+      "ABP."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_48",
+    "topic": "Examen 2",
+    "text": "¿Se dispone de algún producto en una balsa para teñir el agua?",
+    "options": [
+      "No, de ninguno.",
+      "Sí, de tinta china.",
+      "Sí, de fluoresceína.",
+      "Sí, de polvos tenedores."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen2_49",
+    "topic": "Examen 2",
+    "text": "Los chalecos salvavidas 'mixtos' de child/adult son válidos para menores con edades comprendidas entre:",
+    "options": [
+      "2 y 12 años.",
+      "1 y 3 años",
+      "2 y 11 años",
+      "0 y 2 años."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen2_50",
+    "topic": "Examen 2",
+    "text": "¿Qué servicio es el que se encarga de buscar aviones siniestrados en España?",
+    "options": [
+      "SAR.",
+      "AESA.",
+      "AENA.",
+      "SAP."
+    ],
+    "correctIndex": 0
+  }
+]

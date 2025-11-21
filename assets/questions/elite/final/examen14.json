@@ -1,0 +1,352 @@
+[
+  {
+    "id": "examen3_1",
+    "topic": "Examen 3",
+    "text": "Se requerirá tripulación de cabina de pasajeros siempre que se opere una aeronave y esté configurada de la siguiente manera:",
+    "options": ["Para llevar pasajeros únicamente.", "Para el transporte de un mínimo de 50 pasajeros.", "Certificada para transportar más de 19 pasajeros.", "Cuando sea mixta, pasajeros y carga."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_2",
+    "topic": "Examen 3",
+    "text": "¿A qué altitud de presión de cabina se presentan las mascarillas automáticamente?",
+    "options": ["A los 25.000 pies.", "A los 10.000 pies.", "A los 14.000 pies.", "Cuando la active el comandante."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_3",
+    "topic": "Examen 3",
+    "text": "¿Dónde se encuentran los spoilers?",
+    "options": ["En el intradós del ala.", "En el extradós del ala.", "En el borde de ataque.", "Las respuestas a y c son correctas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_4",
+    "topic": "Examen 3",
+    "text": "Las cuatro fuerzas que intervienen en un avión son:",
+    "options": ["Empuje, intensidad, gravedad y resistencia.", "Empuje, sustentación, gravedad y resistencia.", "Peso, resistencia, aerodinámica y sustentación.", "Peso, resistencia, sustentación y empuje."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_5",
+    "topic": "Examen 3",
+    "text": "Si un pasajero en vuelo está indispuesto (vómitos, diarrea y dolor abdominal). pensaremos que está padeciendo de:",
+    "options": ["gastroenteritis", "infarto de miocardio", "diabetes", "Todas las respuestas son falsas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_6",
+    "topic": "Examen 3",
+    "text": "En un avión ¿A qué nos referimos con la envergadura?",
+    "options": ["A la distancia medida entre una punta de un ala y la punta del otro ala", "A la distancia entre el morro del avión y la cola del mismo", "A la superficie o área de las alas, incluyendo la parte del ala que puede estar cubierta por el fuselaje o góndolas de los motores", "A la distancia entre la superficie en la cual se apoya la aeronave y su parte más alejada de dicha superficie."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_7",
+    "topic": "Examen 3",
+    "text": "Con respecto al P.A. de un avión, podemos decir que:",
+    "options": ["Es un sistema de comunicación a los pasajeros, que debe funcionar independientemente del sistema de interfono.", "Debe ser de fácil acceso, para su utilización inmediata desde cada puesto de los TCP.", "Ser audible e inteligible en todos los asientos para pasajeros, aseos y asientos y puestos de trabajo de la tripulación.", "Todas las respuestas con correctas."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_8",
+    "topic": "Examen 3",
+    "text": "Con respecto a la LINTERNA DE EMERGENCIA (EFL), su chequeo es el siguiente:",
+    "options": ["Ubicación correcta", "Linterna precintada.", "Indicador luz roja parpadeante, con una frecuencia entre 6 y 10 segundos.", "Todas son correctas."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_9",
+    "topic": "Examen 3",
+    "text": "La botella portátil de O2 de primeros auxilios, se chequea de la siguiente manera:",
+    "options": ["Ubicación correcta y comprobar que hay mascarillas.", "Comprobar que la aguja del manómetro no está por debajo de 1.500 psi.", "Las respuestas a) y b) son correctas.", "Todas las respuestas son falsas."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_10",
+    "topic": "Examen 3",
+    "text": "En cockpit, existe un equipo de suministro de oxígeno para la tripulación de vuelo. Su nombre es QUICK DONNING MASK. Con respecto a su chequeo señalar lo siguiente:",
+    "options": ["Lo chequea la tripulación de vuelo.", "Lo chequean los TCP, teniendo en cuenta que todas las posiciones (100%, NORMAL, EMERGENCY), funcionan correctamente.", "No requiere chequeo previo por parte de ningún miembro de la tripulación.", "No existe dicho sistema de oxígeno en cockpit."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_11",
+    "topic": "Examen 3",
+    "text": "El sistema de asegurado de un TCP, situado en cada uno de los trasportines, debe estar equipado con:",
+    "options": ["Un cinturón de seguridad con arneses para cada asiento. Se chequea abrochando y desabrochando el cinturón para comprobar su correcto funcionamiento, y pegando un tirón fuerte de los arneses para comprobar su sujeción.", "Únicamente con un cinturón de seguridad. No se chequea antes del vuelo.", "Un cinturón de seguridad con arneses para cada asiento. No se chequea por parte de los TCP. Lo hace el equipo de mantenimiento en cada escala.", "Todas las respuestas son verdaderas."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_12",
+    "topic": "Examen 3",
+    "text": "Una compañía aérea, no operará un avión con una configuración máxima aprobada de más de 60 asientos, si no está equipada con megáfonos portátiles.",
+    "options": ["Es correcto. Especificando que entre 60 y 99 asientos, debe haber 1 megáfono.", "Es correcto. Especificando que entre 61 y 120 asientos debe haber 1 megáfono.", "Es correcto. Especificando que entre 61 y 99 asientos debe haber 1 megáfono, y de 100 asientos en adelante, 2 megáfonos.", "Todas las respuestas son verdaderas."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_13",
+    "topic": "Examen 3",
+    "text": "Cuando hablamos de SEGURIDAD en las operaciones aéreas, en España hay que señalar la existencia de los siguientes programas:",
+    "options": ["Programa Nacional de Seguridad (PNS).", "Programa Nacional de Calidad (PNC)", "Programa Nacional de Formación (PNF)", "Todas son ciertas."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_14",
+    "topic": "Examen 3",
+    "text": "El Jet-lag aparece cuando:",
+    "options": ["Se cruzan más de 4 husos horarios de manera rápida", "El vuelo discurre a lo largo de la noche", "El Jet-lag aparece siempre", "Cuando tienes un vuelo de más de 3 horas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_15",
+    "topic": "Examen 3",
+    "text": "Las nubes que asociamos a las tormentas son:",
+    "options": ["Cumulonimbos", "Estratocúmulos.", "Nimbo estratos.", "Cirros."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_16",
+    "topic": "Examen 3",
+    "text": "¿Qué mide el altímetro?",
+    "options": ["Indica la presión exterior.", "Indica la temperatura exterior.", "Indica la velocidad del avión con respecto al suelo.", "Indica en pies la altitud a la que está volando el avión."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_17",
+    "topic": "Examen 3",
+    "text": "¿A qué hace referencia el número de Mach?",
+    "options": ["Equivale a la velocidad del sonido", "Relaciona la velocidad del avión con la del sonido", "Sólo se utiliza en despegues y aterrizajes", "A la velocidad máxima en crucero"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_18",
+    "topic": "Examen 3",
+    "text": "¿Cuál es la fecha de caducidad de licencia de TCP?",
+    "options": ["La licencia de TCP no tiene fecha de caducidad, sin embargo, dejará de ser válida en el momento que el/la TCP no haya ejercido las atribuciones correspondientes durante los 60 meses anteriores en al menos un tipo de aeronave.", "La respuesta a) es correcta añadiendo que está supeditada a la caducidad del Certificado Médico Aeronáutico.", "El certificado de TCP caduca a los 3 meses", "No caduca nunca"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_19",
+    "topic": "Examen 3",
+    "text": "La maniobra de Valsalva estaría indicada su aplicación en:",
+    "options": ["Durante el descenso de la aeronave para equilibrar las presiones entre el oído medio y el ambiente.", "Durante el ascenso de la aeronave, para buscar el desequilibrio de presiones entre ambos oídos.", "No está recomendado realizarla en ninguna fase del vuelo.", "Durante el rodaje, para evitar un posible ataque de ansiedad."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_20",
+    "topic": "Examen 3",
+    "text": "¿Dónde se ponen las manos en una maniobra RCP?",
+    "options": ["En el centro del tórax", "En la zona interescapular.", "En la espalda del paciente, buscando siempre el inicio de la escápula.", "Todas son verdaderas."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_21",
+    "topic": "Examen 3",
+    "text": "Si estamos ante un pasajero que está sufriendo un ataque epiléptico:",
+    "options": ["Intentaremos reducirlo, para evitar sembrar el pánico entre el resto de los pasajeros.", "Le aflojaremos la ropa y evitaremos que se lesione durante el tiempo que se estén produciendo las convulsiones entre otras medidas de seguridad.", "Entre todos los TCP intentaremos sujetar sus extremidades inferiores, dejando los brazos libres para que los pueda mover.", "Se debe sujetar al pasajero entre todos los TCP, facilitándole toallas para que no se golpee la cabeza contra cualquier elemento del avión"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_22",
+    "topic": "Examen 3",
+    "text": "En cuál de los siguientes podríamos utilizar líquidos para enfriar un fuego eléctrico:",
+    "options": ["En caso de fuego en una batería de litio.", "Fuego en un rack.", "Fuego en un horno.", "Fuego en el panel de circuits breakers."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_23",
+    "topic": "Examen 3",
+    "text": "En caso de fuego en un pasajero:",
+    "options": ["Aplicaremos una descarga efectiva de BCF, evitando únicamente enfocar la misma hacia la cara del pasajero.", "Aplicaremos agua o cualquier líquido no ignífugo por encima del pasajero. Posteriormente le facilitaremos mantas para secarse.", "Aplicaremos una descarga de BCF desde la parte superior de su cabeza, ya que su contenido por pesar más que el aire baja sofocando el fuego a lo largo del cuerpo del pasajero.", "Impediremos que corra y se mueva por la cabina y le apagaremos el fuego con mantas y abrigos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_24",
+    "topic": "Examen 3",
+    "text": "Quién será el responsable de atacar e informar de un fuego a bordo:",
+    "options": ["El TCP que lo vea en primer lugar.", "El TCP más veterano, porque tiene más experiencia en el uso de extintores.", "El sobrecargo ataca siempre el fuego, el TCP más cercano informa a cockpit de la situación.", "Es indiferente. Se puede pedir ayuda a los pasajeros más cercanos."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_25",
+    "topic": "Examen 3",
+    "text": "Si en una situación de supervivencia necesitamos pedir ayuda, utilizaremos el símbolo:",
+    "options": ["X", "V", "TT", "Y"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_26",
+    "topic": "Examen 3",
+    "text": "¿Cómo se denomina el ángulo formado por la dirección del eje longitudinal del avión y la dirección de su desplazamiento real sobre el terreno por causa del viento?",
+    "options": ["Opción 1", "Ángulo de Mach.", "Trayectoria", "Rumbo", "Deriva"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_27",
+    "topic": "Examen 3",
+    "text": "La OACI elaboró un documento que sirve de orientación a la hora de afrontar posibles incidentes relacionados con el transporte de MMPP por vía aérea. Este documento es:",
+    "options": ["Todas las respuestas son falsas.", "DOC 9284-AN/905", "DOC1749/84", "RD 1749/84"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_28",
+    "topic": "Examen 3",
+    "text": "De acuerdo con la clasificación europea, ¿de qué clase es un fuego cuyo combustible sea madera?",
+    "options": ["D", "C", "B", "A"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_29",
+    "topic": "Examen 3",
+    "text": "El servicio de control de tránsito aéreo, se compone a su vez de tres servicios operativos concretos. ¿Cuáles son?",
+    "options": ["Servicio de control, servicio de información de vuelo, servicio de alerta.", "Servicio de control, servicio de información de vuelo, servicio de alerta, servicio de rescate.", "Servicio de control, servicio de alerta, servicio de rescate.", "Servicio de control, servicio de información de vuelo, servicio de rescate."],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_30",
+    "topic": "Examen 3",
+    "text": "El principio de Responsabilidad Objetiva:",
+    "options": ["Surge en la norma española, concretamente en la LNA, en la que se explica que la razón de indemnizar tiene su base objetiva en el propio accidente o daño.", "Aparece por primera vez en el Convenio de Varsovia a la hora de delimitar la responsabilidad del transportista en el caso de accidente aéreo.", "Surge como adaptación de la LPPNA española a la hora de ratificar el Convenio de París de 1952, y explica que la responsabilidad de un accidente es objetiva en tanto y cuanto no existe un sujeto único responsable del accidente.", "La legislación española no contempla dicho término o principio."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_31",
+    "topic": "Examen 3",
+    "text": "Con respecto al Procedimiento General de Fuegos:",
+    "options": ["Especifica que en caso de que no exista la absoluta certeza del origen del fuego, de su total extinción del fuego y del normal funcionamiento de los sistemas del avión se deberá aterrizar en el aeropuerto más próximo.", "Especifica que todos los TCP deberán inmediatamente abandonar las labores que estén realizando, y colaborar en la extinción del fuego.", "Especifica que se deben desconectar C/B de la zona del fuego e interruptores eléctricos, así como retirar las botellas de oxígeno próximas a la zona del fuego.", "Todas son correctas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_32",
+    "topic": "Examen 3",
+    "text": "Cuando chequeamos el SMOKE HOOD, hay que tener en cuenta:",
+    "options": ["Su correcta ubicación.", "Caja precintada.", "Manómetro con aguja en zona roja.", "A y B son correctas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_33",
+    "topic": "Examen 3",
+    "text": "¿Cuál es la actuación correcta durante un chequeo prevuelo de un extintor de Halon 1211?",
+    "options": ["Presencia, sujeción, precinto.", "Presencia, sujeción, precinto y D-ring colocados e intactos y manómetro con aguja en 1.500 psi.", "Presencia, sujeción, precinto y D-ring, colocados e intactos, manómetro con aguja entre 1200 y 1500 psi dependiendo del modelo.", "Presencia, sujeción, precinto y D-ring colocados e intactos y manómetro con aguja en arco verde."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_34",
+    "topic": "Examen 3",
+    "text": "Si utilizamos un extintor de BCF para apagar un fuego, ¿qué precauciones debemos tener después?",
+    "options": ["En caso de fuego no eléctrico, podríamos enfriar los rescoldos echando todo el hielo posible que tuviésemos en caso de no disponer de líquidos acuosos.", "En caso de fuego eléctrico, debemos enfriar los rescoldos rociándolos con agua.", "Abrir compartimentos, levantar revestimientos y echar cualquier líquido para eliminar un posible foco incandescente oculto.", "El extintor tipo BCF está prohibido en aeronaves en vuelo por su efecto perjudicial para la capa de ozono"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_35",
+    "topic": "Examen 3",
+    "text": "Con respecto a la radiobaliza tipo KANNAD, señala la respuesta correcta:",
+    "options": ["Emite en frecuencia continua, 121.5MHz para uso civil, y 243.0MHz militar.", "Emite una tercera frecuencia, 406.0MHZ, pero en este caso, se trata de una frecuencia discontinua.", "La duración de la radiobaliza es de 48 horas emitiendo en frecuencia continua, y de 24 horas emitiendo en frecuencia discontinua", "Todas son correctas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_36",
+    "topic": "Examen 3",
+    "text": "¿Cuál de las siguientes características NO corresponde a un extintor de BCF o Halón?",
+    "options": ["Tiene una duración de 8 a 10 segundos", "Es más pesado que el aire", "Enfría los rescoldos", "Recomendado en fuegos eléctricos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_37",
+    "topic": "Examen 3",
+    "text": "En el caso de un fuego dentro del baño, y una vez comprobada que la puerta está fría, cuál de las siguientes acciones es correcta?",
+    "options": ["Comprobar condiciones en el interior del baño.", "Si se observa humo, buscar el origen del mismo y al encontrar llamas atacar a la base de las mismas. Si el fuego no es eléctrico, enfriar la zona con líquidos acuosos.", "Vigilancia permanente.", "Son todas correctas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_38",
+    "topic": "Examen 3",
+    "text": "En una despresurización a 50.000 ft de altura, contamos con un TUC de:",
+    "options": ["6-10 minutos", "3-5 minutos", "6-8 segundos", "15-20 segundos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_39",
+    "topic": "Examen 3",
+    "text": "¿Dónde se sitúa la ozonosfera?",
+    "options": ["La troposfera", "La estratosfera.", "La termosfera.", "La ionosfera"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_40",
+    "topic": "Examen 3",
+    "text": "Si se activa la alarma indicadora de humo en el lavabo con la puerta del lavabo cerrada, ésta nos estará indicando que:",
+    "options": ["Hay condición de humo en el lavabo", "Hay condición de fuego en el lavabo", "No nos indica nada si la puerta está fría", "Hay más de una persona metida en el baño"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen3_41",
+    "topic": "Examen 3",
+    "text": "¿Qué nombre reciben las máscaras de colocación rápidas para los pilotos ubicadas en cockpit?",
+    "options": ["MCR", "QDM", "PSE", "APU"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_42",
+    "topic": "Examen 3",
+    "text": "¿Qué indica el variómetro?",
+    "options": ["Variaciones en la velocidad horizontal (aceleraciones positivas o negativas).", "Variaciones en el régimen de ascenso y descenso (velocidad vertical).", "Variaciones en el régimen de motor.", "Variaciones en el flujo de combustible (consumo diario)."],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_43",
+    "topic": "Examen 3",
+    "text": "¿Debe una aeronave llevar EMK?",
+    "options": ["Siempre", "Si el avión tiene una configuración máxima aprobada de más de 60 asientos si nos alejamos más de 30 minutos de un aeropuerto que no disponga de asistencia médica.", "Si el avión tiene una configuración máxima aprobada de más de 30 asientos o si nos alejamos más de 60 minutos de un aeropuerto que no disponga de asistencia médica.", "Si el avión tiene una configuración máxima aprobada de más de 30 asientos o si nos alejamos más de 90 minutos de un aeropuerto que no disponga de asistencia médica."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_44",
+    "topic": "Examen 3",
+    "text": "¿Qué es el rumbo?",
+    "options": ["Es el camino que trazamos antes de comenzar a volar.", "La diferencia entre ruta magnética y ruta geográfica.", "Es la dirección donde apunta el eje longitudinal de la Tierra.", "Es la dirección donde apunta el eje longitudinal de la aeronave."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_45",
+    "topic": "Examen 3",
+    "text": "Si diéramos toda la vuelta a la Tierra por el ecuador recorreríamos:",
+    "options": ["8.365 km.", "20.000 km.", "40.000 km.", "60.000 km."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_46",
+    "topic": "Examen 3",
+    "text": "¿Cuáles serán los pasos a seguir cuando nos encontremos con un fuego en la cabina de pasaje?",
+    "options": ["Avisar a la tripulación técnica.", "Buscar y atacar el origen del fuego con el extintor apropiado.", "Si se requiere, utilizar los equipos de protección. El hacha con permiso del Cmte.", "Mantener la comunicación con la cabina de mando además de todo lo anterior."],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen3_47",
+    "topic": "Examen 3",
+    "text": "Los incendios clase C corresponden a…",
+    "options": ["Solidos químicos combustibles", "Gases en estado natural", "Fuegos eléctricos", "Papel, tapicería y cortinas"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen3_48",
+    "topic": "Examen 3",
+    "text": "Las Mercancías peligrosas de clase 8 son:",
+    "options": ["Explosivos", "Corrosivos", "Gases", "Líquidos Inflamables"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_49",
+    "topic": "Examen 3",
+    "text": "Indica cual/es de los siguientes elementos son hipersustentadores:",
+    "options": ["Spoiler", "Flaps y Slats", "Alerones", "Ninguna es correcta"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen3_50",
+    "topic": "Examen 3",
+    "text": "¿De qué color son las etiquetas de las mercancías peligrosas de clase 1?",
+    "options": ["Verde", "Naranja", "Azul", "Negro"],
+    "correctIndex": 1
+  }
+]

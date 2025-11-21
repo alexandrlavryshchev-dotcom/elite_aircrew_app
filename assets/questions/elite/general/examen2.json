@@ -1,0 +1,247 @@
+[
+  {
+    "id": "examen_general_1",
+    "topic": "Examen General",
+    "text": "¿Qué servicio es el que se encarga de buscar aviones siniestrados en España?",
+    "options": ["SAR", "AESA", "AENA", "SAP"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_2",
+    "topic": "Examen General",
+    "text": "Los chalecos salvavidas de niño son válidos para menores con edades comprendidas entre:",
+    "options": ["1 y 10 años", "1 y 3 años", "0 y 6 años", "0 y 1 años"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_3",
+    "topic": "Examen General",
+    "text": "¿Se dispone de algún producto en una balsa para teñir el agua?",
+    "options": ["No, de ninguno", "Sí, de una tinta china", "Sí, de fluoresceína", "Sí, de polvos teñidores"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_4",
+    "topic": "Examen General",
+    "text": "El operador garantizará que se incluya un TCP como mínimo cuando:",
+    "options": ["Los vuelos sean comerciales únicamente", "La capacidad mínima del avión sea de 50 asientos", "Sea un vuelo comercial de duración superior a 1 hora", "La aeronave este certificada para llevar 19 pasajeros o más"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_5",
+    "topic": "Examen General",
+    "text": "En la identificación de las aeronaves españolas figurarán las siguientes marcas:",
+    "options": ["Nacionalidad (bandera española) y en su interior la matrícula (tres letras)", "Código de la matrícula (tres letras), código de la nacionalidad (EC) y nacionalidad (bandera española)", "Código de la nacionalidad (ES) y nacionalidad (bandera española)", "La nacionalidad (bandera española) mas el número de avión (tres letras y dos números)"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_6",
+    "topic": "Examen General",
+    "text": "La validez del Certificado de TCP está supeditado a que el TCP:",
+    "options": ["Este dado de alta en una compañía aérea y volando", "Realice los entrenamientos marcados por la compañía", "Haya pagado las tasas de dicho certificado", "Posea un certificado médico clase 2 vigente"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_7",
+    "topic": "Examen General",
+    "text": "¿En qué convenio se regula y limita por primera vez, la responsabilidad del transportista frente a los pasajeros?",
+    "options": ["Convenio de Varsovia", "Convenio de Helsinki", "Convenio de Madrid", "Convenio de Roma"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_8",
+    "topic": "Examen General",
+    "text": "¿Qué significan las siglas CAO?",
+    "options": ["Avión solo pasaje", "Avión solo carguero", "Avión carguero/pasaje", "Certificado de operador aéreo"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_9",
+    "topic": "Examen General",
+    "text": "Si un pasajero diabético sufre una crisis de hipoglucemia a bordo, hemos de tratarlo:",
+    "options": ["Evacuándolo urgentemente", "Suministrándole analgésicos", "Suministrándole agua con azúcar", "Haciéndole caminar por la aeronave"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_10",
+    "topic": "Examen General",
+    "text": "Las mercancías peligrosas son artículos o sustancias capaces de suponer un gran riesgo para:",
+    "options": ["La seguridad, el medio ambiente y la salud en general", "Únicamente para los integrantes del vuelo", "El Comandante al mando de la aeronave", "No todas las mercancías peligrosas son un gran riesgo"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_11",
+    "topic": "Examen General",
+    "text": "¿Dónde deben ir alojadas las municiones para uso deportivo?",
+    "options": ["No se pueden transportar ninguna clase de munición", "Deben ir colocadas en el equipaje facturado, sujetas a las limitaciones preceptivas", "Fuera del equipaje facturado, a la vista e identificadas correctamente", "Deben viajar facturadas y en bodega, pero en un vuelo diferente al del pasajero"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_12",
+    "topic": "Examen General",
+    "text": "¿Qué nombre recibe el ángulo que forma la cuerda con la dirección de la corriente libre de aire?",
+    "options": ["Extradós", "Angulo de ataque", "Intradós", "Borde de salida"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_13",
+    "topic": "Examen General",
+    "text": "El número Mach se refiere a:",
+    "options": ["La velocidad a la que un avión vuela con respecto a la velocidad de la luz", "La velocidad a la que va el sonido con respecto a la velocidad de un avión a reacción", "La velocidad a la que un avión vuela con respecto a la velocidad del sonido", "El número Mach no tiene nada que ver con los aviones"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_14",
+    "topic": "Examen General",
+    "text": "El extintor de Bromoclorodifluorometano o BCF está indicado para sofocar fuegos:",
+    "options": ["A,B,C,D", "A,B,C,E", "B,C,D,E", "A,C,D,E"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_15",
+    "topic": "Examen General",
+    "text": "Las medidad inmediatas que deberá tomar un TCP ante un incidente relacionado con mercancías peligrosas es:",
+    "options": ["Gritar MAYDAY para que todos estén alerta", "Ponerse el equipo de protección y las mascarillas de oxígeno al pasaje", "Identificar el product y refrigerarlo con un extintor de agua", "Notificarlo al Comandante e identificar el producto"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_16",
+    "topic": "Examen General",
+    "text": "Cuando la suma de todas las fuerzas en el centro de gravedad de una aeronave es cero, es que:",
+    "options": ["La aeronave tiene movimientos de Alabeo ligeros", "Está volando a velocidad de crucero y a máxima altura", "No existen movimientos de Cabeceo, Alabeo o Guiñada", "Sólo tiene movimiento de Guiñada esporádicos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_17",
+    "topic": "Examen General",
+    "text": "Cada huso horario tiene:",
+    "options": ["15º de longitud", "15º de latitud", "1 día de diferencia con el de su derecha", "180º de inclinación con respecto de su meridiano"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_18",
+    "topic": "Examen General",
+    "text": "Deberán estar equipados con chalecos salvavidas todos los aviones que despeguen o aterricen sobre el agua o se alejen de la línea de costa más de:",
+    "options": ["20 NM", "100 NM", "15 NM", "50 NM"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_19",
+    "topic": "Examen General",
+    "text": "A los sistemas de sujeción infantil homologados para ser utilizados en un avión, se les conoce con las siglas:",
+    "options": ["CFR", "INF", "CRD", "SIH"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_20",
+    "topic": "Examen General",
+    "text": "¿Qué código identifica a un pasajero que viaja en camilla?",
+    "options": ["BLND", "STCR", "DEPA", "WCH"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_21",
+    "topic": "Examen General",
+    "text": "Si un pasajero asmático sufre una crisis en vuelo, hemos de:",
+    "options": ["Acomodarle sentado, colocarle oxígeno y facilitarle broncodilatadores (si él no los lleva)", "Acomodarle tumbado y colocarle oxígeno", "Facilitarle broncodilatadores (si él no los lleva) y preparar su evacuación urgente del avión", "Hidratarle dándole mucha agua"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_22",
+    "topic": "Examen General",
+    "text": "El oxígeno circula en la sangre unido a los:",
+    "options": ["Glóbulos blancos o leucocitos", "Plasma", "Glóbulos rojos o hematíes", "Plaquetas o trombocitos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_23",
+    "topic": "Examen General",
+    "text": "¿Con qué otro nombre se conoce en aeronáutica al “mal de movimiento”?",
+    "options": ["Mareitis", "Cinetosis", "TVP", "Hipotensión"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_24",
+    "topic": "Examen General",
+    "text": "En una despresurización a 50.000 ft de altura, contamos con un TUC de:",
+    "options": ["6 – 10 minutos", "3 – 5 minutos", "6 – 8 segundos", "15 – 20 segundos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_25",
+    "topic": "Examen General",
+    "text": "El Anexo al Convenio sobre Aviación Civil Internacional titulado “Transporte sin riesgo de mercancías peligrosas por vía aérea” es el número:",
+    "options": ["Opción 1", "14", "18", "24"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_26",
+    "topic": "Examen General",
+    "text": "¿Cuál será según la normativa la capacidad mínima de cada botella portátil de oxígeno?",
+    "options": ["310 L", "1.800 PSI", "120 L", "1.500 PSI"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_27",
+    "topic": "Examen General",
+    "text": "El peso máximo para un perro lazarillo en cabina de pasajeros es de:",
+    "options": ["12 kilos", "18 kilos", "25 kilos", "No hay limite de peso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_28",
+    "topic": "Examen General",
+    "text": "Entendemos por Tiempo Útil de Conciencia (TUC):",
+    "options": ["Del que disponemos antes de perder el conocimiento al desconectarnos de nuestro sistema de oxígeno", "Del que disponemos antes de que se inicie la visión negra al someternos a grandes aceleraciones", "Del que disponemos desde que se produce la visión negra hasta que perdemos el conocimiento", "Del que disponemos antes de perder el conocimiento por intoxicación al inhalar oxígeno 100%"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_29",
+    "topic": "Examen General",
+    "text": "La radiobaliza tipo RESCU99 se activa:",
+    "options": ["A los 5 minutos en agua salada y a los 5 segundos en agua dulce", "A los 5 minutos en agua dulce y a los 5 segundos en agua salada", "Tanto en agua dulce como en agua salada se activa a los 5 segundos", "Apretando botón ON lateral"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_30",
+    "topic": "Examen General",
+    "text": "¿De acuerdo con la calificación europea, de que clase es un fuego cuyo combustible son gases inflamables como el butano?:",
+    "options": ["Clase A", "Clase B", "Clase C", "Clase D"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_31",
+    "topic": "Examen General",
+    "text": "En un Boeing 767 de fuselaje ancho, configurado con 375 asientos de pasajeros, el número de TCPs mínimo requerido será de:",
+    "options": ["4", "5", "6", "8"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_32",
+    "topic": "Examen General",
+    "text": "¿Qué significan tres aspas negras y un círculo negro en el centro en una etiqueta de mercancías peligrosas?:",
+    "options": ["Material inflamable", "Material corrosivo", "Material radioactivo", "Material volátil"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_33",
+    "topic": "Examen General",
+    "text": "¿Qué documento fundamental de la aviación se firmó el 7 de diciembre de 1944 que continúa vigente hoy en día?:",
+    "options": ["El Convenio del Transporte Aéreo Internacional", "El Convenio sobre Aviación Civil Internacional", "El Convenio Colectivo Aeronáutico", "La Carta Magna de la Aviación"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_34",
+    "topic": "Examen General",
+    "text": "Los meridianos son:",
+    "options": ["Los semicírculos máximos que forman planos perpendiculares al Ecuador", "Los semicírculos cuyo radio es máximo en los Polos", "Los círculos mayores que dividen a la Tierra en partes iguales", "Los semicírculos máximos que forman planos paralelos al Ecuador"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_35",
+    "topic": "Examen General",
+    "text": "Según la legislación vigente, el plazo de validez del certificado médico aeronáutico de un TCP de 35 años es de:",
+    "options": ["3 años", "5 años", "10 años", "4 años"],
+    "correctIndex": 0
+  }
+]

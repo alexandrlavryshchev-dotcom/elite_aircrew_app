@@ -59,6 +59,7 @@ class TestCategory {
   final String icon;
   final List<TestCategory>? subcategories;
   final String? questionAssetPath; // Ruta al archivo JSON si aplica
+  final String? pdfPath; // 👉 NUEVO: ruta al PDF si esta categoría/subcategoría es un manual
 
   TestCategory({
     required this.id,
@@ -67,5 +68,7 @@ class TestCategory {
     required this.icon,
     this.subcategories,
     this.questionAssetPath,
+    this.pdfPath,
   });
 }
+

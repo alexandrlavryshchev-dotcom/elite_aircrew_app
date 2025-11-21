@@ -20,15 +20,19 @@ class TestCategoryCard extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    // Si no hay progreso aún, se considera 0
-    final num puntos = progress?.puntos ?? 0;
-    final bool completado = progress?.completado ?? false;
+    // Saber si es PDF → NO mostrar progreso
+    final bool isPdf = category.pdfPath != null;
 
-    // Convertimos los puntos en un porcentaje (0.0 - 1.0)
+    // Progreso solo si NO es PDF
+    final num puntos = (!isPdf) ? (progress?.puntos ?? 0) : 0;
+    final bool completado = (!isPdf) ? (progress?.completado ?? false) : false;
+
     final double percentage = (puntos / 100).clamp(0.0, 1.0);
+
     final String status = completado
         ? 'Completado'
         : (percentage > 0.0 ? 'En Progreso' : 'Iniciado');
+
     final Color statusColor =
     completado ? Colors.green : AppColors.highlight;
 
@@ -60,10 +64,11 @@ class TestCategoryCard extends StatelessWidget {
         child: Column(
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
+            /// ICONO + TÍTULO
             Row(
               children: [
                 Icon(
-                  category.id == 'aesa_exam'
+                  (category.id == 'aesa_exam' || category.id == 'elite_aircrew_main')
                       ? Icons.military_tech_rounded
                       : Icons.flight_takeoff_rounded,
                   color: AppColors.highlight,
@@ -82,7 +87,9 @@ class TestCategoryCard extends StatelessWidget {
                 ),
               ],
             ),
-            if (!isSubcategory) ...[
+
+            /// DESCRIPCIÓN SOLO PARA CATEGORÍAS (no subcategorías)
+            if (!isSubcategory && category.description.isNotEmpty) ...[
               const SizedBox(height: 8),
               Text(
                 category.description,
@@ -96,64 +103,68 @@ class TestCategoryCard extends StatelessWidget {
               const SizedBox(height: 16),
             ],
 
-            // Barra de progreso
-            Row(
-              children: [
-                Expanded(
-                  child: ClipRRect(
-                    borderRadius: BorderRadius.circular(8),
-                    child: LinearProgressIndicator(
-                      value: percentage,
-                      minHeight: 8,
-                      backgroundColor: AppColors.primary.withOpacity(0.5),
-                      valueColor:
-                      AlwaysStoppedAnimation<Color>(statusColor),
+            /// ❌ NO mostrar progreso si es PDF
+            if (!isPdf) ...[
+              Row(
+                children: [
+                  Expanded(
+                    child: ClipRRect(
+                      borderRadius: BorderRadius.circular(8),
+                      child: LinearProgressIndicator(
+                        value: percentage,
+                        minHeight: 8,
+                        backgroundColor:
+                        AppColors.primary.withOpacity(0.5),
+                        valueColor: AlwaysStoppedAnimation<Color>(statusColor),
+                      ),
                     ),
                   ),
-                ),
-                const SizedBox(width: 12),
-                Text(
-                  '${(percentage * 100).toInt()}%',
-                  style: TextStyle(
-                    color: AppColors.white,
-                    fontWeight: FontWeight.bold,
-                  ),
-                ),
-              ],
-            ),
-
-            const SizedBox(height: 8),
-
-            Row(
-              mainAxisAlignment: MainAxisAlignment.spaceBetween,
-              children: [
-                // Estado del test
-                Container(
-                  padding:
-                  const EdgeInsets.symmetric(horizontal: 8, vertical: 4),
-                  decoration: BoxDecoration(
-                    color: statusColor.withOpacity(0.2),
-                    borderRadius: BorderRadius.circular(6),
-                  ),
-                  child: Text(
-                    status,
+                  const SizedBox(width: 12),
+                  Text(
+                    '${(percentage * 100).toInt()}%',
                     style: TextStyle(
-                      color: statusColor,
-                      fontSize: 11,
-                      fontWeight: FontWeight.w600,
+                      color: AppColors.white,
+                      fontWeight: FontWeight.bold,
                     ),
                   ),
-                ),
-                Text(
-                  completado ? 'Repetir Test' : 'Iniciar/Continuar',
-                  style: const TextStyle(
-                    color: AppColors.highlight,
-                    fontWeight: FontWeight.bold,
-                    fontSize: 13,
+                ],
+              ),
+              const SizedBox(height: 8),
+
+              Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  // Estado del test
+                  Container(
+                    padding: const EdgeInsets.symmetric(
+                        horizontal: 8, vertical: 4),
+                    decoration: BoxDecoration(
+                      color: statusColor.withOpacity(0.2),
+                      borderRadius: BorderRadius.circular(6),
+                    ),
+                    child: Text(
+                      status,
+                      style: TextStyle(
+                        color: statusColor,
+                        fontSize: 11,
+                        fontWeight: FontWeight.w600,
+                      ),
+                    ),
                   ),
-                ),
-              ],
-            ),
+                  Text(
+                    completado ? 'Repetir Test' : 'Iniciar/Continuar',
+                    style: const TextStyle(
+                      color: AppColors.highlight,
+                      fontWeight: FontWeight.bold,
+                      fontSize: 13,
+                    ),
+                  ),
+                ],
+              ),
+            ],
+
+            /// Si es PDF, dejar espacio bonito
+            if (isPdf) const SizedBox(height: 8),
           ],
         ),
       ),

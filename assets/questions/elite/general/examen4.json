@@ -1,0 +1,247 @@
+[
+  {
+    "id": "examen_general_1",
+    "topic": "Examen General",
+    "text": "¿Cuál de los siguientes elementos influye en la sustentación?",
+    "options": ["Ángulo de salida y densidad", "Ángulo de ataque, velocidad y densidad", "Ángulo de ataque, velocidad, densidad y superficie de las alas", "Ángulo de ataque, velocidad, densidad y peso del avión"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_2",
+    "topic": "Examen General",
+    "text": "El movimiento de los alerones de un avión se caracteriza porque:",
+    "options": ["Cuando uno sube el otro baja", "Su manejo es automático", "Solo se mueven hacia fuera", "Solo se mueven hacia adentro"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_3",
+    "topic": "Examen General",
+    "text": "El movimiento de un avión alrededor de su eje vertical se llama:",
+    "options": ["Balanceo/Roll", "Guiñada/Yaw", "Alabeo/Roll", "Cabeceo/Pitch"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_4",
+    "topic": "Examen General",
+    "text": "De los siguientes dispositivos ¿cuáles son hipersustentadores?",
+    "options": ["Cuerda y timón", "Borde de ataque y borde de salida", "Alerones y timón de cola", "Flaps y Slats"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_5",
+    "topic": "Examen General",
+    "text": "¿Qué sería correcto decir sobre el número Mach?",
+    "options": ["Equivale a la velocidad de la luz", "Relaciona la velocidad del avión con la del sonido", "Es máxima en vuelo de crucero", "Sólo se utiliza en despegues y aterrizajes"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_6",
+    "topic": "Examen General",
+    "text": "La presión aumenta con la altura:",
+    "options": ["Solo en el hemisferio Norte", "Solo en el hemisferio Sur", "Es correcto, la presión aumenta con la altura", "Es incorrecto, la presión disminuye con la altura"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_7",
+    "topic": "Examen General",
+    "text": "Los momentos críticos para entrar en pérdida son:",
+    "options": ["A bajas velocidades, si no se ha recogido a tiempo el tren de aterrizaje y en días nublados", "Atravesando tormentas, en el despegue y si llevamos viento de cola", "Despegue, aproximación final y turbulencias", "Despegue, aterrizaje y crucero"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_8",
+    "topic": "Examen General",
+    "text": "A la fuerza que genera un motor a reacción se la conoce como:",
+    "options": ["Resistencia", "Impulso", "Empuje", "Potencia"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_9",
+    "topic": "Examen General",
+    "text": "En el planeta Tierra tenemos:",
+    "options": ["365 husos horarios", "24 husos horarios", "Los meridianos marcan la latitud", "Los paralelos marcan la longitud"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_10",
+    "topic": "Examen General",
+    "text": "Los rumbos y las rutas:",
+    "options": ["Se denominan por tres cifras de 000º hasta 180º", "Se denominan por tres cifras de 000º a 359º", "Se denominan con dos cifras de 00º a 24º Norte o Sur", "No son lo mismo por lo que cada una se denomina de una manera"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_11",
+    "topic": "Examen General",
+    "text": "¿Qué organización es la responsable de expedir todas las licencias y certificados de vuelo, tanto para Tripulantes de vuelo como TCPs en España?",
+    "options": ["AENA", "AESA", "EASA", "OACI"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_12",
+    "topic": "Examen General",
+    "text": "Las libertades del aire se establecieron en el:",
+    "options": ["Convenio de Montreal", "Convenio de Roma", "Convenio de Chicago", "Convenio de Varsovia"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_13",
+    "topic": "Examen General",
+    "text": "El Convenio de Chicago se aplica a:",
+    "options": ["Las aeronaves militares, de aduanas y de policía", "Las aeronaves de aduanas, de policía y civiles", "Las aeronaves de policía", "Solamente a las aeronaves civiles"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_14",
+    "topic": "Examen General",
+    "text": "Un avión de bandera española que transporta pasajeros desde Génova hasta Madrid hace uso de la:",
+    "options": ["Primera Libertad", "Tercera Libertad", "Cuarta Libertad", "Segunda Libertad"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_15",
+    "topic": "Examen General",
+    "text": "Las siglas de la CEAC corresponden a:",
+    "options": ["La Confederación de Estados de Aviación Civil", "La Confederación Europea de Aeronáutica Civil", "La Conferencia Europea de Aviación Civil", "La Confederación de Estados Aeronáuticos Civiles"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_16",
+    "topic": "Examen General",
+    "text": "¿Qué indican las siglas PSI?",
+    "options": ["Velocidad", "Dimensión", "Presión", "Altura"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_17",
+    "topic": "Examen General",
+    "text": "¿Qué cinturón de seguridad utilizarán los Infants siempre que sea necesario su uso?",
+    "options": ["El mismo cinturón de seguridad del adulto con el que viajen", "Su asiento con su propio cinturón de seguridad", "Un cinturón de bucle sobre el asiento del adulto que lo acompañe (cinturón canguro)", "No usan cinturones. Se anclan a los capazos del asiento"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_18",
+    "topic": "Examen General",
+    "text": "Llamamos Infant a un niño cuya edad está comprendida entre los:",
+    "options": ["0-2 años (no cumplidos en la fecha del vuelo)", "2-12 años (no cumplidos en la fecha del vuelo)", "2-15 años (no cumplidos en la fecha del vuelo)", "12-15 años (no cumplidos en la fecha del vuelo)"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_19",
+    "topic": "Examen General",
+    "text": "¿Cuándo debe el TCP sujetarse con el atalaje de seguridad en las operaciones previstas antes del aterrizaje?",
+    "options": ["Inmediatamente después de que se encienda el aviso de “Abróchense los cinturones”", "Inmediatamente antes de notificar al comandante que la cabina está asegurada", "Una vez finalizadas las labores de seguridad y como muy tarde al recibir la señal convenida para el aterrizaje", "Inmediatamente después de que terminen las comprobaciones de seguridad de la cabina de pasajeros"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_general_20",
+    "topic": "Examen General",
+    "text": "¿Qué acción obligatoria realizará un TCP antes de abrir una salida de emergencia durante una evacuación de emergencia?",
+    "options": ["No debe perder el tiempo mirando nada ya que es urgente su apertura", "Valorará las condiciones exteriores antes de proceder a su apertura", "Comunicará con el Comandante para pedir autorización", "Desarmará la rampa"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_21",
+    "topic": "Examen General",
+    "text": "¿Cuántos botiquines de primeros auxilios, como mínimo, debe llevar un avión de 195 asientos de pasajeros?",
+    "options": ["1", "2", "3", "0"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_22",
+    "topic": "Examen General",
+    "text": "¿Con qué nombre se conoce al movimiento del avión en tierra?",
+    "options": ["Caminar", "Taxi", "Movimiento en pista", "Ralentí"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_23",
+    "topic": "Examen General",
+    "text": "La comprobación de las linternas de emergencia de cada trasportín se chequea mediante:",
+    "options": ["Un indicador de luz roja que parpadea cada 6 a 10 segundos", "Se chequea únicamente su presencia y ubicación", "Encendiéndolas para ver si funcionan las pilas", "Un indicador de luz roja que parpadea cada 10-20 segundos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_24",
+    "topic": "Examen General",
+    "text": "¿En caso de despresurización explosiva, cuál será la primera medida a tomar?",
+    "options": ["Sentarnos y asegurarnos", "Ponernos en contacto con Cockpit y esperar instrucciones", "Localizar la botella de oxígeno portátil más cercana", "Coger la primera máscara disponible y asegurarnos donde sea posible"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_25",
+    "topic": "Examen General",
+    "text": "¿Qué nombre damos a la unidad de energía externa en tierra que solo proporciona energía eléctrica?",
+    "options": ["APU", "GPU", "PSU", "PSI"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_26",
+    "topic": "Examen General",
+    "text": "¿Con qué suministro de oxígeno suplementario deberá contar un avión?",
+    "options": ["Un 110% de la capacidad del avión", "Para el 100% de los asientos", "Para el 50%: una salida cada dos asientos", "Para el 200%: dos salidas por cada asiento"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_27",
+    "topic": "Examen General",
+    "text": "La frecuencia respiratoria normal es de:",
+    "options": ["8-10 respiraciones / minuto", "12-20 respiraciones / minuto", "32-40 respiraciones / minuto", "60-100 respiraciones / minuto"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_28",
+    "topic": "Examen General",
+    "text": "La principal función de los globulos rojos o hematíes es:",
+    "options": ["Participar en el proceso de coagulación de la sangre", "La defensa del organismo", "La respuesta inmunológica del organismo", "Transportar oxígeno por la sangre"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_29",
+    "topic": "Examen General",
+    "text": "En un proceso de hiperventilación hay un/una:",
+    "options": ["Aumento de CO2 en sangre", "Disminución de CO2 en sangre", "Aumento de nitrógeno en sangre", "Disminución de nitrógeno en sangre"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_30",
+    "topic": "Examen General",
+    "text": "Una fractura abierta es:",
+    "options": ["Una fractura en la que tendremos que taponar la herida antes y luego de inmovilizar con vendaje", "No existe la fractura abierta", "La fractura que, para reducirla, debemos abrir la piel en quirófano", "Mucho menos grave que la fractura cerrada"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_general_31",
+    "topic": "Examen General",
+    "text": "A bordo de una aeronave, durante el vuelo, las condiciones de cabina son de baja humedad, por lo que se recomienda una adecuada hidratación. Para ello, en vuelos de 3 horas, la cantidad a bordo/pasajero, no ha de ser inferior a:",
+    "options": ["2,5 litros", "0,5 litros", "1,5 litros", "2 litros"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_general_32",
+    "topic": "Examen General",
+    "text": "¿Cómo se podría evitar el mareo entre los pasajeros?",
+    "options": ["Repartiendo bolsas por el avión", "Administrando pastillas antimareo", "Haciéndoles comer lo más posible", "Haciéndoles beber lo más posible"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_33",
+    "topic": "Examen General",
+    "text": "Qué es la cinetosis o aerocinetosis?",
+    "options": ["Coloración azulada o negruzca de la piel", "Mareo por movimiento", "Baja tensión arterial", "Acumulación de líquidos en los pies"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_34",
+    "topic": "Examen General",
+    "text": "Los síntomas más frecuentes de la Enfermedad Descomprensiva (EPC) son:",
+    "options": ["Picores", "Bends", "Chockes", "Neurológicos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_general_35",
+    "topic": "Examen General",
+    "text": "Si una mujer está embarazada de 39 semanas, hay que saber que:",
+    "options": ["Es un parto prematuro con riesgo para la madre y el niño", "El niño está perfectamente formado para vivir", "Un niño tan pequeño, con la presión de cabina, tiene muy pocas probabilidades de vivir", "Como el niño aún no está perfectamente formado, nos podemos esperar cualquier cosa"],
+    "correctIndex": 1
+  }
+]

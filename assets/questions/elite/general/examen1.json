@@ -1,0 +1,268 @@
+[
+  {
+    "id": "general_1",
+    "topic": "Examen General",
+    "text": "Los Slats de un avión son:",
+    "options": ["Dispositivos utilizados para el movimiento de Alabeo", "Elementos hipersustentadores situados en el borde de ataque", "Alerones que desplegamos en los despegues", "Adornos que se colocan en el fuselaje para que sea visto desde tierra"],
+    "correctIndex": 1
+  },
+  {
+    "id": "general_2",
+    "topic": "Examen General",
+    "text": "¿A qué parte del avión llamamos Intradós y cómo se comporta en ella el aire?",
+    "options": ["Parte superior del plano, donde la presión es menor", "Parte inferior del plano, donde la presión es mayor", "Parte inferior del plano, donde la presión es menor", "Parte superior del plano, donde la presión es mayor"],
+    "correctIndex": 1
+  },
+  {
+    "id": "general_3",
+    "topic": "Examen General",
+    "text": "¿Qué explica el teorema de Bernoulli acerca de la presión y la velocidad?",
+    "options": ["Si disminuye la presión, disminuye la velocidad", "Si aumenta la densidad, disminuye la presión", "Si aumenta la presión, aumenta la velocidad", "Si disminuye la presión, aumenta la velocidad."],
+    "correctIndex": 3
+  },
+  {
+    "id": "general_4",
+    "topic": "Examen General",
+    "text": "Uno de los motivos por los que un avión puede entrar en pérdida es:",
+    "options": ["Por exceso de peso", "Por exceso de velocidad", "Por sobrepasar el ángulo de ataque crítico", "Por sobrepasar el ángulo de salida crítico"],
+    "correctIndex": 2
+  },
+  {
+    "id": "general_5",
+    "topic": "Examen General",
+    "text": "En una aeronave, los spoilers:",
+    "options": ["Rompen la corriente aerodinámica en el Extradós, disminuyendo la resistencia y aumentando la sustentación", "Se utilizan únicamente para girar la aeronave", "Rompen la corriente aerodinámica en el Extradós, aumentando la resistencia y disminuyendo la sustentación", "Son un tipo de hipersustentadores de los aviones turbohélice"],
+    "correctIndex": 2
+  },
+  {
+    "id": "general_6",
+    "topic": "Examen General",
+    "text": "Los movimientos del avión con respecto a su eje longitudinal se conocen como:",
+    "options": ["Alabeo, Balanceo o Roll", "Cabeceo o Pitch", "Guiñada o Pitch", "Guiñada o Yaw"],
+    "correctIndex": 0
+  },
+  {
+    "id": "general_7",
+    "topic": "Examen General",
+    "text": "Como regla general el despegue de un avión se hará:",
+    "options": ["En contra del viento", "En contra del viento si estamos bajo la influencia de una borrasca", "En la misma dirección del viento", "En la misma dirección del viento si estamos bajo la influencia de una borrasca"],
+    "correctIndex": 0
+  },
+  {
+    "id": "general_8",
+    "topic": "Examen General",
+    "text": "Indica las acciones en caso de fuego en una batería de litio",
+    "options": ["Mover el dispositivo electrónico", "Echar hielo seco sobre el aparato y desconectar", "Extinguir el fuego y nunca echar agua al ser un aparato electrónico", "Alejar a los pasajeros de la zona afectada, apagar el fuego y enfriar el dispositivo con agua o líquidos no inflamable"],
+    "correctIndex": 3
+  },
+  {
+    "id": "general_9",
+    "topic": "Examen General",
+    "text": "La normativa básica para la Seguridad de la Aviación Civil en España recibe el nombre de:",
+    "options": ["Normativa Básica de Seguridad Aérea", "Estatutos de la Aviación Civil en España", "Ley de Navegación Aérea", "Ley de Seguridad Aérea"],
+    "correctIndex": 3
+  },
+  {
+    "id": "general_10",
+    "topic": "Examen General",
+    "text": "El máximo responsable de lo que sucede en un avión en pleno vuelo es:",
+    "options": ["El Comandante en Cockpit y el TCP en la cabina de pasajeros", "El Sobrecargo en la cabina de pasajeros", "El operador de la nave siempre es el último responsable de todo", "El Comandante de la aeronave"],
+    "correctIndex": 3
+  },
+  {
+    "id": "general_11",
+    "topic": "Examen General",
+    "text": "El Anexo 13 al Convenio sobre Aviación Civil Internacional es:",
+    "options": ["La investigación de accidentes", "La declaración de accidentes", "Determina la responsabilidad frente a los accidentes", "Las normas de evacuación de un accidente"],
+    "correctIndex": 0
+  },
+  {
+    "id": "general_12",
+    "topic": "Examen General",
+    "text": "¿A qué operación asociarías las siglas ABP?",
+    "options": ["Pasajero ciego con perro lazarillo", "Pasajeros seleccionados para ayudar en una posible evacuación", "Unidad de servicio al pasajero", "Pasajero con movilidad reducida"],
+    "correctIndex": 1
+  },
+  {
+    "id": "general_13",
+    "topic": "Examen General",
+    "text": "¿Qué posición de emergencia adoptará un tripulante cuyo puesto operativo está en el sentido contrario a la marcha?",
+    "options": ["Cabeza y espalda en posición vertical, apoyando la espalda contra el respaldo y piernas cruzadas a la altura de los tobillos", "Mentón sobre el pecho, apoyando la espalda contra el respaldo", "Mentón ligeramente elevado, apoyando la espalda contra el respaldo, piernas firmemente apoyadas al suelo y ligeramente separadas", "Mentón pegado al pecho, apoyando la espalda contra el respaldo, con manos bajo las piernas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "general_14",
+    "topic": "Examen General",
+    "text": "¿Quién es el responsable de la distribución de posiciones de los TCPs antes del vuelo?",
+    "options": ["El Sobrecargo", "La compañía", "El coordinador", "El jefe de auxiliares"],
+    "correctIndex": 0
+  },
+  {
+    "id": "general_15",
+    "topic": "Examen General",
+    "text": "Según la vigente normativa, las limitaciones sobre chalecos son:",
+    "options": ["Ha de haber 1/pasajero equipado con una luz que se active con el agua", "Ha de haber 1/tripulante, 1/pasajero y 1/bebé", "Debe haber 1/pasajero con luz y silbato", "Debe haber 1/persona a bordo y equipado con una luz"],
+    "correctIndex": 3
+  },
+  {
+    "id": "general_16",
+    "topic": "Examen General",
+    "text": "Antes de iniciar el rodaje de la aeronave por pista:",
+    "options": ["Los TCPs deben realizar la demostración de seguridad", "Los TCPs deben armar las rampas", "El Comandante debe dar a los pasajeros la información sobre el vuelo", "Los TCPs deben estar sentados y asegurados en sus transportines"],
+    "correctIndex": 0
+  },
+  {
+    "id": "general_17",
+    "topic": "Examen General",
+    "text": "¿Qué se conoce en aeronáutica como un UM?",
+    "options": ["Al pasajero de 5 a 12 años que viaja acompañado", "Al menor de 2 a 12 años, sin cumplir los 12 años en la fecha del vuelo, que viaja solo", "Al menor de 5 a 12 años, cumplidos los 12 años en la fecha del vuelo, que viaja solo", "Al menor de 5 a 12 años, sin cumplir los 12 años en la fecha del vuelo y que viaja solo"],
+    "correctIndex": 3
+  },
+  {
+    "id": "general_18",
+    "topic": "Examen General",
+    "text": "¿Se puede sentar un Child de 10 años en una salida de emergencia?",
+    "options": ["No, los Child nunca pueden sentarse en salidas de emergencia", "Si, mientras que vaya acompañado de un adulto", "Si porque a partir de los 9 años ya pueden sentarse en salida de emergencia", "Sólo en caso de que no sea una ventanilla de emergencia"],
+    "correctIndex": 0
+  },
+  {
+    "id": "general_19",
+    "topic": "Examen General",
+    "text": "¿Cómo debe comprobar un TCP de forma correcta el material de emergencia asignado?",
+    "options": ["De memoria, agilizando así la comprobación del mismo", "Con la lista de chequeo del material de emergencia en mano. Cada TCP chequeará su zona asignada", "El TCP responsable de la zona deberá chequear junto con el personal de mantenimiento que el material de emergencia esté en perfectas condiciones", "El Sobrecargo será el responsable de comprobar que todo el material de emergencia esté en perfectas condiciones"],
+    "correctIndex": 1
+  },
+  {
+    "id": "general_20",
+    "topic": "Examen General",
+    "text": "Los pasajeros de movilidad reducida se dividen en:",
+    "options": ["Ciegos y sordos", "Con silla de ruedas y ciegos", "Ambulatorios y no ambulatorios", "Con silla de ruedas y/o muletas y ciegos y/o sordos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "general_21",
+    "topic": "Examen General",
+    "text": "Una vez iniciada una evacuación:",
+    "options": ["Puede suspenderse si consideramos que el peligro ya ha pasado", "No deberá interrumpirse nunca, aunque el peligro ya haya pasado", "Puede detenerse solo si lo ordena el Comandante", "Lo que nos dejemos en el avión no podremos volver a recogerlo en ningún momento"],
+    "correctIndex": 2
+  },
+  {
+    "id": "general_22",
+    "topic": "Examen General",
+    "text": "¿Qué se entiende en aeronáutica por 'atalaje'?",
+    "options": ["Cualquier cinta que nos sujete al asiento", "El cinturón de seguridad de los asientos de los TCPs", "El conjunto de cinturones de seguridad y tirantes unidos en un único cierre", "Conjunto de cinturón, tirantes y reposacabezas"],
+    "correctIndex": 2
+  },
+  {
+    "id": "general_23",
+    "topic": "Examen General",
+    "text": "Hablando de Hipoxia, sería correcto decir:",
+    "options": ["Es indicativo de exceso de hemoglobina en sangre", "Si es muy grave puede aparecer ictericia", "Es falta de oxígeno en el organismo", "Se corrige colocando una bolsa sobre boca y nariz para que respire en ella"],
+    "correctIndex": 2
+  },
+  {
+    "id": "general_24",
+    "topic": "Examen General",
+    "text": "Dentro de las radiaciones ionizantes se encuentran:",
+    "options": ["Las Hertzianas", "Los Rayos X", "Los microondas", "Los Rayos infrarrojos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "general_25",
+    "topic": "Examen General",
+    "text": "¿Qué significa las siglas FAK?",
+    "options": ["Botiquín de primeros auxilios", "Desfibrilador semiautomático", "Botiquín medico de emergencia", "Radiobaliza de emergencia"],
+    "correctIndex": 0
+  },
+  {
+    "id": "general_26",
+    "topic": "Examen General",
+    "text": "En caso de que un pasajero sufra una crisis epiléptica en pleno vuelo, la prioridad de un TCP será:",
+    "options": ["Inmovilizar al pasajero rápidamente", "Suministrar medicación urgente", "Evitar que se lesione golpeándose", "Tranquilizarle para que deje de moverse"],
+    "correctIndex": 2
+  },
+  {
+    "id": "general_27",
+    "topic": "Examen General",
+    "text": "Lo primero que debe hacer el TCP tras una descompresión durante el TUC será:",
+    "options": ["Obtener oxígeno para el compañero más cercano", "Poner inmediatamente oxígeno al Comandante", "Obtener oxígeno para sí mismo y así evitar una incapacitación por hipoxia", "Llevar el carro al galley y anclarlo convenientemente"],
+    "correctIndex": 2
+  },
+  {
+    "id": "general_28",
+    "topic": "Examen General",
+    "text": "El “Síndrome tromboembólico” se define en general como:",
+    "options": ["Un traumatismo óseo", "Un paro cardio-respiratorio", "Una trombosis venosa profunda", "Una intoxicación por medicamentos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "general_29",
+    "topic": "Examen General",
+    "text": "¿Cuál será la actuación más correcta en caso de luxación de un hueso?",
+    "options": ["Intentar poner en su sitio la articulación afectada lo antes posible", "Mandar a la persona a que ella misma se la coloque en su sitio", "Inmovilizarla tal y como esté colocando una férula o vendaje, moderando las maniobras de tracción, y no intentar nunca reducirla", "Colocar la parte afectada hacia abajo para que le llegue bien la sangre"],
+    "correctIndex": 2
+  },
+  {
+    "id": "general_30",
+    "topic": "Examen General",
+    "text": "Un pasajero que ha de ser transportado hasta el aeropuerto en la llamada 'posición de seguridad', consiste en colocarlo:",
+    "options": ["Boca arriba o supino", "Boca abajo o prono", "En lateral", "En Fowler"],
+    "correctIndex": 2
+  },
+  {
+    "id": "general_31",
+    "topic": "Examen General",
+    "text": "La parte del oído donde se produce la Barotitis o Aerotitis es:",
+    "options": ["El oído externo", "El oído medio", "El oído interno", "El laberinto"],
+    "correctIndex": 1
+  },
+  {
+    "id": "general_32",
+    "topic": "Examen General",
+    "text": "¿De qué color son las etiquetas para mercancías peligrosas de Clase 1?",
+    "options": ["Blanco", "Negro", "Amarillo", "Naranja"],
+    "correctIndex": 3
+  },
+  {
+    "id": "general_33",
+    "topic": "Examen General",
+    "text": "¿En cuántos tipos de aeronaves puede ejercer legalmente sus funciones un TCP?",
+    "options": ["Únicamente en un tipo de avión", "En tres como máximo", "Como máximo en cuatro, con la aprobación de la Autoridad y mismos procedimientos", "No hay límite siempre que estés habilitado"],
+    "correctIndex": 2
+  },
+  {
+    "id": "general_34",
+    "topic": "Examen General",
+    "text": "¿Dónde estará ubicada el hacha de emergencia en caso de haber sólo una a bordo?",
+    "options": ["Es indiferente, sólo ha de estar identificado", "Cerca de una estación de TCPs", "En el último rack de la derecha", "En Cockpit"],
+    "correctIndex": 3
+  },
+  {
+    "id": "general_35",
+    "topic": "Examen General",
+    "text": "En caso de aparición de gases tóxicos o humo en cabina producidos por un fuego a bordo, el TCP se colocará la máscara de protección portátil denominada:",
+    "options": ["PBE", "BCF", "MEG", "ABP"],
+    "correctIndex": 0
+  },
+  {
+    "id": "general_36",
+    "topic": "Examen General",
+    "text": "¿Por qué se produce la sustentación?",
+    "options": ["Porque la velocidad en el extradós es mayor que en el intradós", "Porque la velocidad en el extradós es menor que en el intradós", "Por igualdad de velocidad", "Porque la velocidad en extradós e intradós es 0"],
+    "correctIndex": 0
+  },
+  {
+    "id": "general_37",
+    "topic": "Examen General",
+    "text": "Si un paciente se encuentra inconsciente y respira, ¿Qué debemos hacer?",
+    "options": ["Ponerle en posición lateral de seguridad", "Dejarlo tal como está", "Llamar a un médico", "Acomodarlo con una manta"],
+    "correctIndex": 0
+  },
+  {
+    "id": "general_38",
+    "topic": "Examen General",
+    "text": "¿En cuanto tiempo hay que desembarcar un avión durante una emergencia?",
+    "options": ["90 segundos usando todas las salidas", "90 segundos usando la mitad de las salidas", "60 segundos usando todas las salidas", "60 segundos usando la mitad de las salidas"],
+    "correctIndex": 1
+  }
+]

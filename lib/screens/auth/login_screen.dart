@@ -52,10 +52,10 @@ class _LoginScreenState extends State<LoginScreen> {
           child: SingleChildScrollView(
             child: Column(
               children: [
-                Image.asset('assets/images/adv-logo.png', height: 80),
-                const SizedBox(height: 20),
+                Image.asset('assets/images/adv-logo.png', height: 145),
+                const SizedBox(height: 30),
                 const Text(
-                  'Inicia sesión en ADV Formación',
+                  'Inicia sesión en Elite Aircrew',
                   style: TextStyle(
                     fontSize: 20,
                     fontWeight: FontWeight.bold,

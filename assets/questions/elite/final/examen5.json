@@ -1,0 +1,417 @@
+[
+  {
+    "id": "examen5_1",
+    "topic": "examen flaps y movimientos",
+    "text": "El movimiento de los flaps de un avión es:",
+    "options": ["Asimétrico", "Asimétrico, según la voluntad del piloto", "Automático", "Simétrico"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen5_2",
+    "topic": "examen flaps y movimientos",
+    "text": "Los tres movimientos de un avión en torno a los tres ejes producen tres tipos de movimientos:",
+    "options": ["Guiñada, alabeo y cabeceo", "Transversal, longitudinal y vertical", "Balanceo, alabeo y guiñada", "Sobre los ejes, fuera de los ejes, paralelo a los ejes"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen5_3",
+    "topic": "examen flaps y movimientos",
+    "text": "La fuerza de la sustentación de un avión en el aire es producida por:",
+    "options": ["La diferencia de presión en la parte superior e inferior del ala", "La diferencia de presión en la parte superior e inferior del fuselaje", "La velocidad a la que vuela", "La potencia de los motores"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen5_4",
+    "topic": "examen flaps y movimientos",
+    "text": "Cada huso horario de la tierra supone:",
+    "options": ["10º de longitud", "10º de latitud", "15º de longitud", "15º de latitud"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen5_5",
+    "topic": "examen flaps y movimientos",
+    "text": "¿Cómo se llama el componente que comprime el aire en un motor de reacción?",
+    "options": ["Expansor", "Compresor", "Cámara de combustión", "Tobera"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen5_6",
+    "topic": "examen flaps y movimientos",
+    "text": "Las coordenadas de latitud se miden respecto a qué punto:",
+    "options": ["Polo norte", "Ecuador", "Meridiano de Greenwich", "Polo sur"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen5_7",
+    "topic": "examen flaps y movimientos",
+    "text": "El movimiento de traslación de la tierra es el giro que tiene esta:",
+    "options": ["Sobre su propio eje, con una duración de 365 días", "Alrededor de la luna con una duración de 24 horas y un cuarto", "Alrededor del sol con una duración de 24 horas", "Alrededor del sol con una duración de 365 días y un cuarto"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen5_8",
+    "topic": "examen flaps y movimientos",
+    "text": "La presión atmosférica aumenta con la altura:",
+    "options": ["Solo en el hemisferio norte", "Esta premisa es correcta", "Esta premisa es falsa", "Solo en el hemisferio sur"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen5_9",
+    "topic": "examen flaps y movimientos",
+    "text": "Solo en el hemisferio sur los polos magnéticos:",
+    "options": ["Coinciden con los polos geográficos", "No existen los polos magnéticos", "No coinciden con los polos geográficos", "Solo es magnético el polo norte por su situación"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen5_10",
+    "topic": "examen flaps y movimientos",
+    "text": "La unidad de distancia que se utiliza normalmente en navegación es:",
+    "options": ["El nudo", "La milla náutica", "Los kilómetros", "Los metros"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen5_11",
+    "topic": "examen flaps y movimientos",
+    "text": "¿Qué nombre recibe el contrato que obliga al operador a realizar el transporte de mercancías en la forma y tiempo convenidos y entregarla a su destinatario?",
+    "options": ["Contrato trasnportista-cliente", "Contrato de embarque aéreo de mercancías", "Carta de porte aéreo", "Billete de mercancías"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen5_12",
+    "topic": "examen flaps y movimientos",
+    "text": "Las cuantías de las indemnizaciones por daños a personas y cosas de forma accidental se establecían en el:",
+    "options": ["Convenio de Montreal", "Convenio de Roma", "Convenio de Tokio", "Convenio de Melbourne"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen5_13",
+    "topic": "examen flaps y movimientos",
+    "text": "¿Desde cuántas horas antes del vuelo los miembros de la tripulación no deberán consumir alcohol?",
+    "options": ["2 horas", "8 horas", "10 horas", "24 horas"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen5_14",
+    "topic": "examen flaps y movimientos",
+    "text": "Se deberá realizar un Entrenamiento de Conversión antes de:",
+    "options": ["Ser admitido en una compañía aérea", "Ejercer como sobrecargo", "Ser designado por primera vez para actuar como miembro de una tripulación o para operar otro tipo de avión", "Poder ejercer como TCP"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen5_15",
+    "topic": "examen flaps y movimientos",
+    "text": "¿Qué número de TCPs será necesario en una aeronave de 186 asientos?",
+    "options": ["1", "4", "2", "3"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen5_16",
+    "topic": "examen flaps y movimientos",
+    "text": "Durante el rodaje y despegue de una aeronave solo se permitirá en cabina el uso de:",
+    "options": ["Marcapasos", "Ordenadores portátiles", "Teléfonos móviles", "Walkman"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen5_17",
+    "topic": "examen flaps y movimientos",
+    "text": "¿Quién informará a los pasajeros sobre las salidas de emergencia?",
+    "options": ["El sobrecargo", "El TCP mas antiguo", "El comandante", "Los TCPs"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen5_18",
+    "topic": "examen flaps y movimientos",
+    "text": "A efectos de transporte aéreo se considera menor:",
+    "options": ["A los niños entre 0 y 2 años cumplidos", "A los niños entre 2 y 10 años cumplidos", "A los niños entre 5 y 8 años cumplidos", "A los niños que no han cumplido 12 años"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen5_19",
+    "topic": "examen flaps y movimientos",
+    "text": "En caso de llevar un deportado sin escolta se anotará la sigla:",
+    "options": ["DEPU", "DEPA", "DEPORT-CE", "CACO"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen5_20",
+    "topic": "examen flaps y movimientos",
+    "text": "¿Qué significan las siglas WCHC?",
+    "options": [
+      "Pasajero en silla de ruedas que no es capaz de desplazarse largas distancias, subir o bajar escaleras ni moverse dentro de la cabina",
+      "Pasajero en silla de ruedas que no es capaz de desplazarse largas distancias ni subir o bajar escaleras pero si es capaz de moverse dentro de la cabina",
+      "Pasajero en silla de ruedas que no es capaz de desplazarse largas distancias pero si es capaz de subir o bajar escaleras y moverse dentro de la cabina",
+      "Pasajero ambulatorio"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen5_21",
+    "topic": "examen flaps y movimientos",
+    "text": "Ante un aterrizaje de emergencia:",
+    "options": [
+      "Los TCPs permanecerán en sus puestos tras el aterrizaje a la espera de instrucciones de Cockpit",
+      "Los TCPs se tumbarán en el suelo de cabina pues es el lugar mas seguro en un impacto",
+      "Los pasajeros meterán rápidamente todo su equipaje de los racks bajo el asiento delantero",
+      "Los TCPs se colgarán en bandolera el oxígeno de primeros auxilios por si lo necesitan"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen5_22",
+    "topic": "examen flaps y movimientos",
+    "text": "¿Qué debemos chequear del botiquín de primeros auxilios?",
+    "options": ["Presencia únicamente", "Caducidad inferior a un año", "Precinto de color rojo", "Presencia, ubicación, precinto y caducidad"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen5_23",
+    "topic": "examen flaps y movimientos",
+    "text": "La evacuación total del pasaje y tripulación en una emergencia ha de durar menos de:",
+    "options": ["90 minutos", "90 segundos", "9 segundos", "60 minutos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen5_24",
+    "topic": "examen flaps y movimientos",
+    "text": "¿Qué se puede añadir al número máximo de pasajeros admisibles de acuerdo con el certificado de tipo de avión?",
+    "options": ["Los DEPO", "Los TCPs", "Los bebés", "Los PSP"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen5_25",
+    "topic": "examen flaps y movimientos",
+    "text": "En caso de amerizaje, ¿qué precaución debemos tener antes de abrir una salida?",
+    "options": ["Comprobar que la salida esté por encima del nivel de flotación", "Comprobar que la salida esté a la misma altura que el nivel de flotación", "Que la rampa esté desarmada", "En amerizaje es obligatorio abrir todas las salidas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen5_26",
+    "topic": "examen flaps y movimientos",
+    "text": "Se requiere nombrar sobrecargo cuando la tripulación esté compuesta por:",
+    "options": [
+      "Más de dos tripulantes en cabina de pasajeros",
+      "Más de un tripulante en cabina de pasajeros",
+      "No es necesario nombrar sobrecargo en ningún caso",
+      "Solamente cuando lo diga en comandante"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen5_27",
+    "topic": "examen flaps y movimientos",
+    "text": "Debido a la baja humedad del ambiente en cabina, los TCPs que lleven lentillas o gafas:",
+    "options": [
+      "Deberán llevar 3 pares para intercambiarlas",
+      "Igual no pueden volar",
+      "Tendrán bien hidratados los ojos",
+      "Tendrán que operarse y quitárselas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen5_28",
+    "topic": "examen flaps y movimientos",
+    "text": "Para gente sin patología auditiva, se recomienda realizar la Maniobra de Valsalva:",
+    "options": ["Durante los ascensos", "Durante el vuelo en general", "Durante los descensos", "Tanto en los ascensos como en los descensos"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen5_29",
+    "topic": "examen flaps y movimientos",
+    "text": "Para evitar el traslado de mosquitos portadores de enfermedades entre países, el avión se somete a una o varias:",
+    "options": ["Desratizaciones", "Desinfecciones", "Desinsectaciones", "Esterilizaciones"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen5_30",
+    "topic": "examen flaps y movimientos",
+    "text": "El hueso en forma de pico donde termina el esternón se llama:",
+    "options": ["Atlas", "Acromion", "Coxis", "Apéndice xifoides"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen5_31",
+    "topic": "examen flaps y movimientos",
+    "text": "Las llamadas “crisis de ausencias”:",
+    "options": ["Son el signo del pequeño mal", "Son el signo del gran mal", "Indican que se sufre de párkinson", "Son típicas de la diabetes"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen5_32",
+    "topic": "examen flaps y movimientos",
+    "text": "La barodontalgia o aerodontalgia:",
+    "options": [
+      "Solo podrá afectar a los que tengan dientes defectuosos (endodoncias, empastes, coronas…)",
+      "Para evitarla sería recomendable hacer la maniobra de Valsalva para abrir la trompa de Eustaquio",
+      "Afectará a la mayoría de los pasajeros a bordo",
+      "Afecta únicamente a las personas que padecen sinusitis o tienen congestión nasal"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen5_33",
+    "topic": "examen flaps y movimientos",
+    "text": "¿Qué son los chockes?",
+    "options": [
+      "Signos respiratorios de la enfermedad descompresiva (EDC)",
+      "Signos articulares de la enfermedad descompresiva (EDC)",
+      "Signos cutáneos de la enfermedad descompresiva (EDC)",
+      "Signos neurológicos de la enfermedad descompresiva (EDC)"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen5_34",
+    "topic": "examen flaps y movimientos",
+    "text": "Los gases que mayoritariamente difunden a través de la membrana alveolo-capilar son:",
+    "options": ["CO2 y N2", "O2 y CO2", "N2 y O2", "Únicamente oxígeno"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen5_35",
+    "topic": "examen flaps y movimientos",
+    "text": "Son signos y síntomas de quemadura de tercer grado:",
+    "options": [
+      "Piel enrojecida y gran sensibilidad y dolor en la zona",
+      "Ampolla y dolor",
+      "Aspecto blanquecino, seco y/o con zonas de necrosis",
+      "Sangrado sin dolor"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen5_36",
+    "topic": "examen flaps y movimientos",
+    "text": "Alguno de los síntomas de la Trombosis Venosa Profunda (TVP) son:",
+    "options": [
+      "Dolor agudo y constante en la zona de la pantorrilla",
+      "Incapacidad para estirar la pierna",
+      "Taquicardia con dificultad respiratoria",
+      "Cianosis en labios y uñas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen5_37",
+    "topic": "examen flaps y movimientos",
+    "text": "¿Puede un pasajero subir al avión en su equipaje de mano una caja de fósforos de seguridad?",
+    "options": ["No puede llevarlo nunca", "Sí, pero tiene que informar al comandante", "Sí, siempre que no lo utilice", "Sí, puede llevarlo sin problema"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen5_38",
+    "topic": "examen flaps y movimientos",
+    "text": "Hablando de etiquetas de riesgo es correcto decir:",
+    "options": ["Que tienen forma cuadrada", "Que tienen forma circular", "Que tienen forma de rombo", "Que tienen forma triangular"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen5_39",
+    "topic": "examen flaps y movimientos",
+    "text": "Los esmaltes pertenecen al grupo de mercancías peligrosas de:",
+    "options": ["Gases inflamables", "Sólidos comburentes", "Líquidos inflamables", "Explosivos"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen5_40",
+    "topic": "examen flaps y movimientos",
+    "text": "¿Qué significa el color azul de fondo en una etiqueta de mercancías peligrosas?",
+    "options": [
+      "Que pueden arder espontáneamente",
+      "Que pueden explotar con el calor",
+      "Sustancia corrosiva y/o mercancías peligrosas varias",
+      "Sustancias que, en contacto con el agua, emiten gases inflamables"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen5_41",
+    "topic": "examen flaps y movimientos",
+    "text": "El transporte de pesticidas en un avión está considerado mercancía peligrosa de clase:",
+    "options": ["2", "4", "6", "8"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen5_42",
+    "topic": "examen flaps y movimientos",
+    "text": "En el Boeing 717 de fuselaje estrecho, configurado con 100 asientos de pasajeros, el número de TCPs mínimo requerido será de:",
+    "options": ["4", "5", "2", "3"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen5_43",
+    "topic": "examen flaps y movimientos",
+    "text": "Para empezar a trabajar en un tipo de avión ¿es suficiente con tener el entrenamiento inicial?",
+    "options": [
+      "No, además hace falta tener ganas de trabajar",
+      "No, además es necesario tener un reconocimiento médico clase CC en vigor, haber realizado el entrenamiento de conversión y/o diferencias y ser competentes para el ejercicio de sus funciones",
+      "No, hay que haber superado la entrevista con la compañía y estar vacunado",
+      "Sí, es suficiente"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen5_44",
+    "topic": "examen flaps y movimientos",
+    "text": "Según la normativa, se consideran variantes de tipos de avión a los aspectos:",
+    "options": [
+      "Fuselaje ancho y fuselaje estrecho",
+      "Manejo de salidas de emergencia, ubicación y tipo de equipos de seguridad y procedimientos de emergencia",
+      "Ubicación y tipo de seguridad y procedimientos de emergencia",
+      "Que sean de distinta compañía aérea"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen5_45",
+    "topic": "examen flaps y movimientos",
+    "text": "¿Qué nombre reciben las máscaras de colocación rápidas para los pilotos ubicadas en cockpit?",
+    "options": ["MCR", "PSE", "APU", "QDM"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen5_46",
+    "topic": "examen flaps y movimientos",
+    "text": "¿Cuánto duran, aproximadamente, los extintores de BCF de 1kg de capacidad?",
+    "options": ["De 6 a 9 segundos", "De 2 a 4 segundos", "De 14 a 20 segundos", "Menos de 3 segundos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen5_47",
+    "topic": "examen flaps y movimientos",
+    "text": "¿Qué origen tiene el oxígeno de los PSU que se utiliza en caso de despresurización?",
+    "options": ["Cartucho de oxígeno comprimido", "Botella de aire presurizado", "Generador químico de oxígeno", "Contenedores centralizados de oxígeno"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen5_48",
+    "topic": "examen flaps y movimientos",
+    "text": "¿Cuál es uno de los parámetros a valorar para llevar en una aeronave elementos de flotación conjuntos?",
+    "options": [
+      "Cuando esta se aleje a más de 500NM de la costa",
+      "Cuando esta se aleje a más de 40NM de la costa",
+      "Cuando esta se aleje a más de 50NM de la costa",
+      "Cuando esta se aleje a más de 400NM de la costa"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen5_49",
+    "topic": "examen flaps y movimientos",
+    "text": "Las aeronaves deben ir provistas de, como mínimo, un transmisor de emergencia capaz de transmitir en las frecuencias civiles:",
+    "options": ["121.5 y 243.0 Mhz", "121.5 y 406 Mhz", "121.5/406 y 243.0 Mhz", "121.0/243.5 y 406 Mhz"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen5_50",
+    "topic": "examen flaps y movimientos",
+    "text": "¿Cuándo está indicado utilizar las bengalas día/noche?",
+    "options": [
+      "Inmediatamente, después de activar las balizas de emergencia",
+      "Sólo durante la noche que es cuando se ven mejor",
+      "Cuando se presuma que se pueden ser percibidas",
+      "Cuando nos parezca indicado"
+    ],
+    "correctIndex": 2
+  }
+]

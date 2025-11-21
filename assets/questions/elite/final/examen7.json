@@ -1,0 +1,352 @@
+[
+  {
+    "id": "examen_1",
+    "topic": "Examen 1",
+    "text": "La nube más temida en aviación por su peligrosidad es:",
+    "options": ["Cumulonimbo", "Cirrocúmulo", "Estratocúmulo", "Nimboestrato"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_2",
+    "topic": "Examen 1",
+    "text": "Los flaps se encuentran en:",
+    "options": ["El borde de salida o de fuga del ala", "Junto a los alerones", "Sobre el ala pegado a la cabina", "Bajo el timón de salida del ala"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_3",
+    "topic": "Examen 1",
+    "text": "Las fuerzas que actúan sobre un avión de forma combinada para volar son:",
+    "options": ["Empuje, sustentación, peso y velocidad", "Empuje, resistencia, peso y velocidad", "Empuje, sustentación, peso y resistencia", "Sustentación, peso, resistencia y velocidad"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_4",
+    "topic": "Examen 1",
+    "text": "El número Mach es una medida de velocidad que nos indica:",
+    "options": ["La velocidad del avión respecto a otro que vuela a su lado", "La velocidad del avión en relación con la velocidad del aire de la troposfera", "La velocidad del avión en relación con la del sonido", "La velocidad del avión en relación con la de la luz"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_5",
+    "topic": "Examen 1",
+    "text": "Para conseguir estabilidad longitudinal de una aeronave se cuenta con el:",
+    "options": ["Alerón", "Timón de dirección", "Timón de profundidad", "Spoiler"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_6",
+    "topic": "Examen 1",
+    "text": "La presión atmosférica o barométrica con la altura:",
+    "options": ["Aumenta", "Disminuye", "Se mantiene constante", "Primero disminuye y luego aumenta"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_7",
+    "topic": "Examen 1",
+    "text": "Los meridianos son:",
+    "options": ["Los semicírculos máximos que forman planos perpendiculares al ecuador", "Los semicírculos cuyo radio es máximo en los polos", "Los círculos mayores que dividen a la Tierra en partes iguales", "Los semicírculos máximos que forman planos paralelos al ecuador"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_8",
+    "topic": "Examen 1",
+    "text": "Según los polos geográficos, el Polo Sur es aquel desde el cual:",
+    "options": ["Se termina la Tierra por el Norte", "Veríamos girar a la Tierra en sentido opuesto a las agujas del reloj", "Veríamos girar a la Tierra en el mismo sentido que las agujas del reloj", "Es donde terminan todos los paralelos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_9",
+    "topic": "Examen 1",
+    "text": "El gas más importante para la meteorología es:",
+    "options": ["Nitrógeno", "Hidrógeno", "Dióxido de carbono", "Vapor de agua"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_10",
+    "topic": "Examen 1",
+    "text": "La nube considerada como la más peligrosa para los vuelos es:",
+    "options": ["CU", "NB", "CB", "ST"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_11",
+    "topic": "Examen 1",
+    "text": "¿Qué documento fundamental de la aviación se firmó el 7 de diciembre de 1944 que continúa vigente hoy en día?",
+    "options": ["El Convenio de Transporte Aéreo Internacional", "El Convenio sobre Aviación Civil Internacional", "El Convenio Colectivo Aeronáutico", "La Carta Magna de la Aviación"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_12",
+    "topic": "Examen 1",
+    "text": "El Manual de Operaciones (MO):",
+    "options": ["Afecta únicamente a la tripulación técnica", "Afecta únicamente a la tripulación técnica y al personal de tierra", "Afecta a la tripulación técnica y a los TCPs", "Afecta únicamente a los TCPs"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_13",
+    "topic": "Examen 1",
+    "text": "Según la Normativa Europea, llamamos 'tiempo de vuelo' a:",
+    "options": ["Todo el tiempo que el avión esté en el aire", "Desde que el avión comienza a moverse por sus propios medios hasta que se detiene en el destino", "A la suma de todo el tiempo que ese avión está en el aire, aunque sean diferentes vuelos", "A las horas que un avión está en el aire en 24 horas"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_14",
+    "topic": "Examen 1",
+    "text": "Las tripulaciones de vuelo en España dependen directamente de:",
+    "options": ["AENA", "AESA", "SENASA", "EASA"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_15",
+    "topic": "Examen 1",
+    "text": "¿Qué ley nacional es la que regula los delitos y las faltas cometidas en la aeronáutica?",
+    "options": ["El Consejo General del Poder Judicial", "La Ley Penal y Procesal de la Navegación Aérea", "El Código Penal Aeronáutico", "La Ley de Seguridad Aérea"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_16",
+    "topic": "Examen 1",
+    "text": "¿Qué debe hacer el sobrecargo cuando se iluminen los letreros de 'Abróchense los cinturones'?",
+    "options": ["Sentarse lo más pronto posible", "Continuar con la operación rutinaria", "Contactar inmediatamente con el comandante", "Revisar antes de abrochar su cinturón que todos los TCPs lo tienen puesto"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_17",
+    "topic": "Examen 1",
+    "text": "¿Qué es lo que verificaremos fundamentalmente en las inspecciones de los lavabos?",
+    "options": ["Que no se ve, ni se huele a humo. Que no se ha descargado el extintor automático y que el detector de humos funciona correctamente y no ha sido manipulado", "Que el agua fría sale fría y la caliente sale caliente", "Que la puerta antes de entrar está fría", "Que no se ha quedado encerrado ningún pasajero"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_18",
+    "topic": "Examen 1",
+    "text": "En general y tras el aterrizaje de la aeronave, ¿cuándo se desarmarán las rampas?",
+    "options": ["No es necesario desarmarlas", "Al ir rodando por pista tras el aterrizaje", "En cuanto el avión toque tierra", "En el aparcamiento, con el avión parado, y una vez que el sobrecargo reciba autorización de cabina de mando"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_19",
+    "topic": "Examen 1",
+    "text": "¿Qué es un MEDA?",
+    "options": ["Un médico a bordo", "Un caso médico", "Un pasajero en silla de ruedas", "Son los enfermos que viajan en camilla"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_20",
+    "topic": "Examen 1",
+    "text": "La clasificación de emergencia prevista/imprevista se hace en función de:",
+    "options": ["La sorpresa que nos cause en el momento", "Si está contemplada en el MO de la compañía o no", "Esta clasificación no existe. Las emergencias son imprevistas siempre", "El tiempo del que se dispone para preparar la evacuación"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_21",
+    "topic": "Examen 1",
+    "text": "¿Qué clave identifica a un PRM por su sordera?",
+    "options": ["BED", "BLND", "DEAF", "MEDA"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_22",
+    "topic": "Examen 1",
+    "text": "Un vuelo que opera entre EAS-MJV lo hace entre los aeropuertos de:",
+    "options": ["Buenos Aires y Montevideo", "Estremera y Madrid", "España y Milán", "San Sebastián y Murcia"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_23",
+    "topic": "Examen 1",
+    "text": "El peso máximo para un perro lazarillo en cabina es de:",
+    "options": ["12 kilos", "18 kilos", "25 kilos", "No hay límite de peso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_24",
+    "topic": "Examen 1",
+    "text": "¿Cuándo evacuarán los PRMs que no necesiten ayuda para desplazarse o puedan desplazarse fácilmente?",
+    "options": ["Siempre en primer lugar", "En cuanto la situación lo permita", "Siempre en último lugar", "Cuando les toque"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_25",
+    "topic": "Examen 1",
+    "text": "¿A partir de cuántos asientos es obligatorio que los aviones dispongan de un segundo hacha o pata de cabra?",
+    "options": ["100 asientos", "200 asientos", "150 asientos", "50 asientos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_26",
+    "topic": "Examen 1",
+    "text": "Según establece la normativa, ¿qué asientos deben estar equipados con cinturones adicionales para la sujeción del torso?",
+    "options": ["Los de todos los pasajeros", "Los de los TCPs asignados al vuelo", "Todos los asientos asignados a la cabina de pilotaje", "Exclusivamente el del comandante"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_27",
+    "topic": "Examen 1",
+    "text": "El oxígeno es transportado en la sangre en:",
+    "options": ["Los glóbulos blancos o leucocitos", "Las plaquetas o trombocitos", "Los glóbulos rojos o hematíes", "El plasma sanguíneo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_28",
+    "topic": "Examen 1",
+    "text": "Entendemos por tiempo útil de conciencia (TUC):",
+    "options": ["Del que disponemos para actuar con claridad de juicio y tomar decisiones adecuadas tras la exposición a una situación de hipoxia", "Del que disponemos antes de que se inicie la visión negra al someternos a grandes aceleraciones", "Del que disponemos antes de perder el conocimiento al desconectarnos de nuestro sistema de oxígeno", "Del que disponemos antes de perder el conocimiento por intoxicación al inhalar oxígeno al 100%"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_29",
+    "topic": "Examen 1",
+    "text": "La causa más frecuente de hiperventilación es en vuelo:",
+    "options": ["El pánico o miedo", "La despresurización de la cabina", "El fuerte dolor de oídos", "La hipoxia"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_30",
+    "topic": "Examen 1",
+    "text": "Los disbarismos se dividen en:",
+    "options": ["Mareos y vértigos", "Visión negra y visión roja", "Barotraumas y enfermedad descompresiva", "Alteraciones hiperbáricas y alteraciones hipobáricas"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_31",
+    "topic": "Examen 1",
+    "text": "La trompa de Eustaquio comunica:",
+    "options": ["El oído externo y el oído medio", "El oído medio y la nasofaringe", "El oído interno y el nervio auditivo", "El oído medio y el oído interno"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_32",
+    "topic": "Examen 1",
+    "text": "Cuando nace un niño en un avión, ¿cuál deberá ser nuestra primera actuación?",
+    "options": ["Limpiarle las secreciones de boca y nariz y abrigarle", "Lavarle bien con agua templada", "Cerrar y cortar el cordón umbilical", "Dárselo a su madre"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_33",
+    "topic": "Examen 1",
+    "text": "Qué sería correcto decir si estamos hablando de botiquines a bordo de un avión:",
+    "options": ["No se aconseja llevarlos a bordo si no va un sanitario que lo maneje", "Es obligatorio llevarlos en cualquier aeronave y comprobar su estado periódicamente", "Es conveniente llevarlos, aunque no es recomendable su utilización", "Los botiquines de abordo solo los maneja el comandante de la aeronave"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_34",
+    "topic": "Examen 1",
+    "text": "El mayor peligro cuando viajamos a una zona tropical son:",
+    "options": ["Los grandes depredadores", "Los insectos", "El fuerte calor", "La gran humedad"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_35",
+    "topic": "Examen 1",
+    "text": "El jet-lag se sufre más en vuelos:",
+    "options": ["Norte-sur", "Este-oeste", "Oeste-este", "Sur-norte"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_36",
+    "topic": "Examen 1",
+    "text": "Si un pasajero en vuelo está indispuesto (vómitos, diarrea y dolor abdominal), pensaremos que pueda estar padeciendo de:",
+    "options": ["Infarto de miocardio", "Gastroenteritis", "Diabetes", "Asma alérgico"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_37",
+    "topic": "Examen 1",
+    "text": "¿Puede la compañía aérea conceder una dispensa a un animal vivo infectado?",
+    "options": ["Sí, pero depende de la compañía", "No", "Solo si no es contagioso", "Depende del tipo de animal"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_38",
+    "topic": "Examen 1",
+    "text": "Las mercancías peligrosas de clase 2 son:",
+    "options": ["Explosivos", "Sólidos inflamables", "Gases", "Líquidos inflamables"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_39",
+    "topic": "Examen 1",
+    "text": "La responsabilidad de verificar que los embalajes sean aptos para el transporte de mercancías peligrosas corresponde al:",
+    "options": ["Destinatario", "Pasajero", "Remitente", "Comandante"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_40",
+    "topic": "Examen 1",
+    "text": "¿Qué significan tres aspas con círculo negro en el centro en una etiqueta de mercancías peligrosas?",
+    "options": ["Material inflamable", "Material corrosivo", "Material radioactivo", "Material volátil"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_41",
+    "topic": "Examen 1",
+    "text": "El transporte de hielo seco en un avión está considerado mercancía peligrosa de clase:",
+    "options": ["3", "4", "9", "No es una mercancía peligrosa"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_42",
+    "topic": "Examen 1",
+    "text": "Según la legislación vigente, el plazo de validez del certificado médico aeronáutico de un TCP de 35 años es de:",
+    "options": ["3 años", "5 años", "10 años", "4 años"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_43",
+    "topic": "Examen 1",
+    "text": "Si un TCP está habilitado para 2 tipos de avión y quiere ejercer en un tercero donde el manejo de las salidas de emergencia y los procedimientos de seguridad son diferentes, ¿podrá?",
+    "options": ["Si los procedimientos de seguridad son diferentes no podrá", "Con una autorización expresa de la compañía sí podrá", "Sí, porque la normativa le permite hacerlo en un máximo de 3 tipos de avión", "Con el certificado de TCP se puede ejercer en todas las aeronaves"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_44",
+    "topic": "Examen 1",
+    "text": "En el Boeing 767 de fuselaje ancho, configurado con 375 asientos de pasajeros, el número de TCPs mínimo requerido será de:",
+    "options": ["4", "5", "6", "8"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_45",
+    "topic": "Examen 1",
+    "text": "Si existe humo o vapores tóxicos por la cabina de pasajeros, debemos recomendar al pasaje:",
+    "options": ["Que se coloquen rápidamente las mascarillas de oxígeno de emergencia", "Que se cubran nariz y boca con un pañuelo o equivalente, seco", "Que no se agachen ya que el humo de la cabina siempre se irá a la parte de abajo del avión", "Que se cubran nariz y boca con un pañuelo o equivalente, húmedo"],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_46",
+    "topic": "Examen 1",
+    "text": "¿Cuántas hachas, como mínimo, habrá en un avión certificado para 150 pasajeros?",
+    "options": ["2", "3", "1", "Ninguna"],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_47",
+    "topic": "Examen 1",
+    "text": "De acuerdo con la clasificación europea, ¿de qué clase es un fuego cuyo combustible son gases inflamables como el butano?",
+    "options": ["Clase A", "Clase B", "Clase C", "Clase D"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_48",
+    "topic": "Examen 1",
+    "text": "Contando con los medios actuales, ¿qué tiempo es de esperar que transcurra antes de que los supervivientes de un accidente aéreo sean localizados?",
+    "options": ["24 horas", "3 días", "48 horas", "1 semana"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_49",
+    "topic": "Examen 1",
+    "text": "Si tenemos sed en un amaraje:",
+    "options": ["Beberíamos agua del mar, pero poca", "Si no tenemos agua potable, utilizaremos las pastillas desalinizadoras para beber agua del mar", "No beberemos nada", "Comeríamos a cambio"],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_50",
+    "topic": "Examen 1",
+    "text": "La radiobaliza tipo RESCUE99 se activa:",
+    "options": ["A los 5 minutos en agua salada y a los 5 segundos en agua dulce", "A los 5 minutos en agua dulce y a los 5 segundos en agua salada", "Tanto en agua dulce como en agua salada se activa a los 5 segundos", "Apretando el botón ON del lateral"],
+    "correctIndex": 0
+  }
+]

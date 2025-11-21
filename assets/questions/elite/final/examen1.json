@@ -1,0 +1,587 @@
+[
+  {
+    "id": "examen_1",
+    "topic": "Examen 1",
+    "text": "Los flaps de un avión son:",
+    "options": [
+      "Dispositivos utilizados para el movimiento de alabeo.",
+      "Elementos hipersustentadores situados en el borde de salida.",
+      "Alerones que desplegamos en los despegues.",
+      "Adornos que se colocan en el fuselaje para que sea visto desde tierra."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_2",
+    "topic": "Examen 1",
+    "text": "La parte delantera del ala de un avión se conoce como:",
+    "options": [
+      "Borde de ataque.",
+      "Extradós.",
+      "Intradós.",
+      "Cuerda."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_3",
+    "topic": "Examen 1",
+    "text": "Para realizar una guiñada a la derecha hemos de girar:",
+    "options": [
+      "El timón de profundidad a la izquierda.",
+      "El alerón derecho hacia abajo.",
+      "El timón de profundidad a la derecha.",
+      "El timón de dirección a la derecha."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_4",
+    "topic": "Examen 1",
+    "text": "Como regla general, el despegue se hará:",
+    "options": [
+      "A favor del viento para que nos ayude a despegar.",
+      "En contra del viento.",
+      "A favor del viento, si nos encontramos en el hemisferio norte.",
+      "En contra del viento, si nos encontramos en el hemisferio norte."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_5",
+    "topic": "Examen 1",
+    "text": "La presión de cabina en altitud de crucero:",
+    "options": [
+      "Es igual a la presión exterior.",
+      "Es mayor a la presión exterior.",
+      "Es menor a la presión exterior.",
+      "Depende de la altura de crucero a la que vaya, la decide la tripulación."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_6",
+    "topic": "Examen 1",
+    "text": "Cuando empujamos la palanca de timón de profundidad, el avión:",
+    "options": [
+      "Baja el morro.",
+      "Sube el morro.",
+      "Baja los flaps.",
+      "Sube los slats."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_7",
+    "topic": "Examen 1",
+    "text": "Un avión entra en pérdida si:",
+    "options": [
+      "Vuela con exceso de peso.",
+      "Vuela a altas velocidades.",
+      "Sobrepasa el coeficiente de sustentación máximo.",
+      "Se inclina mucho a derechas."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_8",
+    "topic": "Examen 1",
+    "text": "En aviación encontramos, básicamente, tres tipos de motores:",
+    "options": [
+      "Monomotor, bimotor y turbohélice.",
+      "Motor alternativo, turborreactor y turbohélice.",
+      "Turborreactor, turbohélice y supersónico.",
+      "Transónico, supersónicos e hipersónicos."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_9",
+    "topic": "Examen 1",
+    "text": "La composición química de la atmósfera es:",
+    "options": [
+      "76% nitrógeno, 21% oxígeno y 0,1% otros gases.",
+      "78% nitrógeno, 21% oxígeno y 1% otros gases.",
+      "78% nitrógeno, 20% oxígeno y 2% otros gases.",
+      "76% nitrógeno, 20% oxígeno y 4% otros gases."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_10",
+    "topic": "Examen 1",
+    "text": "La sustentación de una aeronave en el aire se produce por:",
+    "options": [
+      "El aumento de la velocidad del aire sobre el extrados.",
+      "Debido a la curvatura del borde de salida.",
+      "Por el aumento de la velocidad del aire sobre el intradós.",
+      "Debido a la curvatura del fuselaje del avión."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_11",
+    "topic": "Examen 1",
+    "text": "El número de TCPs que integran la tripulación de cabina se calcula teniendo en cuenta su capacidad, por grupos o fracciones de grupos de:",
+    "options": [
+      "19 pasajeros.",
+      "50 pasajeros.",
+      "19 asientos.",
+      "50 asientos."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_12",
+    "topic": "Examen 1",
+    "text": "Cuando hablamos de 'transporte aéreo', nos estamos refiriendo al transporte de:",
+    "options": [
+      "Pasajeros exclusivamente.",
+      "Correo y carga solamente.",
+      "Pasajeros, correo y carga.",
+      "Pasajeros, equipajes y correo."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_13",
+    "topic": "Examen 1",
+    "text": "La sede central de la OACI se encuentra en:",
+    "options": [
+      "Madrid.",
+      "Roma.",
+      "Tokio.",
+      "Montreal."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_14",
+    "topic": "Examen 1",
+    "text": "¿Qué reglamento regula los Deberes y Responsabilidades de los TCPs?",
+    "options": [
+      "965/2015.",
+      "964/2015.",
+      "965/2012.",
+      "963/2012."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_15",
+    "topic": "Examen 1",
+    "text": "Para poder viajar en una aeronave, todos los pasajeros han de llevar:",
+    "options": [
+      "Un billete o contrato de transporte para dicho vuelo.",
+      "Un documento de reserva de plaza emitido por una Agencia de Viajes.",
+      "Figurar en la lista de pasajeros de la compañía.",
+      "Un recibo del pago del billete de vuelo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_16",
+    "topic": "Examen 1",
+    "text": "¿Con qué siglas se designa a las personas que preseleccionamos para colaborar en una emergencia?",
+    "options": [
+      "PSU.",
+      "PSP/ABP.",
+      "PBP.",
+      "PRP."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_17",
+    "topic": "Examen 1",
+    "text": "¿Sobre quién recae la decisión final de admisión a la cabina de vuelo?",
+    "options": [
+      "Sobre la Compañía.",
+      "Sobre el Operador.",
+      "Sobre el Comandante.",
+      "Sobre el Comandante y Sobrecargo a partes iguales."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_18",
+    "topic": "Examen 1",
+    "text": "Durante el repostaje de un avión en tierra con pasajeros a bordo del mismo deberán permanecer al menos:",
+    "options": [
+      "1 tripulante técnico y un mecánico.",
+      "2 tripulantes técnicos.",
+      "2 mecánicos.",
+      "1 tripulante técnico."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_19",
+    "topic": "Examen 1",
+    "text": "El equipaje de mano de todos los pasajeros ha de cumplir la normativa de medidas y peso de cada compañía. Únicamente estarán exentos de esta premisa, con autorización del Comandante:",
+    "options": [
+      "Las Fuerzas y Cuerpos de Seguridad del Estado.",
+      "Los TCPs.",
+      "El Copiloto.",
+      "Personas enfermas, ancianos o impedidos."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_20",
+    "topic": "Examen 1",
+    "text": "En una evacuación de emergencia, ¿cuándo saltará por la rampa el TCP responsable de esa salida de emergencia?:",
+    "options": [
+      "Cuando se lo ordene el Comandante.",
+      "El primero, para que los pasajeros vean como lo hace.",
+      "El último, cuando su zona este evacuada y nadie requiera de su ayuda a bordo.",
+      "El primero para ayudar desde abajo a los que vayan saltando."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_21",
+    "topic": "Examen 1",
+    "text": "¿Qué porcentaje de bebés podemos llevar a bordo adicionalmente a la capacidad total del avión?",
+    "options": [
+      "10% adicional.",
+      "20% adicional.",
+      "15% adicional.",
+      "No se puede llevar ningún pasajero más de los que marque la certificación del avión."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_22",
+    "topic": "Examen 1",
+    "text": "¿Qué significan las siglas WCHS?",
+    "options": [
+      "Pasajero en silla de ruedas que no es capaz de desplazarse largas distancias, subir o bajar escaleras ni moverse dentro de la cabina.",
+      "Pasajero en silla de ruedas que no es capaz de desplazarse largas distancias ni subir o bajar escaleras pero si es capaz de moverse dentro de la cabina.",
+      "Pasajero en silla de ruedas que no es capaz de desplazarse largas distancias pero si es capaz de subir o bajar escaleras y moverse dentro de la cabina.",
+      "Pasajero ambulatorio."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_23",
+    "topic": "Examen 1",
+    "text": "¿Qué respiramos a través de una máscara de oxígeno para pasajeros del sistema fijo de emergencia?",
+    "options": [
+      "Oxígeno 100%.",
+      "Una mezcla de oxígeno y nitrógeno.",
+      "Oxígeno al 85%.",
+      "Oxígeno proveniente de un generador, mezclado con aire de cabina."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_24",
+    "topic": "Examen 1",
+    "text": "La comprobación pre-vuelo del extintor de BCF incluye revisar:",
+    "options": [
+      "Precinto en buen estado y color de la botella.",
+      "Manómetro en 5000 PSI.",
+      "Ubicación, manómetro, precinto en buen estado, boquilla sin obstrucciones y fecha de caducidad.",
+      "Ubicación y precinto con caducidad en el mismo año."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_25",
+    "topic": "Examen 1",
+    "text": "¿Qué salidas de emergencia no están contabilizadas en el plan general de evacuación?",
+    "options": [
+      "Las salidas sobre las alas.",
+      "Todas las salidas que no estén sobre los planos.",
+      "El cono de cola.",
+      "Las ventanillas deslizantes de la cabina de mando."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_26",
+    "topic": "Examen 1",
+    "text": "¿Cuáles de las siguientes luces pertenecen al sistema de iluminación de emergencia?",
+    "options": [
+      "Luces de posición del avión.",
+      "Luces de aterrizaje.",
+      "Luces de trabajo.",
+      "Luces de letreros y senderos luminosos."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_27",
+    "topic": "Examen 1",
+    "text": "Un método para aumentar el CO2 y disminuir el O2 en sangre durante una hiperventilación es:",
+    "options": [
+      "Colocar una bolsa sobre la boca y nariz y hacerle respirar en ella.",
+      "Tapar la boca y las dos fosas nasales.",
+      "Colocar oxígeno rápidamente.",
+      "Tranquilizarle y dejarle solo."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_28",
+    "topic": "Examen 1",
+    "text": "Ante un atragantamiento total, completo o grave, hemos de:",
+    "options": [
+      "Mandar toser enérgicamente.",
+      "Dar 5 golpes interescapulares seguidos de 5 compresiones abdominales.",
+      "Colocarle tumbado en PLS.",
+      "Colocarle en la posición anti-shock."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_29",
+    "topic": "Examen 1",
+    "text": "¿Qué significan las siglas EMK?",
+    "options": [
+      "Botiquín de primeros auxilios.",
+      "Desfibrilador semiautomático.",
+      "Botiquín médico de emergencia.",
+      "Radiobaliza de emergencia."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_30",
+    "topic": "Examen 1",
+    "text": "¿Cuál es la célula básica del sistema nervioso?",
+    "options": [
+      "La sinapsis.",
+      "La neurona.",
+      "Los neurotransmisores.",
+      "Las dendritas."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_31",
+    "topic": "Examen 1",
+    "text": "En caso de congelación tendremos que:",
+    "options": [
+      "Consumir alcohol en grandes cantidades.",
+      "Sumergir en agua muy caliente las partes congeladas.",
+      "Envolver la parte congelada con una manta o ropa y aplicarle algo caliente por fuera.",
+      "Friccionamos fuertemente con nieve para estimularla."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_32",
+    "topic": "Examen 1",
+    "text": "Las vacunas son:",
+    "options": [
+      "Una forma de inmunización.",
+      "Un tratamiento químico.",
+      "Una medida higiénica.",
+      "Un tratamiento frente a infecciones."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_33",
+    "topic": "Examen 1",
+    "text": "El procedimiento de Blocks Away se utiliza en la:",
+    "options": [
+      "Desinsectación.",
+      "Desinfección.",
+      "Desratización.",
+      "Desalinización."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_34",
+    "topic": "Examen 1",
+    "text": "Los 'bends' son manifestaciones clínicas de la enfermedad descompresiva que consiste en:",
+    "options": [
+      "Dolores torácicos.",
+      "Pérdida de visión central.",
+      "Pérdida de visión periférica.",
+      "Dolores articulares."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "examen_35",
+    "topic": "Examen 1",
+    "text": "La alteración más común en vuelo, debido a turbulencias, es:",
+    "options": [
+      "La claustrofobia.",
+      "La ansiedad.",
+      "Los infartos.",
+      "La ceguera."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_36",
+    "topic": "Examen 1",
+    "text": "Las heridas se clasifican en:",
+    "options": [
+      "Primer, segundo y tercer grado.",
+      "Punzantes, incisas y contusas.",
+      "Superficiales y profundas.",
+      "Abrasivas y sangrantes."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_37",
+    "topic": "Examen 1",
+    "text": "¿Es adecuado echar agua sobre un derrame de mercancías peligrosas para dispersarlo?",
+    "options": [
+      "Nunca.",
+      "Solo si el derrame es aceite.",
+      "Solo si el derrame es denso.",
+      "Sí, es lo recomendado."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_38",
+    "topic": "Examen 1",
+    "text": "Las mercancías peligrosas de clase 1 son:",
+    "options": [
+      "Explosivos.",
+      "Sólidos inflamables.",
+      "Gases.",
+      "Líquidos inflamables."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_39",
+    "topic": "Examen 1",
+    "text": "¿Cuál es el anexo de la OACI referente al transporte de mercancías peligrosas?",
+    "options": [
+      "Anexo 6.",
+      "Anexo 12.",
+      "Anexo 18.",
+      "Anexo 24."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_40",
+    "topic": "Examen 1",
+    "text": "El NOTOC es:",
+    "options": [
+      "El documento de notificación al Comandante que incluye datos sobre mercancías peligrosas a bordo.",
+      "La lista de mercancías peligrosas que debe aportar el propietario de las mismas.",
+      "El listado de mercancías peligrosas aceptadas en aviación.",
+      "La relación de mercancías peligrosas ocultas en un avión."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "examen_41",
+    "topic": "Examen 1",
+    "text": "¿Son iguales las etiquetas de mercancías peligrosas aeronáuticas que las etiquetas de los productos de venta para el consumo?",
+    "options": [
+      "Sí, la legislación marca que sean iguales.",
+      "No, no tienen ni la misma forma ni son del mismo tamaño.",
+      "Tienen la misma forma y tamaño pero distintos colores.",
+      "Tienen los mismos colores pero diferentes formas y tamaños."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_42",
+    "topic": "Examen 1",
+    "text": "En el Airbus A320 de fuselaje estrecho, configurado con 220 asientos de pasajeros, el número de TCPs mínimo requerido será de:",
+    "options": ["4", "5", "6", "8"],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_43",
+    "topic": "Examen 1",
+    "text": "¿Cuál es la edad mínima exigida para poder obtener la licencia de TCP?",
+    "options": ["20 años.", "21 años.", "18 años.", "15 años."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_44",
+    "topic": "Examen 1",
+    "text": "En aviación surge el término Cockpit Estéril con el fin de:",
+    "options": [
+      "Evitar el transporte a bordo de mosquitos que puedan infectar a las personas.",
+      "Preservar la salud de los pilotos para evitar incapacitaciones en vuelo.",
+      "Evitar distracciones de los pilotos durante la fases críticas del vuelo.",
+      "Ese término no existe en aviación."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_45",
+    "topic": "Examen 1",
+    "text": "El Equipo de Protección a Bordo de un avión se conoce como:",
+    "options": ["ELT.", "BCF.", "PBE.", "PSU."],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_46",
+    "topic": "Examen 1",
+    "text": "Cuando sale humo negro del aire acondicionado ¿qué podemos pensar?",
+    "options": [
+      "Que es un torching.",
+      "Que podemos tener un fuego en alguna parte externa del avión (motores).",
+      "Puede ser producido por el encendido de los motores o del APU.",
+      "Humo no peligroso, producido por el encendido de los motores o del APU."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_47",
+    "topic": "Examen 1",
+    "text": "¿Cuántos extintores debe llevar en cabina de pasajeros un avión certificado con 215 asientos de pasajeros?",
+    "options": [
+      "4 extintores y como mínimo uno de ellos ha de ser de agua.",
+      "3 extintores y como mínimo dos de ellos han de ser de Halon.",
+      "4 extintores.",
+      "3 extintores de Balón y 2 de agua."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "examen_48",
+    "topic": "Examen 1",
+    "text": "Si en una supervivencia tenemos frío:",
+    "options": [
+      "Beberemos alcohol para aumentar el calor corporal.",
+      "Haremos un fuego para calentarnos y calentar líquidos, nos taparemos con mantas, fundas de asientos...",
+      "Nos meteremos en los sacos con otro pasajero para darnos calor mutuo.",
+      "Lo mejor es mojarse las ropas con agua caliente para entrar en calor."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_49",
+    "topic": "Examen 1",
+    "text": "Las balsas están equipadas, como mínimo, con:",
+    "options": [
+      "Techo de lona para evitar el sol y la lluvia, remos y luz de localización.",
+      "Luz de localización de supervivientes y equipos salvavidas de supervivencia suficiente para el número de plazas.",
+      "Comida y bebida para todas las plazas y durante 7 días.",
+      "Botiquín de primeros auxilios y kit de supervivencia."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "examen_50",
+    "topic": "Examen 1",
+    "text": "Según normativa, el número mínimo de botiquines de primeros auxilios a bordo será de:",
+    "options": [
+      "3 para aviones de 150-200 asientos.",
+      "5 para aviones de 300 o más asientos.",
+      "2 para cualquier capacidad del avión.",
+      "3 para aviones de 200-299 asientos."
+    ],
+    "correctIndex": 3
+  }
+]
