@@ -3,3 +3,4 @@ command = "bash ./netlify-build.sh"
 publish = "build/web"
 [build.environment]
 FLUTTER_VERSION = "3.27.2"
+SECRETS_SCAN_SMART_DETECTION_ENABLED = "false"
