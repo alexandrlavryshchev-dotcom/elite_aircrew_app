@@ -4,3 +4,8 @@ publish = "build/web"
 [build.environment]
 FLUTTER_VERSION = "3.27.2"
 SECRETS_SCAN_SMART_DETECTION_ENABLED = "false"
+
+[[redirects]]
+from = "/manual/*"
+to = "/web_static_files/manual/:splat"
+status = 200

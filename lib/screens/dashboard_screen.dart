@@ -39,7 +39,6 @@ class _DashboardScreenState extends State<DashboardScreen> {
       description: 'Colección de exámenes finales y generales.',
       icon: 'military_tech_rounded',
       subcategories: [
-
         // ▸ SUBCATEGORÍA 1: EXAMEN FINAL
         TestCategory(
           id: 'elite_examen_final',
@@ -49,84 +48,117 @@ class _DashboardScreenState extends State<DashboardScreen> {
             TestCategory(
               id: 'elite_final_1',
               title: 'Examen Final 1',
-              questionAssetPath: 'assets/questions/elite/final/examen1.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/final/examen1.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_final_2',
               title: 'Examen Final 2',
-              questionAssetPath: 'assets/questions/elite/final/examen2.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/final/examen2.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_final_3',
               title: 'Examen Final 3',
-              questionAssetPath: 'assets/questions/elite/final/examen3.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/final/examen3.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_final_4',
               title: 'Examen Final 4',
-              questionAssetPath: 'assets/questions/elite/final/examen4.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/final/examen4.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_final_5',
               title: 'Examen Final 5',
-              questionAssetPath: 'assets/questions/elite/final/examen5.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/final/examen5.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_final_6',
               title: 'Examen Final 6',
-              questionAssetPath: 'assets/questions/elite/final/examen6.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/final/examen6.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_final_7',
               title: 'Examen Final 7',
-              questionAssetPath: 'assets/questions/elite/final/examen7.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/final/examen7.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_final_8',
               title: 'Examen Final 8',
-              questionAssetPath: 'assets/questions/elite/final/examen8.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/final/examen8.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_final_9',
               title: 'Examen Final 9',
-              questionAssetPath: 'assets/questions/elite/final/examen9.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/final/examen9.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_final_10',
               title: 'Examen Final 10',
-              questionAssetPath: 'assets/questions/elite/final/examen10.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/final/examen10.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_final_11',
               title: 'Examen Final 11',
-              questionAssetPath: 'assets/questions/elite/final/examen11.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/final/examen11.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_final_12',
               title: 'Examen Final 12',
-              questionAssetPath: 'assets/questions/elite/final/examen12.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/final/examen12.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_final_13',
               title: 'Examen Final 13',
-              questionAssetPath: 'assets/questions/elite/final/examen13.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/final/examen13.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_final_14',
               title: 'Examen Final 14',
-              questionAssetPath: 'assets/questions/elite/final/examen14.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/final/examen14.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_final_15',
               title: 'Examen Final 15',
-              questionAssetPath: 'assets/questions/elite/final/examen15.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/final/examen15.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_final_16',
               title: 'Examen Final 16',
-              questionAssetPath: 'assets/questions/elite/final/examen16.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/final/examen16.json',
+              description: '',
+              icon: '',
             ),
-          ], icon: '',
+          ],
+          icon: '',
         ),
 
         // ▸ SUBCATEGORÍA 2: EXAMEN GENERAL
@@ -138,84 +170,117 @@ class _DashboardScreenState extends State<DashboardScreen> {
             TestCategory(
               id: 'elite_general_1',
               title: 'Examen General 1',
-              questionAssetPath: 'assets/questions/elite/general/examen1.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/general/examen1.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_general_2',
               title: 'Examen General 2',
-              questionAssetPath: 'assets/questions/elite/general/examen2.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/general/examen2.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_general_3',
               title: 'Examen General 3',
-              questionAssetPath: 'assets/questions/elite/general/examen3.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/general/examen3.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_general_4',
               title: 'Examen General 4',
-              questionAssetPath: 'assets/questions/elite/general/examen4.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/general/examen4.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_general_5',
               title: 'Examen General 5',
-              questionAssetPath: 'assets/questions/elite/general/examen5.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/general/examen5.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_general_6',
               title: 'Examen General 6',
-              questionAssetPath: 'assets/questions/elite/general/examen6.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/general/examen6.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_general_7',
               title: 'Examen General 7',
-              questionAssetPath: 'assets/questions/elite/general/examen7.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/general/examen7.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_general_8',
               title: 'Examen General 8',
-              questionAssetPath: 'assets/questions/elite/general/examen8.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/general/examen8.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_general_9',
               title: 'Examen General 9',
-              questionAssetPath: 'assets/questions/elite/general/examen9.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/general/examen9.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_general_10',
               title: 'Examen General 10',
-              questionAssetPath: 'assets/questions/elite/general/examen10.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/general/examen10.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_general_11',
               title: 'Examen General 11',
-              questionAssetPath: 'assets/questions/elite/general/examen11.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/general/examen11.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_general_12',
               title: 'Examen General 12',
-              questionAssetPath: 'assets/questions/elite/general/examen12.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/general/examen12.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_general_13',
               title: 'Examen General 13',
-              questionAssetPath: 'assets/questions/elite/general/examen13.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/general/examen13.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_general_14',
               title: 'Examen General 14',
-              questionAssetPath: 'assets/questions/elite/general/examen14.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/general/examen14.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_general_15',
               title: 'Examen General 15',
-              questionAssetPath: 'assets/questions/elite/general/examen15.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/general/examen15.json',
+              description: '',
+              icon: '',
             ),
             TestCategory(
               id: 'elite_general_16',
               title: 'Examen General 16',
-              questionAssetPath: 'assets/questions/elite/general/examen16.json', description: '', icon: '',
+              questionAssetPath: 'assets/questions/elite/general/examen16.json',
+              description: '',
+              icon: '',
             ),
-          ], icon: '',
+          ],
+          icon: '',
         ),
       ],
     ),
@@ -241,49 +306,57 @@ class _DashboardScreenState extends State<DashboardScreen> {
           id: 'ctga',
           title: 'Conocimientos teóricos generales de aviación',
           icon: 'airplanemode_active_rounded',
-          questionAssetPath: 'assets/questions/tcp/conocimientos_teoricos.json', description: '',
+          questionAssetPath: 'assets/questions/tcp/conocimientos_teoricos.json',
+          description: '',
         ),
         TestCategory(
           id: 'normativa',
           title: 'Normativa e instituciones',
           icon: 'gavel_rounded',
-          questionAssetPath: 'assets/questions/tcp/normativa.json', description: '',
+          questionAssetPath: 'assets/questions/tcp/normativa.json',
+          description: '',
         ),
         TestCategory(
           id: 'asistencia',
           title: 'Asistencia a pasajeros y vigilancia',
           icon: 'accessibility_new_rounded',
-          questionAssetPath: 'assets/questions/tcp/asistencia.json', description: '',
+          questionAssetPath: 'assets/questions/tcp/asistencia.json',
+          description: '',
         ),
         TestCategory(
           id: 'medicina',
           title: 'Medicina aeronáutica y primeros auxilios',
           icon: 'medical_services_rounded',
-          questionAssetPath: 'assets/questions/tcp/medicina.json', description: '',
+          questionAssetPath: 'assets/questions/tcp/medicina.json',
+          description: '',
         ),
         TestCategory(
           id: 'mercancias',
           title: 'Mercancías peligrosas',
           icon: 'dangerous_rounded',
-          questionAssetPath: 'assets/questions/tcp/mercancias.json', description: '',
+          questionAssetPath: 'assets/questions/tcp/mercancias.json',
+          description: '',
         ),
         TestCategory(
           id: 'seguridad_nav',
           title: 'Aspectos generales de seguridad en aviación',
           icon: 'security_rounded',
-          questionAssetPath: 'assets/questions/tcp/seguridad_nav.json', description: '',
+          questionAssetPath: 'assets/questions/tcp/seguridad_nav.json',
+          description: '',
         ),
         TestCategory(
           id: 'incendios',
           title: 'Lucha contra incendios y humo',
           icon: 'local_fire_department_rounded',
-          questionAssetPath: 'assets/questions/tcp/incendios.json', description: '',
+          questionAssetPath: 'assets/questions/tcp/incendios.json',
+          description: '',
         ),
         TestCategory(
           id: 'supervivencia',
           title: 'Supervivencia',
           icon: 'forest_rounded',
-          questionAssetPath: 'assets/questions/tcp/supervivencia.json', description: '',
+          questionAssetPath: 'assets/questions/tcp/supervivencia.json',
+          description: '',
         ),
       ],
     ),
@@ -299,19 +372,22 @@ class _DashboardScreenState extends State<DashboardScreen> {
           id: 'ingles_gral',
           title: 'Inglés General',
           icon: 'book_rounded',
-          questionAssetPath: 'assets/questions/ingles/ingles_gral.json', description: '',
+          questionAssetPath: 'assets/questions/ingles/ingles_gral.json',
+          description: '',
         ),
         TestCategory(
           id: 'ingles_cambridge',
           title: 'Inglés Cambridge',
           icon: 'school_rounded',
-          questionAssetPath: 'assets/questions/ingles/ingles_cambridge.json', description: '',
+          questionAssetPath: 'assets/questions/ingles/ingles_cambridge.json',
+          description: '',
         ),
         TestCategory(
           id: 'ingles_aero',
           title: 'Inglés Aeronáutico',
           icon: 'flight_rounded',
-          questionAssetPath: 'assets/questions/ingles/ingles_aero.json', description: '',
+          questionAssetPath: 'assets/questions/ingles/ingles_aero.json',
+          description: '',
         ),
       ],
     ),
@@ -328,7 +404,8 @@ class _DashboardScreenState extends State<DashboardScreen> {
     TestCategory(
       id: 'Curso TOA',
       title: 'Curso TOA',
-      description: 'Lleva tus conocimientos de operaciones aereas al siguiente nivel',
+      description:
+      'Lleva tus conocimientos de operaciones aereas al siguiente nivel',
       icon: 'menu_book_rounded',
       subcategories: [
         TestCategory(
@@ -354,7 +431,6 @@ class _DashboardScreenState extends State<DashboardScreen> {
       description: 'Impulsa tu futuro como tripulante de cabina',
       icon: 'menu_book_rounded',
       subcategories: [
-
         TestCategory(
           id: 'ONE-FUE-SEC-SUP',
           title: 'ONE-FUE-SEC-SUP',
@@ -362,7 +438,6 @@ class _DashboardScreenState extends State<DashboardScreen> {
           pdfPath: 'assets/manual/manual_extra_1.pdf',
           description: '',
         ),
-
         TestCategory(
           id: 'MED',
           title: 'MED',
@@ -370,7 +445,6 @@ class _DashboardScreenState extends State<DashboardScreen> {
           pdfPath: 'assets/manual/manual_extra_2.pdf',
           description: '',
         ),
-
         TestCategory(
           id: 'CTG_MERGED',
           title: 'CTG_MERGED',
@@ -378,7 +452,6 @@ class _DashboardScreenState extends State<DashboardScreen> {
           pdfPath: 'assets/manual/manual_extra_3.pdf',
           description: '',
         ),
-
       ],
     ),
     TestCategory(
@@ -450,7 +523,8 @@ class _DashboardScreenState extends State<DashboardScreen> {
               pdfPath: 'assets/manual/equipaje_pet_comunicacion.pdf',
               description: '',
             ),
-          ], description: '',
+          ],
+          description: '',
         ),
         // 3️⃣ FUEGOS
         TestCategory(
@@ -478,7 +552,6 @@ class _DashboardScreenState extends State<DashboardScreen> {
         ),
       ],
     ),
-
   ];
 
   @override
@@ -490,7 +563,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
     _currentUser = {
       'id': user?.uid ?? 'default_user',
       'name': (user?.displayName?.isNotEmpty == true)
-          ? user!.displayName!           // si tiene displayName
+          ? user!.displayName! // si tiene displayName
           : user!.email!.split('@')[0], // sino usa la parte antes del @
     };
   }
@@ -509,7 +582,8 @@ class _DashboardScreenState extends State<DashboardScreen> {
   }
 
   /// 🔹 Calcula el progreso de una categoría o subcategoría
-  double _getCategoryProgress(TestCategory category, Map<String, TestProgress> progress) {
+  double _getCategoryProgress(
+      TestCategory category, Map<String, TestProgress> progress) {
     if (category.subcategories != null && category.subcategories!.isNotEmpty) {
       double total = 0;
       int count = 0;
@@ -524,15 +598,31 @@ class _DashboardScreenState extends State<DashboardScreen> {
       if (count == 0) return 0.0;
       return (total / count) / 100;
     } else {
-      if (category.pdfPath != null) return 0.0; // Ignorar categoría PDF individual
+      if (category.pdfPath != null)
+        return 0.0; // Ignorar categoría PDF individual
       final p = progress[category.id];
       return p != null ? (p.puntos / 100) : 0.0;
     }
   }
 
   Future<void> _openPdfUrl(String pdfPath) async {
-    final Uri url = Uri.parse(pdfPath);
-    if (!await launchUrl(url, mode: LaunchMode.externalApplication)) {
+    String path = Uri.base.path;
+    // Normalize the path
+    if (path.endsWith('/')) path = path.substring(0, path.length - 1);
+
+    // Extract first folder (if any)
+    final segments = path.split('/');
+    String subfolder = '';
+
+    // If deployed to GitHub Pages or any "/folder" path
+    if (segments.length > 1 && segments[1].isNotEmpty) {
+      subfolder = segments[1]; // example: "myapp"
+    }
+    final fullUrl = subfolder.isNotEmpty
+        ? Uri.parse('${Uri.base.origin}/$subfolder/assets/$pdfPath')
+        : Uri.parse('${Uri.base.origin}/assets/$pdfPath');
+    print(fullUrl);
+    if (!await launchUrl(fullUrl, mode: LaunchMode.externalApplication)) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(content: Text('No se pudo abrir el PDF.')),
       );
@@ -540,7 +630,6 @@ class _DashboardScreenState extends State<DashboardScreen> {
   }
 
   void _navigateToTest(TestCategory category) {
-
     // 1️⃣ Si tiene subcategorías → abrir bottom sheet
     if (category.subcategories != null && category.subcategories!.isNotEmpty) {
       _showSubcategories(category.subcategories!);
@@ -575,8 +664,6 @@ class _DashboardScreenState extends State<DashboardScreen> {
     );
   }
 
-
-
   void _showSubcategories(List<TestCategory> subcategories) {
     showModalBottomSheet(
       context: context,
@@ -588,32 +675,32 @@ class _DashboardScreenState extends State<DashboardScreen> {
           builder: (context, snapshot) {
             final progress = snapshot.data ?? {};
             return Container(
-                decoration: const BoxDecoration(
-                  color: AppColors.white,
-                  borderRadius: BorderRadius.vertical(top: Radius.circular(30)),
-                ),
-                height: MediaQuery.of(context).size.height * 0.85,
-                padding: const EdgeInsets.only(top: 24, left: 24, right: 24),
-                child: Column(
-                  crossAxisAlignment: CrossAxisAlignment.start,
-                  children: [
+              decoration: const BoxDecoration(
+                color: AppColors.white,
+                borderRadius: BorderRadius.vertical(top: Radius.circular(30)),
+              ),
+              height: MediaQuery.of(context).size.height * 0.85,
+              padding: const EdgeInsets.only(top: 24, left: 24, right: 24),
+              child: Column(
+                crossAxisAlignment: CrossAxisAlignment.start,
+                children: [
                   const Text(
-                  'Subcategorías',
-                  style: TextStyle(
-                    fontSize: 22,
-                    fontWeight: FontWeight.bold,
-                    color: AppColors.primaryDark,
+                    'Subcategorías',
+                    style: TextStyle(
+                      fontSize: 22,
+                      fontWeight: FontWeight.bold,
+                      color: AppColors.primaryDark,
+                    ),
                   ),
-                ),
-                const Divider(color: AppColors.primary),
-                Expanded(
-                  child: ListView.builder(
-                    itemCount: subcategories.length,
-                    itemBuilder: (context, index) {
-                      final sub = subcategories[index];
-                      final subProgress = _getCategoryProgress(sub, progress);
+                  const Divider(color: AppColors.primary),
+                  Expanded(
+                    child: ListView.builder(
+                      itemCount: subcategories.length,
+                      itemBuilder: (context, index) {
+                        final sub = subcategories[index];
+                        final subProgress = _getCategoryProgress(sub, progress);
 
-                      return Padding(
+                        return Padding(
                           padding: const EdgeInsets.only(bottom: 16),
                           child: TestCategoryCard(
                             category: sub,
@@ -657,18 +744,19 @@ class _DashboardScreenState extends State<DashboardScreen> {
                               }
 
                               ScaffoldMessenger.of(context).showSnackBar(
-                                  const SnackBar(
-                                      content: Text('Ruta de preguntas no especificada.'),
-                                  ),
+                                const SnackBar(
+                                  content: Text(
+                                      'Ruta de preguntas no especificada.'),
+                                ),
                               );
                             },
                           ),
-                      );
-                    },
+                        );
+                      },
+                    ),
                   ),
-                ),
-                  ],
-                ),
+                ],
+              ),
             );
           },
         );
@@ -777,13 +865,15 @@ class _DashboardScreenState extends State<DashboardScreen> {
                   itemCount: _mainCategories.length,
                   itemBuilder: (context, index) {
                     final category = _mainCategories[index];
-                    final categoryProgress = _getCategoryProgress(category, progress);
+                    final categoryProgress =
+                    _getCategoryProgress(category, progress);
 
                     // ✅ Chequear si todas las subcategorías son PDFs
-                    final allSubcategoriesArePdf = category.subcategories != null &&
-                        category.subcategories!.isNotEmpty &&
-                        category.subcategories!.every(
-                                (sub) => sub.pdfPath != null && sub.pdfPath!.isNotEmpty);
+                    final allSubcategoriesArePdf =
+                        category.subcategories != null &&
+                            category.subcategories!.isNotEmpty &&
+                            category.subcategories!.every((sub) =>
+                            sub.pdfPath != null && sub.pdfPath!.isNotEmpty);
 
                     return Padding(
                       padding: const EdgeInsets.only(bottom: 16),
