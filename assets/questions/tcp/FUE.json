@@ -1,0 +1,297 @@
+[
+  {
+    "id": "fue_001",
+    "topic": "FUE",
+    "text": "En caso de fuego en la ropa de un pasajero deberemos:",
+    "options": [
+      "Descargar inmediatamente el extintor de halón sobre la ropa que arde",
+      "Rociarle con mucho agua o zumos inmediatamente para sofocar el fuego de su ropa",
+      "Avisar a cockpit y esperar instrucciones",
+      "Impedir que la víctima se mueva o corra, apagarlo con mantas o abrigos y avisar a cockpit"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "fue_002",
+    "topic": "FUE",
+    "text": "Según la norma europea los fuegos de clase B son:",
+    "options": ["Metales combustibles.", "Fuegos secos.", "Gases Inflamables.", "Líquidos Inflamables."],
+    "correctIndex": 3
+  },
+  {
+    "id": "fue_003",
+    "topic": "FUE",
+    "text": "El extintor portátil conocido como BCF contiene",
+    "options": ["Hidrocarburos halogenados", "Polvo químico", "Agua", "CO2"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fue_004",
+    "topic": "FUE",
+    "text": "Para atacar al fuego que pueda producirse a bordo de una aeronave, ésta dispone de un conjunto obligatorio de equipos y sistemas, consistentes en:",
+    "options": [
+      "Detectores de humo, PBE, extintores portátiles y extintores fijos",
+      "Detectores de humo, PBE y extintores portátiles",
+      "Detectores de humo, extintores portátiles y extintores fijos",
+      "Detectores de humo, PBE, y extintores fijos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fue_005",
+    "topic": "FUE",
+    "text": "De los extintores portátiles que se pueden llevar en los aviones, el más efectivo, por servir para toda clase de fuegos es el que contiene:",
+    "options": ["Dióxido de carbono", "Agua", "Bromoclorodifluorometano", "Dimetilaminofenildimetilpirazolona"],
+    "correctIndex": 2
+  },
+  {
+    "id": "fue_006",
+    "topic": "FUE",
+    "text": "Los extintores fijos de que se dota a los aviones, para revisión de los TCP, están situados en:",
+    "options": ["La cabina de pilotaje", "Las zonas de servicio", "Puntos estratégicos a lo largo de todo el avión", "Los lavabos."],
+    "correctIndex": 2
+  },
+  {
+    "id": "fue_007",
+    "topic": "FUE",
+    "text": "Para poder romper puertas de compartimentos o cortar paneles dentro del avión en caso de emergencia, el avión irá dotado de un hacha cuya situación normal es en:",
+    "options": [
+      "Los armarios que contienen los equipos de emergencia",
+      "Los compartimentos de servicio del avión",
+      "La cabina de vuelo",
+      "En un compartimento especial en uno de los extremos de la aeronave."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "fue_008",
+    "topic": "FUE",
+    "text": "Los tripulantes de cabina de pasajeros deberán contar a bordo con PBE que le suministren oxígeno como protección contra humos por no menos de:",
+    "options": ["Una hora", "El tiempo que dure la evacuación", "15 minutos", "90 segundos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "fue_009",
+    "topic": "FUE",
+    "text": "El hacha que se ha de portar en las aeronaves de transporte de pasajeros para casos de emergencia debe ir guardada:",
+    "options": [
+      "En la cabina de mando",
+      "En el galley delantero",
+      "En un armario especial encima de las cabezas de los pasajeros",
+      "En un lugar secreto solo conocido por la tripulación"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fue_010",
+    "topic": "FUE",
+    "text": "El único extintor que se puede considerar de uso universal y del que van dotados la mayor parte de los aviones es el de:",
+    "options": ["CO2", "H2O", "HALON", "Dimetilaminofenildimetilpirazolon"],
+    "correctIndex": 2
+  },
+  {
+    "id": "fue_011",
+    "topic": "FUE",
+    "text": "¿En qué posición hay que mantener un extintor de BCF con el fin de apagar un fuego?",
+    "options": ["Horizontal.", "Vertical.", "Diagonal.", "Es indiferente."],
+    "correctIndex": 1
+  },
+  {
+    "id": "fue_012",
+    "topic": "FUE",
+    "text": "¿Con qué finalidad se utilizan los guantes que forman parte del material de emergencia de un avión?",
+    "options": [
+      "Combatir fuegos.",
+      "Limpiar mercancías peligrosas.",
+      "Manipular mercancías peligrosas.",
+      "Todas las respuestas anteriores son correctas."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "fue_013",
+    "topic": "FUE",
+    "text": "Entre las medidas a seguir para combatir un fuego, se encuentra ...",
+    "options": [
+      "Establecer comunicación con cockpit.",
+      "Conectar los interruptores eléctricos.",
+      "Conectar los c/b de la zona del fuego.",
+      "Abrir los aireadores."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fue_014",
+    "topic": "FUE",
+    "text": "¿Qué hará un TCP en primer lugar en caso de que se produzca un fuego en el galley?",
+    "options": ["Utilizar extintores de agua.", "Desconectar los c/b.", "Informar a cockpit.", "Alertar al resto de la tripulación."],
+    "correctIndex": 1
+  },
+  {
+    "id": "fue_015",
+    "topic": "FUE",
+    "text": "En aviones que hayan de llevar más de 3 extintores portátiles ¿Dónde estarán situados?",
+    "options": [
+      "Todos estarán distribuidos de manera uniforme en el compartimento de pasaje",
+      "Todos los extintores portátiles van situados en la cabina de vuelo.",
+      "Al menos un extintor portátil deberá estar convenientemente situado en la cabina de vuelo",
+      "Al lado de cada puesto de servicio"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fue_016",
+    "topic": "FUE",
+    "text": "De acuerdo con la clasificación europea, ¿de qué clase es un fuego eléctrico?",
+    "options": ["B.", "C.", "D.", "E."],
+    "correctIndex": 1
+  },
+  {
+    "id": "fue_017",
+    "topic": "FUE",
+    "text": "Si un Circuit Breaker queda desconectado ¿Cuál es el procedimiento correcto a seguir?",
+    "options": [
+      "Volvemos a introducir el Circuit Breaker y, si salta de nuevo, avisamos al comandante",
+      "Desconectar el aparato y no utilizarlo más",
+      "Es necesario poner el interruptor del aparato afectado en posición OFF, comentárselo al comandante y pedir su autorización para volver a conectarlo",
+      "Anotarlo en el Log Book y llegados a tierra comentárselo al comandante"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fue_018",
+    "topic": "FUE",
+    "text": "En vuelo y en caso de mucho humo negro en la cabina, los TCPs evitarán:",
+    "options": [
+      "Distribuir cabezales, servilletas o pañuelos mojados a los pasajeros",
+      "Contactar con el comandante, solicitar instrucciones y coordinar actuaciones",
+      "Suministrar oxígeno a los pasajeros",
+      "Cambiar de asiento o alejar a los pasajeros más cercanos al origen del humo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "fue_019",
+    "topic": "FUE",
+    "text": "¿Qué sería lo primero que habría que hacer en caso de encontrarnos con un caso de fuego en cabina?",
+    "options": [
+      "Protegerse con la mascarilla de oxígeno más cercana",
+      "Tener en cuenta la duración mínima del extintor de BCF",
+      "Diferenciar los tipos de fuego de la clasificación europea",
+      "Determinar la causa efectiva del incendio"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "fue_020",
+    "topic": "FUE",
+    "text": "Qué es un PBE:",
+    "options": [
+      "Al extintor de difluorometano",
+      "Al equipo de oxígeno de primera ayuda",
+      "Al equipo de oxígeno suplementario.",
+      "Al equipo respiratorio de protección"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "fue_021",
+    "topic": "FUE",
+    "text": "De acuerdo con la clasificación europea, ¿de qué clase es un fuego cuyo combustible sea cartón?",
+    "options": ["A", "B", "C", "D"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fue_022",
+    "topic": "FUE",
+    "text": "Al menos, ¿cuántos extintores portátiles de halón 1211 (bromoclorodifluorometano), o agente extintor equivalente, ha de llevar un avión con 78 asientos para pasajeros?",
+    "options": ["1", "2", "3", "4"],
+    "correctIndex": 2
+  },
+  {
+    "id": "fue_023",
+    "topic": "FUE",
+    "text": "La duración de un extintor de BCF es de aproximadamente:",
+    "options": ["De 6 a 9 segundos", "De 2 a 4 segundos", "De 2 segundos", "De 25 minutos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "fue_024",
+    "topic": "FUE",
+    "text": "Si el fuego en cabina de pasaje se encuentra localizado en la zona de galleys, ¿Qué es lo primero que debemos hacer tan pronto como sea posible?",
+    "options": [
+      "Solo atacar el fuego con el extintor correspondiente.",
+      "Rociar con agua toda la zona con el fin de enfriarla.",
+      "Desconectar todos los interruptores y sacar los cortacircuitos automáticos",
+      "Desconectar los cazos eléctricos."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fue_025",
+    "topic": "FUE",
+    "text": "¿Qué precauciones debemos tener después de apagar un fuego en la cabina de pasaje?",
+    "options": [
+      "Debemos enfriar los rescoldos rociándolos con agua, siempre que no haya tenido un origen eléctrico haya una fuente eléctrica en las proximidades del mismo",
+      "Abrir compartimentos. Levantar revestimientos, etc. para detectar y eliminar cualquier foco incandescente oculto.",
+      "Mantener una vigilancia constante de la zona",
+      "Todas las precauciones anteriores son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "fue_026",
+    "topic": "FUE",
+    "text": "¿Cuáles serán los pasos a seguir cuando nos encontremos con un fuego en la cabina de pasaje?",
+    "options": [
+      "Avisar a la tripulación técnica",
+      "Buscar y atacar el origen del fuego con el extintor apropiado",
+      "Si se requiere, utilizar los equipos de protección. El hacha con permiso del Cmte.",
+      "Mantener la comunicación con la cabina de mando además de todo lo anterior"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "fue_027",
+    "topic": "FUE",
+    "text": "Si el fuego en cabina de pasaje se encuentra localizado en la zona de galleys, ¿qué es lo primero que debemos hacer tan pronto como sea posible?",
+    "options": [
+      "Solo atacar el fuego con el extintor correspondiente.",
+      "Rociar con agua toda la zona con el fin de enfriarla.",
+      "Desconectar todos los interruptores y sacar los cortacircuitos automáticos",
+      "Desconectar los calzos eléctricos."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fue_028",
+    "topic": "FUE",
+    "text": "La mejor forma de moverse por la cabina de pasajeros en caso de mucho humo negro es:",
+    "options": [
+      "Con los ojos cerrados, para que no nos lloren, y tanteando con las manos",
+      "Andando a gatas con la nariz pegada al suelo",
+      "Por encima de los asientos, desde dónde tendremos mayor campo de visión",
+      "No debemos movernos, debemos ponernos la PBE, sentarnos y atarnos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "fue_029",
+    "topic": "FUE",
+    "text": "¿Durante cuánto tiempo ha de suministrar gas respiratorio un PBE?",
+    "options": [
+      "No hay nada definido al respecto. Queda a criterio del operador.",
+      "Al menos durante 5 minutos",
+      "Al menos durante 15 minutos.",
+      "Durante toda la duración del vuelo."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "fue_030",
+    "topic": "FUE",
+    "text": "Si una aeronave tiene una configuración de 61 asientos para pasajeros, ¿de qué número de extintores portátiles habré de disponer para su uso en el interior del avión?",
+    "options": ["1", "2", "3", "4"],
+    "correctIndex": 2
+  }
+]

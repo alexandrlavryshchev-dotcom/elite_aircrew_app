@@ -10,7 +10,8 @@ import 'package:adv_formacion/models/test_progress.dart';
 
 class TestScreen extends StatefulWidget {
   final TestCategory category;
-  final String userId; // ID del alumno
+  final String userId;
+
   const TestScreen({super.key, required this.category, required this.userId});
 
   @override
@@ -27,11 +28,6 @@ class _TestScreenState extends State<TestScreen> {
   bool _isLoading = true;
   String _errorMessage = '';
   Key _questionCardKey = UniqueKey();
-
-  // 🔹 Detectar si es un test Elite Aircrew
-  bool get isEliteExam =>
-      widget.category.id.startsWith('elite_final') ||
-          widget.category.id.startsWith('elite_general');
 
   @override
   void initState() {
@@ -53,7 +49,6 @@ class _TestScreenState extends State<TestScreen> {
       await _questionLoader.loadQuestionsFromAsset(widget.category.questionAssetPath!);
       final random = Random();
 
-      // Mezclar preguntas y opciones
       _questions = loadedQuestions.map(_shuffleQuestionOptions).toList();
       _questions.shuffle(random);
 
@@ -76,7 +71,9 @@ class _TestScreenState extends State<TestScreen> {
     List<String> shuffledOptions = List.from(question.options);
     shuffledOptions.shuffle(random);
 
-    int newCorrectIndex = shuffledOptions.indexOf(question.options[question.correctIndex]);
+    int newCorrectIndex = shuffledOptions.indexOf(
+      question.options[question.correctIndex],
+    );
 
     return Question(
       text: question.text,
@@ -94,7 +91,6 @@ class _TestScreenState extends State<TestScreen> {
       _userAnswers[_currentQuestionIndex] = optionIndex;
     });
 
-    // Guardar progreso parcial solo si no es Elite o progreso parcial normal
     final progress = TestProgress(
       testId: widget.category.id,
       title: widget.category.title,
@@ -110,9 +106,7 @@ class _TestScreenState extends State<TestScreen> {
   void _goToNextQuestion() {
     if (!_userAnswers.containsKey(_currentQuestionIndex)) {
       ScaffoldMessenger.of(context).showSnackBar(
-        const SnackBar(
-            content:
-            Text('Por favor, selecciona una respuesta antes de continuar.')),
+        const SnackBar(content: Text('Por favor, selecciona una respuesta antes de continuar.')),
       );
       return;
     }
@@ -136,15 +130,9 @@ class _TestScreenState extends State<TestScreen> {
       }
     }
 
-    // Determinar si es examen Elite Aircrew final o general
-    final isEliteExam = widget.category.id.startsWith('elite_final_'); // finales
-    final isEliteGeneral = widget.category.id.startsWith('elite_general_'); // generales
+    final bool isEliteFinal = widget.category.id.startsWith('elite_final_');
 
-    bool aprobado = true;
-    if (isEliteExam) {
-      aprobado = correctCount >= 38; // mínimo 38 correctas para aprobar
-    }
-    // Para isEliteGeneral no se cambia: aprobado siempre true, solo porcentaje
+    final bool aprobado = isEliteFinal ? correctCount >= 38 : true;
 
     final progress = TestProgress(
       testId: widget.category.id,
@@ -169,7 +157,6 @@ class _TestScreenState extends State<TestScreen> {
     );
   }
 
-
   @override
   Widget build(BuildContext context) {
     return Scaffold(
@@ -179,12 +166,17 @@ class _TestScreenState extends State<TestScreen> {
       ),
       body: _isLoading
           ? const Center(
-          child: CircularProgressIndicator(
-              valueColor: AlwaysStoppedAnimation<Color>(AppColors.accent)))
+        child: CircularProgressIndicator(
+          valueColor: AlwaysStoppedAnimation<Color>(AppColors.accent),
+        ),
+      )
           : _errorMessage.isNotEmpty
           ? Center(
-          child: Text(_errorMessage,
-              style: const TextStyle(color: AppColors.error)))
+        child: Text(
+          _errorMessage,
+          style: const TextStyle(color: AppColors.error),
+        ),
+      )
           : SingleChildScrollView(
         padding: const EdgeInsets.all(20.0),
         child: Column(
@@ -205,21 +197,18 @@ class _TestScreenState extends State<TestScreen> {
                 value: (_currentQuestionIndex + 1) / _questions.length,
                 minHeight: 12,
                 backgroundColor: AppColors.primary.withOpacity(0.2),
-                valueColor: const AlwaysStoppedAnimation<Color>(
-                    AppColors.highlight),
+                valueColor: const AlwaysStoppedAnimation<Color>(AppColors.highlight),
               ),
             ),
             const SizedBox(height: 20),
             AnimatedSwitcher(
               duration: const Duration(milliseconds: 400),
-              transitionBuilder:
-                  (Widget child, Animation<double> animation) {
+              transitionBuilder: (Widget child, Animation<double> animation) {
                 final offsetAnimation = Tween<Offset>(
                   begin: const Offset(1.0, 0.0),
                   end: Offset.zero,
                 ).animate(animation);
-                return SlideTransition(
-                    position: offsetAnimation, child: child);
+                return SlideTransition(position: offsetAnimation, child: child);
               },
               child: _buildQuestionCard(_questions[_currentQuestionIndex]),
             ),
@@ -232,8 +221,7 @@ class _TestScreenState extends State<TestScreen> {
                   _currentQuestionIndex < _questions.length - 1
                       ? 'SIGUIENTE PREGUNTA'
                       : 'FINALIZAR TEST',
-                  style: const TextStyle(
-                      fontSize: 16, color: AppColors.white),
+                  style: const TextStyle(fontSize: 16, color: AppColors.white),
                 ),
               ),
             ),
@@ -247,8 +235,7 @@ class _TestScreenState extends State<TestScreen> {
                 onPressed: _finishTest,
                 child: const Text(
                   'FINALIZAR TEST AHORA',
-                  style: TextStyle(
-                      fontSize: 16, color: AppColors.white),
+                  style: TextStyle(fontSize: 16, color: AppColors.white),
                 ),
               ),
             ),
@@ -279,6 +266,7 @@ class _TestScreenState extends State<TestScreen> {
               ),
             ),
             const SizedBox(height: 20),
+
             ...question.options.asMap().entries.map((entry) {
               int optionIndex = entry.key;
               String optionText = entry.value;
@@ -287,8 +275,8 @@ class _TestScreenState extends State<TestScreen> {
               Color borderColor = AppColors.primary.withOpacity(0.3);
               Color textColor = AppColors.primaryDark;
 
-              // 🔹 Solo mostrar colores si NO es test Elite o ya terminado
-              if (isAnswered && !isEliteExam) {
+              // Mostrar correcta/incorrecta SIEMPRE
+              if (isAnswered) {
                 if (optionIndex == question.correctIndex) {
                   color = AppColors.highlight.withOpacity(0.1);
                   borderColor = AppColors.highlight;
@@ -299,15 +287,12 @@ class _TestScreenState extends State<TestScreen> {
                 } else if (optionIndex == selectedIndex) {
                   borderColor = AppColors.highlight;
                 }
-              } else if (optionIndex == selectedIndex) {
-                borderColor = AppColors.highlight;
               }
 
               return Padding(
                 padding: const EdgeInsets.only(bottom: 10),
                 child: InkWell(
-                  onTap:
-                  (isAnswered && isEliteExam) ? null : () => _selectAnswer(optionIndex),
+                  onTap: isAnswered ? null : () => _selectAnswer(optionIndex),
                   borderRadius: BorderRadius.circular(10),
                   child: AnimatedContainer(
                     duration: const Duration(milliseconds: 200),
@@ -321,24 +306,20 @@ class _TestScreenState extends State<TestScreen> {
                       children: [
                         Icon(
                           isAnswered
-                              ? (!isEliteExam
                               ? (optionIndex == question.correctIndex
                               ? Icons.check_circle
-                              : (optionIndex == selectedIndex
+                              : optionIndex == selectedIndex
                               ? Icons.cancel
-                              : Icons.circle_outlined))
-                              : Icons.radio_button_off)
-                              : (optionIndex == selectedIndex
+                              : Icons.circle_outlined)
+                              : optionIndex == selectedIndex
                               ? Icons.radio_button_checked
-                              : Icons.radio_button_off),
+                              : Icons.radio_button_off,
                           color: isAnswered
-                              ? (!isEliteExam
                               ? (optionIndex == question.correctIndex
                               ? AppColors.highlight
-                              : (optionIndex == selectedIndex
+                              : optionIndex == selectedIndex
                               ? AppColors.error
-                              : Colors.grey))
-                              : AppColors.primary)
+                              : Colors.grey)
                               : AppColors.primary,
                         ),
                         const SizedBox(width: 15),
@@ -348,7 +329,7 @@ class _TestScreenState extends State<TestScreen> {
                             style: TextStyle(
                               fontSize: 16,
                               color: textColor,
-                              fontWeight: isAnswered && optionIndex == question.correctIndex && !isEliteExam
+                              fontWeight: isAnswered && optionIndex == question.correctIndex
                                   ? FontWeight.bold
                                   : FontWeight.normal,
                             ),

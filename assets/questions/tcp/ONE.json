@@ -1,0 +1,517 @@
+[
+  {
+    "id": "tcp_201",
+    "topic": "Equipos y Emergencias",
+    "text": "Chequeo pre-vuelo del megáfono:",
+    "options": [
+      "Presencia, anclaje y precinto de seguridad.",
+      "Presencia, anclaje, precinto y gatillo oíble.",
+      "Presencia, anclaje y gatillo oíble.",
+      "Presencia, anclaje, asa de transporte y gatillo oíble."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_202",
+    "topic": "Equipos y Emergencias",
+    "text": "Chequeo pre-vuelo de la linterna EFL:",
+    "options": [
+      "Presencia, anclaje, precinto exterior y botón on/off.",
+      "Presencia, anclaje, precinto exterior y parpadeo luz led -10seg.",
+      "Presencia, anclaje, luz led y visor verde.",
+      "Ninguna es correcta."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_203",
+    "topic": "Equipos y Emergencias",
+    "text": "¿Cuánto dura el extintor del lavabo?",
+    "options": ["9 segundos.", "12 segundos.", "15 minutos.", "15 segundos."],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_204",
+    "topic": "Equipos y Emergencias",
+    "text": "¿A qué temperatura salta el extintor del lavabo?",
+    "options": [
+      "87 y 77 grados.",
+      "71 y 77 grados.",
+      "71 y 87 grados.",
+      "75 y 77 grados."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_205",
+    "topic": "Equipos y Emergencias",
+    "text": "¿Cuánto dura la linterna de emergencia?",
+    "options": ["15 min.", "5 horas.", "15 horas.", "24 horas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_206",
+    "topic": "Equipos y Emergencias",
+    "text": "¿Para qué sirve el hacha?",
+    "options": [
+      "Para hacer hueco en el fuselaje en caso de evacuación.",
+      "Para remover paneles en caso de fuego oculto.",
+      "Solo lo utilizan los pilotos.",
+      "Se utiliza solamente en caso de supervivencia."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_207",
+    "topic": "Oxígeno y Presurización",
+    "text": "¿Cómo se despliega manualmente la mascarilla de O2 de emergencia de cabina?",
+    "options": [
+      "Cuando la altitud de cabina llegue a 14.000ft.",
+      "Utilizando el MRT.",
+      "No hay forma de desplegarlas manualmente.",
+      "Disponemos de botellas de O2 para estos casos."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_208",
+    "topic": "Normativa TCP",
+    "text": "¿Cuántos TCP hacen falta para un avión con 103 asientos abajo y 87 arriba?",
+    "options": ["3 TCP abajo y 2 arriba.", "2 TCP abajo y 3 arriba.", "4 TCP.", "5 TCP."],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_209",
+    "topic": "Operaciones",
+    "text": "¿Cómo deben estar las señales FSB y NS durante repostaje con pax a bordo?",
+    "options": ["FSB on NS off.", "FSB off NS off.", "FSB on NS on.", "FSB off NS on."],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_210",
+    "topic": "Operaciones",
+    "text": "¿Qué harán los TCP si durante crucero se enciende la señal FSB?",
+    "options": [
+      "Dirigirse a sus transportines y abrocharse.",
+      "Dar el anuncio correspondiente y abrocharse.",
+      "Dar el anuncio correspondiente y chequear cabina.",
+      "Sentarse y esperar información de cockpit."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_211",
+    "topic": "Fuego",
+    "text": "¿Qué clase de fuego es la clase C?",
+    "options": ["Líquidos inflamables.", "Sólido.", "Eléctrico.", "Gases."],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_212",
+    "topic": "Oxígeno y Presurización",
+    "text": "¿Qué tipo de O2 utilizan los pilotos en cockpit?",
+    "options": [
+      "Mascarillas como las de cabina.",
+      "Botellas portátiles.",
+      "Mascaras QDM de rápida colocación.",
+      "No necesitan máscaras."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_213",
+    "topic": "Normativa TCP",
+    "text": "¿Cuál es la edad mínima para ser TCP?",
+    "options": ["21 años.", "16 años.", "18 años.", "15 años."],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_214",
+    "topic": "Equipos y Emergencias",
+    "text": "¿Qué significa PBE?",
+    "options": [
+      "Portable Breathing Equipment.",
+      "Protective Breathing Equipment.",
+      "Portable Break-in Equipment.",
+      "Primary Breathing Equipment."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_215",
+    "topic": "Pasajeros",
+    "text": "¿Qué es un ABP?",
+    "options": [
+      "Pasajero con deficiencia visual.",
+      "Pasajero físicamente apto para ayudar.",
+      "Pasajero de movilidad reducida.",
+      "Pasajero VIP."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_216",
+    "topic": "Pasajeros",
+    "text": "¿Qué es un PMR?",
+    "options": [
+      "Pasajero con movilidad reducida.",
+      "Persona de movilidad reducida.",
+      "Pasajero no ambulatorio reducido.",
+      "Persona ambulatoria reducida."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_217",
+    "topic": "Equipos y Emergencias",
+    "text": "¿Qué disponemos en cabina para protegernos de humos?",
+    "options": ["MRT.", "ABP.", "PBE.", "PSU."],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_218",
+    "topic": "Oxígeno y Presurización",
+    "text": "¿A qué altitud de cabina caen las mascarillas?",
+    "options": ["11.300 pies.", "14.000 pies.", "18.000 pies.", "25.000 pies."],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_219",
+    "topic": "Oxígeno y Presurización",
+    "text": "¿Cómo se activa el O2 de las mascarillas PSU?",
+    "options": [
+      "Automáticamente.",
+      "Tirando de una mascarilla.",
+      "Con el MRT.",
+      "Solo fluye si hay pasajero."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_220",
+    "topic": "Evacuación",
+    "text": "Si la rampa no se infla, ¿qué debe hacer el TCP?",
+    "options": [
+      "Tirar del Pull to detach.",
+      "Bloquear la puerta y evacuar por otra.",
+      "Evacuar igualmente.",
+      "Ir a otra puerta."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_221",
+    "topic": "Evacuación",
+    "text": "¿Qué debe hacer el TCP después de evacuar?",
+    "options": [
+      "Ayudar en otras áreas y alejar 100m.",
+      "Evacuar y controlar multitud.",
+      "Terminar su zona y evacuar por la puerta principal.",
+      "Esperar orden del comandante."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_222",
+    "topic": "CRM",
+    "text": "¿Qué significa CRM?",
+    "options": [
+      "Control Racional de Nervios.",
+      "Crew Resource Material.",
+      "Control de Recursos de la Racionalidad.",
+      "Crew Resource Management."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_223",
+    "topic": "Supervivencia",
+    "text": "¿Cómo evitamos mareo en supervivencia?",
+    "options": ["Bolsas.", "Pastillas.", "Comiendo todo.", "Bebiendo líquidos."],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_224",
+    "topic": "Señales",
+    "text": "¿Cómo pedir socorro por la noche?",
+    "options": [
+      "No se puede.",
+      "Heliógrafo.",
+      "Linterna.",
+      "Señales de humo."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_225",
+    "topic": "CRM / SHELL",
+    "text": "El hardware del modelo SHELL hace referencia a:",
+    "options": ["Hombre.", "Máquina.", "Entorno.", "Normativas."],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_226",
+    "topic": "Normativa Médica",
+    "text": "Validez del certificado médico para TCP < 30 años:",
+    "options": ["3 años.", "5 años.", "2 años.", "1 año."],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_227",
+    "topic": "Pasajeros",
+    "text": "¿Quién se considera menor en transporte aéreo?",
+    "options": [
+      "Niños que no han cumplido 12 años.",
+      "Niños entre 2 y 10.",
+      "Niños entre 0 y 2.",
+      "Niños que no han cumplido 16."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_228",
+    "topic": "Emergencias",
+    "text": "Asiento contrario a la marcha: ¿posición correcta?",
+    "options": [
+      "Erecta contra el respaldo.",
+      "Juntar piernas.",
+      "Cambiar de asiento.",
+      "Entrelazar manos detrás de la cabeza."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_229",
+    "topic": "Supervivencia",
+    "text": "En refugio cerrado tras aterrizaje de emergencia, cuidado con:",
+    "options": [
+      "Monóxido de carbono si se hace fuego.",
+      "La baliza.",
+      "Claustrofobia.",
+      "Insectos."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_230",
+    "topic": "Primeros Auxilios",
+    "text": "Pasajero con ataque epiléptico: prioridad del TCP:",
+    "options": [
+      "Dar medicación.",
+      "Inmovilizar.",
+      "Evitar lesiones.",
+      "Tranquilizar."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_231",
+    "topic": "Operaciones",
+    "text": "Al encenderse cinturones, el TCP designado:",
+    "options": [
+      "Da mensaje por PA.",
+      "No dice nada.",
+      "Basta con la señal.",
+      "Depende del avión."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_232",
+    "topic": "Fuego",
+    "text": "Funciones del BACK UP en fuego a bordo:",
+    "options": [
+      "Dar material y alejar pax.",
+      "Llamar al comandante.",
+      "Identificar el fuego.",
+      "Buscar un ABP."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_233",
+    "topic": "Normativa TCP",
+    "text": "TCP necesarios: 120 asientos + 19 arriba:",
+    "options": [
+      "3 abajo 1 arriba.",
+      "5 TCP distribuidos.",
+      "2 en cada piso.",
+      "3 TCP."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_234",
+    "topic": "Pasajeros Especiales",
+    "text": "Deportado a bordo:",
+    "options": [
+      "DEPA sin escolta.",
+      "DEPU con escolta.",
+      "DEPA con escolta.",
+      "INAD con escolta."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_235",
+    "topic": "Fuego",
+    "text": "Cómo valorar un fuego en lavabo:",
+    "options": [
+      "Abrir y ver.",
+      "Esperar y entrar.",
+      "Palpar puerta y ver humo.",
+      "Avisar cockpit."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_236",
+    "topic": "Emergencias",
+    "text": "En despresurización, mensaje desde cockpit:",
+    "options": [
+      "Brace for impact.",
+      "Purser to cockpit.",
+      "Cabin crew emergency descent.",
+      "Fasten seatbelts."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_237",
+    "topic": "Fuego",
+    "text": "TCP necesarios para fuego a bordo:",
+    "options": ["4 TCP.", "2 TCP.", "3 TCP.", "2 TCP y 1 SC."],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_238",
+    "topic": "Oxígeno",
+    "text": "Tipo de O2 en cabina para primeros auxilios:",
+    "options": [
+      "Mascarillas PSU.",
+      "Botellas portátiles.",
+      "Quick Donning Masks.",
+      "PBE."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_239",
+    "topic": "Emergencias",
+    "text": "En emergencia prevista: mensaje cockpit:",
+    "options": [
+      "Brace for impact.",
+      "Rapid descent.",
+      "Purser to cockpit.",
+      "Turbulence turbulence."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_240",
+    "topic": "Emergencias",
+    "text": "Tras oír 'Purser to cockpit', los TCP:",
+    "options": [
+      "Asegurar galleys y dirigirse al frente.",
+      "Blocar carros.",
+      "Coger mascarilla y gritar.",
+      "Gritar brace brace."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_241",
+    "topic": "Emergencias",
+    "text": "¿Cuándo ocurren emergencias previstas?",
+    "options": ["Despegue/aterrizaje.", "Descenso.", "Cualquier momento.", "Solo en tierra."],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_242",
+    "topic": "Emergencias",
+    "text": "¿Cuándo ocurren emergencias imprevistas?",
+    "options": ["En cualquier momento.", "Durante el descenso.", "Durante servicio a bordo.", "Solo despegue/aterrizaje."],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_243",
+    "topic": "Emergencias",
+    "text": "Cómo informar emergencia a cockpit por interfono:",
+    "options": [
+      "Botón PA.",
+      "Botón CAPT.",
+      "Botón EMERGENCY CALL.",
+      "Por megafonía."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_244",
+    "topic": "Evacuación",
+    "text": "¿Qué hace el TCP tras evacuar su zona?",
+    "options": [
+      "Evacuar por su puerta y alejar pax.",
+      "Recoger material y evacuar por puerta delantera.",
+      "Ayudar en otras áreas, recoger material y evacuar por su puerta.",
+      "Ayudar y evacuar con comandante."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_245",
+    "topic": "Radiobalizas",
+    "text": "Frecuencia militar en la ELT:",
+    "options": ["121.5 MHz.", "243.0 kHz.", "243.0 MHz.", "406.032 MHz."],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_246",
+    "topic": "Supervivencia",
+    "text": "Señal tierra-aire para pedir ayuda:",
+    "options": ["Hacer una V.", "Hacer una X.", "Hacer una flecha.", "Hacer una cruz."],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_247",
+    "topic": "Evacuación",
+    "text": "Cómo desconectar la rampa del fuselaje:",
+    "options": [
+      "Pull to inflate.",
+      "Palanca de apertura.",
+      "Cuchillo de la rampa.",
+      "Pull to detach."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_248",
+    "topic": "Seguridad",
+    "text": "En un secuestro, actuación correcta:",
+    "options": [
+      "Mantener secuestradores en cockpit.",
+      "No discutir ideología.",
+      "Intentar convencerlos.",
+      "Ignorar peticiones."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_249",
+    "topic": "Pasajeros",
+    "text": "Significado de WCHR:",
+    "options": [
+      "PRM que no puede subir escaleras.",
+      "PRM que no puede caminar.",
+      "PRM que no puede caminar largas distancias.",
+      "UM que no camina largas distancias."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_250",
+    "topic": "Fuego",
+    "text": "El segundo TCP en un fuego se convierte en:",
+    "options": ["Back up.", "Fire fighter.", "Vigilante.", "Comunicador."],
+    "correctIndex": 0
+  }
+]

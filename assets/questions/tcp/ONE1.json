@@ -1,0 +1,603 @@
+[
+  {
+    "id": "tcp2_001",
+    "topic": "General",
+    "text": "El objetivo primario de la existencia a bordo de un avión de un TCP es:",
+    "options": [
+      "Atender a las tareas relacionadas con el servicio al pasajero",
+      "Asumir el control de la cabina de pasajeros en cualquier situación de emergencia",
+      "Repartir bebidas, comidas, periódicos...",
+      "Ser la imagen de la compañía"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp2_002",
+    "topic": "Seguridad",
+    "text": "La seguridad en un vuelo depende de:",
+    "options": [
+      "La seguridad de las operaciones",
+      "La seguridad de las operaciones y de las personas",
+      "La seguridad de las operaciones, de las personas y de las infraestructuras",
+      "La seguridad de las aeronaves utilizadas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp2_003",
+    "topic": "Operaciones",
+    "text": "¿Cuál/es son las fases críticas de un vuelo?",
+    "options": [
+      "Los despegues y aterrizajes",
+      "Los descensos de emergencia",
+      "Las turbulencias",
+      "Los despegues abortados"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp2_004",
+    "topic": "Normativa",
+    "text": "Los procedimientos incluidos por el operador se clasifican en:",
+    "options": [
+      "Procedimientos normales, anormales y de emergencia",
+      "Procedimientos normales y de emergencia",
+      "Procedimientos habituales y extraordinarios",
+      "Procedimientos de tripulación técnica y de cabina"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp2_005",
+    "topic": "Equipos",
+    "text": "Los puestos de TCP están equipados con:",
+    "options": [
+      "Arnés de seguridad, luz de lectura, sistema de O2, chaleco, interfono y reposacabezas",
+      "Arnés de seguridad, luz de lectura, sistema de O2 y extintor",
+      "Arnés de seguridad, chaleco, reposapiés y sistema de O2",
+      "Arnés de seguridad, reposacabezas, chaleco y sistema fijo de O2"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp2_006",
+    "topic": "Normativa",
+    "text": "Al número máximo de pasajeros admisibles se puede añadir:",
+    "options": [
+      "Los SOD",
+      "Los TCP",
+      "Los bebés",
+      "Los niños hasta 4 años"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp2_007",
+    "topic": "Normativa",
+    "text": "El operador garantizará que ningún TCP opere en más de:",
+    "options": [
+      "Un tipo de aeronave",
+      "Dos tipos de aeronaves",
+      "Tres tipos de aeronaves",
+      "No hay limitación"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp2_008",
+    "topic": "Medicina Aeronáutica",
+    "text": "Caducidad del certificado médico clase 2 si el TCP tiene 28 años:",
+    "options": [
+      "Cuando cumple 30 años",
+      "Cuando cumple 32 años",
+      "Cuando cumpla 29 años",
+      "Cuando cumpla 33 años"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp2_009",
+    "topic": "Normativa",
+    "text": "EU-OPS 1990: la tripulación de cabina se calcula según grupos de:",
+    "options": [
+      "60 pasajeros",
+      "50 asientos",
+      "50 pasajeros",
+      "60 asientos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp2_010",
+    "topic": "CRM",
+    "text": "¿Qué es el 'briefing'?",
+    "options": [
+      "Una forma de relación de la tripulación",
+      "Procedimiento para establecer recomendaciones de seguridad",
+      "Un equipo meteorológico",
+      "Un tipo de vuelo transoceánico"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp2_011",
+    "topic": "CRM",
+    "text": "¿Qué es el 'debriefing'?",
+    "options": [
+      "Una forma de relación entre tripulantes",
+      "Procedimientos para analizar y corregir desviaciones",
+      "Un elemento importante de comunicación",
+      "Un tipo de operación especial"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp2_012",
+    "topic": "Operaciones",
+    "text": "Repostando con pasajeros a bordo:",
+    "options": [
+      "Pasajeros sentados sin cinturón, puertas abiertas, rampas desarmadas",
+      "Pasajeros sentados con cinturón, puertas abiertas, rampas armadas en puertas contrarias a la carga",
+      "Pasajeros sentados sin cinturón y puertas abiertas",
+      "No se repostará con pasajeros"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp2_013",
+    "topic": "Operaciones",
+    "text": "Antes del rodaje:",
+    "options": [
+      "Se arman rampas y se realiza demostración",
+      "Se arman rampas",
+      "Se hace demostración de seguridad",
+      "No hay nada específico"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp2_014",
+    "topic": "Equipos",
+    "text": "¿Cuándo son obligatorias las balsas?",
+    "options": [
+      "Nunca",
+      "Más de 50 NM de la costa",
+      "Más de 400 NM y 2 horas",
+      "Más de 200 NM y 4 horas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp2_015",
+    "topic": "Equipos",
+    "text": "Chalecos salvavidas según EU-OPS:",
+    "options": [
+      "Un avión deberá llevar chalecos a más de 50 NM de la costa",
+      "Durante despegue/aterrizaje sobre agua",
+      "Siempre",
+      "A y B son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp2_016",
+    "topic": "Normativa",
+    "text": "Se requerirá TCP siempre que la aeronave esté configurada:",
+    "options": [
+      "Para llevar pasajeros",
+      "Para un mínimo de 50 pasajeros",
+      "Para más de 19 pasajeros",
+      "Mixta, pasajeros y carga"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp2_017",
+    "topic": "Operaciones",
+    "text": "Repostaje con pasajeros:",
+    "options": [
+      "FSB encendido",
+      "Se pueden usar hornos",
+      "Puertas no utilizadas cerradas con rampas desarmadas",
+      "Ninguna"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp2_018",
+    "topic": "Operaciones",
+    "text": "Rampa en puertas de servicio durante repostaje:",
+    "options": [
+      "Armada",
+      "Desarmada",
+      "Desarmada, blocada y libre de obstáculos",
+      "Desarmada, desblocada y libre de obstáculos"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp2_019",
+    "topic": "Operaciones",
+    "text": "Pasajeros durante repostaje:",
+    "options": [
+      "Abrochados",
+      "Apretados fuerte",
+      "Como deseen",
+      "Desabrochados"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp2_020",
+    "topic": "Normativa",
+    "text": "Está totalmente prohibido fumar...",
+    "options": [
+      "En vuelos de más de tres horas",
+      "Desde que se entra hasta que se sale",
+      "En zonas determinadas",
+      "Cuando lo indique el Comandante"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp2_021",
+    "topic": "Operaciones",
+    "text": "Durante repostaje deberán permanecer TCP y al menos:",
+    "options": [
+      "Un tripulante técnico",
+      "Dos tripulantes técnicos",
+      "Un técnico y mecánico",
+      "Todos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp2_022",
+    "topic": "Seguridad",
+    "text": "Instrucciones antes del despegue deben incluir:",
+    "options": [
+      "Tabaco, asientos, salidas y senda luminosa",
+      "Salidas, equipaje, asientos y folleto",
+      "Asientos, cinturón y salidas",
+      "Tabaco, asientos, salidas, senda, equipaje, electrónicos y folleto"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp2_023",
+    "topic": "Seguridad",
+    "text": "Instrucciones de seguridad habladas o audiovisuales:",
+    "options": [
+      "Antes del despegue",
+      "Antes del despegue y aterrizaje",
+      "Antes/después de despegue y aterrizaje",
+      "Ninguna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp2_024",
+    "topic": "Normativa",
+    "text": "Teléfonos móviles pueden usarse:",
+    "options": [
+      "Nunca",
+      "Desde cierre hasta apertura de puertas",
+      "Siempre",
+      "Con autorización de tripulación"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp2_025",
+    "topic": "Equipos",
+    "text": "¿Cuándo son obligatorios los chalecos salvavidas?",
+    "options": [
+      "Siempre",
+      "Rutas sobre el agua > 50NM",
+      "Rutas sobre el agua > 100NM",
+      "Rutas sobre el agua > 200NM"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp2_026",
+    "topic": "Operaciones",
+    "text": "¿Con cuánto tiempo se da la señal de despegue?",
+    "options": [
+      "No existe previo aviso",
+      "30 segundos",
+      "1 minuto",
+      "5 minutos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp2_027",
+    "topic": "Operaciones",
+    "text": "Antes del aterrizaje, el TCP se sujeta con arnés:",
+    "options": [
+      "Tras encenderse cinturones",
+      "Tras terminar servicio",
+      "Tras terminar comprobaciones y avisar cabina asegurada",
+      "Cuando crea"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp2_028",
+    "topic": "Operaciones",
+    "text": "Se enciende señal cinturones, el TCP designado:",
+    "options": [
+      "Da anuncio",
+      "No da aviso",
+      "Solo señal basta",
+      "Depende avión"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp2_029",
+    "topic": "Operaciones",
+    "text": "TCP sentados hasta:",
+    "options": [
+      "Avión parado totalmente",
+      "Aterrizaje",
+      "Orden del comandante",
+      "Salir de pista"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp2_030",
+    "topic": "Normativa",
+    "text": "Reglas prioritarias en caso de conflicto:",
+    "options": [
+      "Las del operador",
+      "Las de seguridad de operación",
+      "Las del servicio a bordo",
+      "Las de IATA"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp2_031",
+    "topic": "Seguridad",
+    "text": "¿Qué puede usarse en crucero?",
+    "options": [
+      "Móviles",
+      "Coches RC",
+      "Walkie Talkie",
+      "mp3"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp2_032",
+    "topic": "Operaciones",
+    "text": "Fallo del PA, señal de inminencia de despegue:",
+    "options": [
+      "Megáfono",
+      "FSB dos veces",
+      "No fumar dos veces",
+      "5-6 timbres"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp2_033",
+    "topic": "Operaciones",
+    "text": "El copiloto ocupará:",
+    "options": [
+      "Asiento delantero derecho",
+      "Asiento delantero izquierdo",
+      "Trasero",
+      "Asignado por comandante"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp2_034",
+    "topic": "Pasajeros",
+    "text": "PMR: limitaciones de plazas:",
+    "options": [
+      "No obstruir equipos de emergencia",
+      "No impedir evacuación",
+      "No impedir funciones tripulación",
+      "Todas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp2_035",
+    "topic": "Pasajeros",
+    "text": "Pasajero con discapacidad sensorial:",
+    "options": [
+      "Explicar procedimientos",
+      "Ayuda con comida",
+      "Asistencia adecuada",
+      "Todas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp2_036",
+    "topic": "Pasajeros",
+    "text": "Pasajero con perro guía:",
+    "options": [
+      "Perro con bozal, collar y correa",
+      "Pasajero junto al perro",
+      "Sin cargo",
+      "Todas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp2_037",
+    "topic": "Emergencias",
+    "text": "Primeras premisas en una emergencia:",
+    "options": [
+      "Serenidad, sentido común, responsabilidad y disciplina",
+      "Salir por primera salida disponible",
+      "Improvisación y responsabilidad",
+      "Sentido común y asertividad"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp2_038",
+    "topic": "Emergencias",
+    "text": "Uniforme completo en emergencia:",
+    "options": [
+      "Estética",
+      "Política comercial",
+      "Ser mejor identificados",
+      "No es necesario"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp2_039",
+    "topic": "Evacuación",
+    "text": "Pasajeros deben esperar sentados hasta:",
+    "options": [
+      "Orden de evacuación",
+      "Ver fuego",
+      "Llegar bomberos",
+      "Abrir salidas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp2_040",
+    "topic": "Evacuación",
+    "text": "Tripulantes técnicos ayudarán:",
+    "options": [
+      "Tan pronto como posible",
+      "Justo antes de salir",
+      "No ayudarán",
+      "Ninguna"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp2_041",
+    "topic": "Equipos",
+    "text": "Ubicación de hachas:",
+    "options": [
+      "Armarios de emergencia",
+      "Compartimentos de servicio",
+      "Cabina de vuelo",
+      "Compartimento acorazado"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp2_042",
+    "topic": "Evacuación",
+    "text": "Salidas NO utilizables en amerizaje:",
+    "options": [
+      "Traseras",
+      "Sobre alas",
+      "Cabina mando",
+      "Bajo el agua o castigadas por oleaje"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp2_043",
+    "topic": "Evacuación",
+    "text": "Salida idónea en evacuación al mar:",
+    "options": [
+      "Sobre planos",
+      "L2 y R2",
+      "Ventanas cockpit",
+      "Cualquier vía es idónea"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp2_044",
+    "topic": "Equipos",
+    "text": "Medios de flotación en amerizaje:",
+    "options": [
+      "Chalecos adulto, niño, cunas flotantes y balsas",
+      "Chalecos adulto, cunas y balsas",
+      "Chalecos y balsas",
+      "Solo chalecos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp2_045",
+    "topic": "Equipos",
+    "text": "¿Inflar chaleco dentro del avión?",
+    "options": [
+      "No, nunca",
+      "Sí, solo en emergencia",
+      "Sí, solo niños/bebés/PMR una cámara",
+      "Si lo autoriza sobrecargo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp2_046",
+    "topic": "Equipos",
+    "text": "¿Se pueden usar chalecos de demostración?",
+    "options": [
+      "Perfectamente utilizables",
+      "No pueden usarse",
+      "Solo comprobando su estado",
+      "Solo tripulación"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp2_047",
+    "topic": "Equipos",
+    "text": "Chalecos tripulación vs pasajeros:",
+    "options": [
+      "Exactamente iguales",
+      "Tripulación: rojo/naranja, pasajeros: amarillo",
+      "Tripulación: amarillo, pasajeros: naranja",
+      "Tripulación más robustos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp2_048",
+    "topic": "Evacuación",
+    "text": "Color de luces durante alarma de evacuación:",
+  },
+  "options": [
+  "Azules",
+  "Blancas intermitentes",
+  "Rojas",
+  "Rojas intermitentes"
+],
+  "correctIndex": 3
+  },
+  {
+    "id": "tcp2_049",
+    "topic": "Seguridad",
+    "text": "Amenaza de explosivo en tierra (premisa falsa):",
+    "options": [
+      "El pasaje debe abandonar la aeronave",
+      "El pasajero no debe llevar equipaje de mano",
+      "El comandante determina evacuación",
+      "No se reembarcará equipaje no identificado"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp2_050",
+    "topic": "Equipos",
+    "text": "Finalidad principal del megáfono:",
+    "options": [
+      "Dirigirse al pasaje en operación normal",
+      "No es obligatorio",
+      "Ayuda para evacuación",
+      "Medio de comunicación entre TCPs"
+    ],
+    "correctIndex": 2
+  }
+]

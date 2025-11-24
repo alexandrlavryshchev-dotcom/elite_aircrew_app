@@ -1,0 +1,322 @@
+[
+  {
+    "id": "med1_001",
+    "topic": "Med 1",
+    "text": "¿Qué células sanguíneas se encargan del transporte de O2?",
+    "options": ["Glóbulos blancos o leucocitos", "Glóbulos rojos o hematíes", "Plaquetas o trombocitos", "Todas son correctas"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med1_002",
+    "topic": "Med 1",
+    "text": "La hemoglobina tiene una afinidad por el monóxido de carbono con respecto a la del oxígeno por un factor de:",
+    "options": ["100-120", "200-210", "300", "10-20"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med1_003",
+    "topic": "Med 1",
+    "text": "¿Qué es la hemoglobina?",
+    "options": [
+      "Una zona concreta del sistema respiratorio situado en el núcleo alveolo pulmonar",
+      "Una proteína rica en FE",
+      "La encargada de transportar oxígeno desde los órganos respiratorios hasta las células",
+      "Las respuestas B y C son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "med1_004",
+    "topic": "Med 1",
+    "text": "¿Qué células sanguíneas se ocupan de la coagulación?",
+    "options": ["Glóbulos rojos o Hematíes", "Glóbulos blancos o Leucocitos", "Plaquetas o Trombocitos", "Ninguna de las respuestas es correcta"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med1_005",
+    "topic": "Med 1",
+    "text": "¿Qué células sanguíneas se ocupan de la defensa del organismo?",
+    "options": ["Glóbulos rojos o hematíes", "Glóbulos blancos o leucocitos", "Plaquetas o trombocitos", "Ninguna de las respuestas anteriores es correcta"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med1_006",
+    "topic": "Med 1",
+    "text": "Señala la correcta:",
+    "options": ["Las arterias salen del corazón", "Las venas entran al corazón", "Las arterias coronarias irrigan al miocardio", "Todas son correctas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med1_007",
+    "topic": "Med 1",
+    "text": "¿Cuál es la función del ventrículo derecho y del ventrículo izquierdo?",
+    "options": [
+      "Izquierdo: bombear sangre no oxigenada en la sangre y los pulmones / Derecho: Bombear sangre oxigenada a lo largo de nuestro cuerpo",
+      "Izquierdo: bombear sangre oxigenada a lo largo de nuestro cuerpo / Derecho: Bombear sangre no oxigenada a los pulmones",
+      "Izquierdo: bombear sangre oxigenada a los pulmones / Derecho: bombear sangre no oxigenada a lo largo de nuestro cuerpo",
+      "Izquierdo: bombear sangre oxigenada a los pulmones / Derecho: bombear sangre oxigenada a lo largo de nuestro cuerpo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "med1_008",
+    "topic": "Med 1",
+    "text": "El órgano de audición está situado en:",
+    "options": ["El pabellón auricular", "Oído interno", "Oído medio", "Oreja"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med1_009",
+    "topic": "Med 1",
+    "text": "Los canales semicirculares se encuentran en:",
+    "options": ["El pabellón auricular", "El oído interno", "El oído medio", "El oído externo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med1_010",
+    "topic": "Med 1",
+    "text": "El utrículo y el sáculo:",
+    "options": [
+      "Forman parte de los órganos de la visión",
+      "Forman parte de los órganos reproductores",
+      "Forman parte del órgano del aparato vestibular u órgano del equilibrio",
+      "La respuesta C es correcta y además se encuentran en el oído interno"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "med1_011",
+    "topic": "Med 1",
+    "text": "La Trompa de Eustaquio comunica:",
+    "options": ["La nariz y los oídos", "Oído medio y nasofaringe", "Oído interno con nervio auditivo", "Oído medio con oído interno"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med1_012",
+    "topic": "Med 1",
+    "text": "¿Cuál es la función de la Trompa de Eustaquio?",
+    "options": [
+      "Pasar las ondas sonoras desde el oído medio al nervio auditivo",
+      "Permitir que la presión ambiente se iguale a ambos lados de la membrana del tímpano",
+      "Permitir que la presión ambiente se iguale en el oído medio en el lado de los canales semicirculares",
+      "Permitir que la presión ambiente se iguale en ambos lados del aparato vestibular"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "med1_013",
+    "topic": "Med 1",
+    "text": "Señala la respuesta correcta:",
+    "options": [
+      "Los canales semicirculares detectan movimientos de rotación y las aceleraciones angulares",
+      "Los canales semicirculares detectan cualquier tipo de movimiento y aceleración",
+      "Los canales semicirculares contienen un líquido que se llama endolinfa",
+      "Las respuestas A y C son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "med1_014",
+    "topic": "Med 1",
+    "text": "Los neuro-receptores auditivos se encuentran en:",
+    "options": ["Los canales semicirculares", "Los órganos otolíticos", "Cóclea u órgano de Corti", "Oído medio cerca de la Trompa de Eustaquio"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med1_015",
+    "topic": "Med 1",
+    "text": "La medición de la capacidad auditiva se realiza mediante:",
+    "options": ["Electrocardiograma", "Electrocardioaudigrama", "Impedanciometría", "Audiometría"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med1_016",
+    "topic": "Med 1",
+    "text": "¿Cómo se llaman las células sensoriales de aparato de la visión?",
+    "options": ["Células normales y ojolíticas", "Conos y bastones", "Cilindros y bastones", "Otolitos y conos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med1_017",
+    "topic": "Med 1",
+    "text": "¿Cómo se llama el cartílago que durante la deglución impide el paso de alimentos a las vías respiratorias?",
+    "options": ["Cricoideo", "Epíglotis", "Tiroideo", "Hioides"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med1_018",
+    "topic": "Med 1",
+    "text": "¿Qué parte NO compone el sistema o aparato digestivo?",
+    "options": ["Tráquea", "Esófago", "Estómago", "Intestino"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med1_019",
+    "topic": "Med 1",
+    "text": "El intestino delgado se compone de:",
+    "options": ["Duodeno, yeyuno e ileón", "Esófago y duodeno", "Ciego, apéndice y recto", "Colon ascendente y descendente"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med1_020",
+    "topic": "Med 1",
+    "text": "La frecuencia respiratoria normal en un adulto es de:",
+    "options": ["10 a 12 respiraciones/minuto", "12 a 16 respiraciones/minuto", "32 a 40 respiraciones/minuto", "60 a 100 respiraciones/minuto"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med1_021",
+    "topic": "Med 1",
+    "text": "¿Dónde se encuentran los alveolos pulmonares?",
+    "options": ["En todo el organismo", "En la faringe", "En los pulmones", "En el corazón"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med1_022",
+    "topic": "Med 1",
+    "text": "¿Dónde tiene lugar el intercambio de oxígeno y dióxido de carbono más vapor de agua?",
+    "options": ["En las arterias", "En las venas", "En los capilares de los alveolos pulmonares", "En las venas y arterias pulmonares"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med1_023",
+    "topic": "Med 1",
+    "text": "¿Cómo se llama el músculo que separa la cavidad torácica de la cavidad abdominal?",
+    "options": ["Deltoides", "Diafragma", "Escalenos", "Intercostales"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med1_024",
+    "topic": "Med 1",
+    "text": "¿Dónde se encuentra el esternón?",
+    "options": ["En la parte media / anterior del tórax", "En la cintura escapular", "En la cintura pélvica", "En las costillas inferiores"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med1_025",
+    "topic": "Med 1",
+    "text": "El rango normal de la presión sanguínea es:",
+    "options": ["120 mm de Hg de sistólica y 80 mm de Hg de diastólica", "80 mm de Hg de sistólica y 120 mm de Hg de diastólica", "120 mm de Hg de sistólica y 120 mm de Hg de diastólica", "80 mm de Hg de sistólica y 80 mm de Hg de diastólica"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med1_026",
+    "topic": "Med 1",
+    "text": "Un pasajero de 20 años con una tensión arterial habitual de 170/100 mmHg:",
+    "options": ["Es hipotenso", "Es nomotenso", "Es hipertenso", "Tiene tensión muscular"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med1_027",
+    "topic": "Med 1",
+    "text": "Un pasajero puede sufrir un ataque de taquicardia cuando su corazón late a un ritmo:",
+    "options": ["Superior a 100 latidos/minuto", "Superior a 60 latidos/minuto", "Menor de 60 latidos/minutos", "Menor de 100 latidos/minuto"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med1_028",
+    "topic": "Med 1",
+    "text": "La hipotensión es equivalente a:",
+    "options": ["Alta presión sanguínea", "Frecuencia de pulso alta", "Baja presión sanguínea", "Frecuencia respiratoria baja"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med1_029",
+    "topic": "Med 1",
+    "text": "Un pasajero puede sufrir un ataque de bradicardia cuando su corazón late a un ritmo de:",
+    "options": ["Superior a 100 latidos/minuto", "Superior a 60 latidos/minuto", "Inferior a 60 latidos/minuto", "Inferior a 100 latidos/minuto"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med1_030",
+    "topic": "Med 1",
+    "text": "De los que se indican a continuación, ¿qué factor NO es de riesgo cardiovascular?",
+    "options": ["Fumar", "Hipertensión arterial", "Tasas elevadas de colesterol", "Ejercicio físico moderado"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med1_031",
+    "topic": "Med 1",
+    "text": "Las bebidas gaseosas tomadas a bordo del avión favorecen:",
+    "options": ["La digestión de las comidas", "Los disbarismos intestinales", "El tránsito intestinal", "El aeroembolismo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med1_032",
+    "topic": "Med 1",
+    "text": "¿Qué causa un barotrauma ótico y cuando es más frecuente que ocurra?",
+    "options": [
+      "Una obstrucción de la Trompa de Eustaquio, es más frecuente que ocurra durante el descenso",
+      "Una obstrucción de la Trompa de Eustaquio, y es más frecuente que ocurra durante el ascenso",
+      "Una obstrucción de la Trompa de Eustaquio y alrededor del tímpano (incluyendo los canales semicirculares) lo que es más frecuente que ocurra en el descenso",
+      "Una obstrucción de la faringe que repercute directamente en el oído interno, produciendo malestar general y cefaleas entre otros síntomas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med1_033",
+    "topic": "Med 1",
+    "text": "Si un pasajero padece una hemorragia nasal se tratará a base de:",
+    "options": ["Apretarle la parte blanda de la nariz durante unos minutos", "Haciéndole respirar acompasadamente", "Haciéndole un torniquete", "Mediante masajes compulsivos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med1_034",
+    "topic": "Med 1",
+    "text": "En caso de epistaxis que haremos:",
+    "options": ["Apretarle la parte blanda de la nariz durante unos minutos", "Hacerle poner la cabeza hacia atrás", "Dejarle la sangre para evitar presión intracraneal", "Todas son correctas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med1_035",
+    "topic": "Med 1",
+    "text": "La cinetosis consiste en:",
+    "options": ["Falta de adaptación a la rotación de las hélices", "Temor a volar", "Falta de adaptación al movimiento", "Ninguna es correcta"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med1_036",
+    "topic": "Med 1",
+    "text": "Para permeabilizar las vías aéreas se:",
+    "options": [
+      "Realizar una hiperextensión mediante la maniobra frente-mentón, si no existe ninguna lesión medular",
+      "En caso de indicios de lesión medular realizaremos la maniobra conocida como avance de mandíbula o triple maniobra modificada",
+      "Comprobaremos que no existen fluidos o cuerpos extraños, dentro de la cavidad bucal, retirándolos con un pañuelo si existiesen",
+      "Todas son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "med1_037",
+    "topic": "Med 1",
+    "text": "En caso de hemorragia externa:",
+    "options": [
+      "Comprimir directamente la herida con gasas estériles o pañuelos limpios",
+      "No retirar nunca las gasas colocadas sobre el punto de hemorragia para no retirar el coágulo formado",
+      "Excepcionalmente y si la vida de la víctima está en peligro colocarle un torniquete (por ejemplo amputaciones)",
+      "Todas son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "med1_038",
+    "topic": "Med 1",
+    "text": "Los síntomas de fractura son:",
+    "options": ["Dolor", "Deformidad", "Movilidad dificultosa o impotencia funcional", "Todas son correctas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med1_039",
+    "topic": "Med 1",
+    "text": "¿En qué posición colocarías a un pasajero consciente que habría sufrido una lipotimia o desmayo?",
+    "options": ["Decúbito supino con piernas elevadas", "Decúbito lateral", "Decúbito prono", "Todas son correctas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med1_040",
+    "topic": "Med 1",
+    "text": "¿Cuáles son las fases del parto por orden cronológico?",
+    "options": ["Expulsión, dilatación, alumbramiento", "Dilatación, alumbramiento, expulsión", "Expulsión, alumbramiento, dilatación", "Dilatación, expulsión, alumbramiento"],
+    "correctIndex": 3
+  }
+]

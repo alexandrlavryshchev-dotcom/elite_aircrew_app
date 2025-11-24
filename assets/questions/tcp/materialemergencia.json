@@ -1,0 +1,432 @@
+[
+  {
+    "id": "tcp_071",
+    "topic": "Seguridad",
+    "text": "¿Cuál de los siguientes elementos se considera equipo de emergencia adicional?",
+    "options": ["Equipo de demostración", "BCF", "PBE", "Linterna de emergencia"],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_072",
+    "topic": "Seguridad",
+    "text": "¿Qué tenemos que hacer para usar el megáfono?",
+    "options": [
+      "Sujetar por el mango y poner el botón en posición ON",
+      "Sujetar por el mango y mantener presionado el botón 'pulsar para hablar'",
+      "Sujetar por el mango y hablar directamente",
+      "Sujetar por el mango y, una vez seleccionado el botón en ON, pulsar el botón 'pulsar para hablar'"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_073",
+    "topic": "Seguridad",
+    "text": "¿Qué nos indica un precinto amarillo puesto en un botiquín de primeros auxilios?",
+    "options": [
+      "Que el botiquín de primeros auxilios está inoperativo",
+      "Que el botiquín de primeros auxilios no ha sido utilizado aún",
+      "Que el botiquín de primeros auxilios ha sido utilizado con anterioridad, pero aún está operativo",
+      "Que el botiquín de primeros auxilios ha sido utilizado y no quedaban precintos rojos"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_074",
+    "topic": "Seguridad",
+    "text": "¿Cuándo se encienden las luces de emergencia de las rampas?",
+    "options": [
+      "Se encienden automáticamente durante la secuencia de inflado",
+      "Pulsando el botón en el FAP",
+      "Las rampas no tienen luces de emergencia",
+      "Con el pulsador EMER LIGHT de cabina de vuelo"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_075",
+    "topic": "Seguridad",
+    "text": "¿A qué caudal fluye el oxígeno en las botellas de oxígeno de primera ayuda?",
+    "options": [
+      "2L en LOW y 4L en HIGH",
+      "4L en LOW y 8L en HIGH",
+      "4L en LOW y 6L en HIGH",
+      "2L en LOW y 3L en HIGH"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_076",
+    "topic": "Seguridad",
+    "text": "¿Cuántos detectores de humo hay en cada lavabo?",
+    "options": ["1", "2", "Depende del modelo de avión", "Ninguno"],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_077",
+    "topic": "Seguridad",
+    "text": "¿Qué hay que comprobar en el chequeo pre-vuelo de las salidas de emergencia?",
+    "options": [
+      "Adecuado estado general de la salida, posibles daños o falta de elementos; presencia de la rampa y adecuada presión de su botella de inflado (se comprobará en el FAP o físicamente)",
+      "Adecuado estado general, presencia de la rampa y adecuada presión de su botella de inflado, así como la presencia y condición general de las señales EXIT/SALIDA",
+      "Adecuado estado general, posibles daños; presencia de la rampa y condición de las señales de SALIDA/EXIT",
+      "Adecuado estado general, posibles daños; presencia de la rampa y adecuada presión de la botella"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_078",
+    "topic": "Seguridad",
+    "text": "Chequeo prevuelo y duración de las linternas DME",
+    "options": [
+      "Buen estado, precinto y testigo rojo a intervalos <10 s. Vida útil >5 h una vez extraída del soporte",
+      "Buen estado, precinto y testigo rojo a intervalos <15 s. Vida útil >5 h",
+      "Buen estado, precinto y testigo rojo a intervalos <15 s. Vida útil >3 h",
+      "Buen estado, precinto y testigo rojo a intervalos <10 s. Vida útil >3 h"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_079",
+    "topic": "Seguridad",
+    "text": "¿En qué vuelos llevaremos bolsa de señales?",
+    "options": [
+      "Vuelos transatlánticos, a zonas subsaharianas, Federación Rusa o zonas con búsqueda y salvamento complicado",
+      "Vuelos de más de tres horas",
+      "Vuelos con más de 60 minutos de aeropuerto alternativo",
+      "Todos los vuelos"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_080",
+    "topic": "Seguridad",
+    "text": "¿Cuál es el chequeo de los chalecos salvavidas bajo cada butaca?",
+    "options": [
+      "No es requisito obligatorio chequearlos",
+      "Que haya el número correspondiente en cada fila",
+      "Comprobación mediante muestreo de presencia y caducidad",
+      "Número suficiente para bebés presentes"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_081",
+    "topic": "Seguridad",
+    "text": "¿Qué ocurre si abrimos desde el exterior una puerta de emergencia que tiene la rampa armada en un Airbus?",
+    "options": [
+      "No se pueden abrir las puertas desde el exterior",
+      "La rampa se desplegará, precaución, desarmar la rampa",
+      "La apertura desde el exterior desarma la rampa de evacuación",
+      "Los equipos de emergencia no deben manipular las puertas sin permiso del comandante"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_082",
+    "topic": "Seguridad",
+    "text": "¿De qué manera podrá activarse el sistema de oxígeno fijo?",
+    "options": [
+      "Automáticamente, cuando la altitud de presión de cabina pasa por 14.000ft",
+      "Automáticamente a 14.000ft y manualmente desde el FAP pulsador “OXY PAX”",
+      "Manual desde cabina cuando pilotos detectan altitud >14.000ft",
+      "Automáticamente a 14.000 ±500ft y manual desde cabina mediante MASK MAN ON y útiles de apertura (MRT)"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_083",
+    "topic": "Seguridad",
+    "text": "De acuerdo con la normativa, se debe instalar el botiquín médico de emergencia en vuelos cuya ruta planificada esté a más de 60 min (velocidad crucero) de:",
+    "options": [
+      "Cualquier base de la compañía",
+      "Aeródromo",
+      "Aeropuerto",
+      "Aeródromo con asistencia médica cualificada"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_084",
+    "topic": "Seguridad",
+    "text": "Los letreros EXIT se encienden automáticamente cuando estén encendidas las señales “NO SMOKING/NO PED”, con tren abajo y blocado o:",
+    "options": [
+      "Altitud de cabina excesiva 7.300 ±350ft",
+      "Altitud de cabina excesiva 9.300 ±350ft",
+      "Altitud de cabina excesiva 11.300 ±350ft",
+      "Altitud de cabina excesiva 13.300 ±350ft"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_085",
+    "topic": "Seguridad",
+    "text": "A los 11.300ft ±350ft de altitud de cabina se encienden automáticamente:",
+    "options": [
+      "Señales de “NO SMOKING/NO PED”",
+      "Señales de “ABRÓCHENSE EL CINTURÓN”",
+      "Señales de “EXIT”",
+      "Señales de “NO SMOKING/NO PED”, “ABRÓCHENSE EL CINTURÓN” y “EXIT”, luces de cabina a máxima intensidad"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_086",
+    "topic": "Seguridad",
+    "text": "¿Cómo actuaremos si al intentar abrir la puerta en operación normal se enciende la luz blanca de SLIDE ARMED?",
+    "options": [
+      "Seguir con la apertura normalmente",
+      "Mantener la puerta cerrada y avisar a cabina de vuelo",
+      "Bajar la palanca, desarmar la rampa y volver a abrir",
+      "Mantener cerrada y avisar al sobrecargo"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_087",
+    "topic": "Seguridad",
+    "text": "En el A330 hay dos ventanas correderas en la cabina de mando que solo pueden abrirse desde el interior y proporcionan una salida alternativa a:",
+    "options": [
+      "Tripulación de cabina",
+      "Tripulación de cabina y pasajeros",
+      "Tripulación técnica",
+      "Cualquier tripulante"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_088",
+    "topic": "Seguridad",
+    "text": "El sistema fijo de oxígeno para cabina de pasajeros está formado por unidades generadoras y dispensadoras independientes. ¿Cuál es la duración de dichos generadores?",
+    "options": ["10 minutos", "15 minutos", "30 minutos", "25 minutos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_089",
+    "topic": "Seguridad",
+    "text": "¿Hasta qué altitud de presión de cabina está certificada la PBE AIR LIQUIDE?",
+    "options": ["14.000ft", "25.000ft", "20.000ft", "10.000ft"],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_090",
+    "topic": "Seguridad",
+    "text": "¿Cuál es la autonomía de las PBE?",
+    "options": ["10 minutos al menos", "25 minutos al menos", "15 minutos al menos", "5 minutos al menos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_091",
+    "topic": "Seguridad",
+    "text": "La comprobación prevuelo de los extintores consiste en verificar:",
+    "options": [
+      "Precinto y presencia",
+      "Precinto y presión",
+      "Buen estado general, existencia y estado del precinto, presión y fecha aceptable",
+      "Presencia y fecha aceptable"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_092",
+    "topic": "Seguridad",
+    "text": "¿Cuál es la comprobación prevuelo de los extintores sobre el contenedor de desperdicios?",
+    "options": [
+      "La fecha de caducidad",
+      "Que el indicador del manómetro esté en la zona verde",
+      "Fecha de última revisión por mantenimiento",
+      "No es necesario chequearlo, lo hace mantenimiento"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_093",
+    "topic": "Seguridad",
+    "text": "La duración mínima de la radiobaliza RESCUE 406 es de:",
+    "options": ["24 horas", "48 horas", "72 horas", "100 horas"],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_094",
+    "topic": "Seguridad",
+    "text": "¿Cómo se pone en funcionamiento la radiobaliza KANNAD 406?",
+    "options": [
+      "Interruptor en cabina de mando",
+      "En mar: ARM + water switch conectado, antena vertical; en tierra: manual ON y desplegar antena",
+      "Solo manual ON y desplegar antena vertical",
+      "Interruptor en ARM, antena extendida y transmisión automática al detectar satélite"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_095",
+    "topic": "Seguridad",
+    "text": "¿Se puede suministrar algún medicamento del EMK aunque no haya personal sanitario a bordo?",
+    "options": [
+      "Sí, con autorización del sobrecargo",
+      "No, si no hay personal sanitario no se puede abrir",
+      "Sí, fármacos por vía oral no deben ser denegados",
+      "Tanto fármacos como instrumentación pueden usarse haya o no personal sanitario"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_096",
+    "topic": "Seguridad",
+    "text": "El chaleco salvavidas universal lo pueden utilizar:",
+    "options": [
+      "Adultos y niños >2 años",
+      "Adultos y niños de cualquier edad, incluidos bebés",
+      "Adultos",
+      "Niños <12 años y bebés"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_097",
+    "topic": "Seguridad",
+    "text": "El sistema de oxígeno suplementario para los TCP se compone de:",
+    "options": [
+      "Botellas de oxígeno portátil",
+      "PBE AVOX",
+      "Oxígeno fijo en cabina + portátiles suficientes para todos los TCP requeridos",
+      "PBE AIR LIQUIDE"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_098",
+    "topic": "Seguridad",
+    "text": "¿En qué momento se descarga el extintor sobre el contenedor de desperdicios de cada lavabo?",
+    "options": [
+      "Cuando detecta humo",
+      "Cuando se produce un incendio y la temperatura alcanza 77°C",
+      "Cuando hay incendio clase A",
+      "Cuando se produce un incendio y la temperatura alcanza 100°C"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_099",
+    "topic": "Seguridad",
+    "text": "¿Cómo activamos manualmente la radiobaliza KANNAD 406 en tierra?",
+    "options": [
+      "Interruptor en ARM",
+      "Interruptor en ON y desplegar antena",
+      "Water switch conectado + ARM",
+      "Water switch conectado + ON"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_100",
+    "topic": "Seguridad",
+    "text": "¿Hasta qué altitud de cabina está certificada la PBE modelo AVOX SYSTEM?",
+    "options": ["25.000ft", "15.000ft", "40.000ft", "30.000ft"],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_141",
+    "topic": "Seguridad",
+    "text": "¿Qué altura pueden alcanzar las mini bengalas?",
+    "options": ["20m", "50m", "70m", "150m"],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_142",
+    "topic": "Seguridad",
+    "text": "¿Cuál es el alcance del heliógrafo?",
+    "options": ["500m en un día claro", "2km en un día nublado", "40km si es de noche", "30km con luz solar"],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_143",
+    "topic": "Seguridad",
+    "text": "¿Qué significa una V en el código internacional de búsqueda y rescate?",
+    "options": ["Afirmativo", "Victor", "Necesitamos ayuda", "Ir hacia abajo"],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_144",
+    "topic": "Seguridad",
+    "text": "¿Qué equipo auxiliar contra incendios (hacha y/o barra de pata de cabra) tiene aislamiento eléctrico?",
+    "options": [
+      "El mango del hacha contra incendios está aislado eléctricamente",
+      "El mango de la pata de cabra está aislado eléctricamente",
+      "Tanto el hacha como la pata de cabra son herramientas con aislamiento eléctrico",
+      "Ni el hacha ni la pata de cabra tienen ningún tipo de aislamiento eléctrico"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_145",
+    "topic": "Seguridad",
+    "text": "Los sistemas de suministro de oxígeno fijo en el avión son:",
+    "options": [
+      "Hay un único sistema de suministro de oxígeno fijo en todo el avión que suministra oxígeno tanto a los pasajeros como a toda la tripulación",
+      "Hay dos sistemas de suministro de oxígeno, fijos e independientes. Uno de ellos proporciona oxígeno a la tripulación de vuelo y el otro para el pasaje y los TCP",
+      "Hay tres sistemas de suministro de oxígeno fijo en el avión: uno para los pilotos, otro para los TCP y otro para los pasajeros",
+      "Todos los sistemas de suministro de oxígeno en el avión son portátiles"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_146",
+    "topic": "Seguridad",
+    "text": "Las botellas de oxígeno y máscaras de oxígeno de primera ayuda:",
+    "options": [
+      "Son para suministrar oxígeno de primera ayuda exclusivamente a los pasajeros",
+      "Son para suministrar oxígeno de primera ayuda a los pilotos",
+      "Son para suministrar oxígeno de primera ayuda a los pasajeros y si es necesario también a los TCP",
+      "Son para suministrar oxígeno de primera ayuda a pilotos y TCP"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_147",
+    "topic": "Seguridad",
+    "text": "¿Qué pasajeros pueden utilizar los chalecos mixtos?",
+    "options": [
+      "Todos los pasajeros, puesto que son chalecos universales",
+      "Adultos y niños mayores de 2 años",
+      "Adultos y niños mayores de 6 años",
+      "Adultos y niños mayores de 12 años"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_148",
+    "topic": "Seguridad",
+    "text": "Si disponemos de dos radiobalizas móviles, ¿cómo optimizaremos su funcionamiento?",
+    "options": [
+      "Utilizándose simultáneamente para aumentar la potencia de la señal",
+      "Utilizándose sucesivamente",
+      "No hay ninguna diferencia",
+      "Si en 24 horas no hemos sido localizados y rescatados, sin duda las utilizaremos simultáneamente"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_149",
+    "topic": "Seguridad",
+    "text": "En caso de tener que hacer uso de todos los fármacos del EMK, ¿quién se considera personal médico cualificado?",
+    "options": [
+      "Médicos y enfermeros cualificados",
+      "Médicos, enfermeros, paramédicos y técnicos en emergencias médicas",
+      "Estudiantes de medicina, estudiantes paramédicos, estudiantes técnicos en emergencias médicas, auxiliares de enfermería, médicos, enfermeros, paramédicos y técnicos en emergencias médicas",
+      "Personal del servicio médico de la compañía"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_150",
+    "topic": "Seguridad",
+    "text": "¿Cuál es el sistema fijo de oxígeno en cabina de vuelo?",
+    "options": [
+      "Generadores químicos de oxígeno",
+      "2 capuchas AVOX",
+      "2 capuchas L’AIR LIQUIDE",
+      "4 máscaras de colocación rápida QDM"
+    ],
+    "correctIndex": 0
+  }
+]

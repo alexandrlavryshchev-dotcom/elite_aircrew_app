@@ -1,0 +1,267 @@
+[
+  {
+    "id": "med2_001",
+    "topic": "Med 2",
+    "text": "La sección medular por lesión traumática producida a nivel cervical general:",
+    "options": ["Paraplejia", "Tetraplejia", "Incontinencia de esfínteres", "Impotencia sexual"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med2_002",
+    "topic": "Med 2",
+    "text": "La siguiente afirmación: 'la cantidad de un gas disuelto en determinado líquido es directamente proporcional a la presión que ejerce el gas sobre el mismo', corresponde a:",
+    "options": ["Henry", "Boyle-Mariotte", "Dalton", "Graham"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med2_003",
+    "topic": "Med 2",
+    "text": "Hablamos de hipoxia cuando:",
+    "options": [
+      "Se produce una disminución de oxígeno a nivel de tejidos y células",
+      "Se produce una disminución de CO2 en sangre",
+      "Se produce una disminución de O2 en la atmósfera",
+      "Se produce un aumento de presión parcial de oxígeno en la atmósfera"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med2_004",
+    "topic": "Med 2",
+    "text": "De las siguientes, ¿cuál no es un tipo de hipoxia?",
+    "options": ["Hipostática", "Anémica", "Hipóxica", "Histotóxica"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med2_005",
+    "topic": "Med 2",
+    "text": "Las radiaciones ultravioletas son filtradas por la ozonosfera; estas radiaciones son peligrosas porque...",
+    "options": ["Producen quemaduras sobre la piel", "Pueden producir ceguera", "Facilitan el cáncer de piel", "Todas son correctas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med2_006",
+    "topic": "Med 2",
+    "text": "Dentro de las radiaciones ionizantes se encuentran:",
+    "options": ["Hertzianas", "Rayos X", "Microondas", "Rayos infrarrojos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med2_007",
+    "topic": "Med 2",
+    "text": "Es importante estudiar y conocer la fatiga de vuelo ya que:",
+    "options": [
+      "Es una de las principales causas de baja laboral",
+      "Es uno de los principales motivos de accidentes aéreos",
+      "A y B son correctas",
+      "Ninguna es correcta"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "med2_008",
+    "topic": "Med 2",
+    "text": "Señala la respuesta correcta:",
+    "options": [
+      "Uno de los órganos más sensibles ante la hipoxia es el órgano de la visión",
+      "Si el vuelo es nocturno la visión es aún más sensible a la hipoxia",
+      "El tabaco y el alcohol son factores que afectan también negativamente a la agudeza visual",
+      "Todas son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "med2_009",
+    "topic": "Med 2",
+    "text": "¿Qué significan las siglas TUC?",
+    "options": [
+      "Tiempo Útil de Consciencia",
+      "Tiempo Universal Coordinado",
+      "Tango - Union - Charlie",
+      "A y C son correctas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med2_010",
+    "topic": "Med 2",
+    "text": "Lo primero que hará el TCP durante el TUC será:",
+    "options": [
+      "Obtener oxígeno para el compañero más cercano",
+      "Ponerle inmediatamente oxígeno al Comandante",
+      "Obtener oxígeno para evitar la incapacitación por hipoxia",
+      "Mejor no poner oxígeno a los pasajeros para evitar que se tranquilicen"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "med2_011",
+    "topic": "Med 2",
+    "text": "¿Cuál de estos factores aumentan el riesgo de padecer problemas coronarios o cardiovasculares?",
+    "options": ["Historia familiar", "Carencia de ejercicio físico y consumo de tabaco y alcohol", "Obesidad", "Todas las respuestas son correctas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med2_012",
+    "topic": "Med 2",
+    "text": "Cuando un hueso se sale de su articulación hablamos de:",
+    "options": ["Contusión", "Esguince grado I", "Esguince", "Luxación"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med2_013",
+    "topic": "Med 2",
+    "text": "A la lesión de los ligamentos que forman una articulación le llamamos:",
+    "options": ["Luxación", "Esguince", "Dislocación", "Contusión"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med2_014",
+    "topic": "Med 2",
+    "text": "Las dos regiones más vulnerables de la columna vertebral son:",
+    "options": ["Región lumbar y dorsal", "Región dorsal y sacra", "Región cervical y lumbar", "Ninguna es correcta"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med2_015",
+    "topic": "Med 2",
+    "text": "La médula espinal es:",
+    "options": [
+      "Un hueso corto y plano",
+      "Una estructura del sistema nervioso: conecta el cerebro con el resto del organismo",
+      "La encargada de fabricar las células sanguíneas",
+      "Todas las respuestas anteriores son correctas"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "med2_016",
+    "topic": "Med 2",
+    "text": "La médula ósea:",
+    "options": [
+      "Se encuentra exclusivamente en la columna vertebral",
+      "Es una estructura del sistema nervioso periférico",
+      "Se encarga de fabricar células sanguíneas",
+      "Todas las respuestas anteriores son correctas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "med2_017",
+    "topic": "Med 2",
+    "text": "Todos los seres humanos tenemos un reloj biológico interno que rige su conducta, ¿dónde está situado?",
+    "options": ["En la médula espinal", "En las glándulas suprarrenales", "En el lóbulo frontal", "En el hipotálamo"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med2_018",
+    "topic": "Med 2",
+    "text": "Entendemos por hipoxia:",
+    "options": [
+      "La disminución de la concentración de oxígeno en el medio ambiente",
+      "La disminución de la presión parcial de oxígeno en los alveolos pulmonares",
+      "La dificultad respiratoria originada por un problema ventilatorio",
+      "La disminución de la cantidad de oxígeno en las células del organismo que dificulta o impide su funcionamiento normal"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "med2_019",
+    "topic": "Med 2",
+    "text": "El tipo de hipoxia más frecuente en el medio aéreo es:",
+    "options": ["Histotóxica", "Anémica", "Hipóxica", "Por estancamiento"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med2_020",
+    "topic": "Med 2",
+    "text": "La hipoxia se soluciona:",
+    "options": ["Bajando de altitud", "Subiendo rápidamente de altitud", "Efectuando reposo prolongado durante el vuelo", "Recibiendo O2"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med2_021",
+    "topic": "Med 2",
+    "text": "Todas las siguientes cuestiones son causas de hipoxia hipóxica excepto una:",
+    "options": [
+      "Presión atmosférica disminuida",
+      "Obstrucción mecánica de las vías aéreas",
+      "Fallo cardiaco",
+      "Enfermedad muscular degenerativa, con afectación de musculatura respiratoria"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "med2_022",
+    "topic": "Med 2",
+    "text": "Un tripulante de vuelo puede sufrir en determinadas circunstancias el efecto llamado 'Jet-lag', ¿qué es?",
+    "options": [
+      "Un síndrome de desface de husos horarios, en desplazamientos rápidos",
+      "Un síndrome relacionado con la altura",
+      "Un síndrome relacionado con la cinetosis",
+      "Nada de lo anterior es correcto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med2_023",
+    "topic": "Med 2",
+    "text": "Las primeras manifestaciones de 'Jet-lag' son de tipo:",
+    "options": ["Hormonal", "Psico-intelectual", "Gastrointestinal", "Cardiovascular"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med2_024",
+    "topic": "Med 2",
+    "text": "El reajuste de los ritmos biológicos tras un desface horario es más difícil:",
+    "options": ["Tras un desplazamiento hacia el Este", "Tras un desplazamiento hacia el Oeste", "Tras un desplazamiento hacia el Norte", "Tras un desplazamiento hacia el Sur"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med2_025",
+    "topic": "Med 2",
+    "text": "La presión de la cabina de un avión comercial es de:",
+    "options": ["Nivel del mar", "2000 pies", "6000 pies", "10000 pies"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med2_026",
+    "topic": "Med 2",
+    "text": "El oxígeno que circula por la sangre es transportado por:",
+    "options": ["Los leucocitos", "El plasma", "Las plaquetas", "Los hematíes"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med2_027",
+    "topic": "Med 2",
+    "text": "La función principal de los glóbulos rojos es:",
+    "options": [
+      "Participar en el proceso de coagulación de la sangre",
+      "La defensa celular del organismo",
+      "Colaborar a la respuesta inmune del organismo",
+      "Transportar oxígeno"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "med2_028",
+    "topic": "Med 2",
+    "text": "Señala la correcta:",
+    "options": ["Las venas salen del corazón", "Las venas entran en el corazón", "Algunas venas salen y otras entran", "Ninguna es correcta"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med2_029",
+    "topic": "Med 2",
+    "text": "La presbiacusia es un deterioro de la audición debido a:",
+    "options": ["Al daño de la cóclea", "Daño de los canales semicirculares", "A la edad", "Al tabaco"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med2_030",
+    "topic": "Med 2",
+    "text": "De las partes citadas, ¿Cuál NO pertenece al aparato digestivo?",
+    "options": ["Colon", "Laringe", "Duodeno", "Yeyuno"],
+    "correctIndex": 1
+  }
+]

@@ -52,6 +52,10 @@ flutter:
     - assets/questions/tcp/normativa.json
     - assets/questions/tcp/seguridad_nav.json
     - assets/questions/tcp/supervivencia.json
+    - assets/questions/tcp/med1.json
+    - assets/questions/tcp/med2.json
+    - assets/questions/tcp/med3.json
+    - assets/questions/tcp/FUE.json
     - assets/questions/entrevistas.json
     - assets/questions/elite/final/examen1.json
     - assets/questions/elite/final/examen2.json

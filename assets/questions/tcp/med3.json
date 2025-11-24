@@ -1,0 +1,277 @@
+[
+  {
+    "id": "med3_001",
+    "topic": "Med 3",
+    "text": "El TUC a 40.000 ft es de:",
+    "options": ["1 a 2 minutos", "15 a 20 segundos", "40 a 60 segundos", "2 minutos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med3_002",
+    "topic": "Med 3",
+    "text": "El TUC en una descompresión explosiva se verá reducido a:",
+    "options": ["Se mantendrá igual, no varía", "Se multiplicará aprox. al doble", "Se reducirá a la mitad", "Ninguna es correcta"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med3_003",
+    "topic": "Med 3",
+    "text": "Si se produce una despresurización lenta en la aeronave, el síntoma principal que notaremos será:",
+    "options": ["Incremento del nivel del ruido", "Disminución de la visibilidad producida por el fenómeno de la condensación", "Molestias y dolores abdominales", "Taponamiento de los oídos"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med3_004",
+    "topic": "Med 3",
+    "text": "Si se produce una despresurización rápida en una aeronave, ¿ cuál o cuáles serán los síntomas que notaremos?",
+    "options": ["Taponamiento de oídos", "Fuerte sensación de frío", "Incremento del ruido en la cabina", "Todas son correctas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med3_005",
+    "topic": "Med 3",
+    "text": "¿Cuánto tiempo es recomendable dejar pasar entre la donación de sangre y el vuelo?",
+    "options": ["8 horas", "12 horas", "24 horas", "72 horas"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med3_006",
+    "topic": "Med 3",
+    "text": "Si se realizan actividades subacuáticas, ¿cuánto tiempo es recomendable dejar pasar antes del vuelo?",
+    "options": ["24 horas", "8 horas", "12 horas", "48 horas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med3_007",
+    "topic": "Med 3",
+    "text": "¿Cuál es el problema médico más común a bordo?",
+    "options": ["Disbarismo intestinal", "Lipotimias o desmayos", "Problemas de bronquios en pasajeros fumadores", "Dolor de oídos"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med3_008",
+    "topic": "Med 3",
+    "text": "Con qué nombre se conoce el 'mal de movimiento'?",
+    "options": ["Cetoacidosis", "Cinetosis", "Cinestesia", "Acetosis"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med3_009",
+    "topic": "Med 3",
+    "text": "Cuando se produce una urgencia, lo primero que hay que conseguir del paciente es:",
+    "options": ["Control de las hemorragias", "Vías aéreas permeables", "Tener al herido en posición de seguridad", "Evitar cualquier medicamento"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med3_010",
+    "topic": "Med 3",
+    "text": "En la valoración A, B y C, ¿ qué parámetros valoramos?",
+    "options": [
+      "Vías aéreas permeables",
+      "Estado de consciencia, vías aéreas permeables y respiración",
+      "Estado de consciencia, respiración, heridas y fracturas",
+      "Estado de consciencia, vías aéreas permeables, respiración, presencia de hemorragias graves y circulación"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "med3_011",
+    "topic": "Med 3",
+    "text": "¿Cuál es la secuencia correcta para diagnosticar una parada cardiorespiratoria?",
+    "options": [
+      "Consciente o inconsciente, tiene pulso o no, respira o no respira",
+      "Da igual el orden, lo importante es actuar rápidamente",
+      "Pulso o no, respira o no, consciente o inconsciente",
+      "Consciente o inconsciente, respira o no, tiene pulso o no"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "med3_012",
+    "topic": "Med 3",
+    "text": "Ante un adulto inconsciente, se ha de valorar:",
+    "options": ["Pulsos del cuello o carotideo", "Pulsos de la muñeca o radial", "Pulso del pie", "Los tres sucesivamente"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med3_013",
+    "topic": "Med 3",
+    "text": "¿Cuál es uno de los signos iniciales de la hipoxia?",
+    "options": ["Color azulado en los labios", "Dolor de estómago", "Dolor de articulaciones", "Disminución del juicio"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med3_014",
+    "topic": "Med 3",
+    "text": "Son síntomas de hipoxia:",
+    "options": ["Licterina leve", "Euforia y cianosis", "Respiración lenta y regular", "Aumento de la capacidad intelectual"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med3_015",
+    "topic": "Med 3",
+    "text": "Llamamos cianosis a:",
+    "options": ["Coloración amarillenta de los ojos", "Palidez de la piel y las mucosas", "Coloración azulada de la piel y las mucosas", "Ninguna es correcta"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med3_016",
+    "topic": "Med 3",
+    "text": "En la hiperventilación se produce:",
+    "options": ["Aumento de CO2 en sangre", "Aumento de N2 en sangre", "Disminución de CO2 en sangre", "Disminución de N2 en sangre"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med3_017",
+    "topic": "Med 3",
+    "text": "En la hiperventilación se produce:",
+    "options": ["Hipocapnia y acidosis respiratoria", "Hipercapnia y alcalosis respiratoria", "Hipocapnia y alcalosis respiratoria", "Hipoxia y acidosis respiratoria"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med3_018",
+    "topic": "Med 3",
+    "text": "La causa más frecuente de la hiperventilación en el medio aéreo es:",
+    "options": ["El miedo", "La aspirina", "El dolor", "La hipoxia"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med3_019",
+    "topic": "Med 3",
+    "text": "Ante un pasajero con hiperventilación, ¿qué haremos?",
+    "options": ["Tranquilizar al pasajero", "Explicarle la importancia de respirar más despacio", "Ofrecerle una bolsa de mareo para que respire dentro de ella", "Todas son correctas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med3_020",
+    "topic": "Med 3",
+    "text": "¿La falta de oxígeno afecta a la vista?",
+    "options": ["Si", "No", "A veces", "Depende de la salud de la persona"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med3_021",
+    "topic": "Med 3",
+    "text": "Cómo se evitará el mareo a los pasajeros:",
+    "options": ["Utilizando bolsas antimareo", "Administrando pastillas antimareo", "Comiendo todo lo posible", "Dejándolos que se mareen"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med3_022",
+    "topic": "Med 3",
+    "text": "El lugar adecuado para realizar el masaje cardiaco externo es:",
+    "options": ["El punto situado debajo de los pechos", "El punto entre el tercio medio e inferior del esternón", "El punto entre el tercio medio e inferior del cuello", "Ninguna es correcta"],
+    "correctIndex": 1
+  },
+  {
+    "id": "med3_023",
+    "topic": "Med 3",
+    "text": "Qué protocolo seguiremos durante la RCP en adultos?",
+    "options": ["30 compresiones - 2 insuflaciones", "15 compresiones - 2 insuflaciones", "Depende del tiempo", "5 compresiones - 1 insuflación"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med3_024",
+    "topic": "Med 3",
+    "text": "Un pasajero que se queja de dolor u opresión retro esternal acompañado de signos vegetativos (mareos, sudoración, palidez...) puede estar padeciendo:",
+    "options": ["Hiperventilación", "Un ataque de histeria", "Una insuficiencia cardiaca u ataque coronario", "Una ulcera de duodeno complicada"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med3_025",
+    "topic": "Med 3",
+    "text": "La maniobra de Heimlich se utiliza:",
+    "options": ["La introducción de sonda vesical", "Como medida de desinfección", "Para la tracción del cuello", "Por obstrucción de cuerpo extraño en la vía aérea"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med3_026",
+    "topic": "Med 3",
+    "text": "Un cuerpo extraño enclavado en la vía aérea puede ser expulsado mediante:",
+    "options": ["La maniobra de Hamstemilich", "Palmadas en el cuello y abdomen", "La maniobra de Heimlich", "La triple maniobra"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med3_027",
+    "topic": "Med 3",
+    "text": "La causa más frecuente de obstrucción de la vía respiratoria en un paciente inconsciente es:",
+    "options": ["La comida", "La mucosidad", "Las prótesis dentales", "La lengua"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med3_028",
+    "topic": "Med 3",
+    "text": "La maniobra de Valsalva:",
+    "options": [
+      "Es igual que la de Heimlich, sólo que en la nariz",
+      "Consiste básicamente en espirar fuertemente por la nariz, estando tapada por los dedos",
+      "Nunca se hará descendiendo",
+      "Sólo se debe hacer ascendiendo"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "med3_029",
+    "topic": "Med 3",
+    "text": "La maniobra de Valsalva debe efectuarse:",
+    "options": ["Durante el descenso", "Durante el ascenso", "Cuando el dolor de oídos sea insoportable", "En el ascenso y en el descenso"],
+    "correctIndex": 3
+  },
+  {
+    "id": "med3_030",
+    "topic": "Med 3",
+    "text": "La trombosis venosa profunda (TVP) es:",
+    "options": ["Una complicación vascular", "Una enfermedad cerebral", "Una enfermedad respiratoria", "Una enfermedad veterinaria"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med3_031",
+    "topic": "Med 3",
+    "text": "La TVP consiste fundamentalmente, en forma de oclusión en la zona venosa profunda y se manifiesta en forma de:",
+    "options": ["Dolor agudo y constante en el punto de oclusión", "Capacidad de movimiento durante un momento prolongado", "Taquicardia con dificultad respiratoria", "Pérdida de consciencia"],
+    "correctIndex": 0
+  },
+  {
+    "id": "med3_032",
+    "topic": "Med 3",
+    "text": "Si un pasajero diabético sufre una crisis de hipoglucemia y se encuentra consciente, tenemos que:",
+    "options": ["Evacuarlo urgentemente", "Suministrarle analgésicos", "Suministrarle agua azucarada", "Ninguna es correcta"],
+    "correctIndex": 2
+  },
+  {
+    "id": "med3_033",
+    "topic": "Med 3",
+    "text": "Ante una crisis de epilepsia, es correcto:",
+    "options": [
+      "Proteger a la persona de golpes",
+      "No tratar de inmovilizarlo",
+      "Si se presentan vómitos, colocar a la persona en posición lateral de seguridad",
+      "Todas son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "med3_034",
+    "topic": "Med 3",
+    "text": "En el caso de tener que atender a un pasajero con una crisis de epilepsia, ¿qué es lo primero que debemos hacer?",
+    "options": [
+      "Intentar reducirle e inmovilizarle",
+      "Intentar que se haga el menor daño posible protegiéndole de los golpes",
+      "No hacer absolutamente nada, solo esperar a que se le pase",
+      "A y B son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "med3_035",
+    "topic": "Med 3",
+    "text": "Señale la respuesta correcta:",
+    "options": [
+      "Jamás se dará de comer o beber a una persona inconsciente por peligro de asfixia",
+      "Dar de beber o comer está especialmente contraindicado en enfermos abdominales",
+      "Se evitará suministrar al paciente toda clase de bebidas alcohólicas o excitantes",
+      "Todas son correctas"
+    ],
+    "correctIndex": 3
+  }
+]

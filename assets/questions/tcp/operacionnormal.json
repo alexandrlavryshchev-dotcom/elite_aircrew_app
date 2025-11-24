@@ -1,0 +1,602 @@
+[
+  {
+    "id": 0,
+    "topic": "Seguridad",
+    "text": "En repostaje de combustible con pasaje a bordo, ¿qué deben hacer los TCP?",
+    "options": [
+      "Se consideran salidas prioritarias las del lado izquierdo y aquellas que tengan acoplado un finger o una escalera. Se armarán las rampas del lado derecho.",
+      "Los TCP permanecerán en su puerta ante una posible evacuación o desalojo.",
+      "Se apagaran las luces de no fumar y cinturones.",
+      "Los TCP permanecerán en su área de responsabilidad ante una posible evacuación o desalojo."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 1,
+    "topic": "Seguridad",
+    "text": "En un vuelo BCN-MAD nos encontramos un ESAN que pesa 9kg, ¿qué se permite?",
+    "options": [
+      "Solo se le permite volar si se le garantiza la plaza adyacente.",
+      "Solo se le permite volar si se le garantiza la plaza adyacente y su destino final es EEUU.",
+      "Solo se le permite volar si se le garantiza la plaza adyacente y su destino final es EEUU y aporta documentación justificativa dentro de un año anterior.",
+      "Siempre y cuando el perro quepa en el regazo del pasajero (hasta 10kg) podrá ser aceptado en cabina sin restricciones mientras cumpla con el resto de la normativa de transporte relativa a este tipo de animales."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 2,
+    "topic": "Seguridad",
+    "text": "Observación de los lavabos y de la cabina de pasaje, ¿con qué frecuencia se realiza?",
+    "options": [
+      "Los lavabos, como norma general, antes y después de cada despegue y aterrizaje, antes y después de cada servicio y cada 30 min. Cabina de pasaje, cada 15 min.",
+      "Los lavabos, como norma general, antes y después de cada despegue y aterrizaje, antes y después de cada servicio y cada 15 min. Cabina de pasaje, cada 30 min.",
+      "Los lavabos, como norma general, antes y después de cada despegue y aterrizaje, antes y después de cada servicio y cada 30 min. Cabina de pasaje, cada 30 min.",
+      "Los lavabos, como norma general, antes y después de cada despegue y aterrizaje, antes y después de cada servicio y cada 15 min. Cabina de pasaje, cada 15 min."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 3,
+    "topic": "Seguridad",
+    "text": "¿Qué significa 'CABIN CREW TAKE YOUR SEATS FOR TAKE OFF'?",
+    "options": [
+      "Los TCP han de entender este aviso como una alerta de posible emergencia en el despegue",
+      "Podremos terminar tareas comerciales pues tenemos 30 segundos como mínimo antes del despegue",
+      "No interrumpiremos la cabina estéril ni por temas de seguridad",
+      "Los TCP han de entender este aviso como obligación de sentarse en el puesto que tengan asignado y abrocharse el atalaje de seguridad completo"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 4,
+    "topic": "Seguridad",
+    "text": "Parte de Cabina de Pasajeros (Cabin Log Book), ¿quién lo cumplimenta?",
+    "options": [
+      "Lo cumplimentará el TCP que detecte la anormalidad y lo firmará el comandante",
+      "Lo cumplimentará mantenimiento y lo firmará el comandante",
+      "Lo cumplimentará el sobrecargo y lo firmará el comandante",
+      "Lo cumplimentará el sobrecargo y lo firmará mantenimiento"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 5,
+    "topic": "Seguridad",
+    "text": "¿Quién se puede considerar como pasajero capaz de asistir a un SCP?",
+    "options": [
+      "Un pasajero mayor de 18 años",
+      "Un pasajero mayor de 16 años",
+      "Un pasajero que no es SCP y no tiene otro rol o responsabilidad privada que evite que asista al SCP",
+      "El pasajero que esté sentado junto al SCP"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 6,
+    "topic": "Seguridad",
+    "text": "¿Qué es obligatorio que lleven los perros, tanto SVAN como ESAN, para su transporte en cabina?",
+    "options": [
+      "Bozal",
+      "Correa/arnés",
+      "Tiene que ir dentro de un transportín para animales",
+      "No es obligatorio que lleven ningún sistema de retención"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 7,
+    "topic": "Seguridad",
+    "text": "¿Qué haremos en caso de encontrar un asiento de un TCP requerido inoperativo?",
+    "options": [
+      "Usar el transportin más cercano",
+      "Sentarnos en el asiento más cercano de cabina de pasaje siempre bajo el consentimiento del comandante",
+      "Se podrá usar el asiento de pasajeros siguiendo las instrucciones de la MEL",
+      "Se podrá usar un asiento en la salida sobre los planos siempre que sea asiento de pasillo."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 8,
+    "topic": "Seguridad",
+    "text": "¿En qué momento deben hacer uso de los atalajes de seguridad completos los TCP?",
+    "options": [
+      "Siempre que se encienda la señal de cinturones",
+      "Durante las guardias, mientras no estén realizando el chequeo de seguridad en la cabina",
+      "Exclusivamente para despegues y aterrizajes",
+      "Durante los rodajes de salida y llegada, una vez asegurada la cabina, en las maniobras de despegue y aterrizaje y en cualquier momento que lo decida el comandante."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 9,
+    "topic": "Seguridad",
+    "text": "¿Qué debemos hacer si durante los chequeos prevuelo encontramos algún equipo que no está situado donde debiera?",
+    "options": [
+      "Deberemos colocarlo en el lugar que tuviera asignado.",
+      "Avisar a mantenimiento para que lo retire.",
+      "Dejarlo donde está, siempre y cuando la dotación total que debe ir en el avión esté completa.",
+      "Anotarlo en la Lista de Comprobación de Equipos de Emergencia y Supervivencia."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 10,
+    "topic": "Seguridad",
+    "text": "¿Qué debemos hacer si la señal de cinturones permanece encendida durante un tiempo prolongado?",
+    "options": [
+      "Avisar a Cockpit para que las apaguen.",
+      "Efectuar avisos recordatorios cada 15 minutos como máximo.",
+      "Bloquear los baños para impedir su uso.",
+      "Interrumpir el servicio, sentarnos y hacer uso del atalaje de seguridad completo."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 11,
+    "topic": "Seguridad",
+    "text": "Por encima de 10.000ft, aproximadamente 15 minutos antes del aterrizaje, el PM anunciará: 'CABIN CREW SECURE CABIN FOR LANDING'. ¿Cuál será la actuación de la tripulación?",
+    "options": [
+      "El sobrecargo pulsará CABIN READY inmediatamente y la tripulación de vuelo comprobará la presencia del mensaje CABIN READY en el ECAM.",
+      "Todos los TCP ocuparán el puesto que tiene asignado y se abrocharán el atalaje de seguridad cuanto antes.",
+      "Una vez recibido el aviso, el sobrecargo solo contactará con la cabina de vuelo si hay algún problema que impida que la cabina de pasaje esté preparada para el aterrizaje. Se procederá a asegurar la cabina de pasaje. La ausencia de comunicación al respecto implica que la cabina de pasaje está lista para el aterrizaje 10 minutos antes de la toma.",
+      "Se amortiguarán las luces de cabina de pasaje y se apagarán las luces de lectura."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 12,
+    "topic": "Seguridad",
+    "text": "El briefing de seguridad y salvamento es el nexo de unión entre todos los tripulantes y debe realizarse:",
+    "options": [
+      "En el primer vuelo del día o cuando haya cambio de parte de la tripulación o de tipo de avión.",
+      "Antes de cada sector y entregar firmada la lista de comprobación de equipos de emergencia.",
+      "En el primer vuelo del día únicamente.",
+      "No es obligatorio, pero si muy recomendable."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 13,
+    "topic": "Seguridad",
+    "text": "El número de pasajeros de categorías especiales (SCP) no excederá de:",
+    "options": [
+      "Del 10% de la capacidad total del avión.",
+      "De la mitad del número de puertas a nivel del suelo.",
+      "Del número de pasajeros capaces de asistirlos en caso de evacuación de emergencia.",
+      "Del número de tripulantes en exceso de la tripulación mínima requerida."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 14,
+    "topic": "Seguridad",
+    "text": "¿Cuántos menores no acompañados de entre 5 años cumplidos y 12 años no cumplidos en la fecha del vuelo podemos llevar?",
+    "options": [
+      "Un máximo de 6 menores.",
+      "No existe limitación.",
+      "Un máximo de 10 menores.",
+      "El 10% de la capacidad del avión"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 15,
+    "topic": "Seguridad",
+    "text": "Durante la preparación de cabina para el despegue, ¿cómo deben estar las persianas de las ventanillas de los pasajeros?",
+    "options": [
+      "Abiertas.",
+      "No hay que chequear las persianas de las ventanillas de los pasajeros.",
+      "Cerradas.",
+      "Deben ir abiertas las persianas de las filas situadas en las salidas de emergencia."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 16,
+    "topic": "Seguridad",
+    "text": "Durante el chequeo prevuelo, ¿qué debemos comprobar en los aseos?",
+    "options": [
+      "Pegatina o manómetro del extintor y el flush del inodoro.",
+      "Extintor y pegatina/manómetro, que el agua caliente sale a temperatura normal, tapa retráctil (flapper) cerrada y puerta del contenedor de desperdicios cerrada.",
+      "Extintor y pegatina/manómetro, buen estado del detector de humo y luces.",
+      "Buen estado general."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 17,
+    "topic": "Seguridad",
+    "text": "No se pueden consumir somníferos:",
+    "options": [
+      "6 horas antes del vuelo.",
+      "8 horas antes del vuelo.",
+      "12 horas antes del vuelo.",
+      "24 horas antes del vuelo."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 18,
+    "topic": "Seguridad",
+    "text": "¿Cuánto tiempo es recomendable que transcurra antes de volar si se ha realizado buceo recreativo?",
+    "options": [
+      "12 horas.",
+      "24 horas.",
+      "48 horas.",
+      "No hay restricción"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 19,
+    "topic": "Seguridad",
+    "text": "El sobrecargo informará al resto de TCP del comienzo y finalización del procedimiento de repostado de combustible:",
+    "options": [
+      "No es necesario con presencia de bomberos.",
+      "Siempre.",
+      "Se lo comunicará a un TCP y este, al resto.",
+      "Solo informará de la finalización del procedimiento."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 20,
+    "topic": "Seguridad",
+    "text": "El código BLND significa:",
+    "options": [
+      "Que el pasajero es invidente.",
+      "Este código no existe.",
+      "Que el pasajero necesita una dieta blanda.",
+      "Que el pasajero conecta a su llegada a un destino cuyo código es BLND."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 21,
+    "topic": "Seguridad",
+    "text": "Las mujeres embarazadas presentarán un certificado médico, expedido en los últimos 7 días previos a la fecha del vuelo:",
+    "options": [
+      "A partir de la semana 36 de gestación.",
+      "En todos los casos.",
+      "Nunca es necesario.",
+      "A partir de la semana 28 de gestación hasta la 35."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 22,
+    "topic": "Seguridad",
+    "text": "¿Qué es un YP?",
+    "options": [
+      "Un menor de 18 años.",
+      "Un menor de 15 años.",
+      "Una persona entre 12 y 17 años que viaja sin acompañante y ha solicitado el servicio de UM.",
+      "Un pasajero de turista."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 23,
+    "topic": "Seguridad",
+    "text": "¿Qué diferencia existe entre un DEPU y un DEPA?",
+    "options": [
+      "Los DEPU viajan con escolta y los DEPA no.",
+      "Los DEPA viajan con escolta y los DEPU no.",
+      "No hay diferencia. Ambos viajan sin escolta.",
+      "El comandante decide quienes viajan con o sin escolta, dependiendo de su peligrosidad."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 24,
+    "topic": "Seguridad",
+    "text": "Una vez finalizadas las instrucciones al pasaje y efectuada la última comprobación de seguridad, ¿cómo se dará el aviso de cabina lista?",
+    "options": [
+      "El sobrecargo dará el aviso de cabina lista al comandante (que a su vez implicará rampas armadas), pulsando CABIN READY (o mediante interfono si está inoperativo CABIN READY).",
+      "No es necesario dar la cabina asegurada puesto que existe el callout 'CABIN CREW:TAKE YOUR SEATS FOR TAKE OFF'.",
+      "En despegue, el aviso de cabina lista es tácito al igual que en el aterrizaje.",
+      "En despegue, el aviso de cabina lista se da solo si la pastilla de CABIN READY del FAP está operativa."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 25,
+    "topic": "Seguridad",
+    "text": "A la hora de chequear los equipos de emergencia durante las tareas prevuelo, ¿qué utilizarán los TCP?",
+    "options": [
+      "El documento 9032, que se encuentra en cabina de vuelo.",
+      "El manual de operaciones, parte B.",
+      "El manual de operaciones, parte A.",
+      "Las lista de comprobación de TCP, que se encuentran en cada puesto estándar de TCP."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 26,
+    "topic": "Seguridad",
+    "text": "¿Qué persona se considera apropiada para ir sentado junto a una salida de emergencia?",
+    "options": [
+      "Quien haya pagado un extra en su tarifa por ir ahí sentado.",
+      "Cualquier persona mayor de 15 años.",
+      "Quien a juicio del TCP encargado de esa zona tenga las capacidades físicas adecuadas para facilitar una rápida evacuación, siendo la edad mínima de 15 años.",
+      "Cualquier persona mayor de 18 años y sin otra responsabilidad a bordo."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 27,
+    "topic": "Seguridad",
+    "text": "En repostado de combustible con pasajeros a bordo, ¿cómo deben estar las puertas sin escalera o pasarela?",
+    "options": [
+      "Cerradas y desarmadas.",
+      "Armadas.",
+      "Abiertas.",
+      "Blocadas."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 28,
+    "topic": "Seguridad",
+    "text": "¿Qué acciones de seguridad y salvamento deberán realizar los TCP de memoria?",
+    "options": [
+      "Ninguna.",
+      "Solo las de fuego.",
+      "Despresurización rápida, fuego y evacuación.",
+      "Solo evacuación."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 29,
+    "topic": "Seguridad",
+    "text": "¿Quién es el encargado de comprobar que se encuentra a bordo antes del vuelo las listas de comprobación de los equipos de emergencia y supervivencia actualizadas, los ESS y los trípticos de comprobación de emergencias y preparación de cabina de pasaje en todos los puestos?",
+    "options": [
+      "El comandante.",
+      "El sobrecargo.",
+      "Cada TCP es responsable de la documentación del puesto que ocupa.",
+      "El personal de limpieza, puesto que es el que cada noche revisa y repone dicha documentación."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 30,
+    "topic": "Seguridad",
+    "text": "¿Cómo estarán las puertas de los lavabos en despegues y aterrizajes?",
+    "options": [
+      "No tiene importancia cómo se encuentren.",
+      "Cerradas y blocadas.",
+      "Abiertas.",
+      "Cerradas, pero sin blocar."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 31,
+    "topic": "Seguridad",
+    "text": "¿Es obligatorio ponerse en contacto con la cabina de vuelo cuando aparezca la luz de cinturones?",
+    "options": [
+      "No",
+      "Sí",
+      "Dependiendo de la intensidad de la turbulencia.",
+      "Según lo que nos haya informado el comandante en el briefing."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 32,
+    "topic": "Seguridad",
+    "text": "¿Cuáles son las butacas específicas para pasajeros no ambulatorios (WCHC)?",
+    "options": [
+      "Los asientos centrales.",
+      "Los asientos de pasillo.",
+      "Los asientos de salida de emergencia o adyacente.",
+      "Son los que disponen de brazos abatibles y que no están ni en salida de emergencia ni adyacente a la misma."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 33,
+    "topic": "Seguridad",
+    "text": "Se considera cabina estéril:",
+    "options": [
+      "En el despegue, desde el cierre de puertas y en el aterrizaje, hasta la apertura de estas.",
+      "En el despegue, desde el comienzo del rodaje de salida hasta el apagado de las señales de CINTURONES (FSB) y en el aterrizaje desde que se encienden las señales FSB hasta la salida de la pista de aterrizaje.",
+      "En el despegue, desde el comienzo del rodaje de salida hasta 5 minutos después del despegue y en el aterrizaje, desde que se encienden las señales de FSB hasta la llegada del avión al aparcamiento.",
+      "En el despegue, desde que se cierra la puerta de cabina de vuelo hasta el apagado de las señales de FSB y en el aterrizaje, desde que oímos 'CABIN CREW, PREPARE CABIN FOR LANDING' hasta que nos autorizan a abrir las puertas del avión."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 34,
+    "topic": "Seguridad",
+    "text": "¿Cuándo se debe realizar la demostración acerca de la situación y uso de las máscaras de oxígeno?",
+    "options": [
+      "Se realizará siempre que la altitud programada del vuelo sea superior a 25.000ft.",
+      "Se realizará obligatoriamente en tierra.",
+      "No es necesario realizarla.",
+      "Se realizará siempre que el vuelo tenga una duración superior a 2 horas."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 35,
+    "topic": "Seguridad",
+    "text": "¿Qué significa DPNA?",
+    "options": [
+      "Pasajero deportado no acompañado.",
+      "Pasajero discapacitado, con su capacidad mental o intelectual disminuida, y que por ello necesita asistencia, especificando detalles (Alzheimer, etc.)",
+      "Pasajero que viene en conexión de Pamplona.",
+      "Pasajero en camilla."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 36,
+    "topic": "Seguridad",
+    "text": "Los TCP en fase de familiarización son:",
+    "options": [
+      "Aquellos TCP que están recibiendo un entrenamiento inicial.",
+      "Aquellos TCP que no han concluido aún el entrenamiento de conversión del operador, pero tienen certificado de tripulante y por lo tanto forman parte de la tripulación mínima requerida.",
+      "Aquellos TCP que son parte de la tripulación mínima requerida.",
+      "Aquellos TCP que no han concluido aún el entrenamiento de conversión del operador y específico del tipo de avión y que van en exceso sobre el número mínimo de tripulantes de cabina requeridos."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 37,
+    "topic": "Seguridad",
+    "text": "¿Cuál de los siguientes animales pueden viajar en cabina de pasaje sin tener en cuenta restricciones de peso ni separación de filas?",
+    "options": [
+      "Perros de asistencia (SVAN).",
+      "Perros de rescate (SVAN).",
+      "Perros de apoyo emocional (ESAN).",
+      "Dos animales de la misma camada viajando en un mismo contenedor."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 38,
+    "topic": "Seguridad",
+    "text": "Los tripulantes no podrán:",
+    "options": [
+      "Iniciar un periodo de actividad aérea con un nivel de alcohol en sangre de más de 0,2 por mil.",
+      "Iniciar un periodo de actividad aérea con un nivel de alcohol en sangre de más de 0,5 por mil.",
+      "Consumir bebidas alcohólicas durante las 9 horas anteriores a la hora de presentación de un periodo de imaginaria.",
+      "Consumir bebidas alcohólicas durante las 9 horas anteriores a la hora de presentación para la actividad aérea."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 39,
+    "topic": "Seguridad",
+    "text": "¿Dónde viajará un animal de apoyo emocional de 22kg?",
+    "options": [
+      "En cabina de pasaje si cabe en el regazo del pasajero.",
+      "En cabina de pasaje siempre que haya una butaca libre adyacente.",
+      "A los pies del pasajero.",
+      "En bodega y sin coste adicional."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 40,
+    "topic": "Seguridad",
+    "text": "¿Cuántos INAD podrán ser aceptados en un vuelo?",
+    "options": [
+      "Podrán aceptarse un máximo de 3, hasta cinco si son familia.",
+      "Podrán aceptarse un máximo de dos pasajeros por vuelo con dos escoltas cada uno.",
+      "No existe limitación salvo si se presume peligrosidad, que podrán aceptarse un máximo de dos pasajeros por vuelo con dos escoltas cada uno.",
+      "Niños no existe ningún tipo de limitación."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 41,
+    "topic": "Seguridad",
+    "text": "Los TCP se asegurarán de que los pasajeros de categorías especiales han leído y comprendido el díptico entregado al acceder al avión:",
+    "options": [
+      "Antes de dar lista la cabina.",
+      "Antes del cierre de puertas.",
+      "Antes del pushback.",
+      "Antes de escuchar el callout 'ATT CREW AT STATIONS' (X2)."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 42,
+    "topic": "Seguridad",
+    "text": "No se operará un avión presurizado a altitud de presión por encima de 10.000ft a no ser que disponga de uno de estos equipos:",
+    "options": [
+      "Oxígeno de protección.",
+      "Oxígeno suplementario.",
+      "Oxígeno de primera ayuda.",
+      "Oxígeno a demanda 100%."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 43,
+    "topic": "Seguridad",
+    "text": "¿Para qué porcentaje de pasaje hace falta oxígeno de primera ayuda después de una despresurización?",
+    "options": [
+      "20% de los pasajeros transportados.",
+      "5% de los pasajeros transportados.",
+      "2% de los pasajeros transportados.",
+      "100% de los pasajeros transportados."
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": 44,
+    "topic": "Seguridad",
+    "text": "Cuando sea necesario reducir el número de pasajeros a bordo por tener una tripulación de cabina de pasaje inferior a la mínima requerida:",
+    "options": [
+      "Se reducirá el número de pasajeros a criterio del comandante.",
+      "Si es necesario, se reducirá el número de pasajeros para mantener la proporción máxima de 50 pasajeros por cada TCP requerido que se encuentre a bordo.",
+      "Se reducirá el número de pasajeros en función de la certificación del avión.",
+      "Se reducirá el número de pasajeros a criterio del jefe de día."
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": 45,
+    "topic": "Seguridad",
+    "text": "¿Bajo qué circunstancias está permitido el reset de C/B por parte de los TCP?",
+    "options": [
+      "Siempre y cuando se haga con el avión en tierra.",
+      "Los TCP no harán el reset de ningún C/B.",
+      "En caso de fuego/humo en el galley donde se encuentran los C/B unas vez extinguido.",
+      "En tierra, bajo supervisión de los servicios de mantenimiento."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 46,
+    "topic": "Seguridad",
+    "text": "En caso de avería en el PA, ¿cómo se dará el aviso de 'CABIN CREW: TAKE YOUR SEATS FOR TAKE OFF'?",
+    "options": [
+      "Mediante el apagado/encendido de los letreros de NS (o prohibición de uso de PED), repetido dos veces.",
+      "Mediante el apagado/encendido de los letreros de FSB, repetido dos veces.",
+      "Mediante el apagado/encendido de los letreros de NS y FSB repetido dos veces.",
+      "Mediante el apagado/encendido de los letreros NS (o prohibición de uso de PED), repetido dos veces, después de haber informado al sobrecargo de esta circunstancia."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 47,
+    "topic": "Seguridad",
+    "text": "¿Cuántos menores de 5 años no acompañados (UM) podrán ser aceptados para volar?",
+    "options": [
+      "6 por avión.",
+      "No hay limitación.",
+      "Ninguno (N/A).",
+      "Se recomienda que el número no exceda al de los menores no acompañados entre 5 y 12 años."
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": 48,
+    "topic": "Seguridad",
+    "text": "Se negará o se dejará de servir bebidas alcohólicas:",
+    "options": [
+      "Cuando sean solicitadas fuera de los tiempos de servicio establecidos para ese vuelo.",
+      "Cuando el sobrecargo entienda que los pasajeros que las están consumiendo puedan suponer una amenaza a la seguridad del vuelo.",
+      "Exclusivamente en clase turista y a aquellos pasajeros que estén amenazando las seguridad del vuelo.",
+      "Con la autorización del comandante no se servirá alcohol a los pasajeros que puedan afectar a la seguridad y al orden en la cabina de pasaje."
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": 49,
+    "topic": "Seguridad",
+    "text": "En caso de evacuación no preparada, ¿cuándo asistiremos a un SCP?",
+    "options": [
+      "En primer lugar, para preservar la intimidad de este tipo de pasajeros.",
+      "Esperaremos a que sea asistido por un PSP y si no es así, acudiremos a asistirlo lo antes posible para evitar que obstaculice la evacuación.",
+      "Solamente podremos asistirlo una vez que la cabina haya sido evacuada. Y así se lo haremos saber al SCP.",
+      "No será necesario asistirlo puesto que ya lo hará su acompañante."
+    ],
+    "correctIndex": 1
+  }
+]

@@ -22,7 +22,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
   var _currentUser;
 
   final List<TestCategory> _mainCategories = [
-    // ✅ Examen Oficial AESA
+    // ✅ Examen Oficial TIPO AESA
     TestCategory(
       id: 'aesa_exam',
       title: 'Prueba de Certificacion',
@@ -304,6 +304,99 @@ class _DashboardScreenState extends State<DashboardScreen> {
       subcategories: [
         TestCategory(
           id: 'ctga',
+          title: 'Elite Aircrew FUE',
+          icon: 'airplanemode_active_rounded',
+          questionAssetPath: 'assets/questions/tcp/FUE.json',
+          description: '',
+        ),
+        TestCategory(
+          id: 'ctga',
+          title: 'Elite Aircrew MED',
+          icon: 'airplanemode_active_rounded',
+          subcategories: [
+            TestCategory(
+              id: 'med_1',
+              title: 'MED 1',
+              questionAssetPath: 'assets/questions/tcp/med1.json',
+              description: '',
+              icon: '',
+            ),
+            TestCategory(
+              id: 'med_2',
+              title: 'MED 2',
+              questionAssetPath: 'assets/questions/tcp/med2.json',
+              description: '',
+              icon: '',
+            ),
+            TestCategory(
+              id: 'med_3',
+              title: 'MED 3',
+              questionAssetPath: 'assets/questions/tcp/med3.json',
+              description: '',
+              icon: '',
+            ),
+          ], description: '',
+        ),
+
+        TestCategory(
+          id: 'ctga_one',
+          title: 'Elite Aircrew ONE',
+          icon: 'airplanemode_active_rounded',
+          subcategories: [
+            TestCategory(
+              id: 'one_1',
+              title: 'ONE ',
+              questionAssetPath: 'assets/questions/tcp/ONE.json',
+              description: '',
+              icon: '',
+            ),
+            TestCategory(
+              id: 'one_2',
+              title: 'ONE 1',
+              questionAssetPath: 'assets/questions/tcp/ONE1.json',
+              description: '',
+              icon: '',
+            ),
+            TestCategory(
+              id: 'one_3',
+              title: 'ONE 2',
+              questionAssetPath: 'assets/questions/tcp/ONE2.json',
+              description: '',
+              icon: '',
+            ),
+            TestCategory(
+              id: 'one_4',
+              title: 'ONE 3',
+              questionAssetPath: 'assets/questions/tcp/ONE3.json',
+              description: '',
+              icon: '',
+            ),
+            TestCategory(
+              id: 'one_5',
+              title: 'Material Emergencia',
+              questionAssetPath: 'assets/questions/tcp/materialemergencia.json',
+              description: '',
+              icon: '',
+            ),
+            TestCategory(
+              id: 'one_6',
+              title: 'Operacion Emergencia',
+              questionAssetPath: 'assets/questions/tcp/operacionemergencia.json',
+              description: '',
+              icon: '',
+            ),
+            TestCategory(
+              id: 'one_7',
+              title: 'Operacion Normal',
+              questionAssetPath: 'assets/questions/tcp/operacionnormal.json',
+              description: '',
+              icon: '',
+            ),
+          ], description: '',
+        ),
+
+        TestCategory(
+          id: 'ctga',
           title: 'Conocimientos teóricos generales de aviación',
           icon: 'airplanemode_active_rounded',
           questionAssetPath: 'assets/questions/tcp/conocimientos_teoricos.json',
@@ -410,14 +503,14 @@ class _DashboardScreenState extends State<DashboardScreen> {
       subcategories: [
         TestCategory(
           id: 'manual_pdf1',
-          title: 'Módulo Técnico de Operaciones',
+          title: 'Módulo Técnico de Operaciones Aeroportuarias I',
           icon: 'picture_as_pdf_rounded',
           pdfPath: 'assets/manual/pdf1.pdf',
           description: '',
         ),
         TestCategory(
           id: 'manual_pdf2',
-          title: 'Módulo Técnico de Operaciones Aeroportuarias',
+          title: 'Módulo Técnico de Operaciones Aeroportuarias II',
           icon: 'picture_as_pdf_rounded',
           pdfPath: 'assets/manual/pdf2.pdf',
           description: '',
@@ -427,7 +520,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
 // ✅ Nuevo manual con 3 PDFs
     TestCategory(
       id: 'MANUALES TCP',
-      title: 'MANUALES TCP',
+      title: 'Manuales TCP',
       description: 'Impulsa tu futuro como tripulante de cabina',
       icon: 'menu_book_rounded',
       subcategories: [
@@ -456,7 +549,7 @@ class _DashboardScreenState extends State<DashboardScreen> {
     ),
     TestCategory(
       id: 'material_clase',
-      title: 'MATERIAL CLASE',
+      title: 'Material Clase',
       description: 'El contenido perfecto para fortalecer tu formacion',
       icon: 'menu_book_rounded',
       subcategories: [

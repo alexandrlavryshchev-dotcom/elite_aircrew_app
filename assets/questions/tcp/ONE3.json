@@ -1,0 +1,357 @@
+[
+  {
+    "id": "tcp_031",
+    "topic": "Seguridad",
+    "text": "Las mascarillas de oxígeno de presentación automática saltan cuando la altitud de presión de cabina alcanza unos _______ pies, y cada pasajero deberá disponer de una máscara si el vuelo se efectúa por encima de _______ pies",
+    "options": ["20000ft - 25000ft", "14000ft - 25000ft", "14000ft - 30000ft", "10000ft - 25000ft"],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_032",
+    "topic": "Seguridad",
+    "text": "El equipo de respiración de protección en caso de fuego/humo puede ser:",
+    "options": [
+      "El oxígeno del sistema fijo y también el oxígeno de primeros auxilios",
+      "El oxígeno del primeros auxilios o Smoke Hood",
+      "Oxígeno del sistema fijo y Smoke Hood",
+      "Botella de O2 con Full-Face o Smoke Hood"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_033",
+    "topic": "Seguridad",
+    "text": "De producirse fuego en la cabina de pasajeros, éste debe ser atacado por:",
+    "options": ["Por el TCP más antiguo", "Por el Sobrecargo", "Por el Tripulante de mayores aptitudes", "Por el primer TCP que lo vea"],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_034",
+    "topic": "Seguridad",
+    "text": "¿Qué es lo primero que debe hacer un TCP cuando detecta humo en el horno?",
+    "options": [
+      "Cerrar puertas y desconectar todos los circuitos eléctricos afectados",
+      "Atacar con el extintor",
+      "No pasa nada porque el horno tiene un extintor automático",
+      "Decírselo al Sobrecargo para que avise al Comandante"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_035",
+    "topic": "Seguridad",
+    "text": "¿Con qué sistema de emergencia asociarías las siglas BCF?",
+    "options": [
+      "Sistema de oxígeno de emergencia",
+      "Sistema de extinción de incendios",
+      "Sistema de despresurización y aire acondicionado",
+      "Sistema eléctrico"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_036",
+    "topic": "Seguridad",
+    "text": "¿Qué es lo primero que debe hacer el TCP al detectar un fuego en el aire acondicionado?",
+    "options": ["Nada", "Vigilar", "Avisar", "Ponerse la máscara Full-Face"],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_037",
+    "topic": "Seguridad",
+    "text": "El extintor conocido como BCF contiene:",
+    "options": ["Polvo químico", "Hidrocarburos halogenados", "Agua", "CO2"],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_038",
+    "topic": "Seguridad",
+    "text": "Según la norma europea, los fuegos de Clase A son:",
+    "options": ["Combustibles sólidos", "Fuegos secos", "Gases inflamables", "Líquidos inflamables"],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_039",
+    "topic": "Seguridad",
+    "text": "Según la norma europea, los fuegos de clase C son:",
+    "options": ["Combustibles sólidos", "Fuegos con riesgo eléctrico", "Gases inflamables", "Líquidos inflamables"],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_040",
+    "topic": "Seguridad",
+    "text": "Según la norma europea, los fuegos de clase E son:",
+    "options": [
+      "Fuegos sobre metales combustibles",
+      "Líquidos inflamables",
+      "Sólidos inflamables",
+      "Fuegos de clase A, B, C y D con riesgo eléctrico"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_041",
+    "topic": "Seguridad",
+    "text": "¿Qué es una ELT?",
+    "options": [
+      "Una capucha antihumo",
+      "Un sistema de alarma de evacuación",
+      "Un transmisor de localización",
+      "Un medio de evacuación"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_042",
+    "topic": "Seguridad",
+    "text": "¿Qué significan las siglas ELT?",
+    "options": [
+      "Transmisor de localización de emergencia",
+      "Hora local a la que se produjo la emergencia o incidente",
+      "Luz específica en el panel de avisos del Sobrecargo que significa emergencia o actuación rápida",
+      "Ninguna es correcta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_043",
+    "topic": "Seguridad",
+    "text": "Una de las frecuencias de la radiobaliza es de:",
+    "options": ["120.5 Mhz", "121.5 Mhz", "122.5 Mhz", "125.5 Mhz"],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_044",
+    "topic": "Seguridad",
+    "text": "La incapacitación de un piloto en la fase de aterrizaje puede suponer:",
+    "options": [
+      "No poder aterrizar hasta que haya recuperado el conocimiento",
+      "Irse al aire de nuevo, entrar en espera y solicitar un médico",
+      "Que un TCP sea requerido por el piloto que vuela el avión para que le lea las checklist",
+      "Requerir ayuda vía radio y que nos digan qué hacer"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_045",
+    "topic": "Seguridad",
+    "text": "Después de un aterrizaje forzoso en tierra, ¿cuál es el mayor peligro del que debemos proteger a los supervivientes?",
+    "options": [
+      "Peligro de frío en zonas árticas",
+      "Peligro de insolación en el desierto",
+      "Peligro de incendio de la aeronave",
+      "Una vez detenido el avión ya no hay peligro"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_046",
+    "topic": "Seguridad",
+    "text": "Tras realizar una evacuación de emergencia y observar que no se ha producido un incendio ni explosión, ¿dónde deberemos permanecer?",
+    "options": ["Lejos de los restos del avión", "Cerca de los restos del avión", "Escondidos", "En un lugar con sombra"],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_047",
+    "topic": "Seguridad",
+    "text": "¿Es aconsejable alejarse del lugar de un aterrizaje forzoso en zona deshabitada después de la evacuación?",
+    "options": [
+      "Es aconsejable dirigirse a un lugar que se presuma habitado",
+      "Es aconsejable dirigirse siempre hacia el sur",
+      "No es aconsejable, salvo en zonas forestales, buscar un claro del bosque",
+      "Ninguna es correcta"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_048",
+    "topic": "Seguridad",
+    "text": "El éxito de la mayor parte de los salvamentos en zonas deshabitadas se debió a que las tripulaciones y pasajeros permanecieron cerca de la aeronave siniestrada.",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_049",
+    "topic": "Seguridad",
+    "text": "Entre las señales visuales que pueden utilizar los supervivientes de un accidente, la V significa:",
+    "options": ["Necesitamos ayuda médica", "Estamos todos bien", "Necesitamos ayuda", "Necesitamos ayuda alimenticia"],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_050",
+    "topic": "Seguridad",
+    "text": "Entre las señales visuales, la Y significa:",
+    "options": ["Necesitamos ayuda médica", "Sí, afirmativo", "Necesitamos ayuda", "No, negativo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_051",
+    "topic": "Seguridad",
+    "text": "¿Qué longitud, como mínimo, deben tener las señales tierra-aire para ser efectivas?",
+    "options": ["Cualquier tamaño es efectivo", "10 m como mínimo", "18 m como mínimo", "Símbolos no inferiores a 2,5 m"],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_052",
+    "topic": "Seguridad",
+    "text": "Algunas señales ópticas son:",
+    "options": ["Bengalas, fluoresceína y paineles", "Lanzador de bengalas y silbato", "Linternas, heliógrafos y megáfonos", "Radiobalizas y pistola de señales"],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_053",
+    "topic": "Seguridad",
+    "text": "Las bengalas son fundamentalmente un elemento para la producción de:",
+    "options": ["Señales luminosas", "Señales acústicas", "Señales auditivas", "Señales codificadas"],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_054",
+    "topic": "Seguridad",
+    "text": "¿Cuándo se deben utilizar las bengalas día/noche?",
+    "options": [
+      "Inmediatamente después de activar las balizas de emergencias",
+      "Solo durante el periodo nocturno",
+      "Cuando se presuma que pueden ser percibidas",
+      "Siempre que el sol no esté muy alto"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_055",
+    "topic": "Seguridad",
+    "text": "¿Hacia dónde debemos apuntar la pistola de señales antes de apretar el gatillo?",
+    "options": ["Horizontalmente", "Formando un ángulo de 40º con la horizontal", "Verticalmente, hacia arriba", "Da igual hacia dónde, lo importante es lanzar la señal"],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_056",
+    "topic": "Seguridad",
+    "text": "¿Qué fuente de energía se utiliza para activar el espejo de señales?",
+    "options": ["Una batería que lleva el propio espejo", "El sistema eléctrico del avión", "Una batería solar", "Cualquier foco luminoso: sol, llama, etc"],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_057",
+    "topic": "Seguridad",
+    "text": "Al utilizar el término 'heliógrafo' nos estamos refiriendo a:",
+    "options": ["Un tipo específico de radiobaliza de localización", "Un dispositivo para dispensar la fluoresceína", "Un espejo de señales", "Un silbato de alta intensidad"],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_058",
+    "topic": "Seguridad",
+    "text": "¿Qué código utiliza el heliógrafo o espejo de señales?",
+    "options": ["El código griego", "El braille", "El morse", "Ninguna es correcta"],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_059",
+    "topic": "Seguridad",
+    "text": "¿Con qué otro nombre se conoce la bolsa de fluoresceína?",
+    "options": ["Sea Dye Marker", "Radiobaliza", "Smoke Marker", "Paineles marítimos"],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_060",
+    "topic": "Seguridad",
+    "text": "¿Cómo se envía la señal SOS con linterna de noche en las balsas?",
+    "options": [
+      "3 destellos cortos, 2 largos, 3 cortos",
+      "3 destellos cortos, 3 largos, 3 cortos",
+      "2 destellos cortos, 3 largos, 2 cortos",
+      "3 destellos cortos, 2 largos, 1 corto"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_061",
+    "topic": "Seguridad",
+    "text": "Para hacer fuego que produzca humo negro con el fin de identificarnos, utilizaremos:",
+    "options": ["Un neumático", "Ramas de árbol verde", "Los detritus del monte", "Papel"],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_062",
+    "topic": "Seguridad",
+    "text": "¿Cuál de las siguientes medidas se consideran adecuadas y recomendadas para reducir el consumo de agua del cuerpo humano?",
+    "options": ["Evitar la transpiración", "Tomar tabletas antimareo", "Recoger agua y líquidos potables", "Todas son ciertas"],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_063",
+    "topic": "Seguridad",
+    "text": "Desde el punto de vista de la alimentación, en situación de supervivencia, el agua es lo más importante",
+    "options": ["Verdadero", "Falso"],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_064",
+    "topic": "Seguridad",
+    "text": "¿Qué debemos hacer con el agua que encontremos en estado natural antes de beberla?",
+    "options": ["Beberla directamente", "Purificarla, con medios químicos o hervirla", "No beberemos bajo ningún concepto", "Ninguna es correcta"],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_065",
+    "topic": "Seguridad",
+    "text": "Si estamos en situación de supervivencia, se debe procurar NO beber:",
+    "options": ["Agua de lluvia", "Bebidas calientes", "Bebidas alcohólicas", "Bebidas carbónicas"],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_066",
+    "topic": "Seguridad",
+    "text": "Las normas de supervivencia en el desierto aconsejan que si se tiene que viajar en busca de ayuda se haga:",
+    "options": [
+      "Durante el día",
+      "Durante las primeras y últimas horas del día y durante la noche",
+      "Durante todo el día y la noche",
+      "Nunca"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_067",
+    "topic": "Seguridad",
+    "text": "En caso de congelación, debemos:",
+    "options": [
+      "Consumir grandes cantidades de alcohol",
+      "Sumergir en agua hirviendo las partes congeladas",
+      "Envolver la parte congelada con una manta o ropa y aplicar calor por fuera",
+      "Todas son correctas"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_068",
+    "topic": "Seguridad",
+    "text": "El primer factor de supervivencia a considerar en zonas frías es:",
+    "options": ["El viento aumenta el frío", "Mantenerse con ropa ajustada al cuerpo", "Restregarse nieve en los miembros congelados", "Beber mucho alcohol"],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_069",
+    "topic": "Seguridad",
+    "text": "Los factores que debemos afrontar en supervivencia por su orden de gravedad son:",
+    "options": [
+      "Hambre, frío, miedo y sed",
+      "Frío, sed, hambre y miedo",
+      "Frío, miedo, sed y hambre",
+      "Miedo, frío, sed y hambre"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_070",
+    "topic": "Seguridad",
+    "text": "¿Cuándo termina la misión de rescate de un avión accidentado?",
+    "options": [
+      "Cuando se encuentra la caja negra",
+      "Cuando se encuentran los tripulantes",
+      "Cuando dejan de recibir la emisión de la radiobaliza",
+      "Cuando aparecen los supervivientes o ha resultado infructuosa una búsqueda prolongada"
+    ],
+    "correctIndex": 3
+  }
+]

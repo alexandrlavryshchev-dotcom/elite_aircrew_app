@@ -149,7 +149,7 @@ class _AesaExamScreenState extends State<AesaExamScreen> {
     Navigator.of(context).pushReplacement(
       MaterialPageRoute(
         builder: (context) => TestResultsScreen(
-          title: 'Examen Oficial AESA',
+          title: 'Examen Oficial TIPO AESA',
           correctCount: correctCount,
           totalQuestions: totalQuestions,
           isAesaExam: true,
@@ -176,7 +176,7 @@ class _AesaExamScreenState extends State<AesaExamScreen> {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Examen Oficial AESA'),
+        title: const Text('Examen Oficial TIPO AESA'),
         backgroundColor: AppColors.primary,
       ),
       body: _isLoading

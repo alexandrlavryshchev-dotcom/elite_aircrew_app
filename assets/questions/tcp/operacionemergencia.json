@@ -1,0 +1,212 @@
+[
+  {
+    "id": "tcp_20",
+    "topic": "Seguridad",
+    "text": "¿Quién es el encargado de sacar la bolsa de señales en caso de evacuación?",
+    "options": ["El comandante.", "El sobrecargo.", "El TCP 1R.", "El TCP 4R."],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_21",
+    "topic": "Seguridad",
+    "text": "¿En qué momento se inflarán los chalecos?",
+    "options": ["En el momento de saltar del avión, independientemente de la edad.", "Antes de abandonar el avión, en el caso de un niño mayor de 2 años.", "Antes de abandonar el avión, en el caso de un niño menor de 2 años y en el momento de saltar del avión en el caso de adultos y mayores de 2 años.", "Una vez que estemos en el agua."],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_22",
+    "topic": "Seguridad",
+    "text": "En caso de amenaza de explosivo a bordo en vuelo, los TCP a instancias del comandante, deberán:",
+    "options": ["Alertar al pasaje de la situación.", "Realizar una discreta búsqueda en el avión.", "Emitir el callout “CABIN CREW REPORT FOR DUTY”.", "Quedar a la espera de algún movimiento extraño por parte de algún pasajero."],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_23",
+    "topic": "Seguridad",
+    "text": "A la orden de “BRACE FOR IMPACT/POSTURA DE IMPACTO”:",
+    "options": ["Los TCP demostrarán cuál es la posición de seguridad a adoptar en caso de impacto.", "Tanto los TCP como los pasajeros adoptarán la posición de seguridad.", "Se emitirá el mensaje correspondiente y se hará una comprobación de la cabina para asegurarnos de que los posaderos hacen uso de los cinturones de seguridad.", "El sobrecargo se dirigirá inmediatamente a cabina de vuelo."],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_24",
+    "topic": "Seguridad",
+    "text": "Briefing de PSP para ayudar a pasajeros con necesidades especiales:",
+    "options": ["Se le instruirá en la forma de abrir la salida, inflar la rampa y sobre la importancia de agilizar la evacuación.", "Se le informará de que será el primero en salir del avión manteniendo la rampa pegada al suelo y ayudando a salir de la misma.", "Indicará a los pasajeros las salidas a las que hay que dirigirse cuando se dé la orden de evacuación.", "Se sentarán al lado del pasajero que necesite ayuda para facilitar su salida del avión."],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_25",
+    "topic": "Seguridad",
+    "text": "Briefing de PSP asignado a salidas sin TCP asignado:",
+    "options": ["Se le instruirá en la forma de abrir la salida, inflar la rampa y sobre la importancia de agilizar la evacuación.", "Se le informará de que será el primero en salir del avión, manteniendo la rampa pegada al suelo y ayudando a salir de la misma.", "Indicará a los pasajeros las salidas a las que han de dirigirse cuando se dé la orden de evacuación.", "Indicará a los pasajeros que esas salidas no son aptas para una evacuación."],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_26",
+    "topic": "Seguridad",
+    "text": "Un PSP asignado a una salida operada por un TCP:",
+    "options": ["Será el primero en salir del avión, manteniendo la rampa pegada al suelo y ayudando a salir de la misma.", "Abrirá la salida asignada, inflará la rampa y agilizará la evacuación evitando aglomeraciones.", "Saldrá el primero, llevándose parte del material de emergencia.", "Se hará cargo de pasajeros que necesiten ayuda y los evacuará en primer lugar."],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_27",
+    "topic": "Seguridad",
+    "text": "En caso de amaraje, la cuerda de amarre que une la rampa-balsa de la barra de sujeción se corta:",
+    "options": ["No existe dicha cuerda de amarre.", "Mediante el cuchillo del que va provisto cada rampa-balsa, por un punto de fractura o tirando de un tirador ubicado dentro del bolsillo próximo a la cuerda.", "Tirando del tirador de desenganche.", "Con el hacha."],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_28",
+    "topic": "Seguridad",
+    "text": "Si un TCP detecta una emergencia médica de gravedad en la que necesite la asistencia de algún otro tripulante:",
+    "options": ["Procederá a solicitar la ayuda de un médico.", "El comandante establecerá contacto por radio con tierra pidiendo consejo médico.", "Realizará una llamada a través del interfono “MEDICAL CASE IN ZONE X”.", "Cumplimentará el impreso 08P51."],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_29",
+    "topic": "Seguridad",
+    "text": "Las radiobalizas portátiles deben sacarse del avión en caso de evacuación.",
+    "options": ["Si, siempre.", "Siempre que no estemos en un aeropuerto.", "Si, siempre y cuando el aterrizaje se efectúe en zona desértica o sin comunicaciones.", "A decisión de los TCP responsables."],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_30",
+    "topic": "Seguridad",
+    "text": "Después de recibir la orden de evacuación, el primer mensaje que deben gritar los TCP es:",
+    "options": ["“EVACUACIÓN”.", "“MANTENGAN LA CALMA”.", "“DIRÍJANSE A LAS SALIDAS DE EMERGENCIA”.", "“DESABRÓCHENSE EL CINTURÓN”."],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_31",
+    "topic": "Seguridad",
+    "text": "¿Quién ejerce de TCP comunicador en caso de fuego/humo?",
+    "options": ["Cualquier TCP.", "Siempre el sobrecargo.", "El segundo TCP en llegar a la zona afectada.", "El TCP responsable de la zona afectada."],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_32",
+    "topic": "Seguridad",
+    "text": "¿En qué momento actuaremos sobre los C/B sin autorización del comandante?",
+    "options": ["Nunca.", "Reasentaremos el CB ante un fuego relacionado con equipo eléctrico del avión.", "Por temas de ruidos sacaremos CB siempre que lo consideremos.", "Sacaremos los CB ante un fuego relacionado con equipo eléctrico del avión (galley, hornos,…) y en la preparación del cabina para una evacuación."],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_33",
+    "topic": "Seguridad",
+    "text": "¿Qué hay que hacer antes de abrir un lavabo por aviso de humo?",
+    "options": ["Llamar para comprobar si hay alguien dentro.", "Comprobar si la puerta está caliente.", "Sacar el CB del lavabo en cuestión.", "Rociar el marco de la puerta con el extintor."],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_34",
+    "topic": "Seguridad",
+    "text": "¿Qué haremos si la puerta del lavabo con aviso de humo está caliente?",
+    "options": ["Entraremos enseguida, el fuego se está extendiendo.", "Lo rociaremos con agua para evitar la propagación del fuego.", "Traeremos equipo extra antes de entrar. El fuego se encuentra en una etapa crítica.", "Actuaremos como siempre, con calma y serenidad."],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_35",
+    "topic": "Seguridad",
+    "text": "¿Con qué intención el comandante enciende y apaga la señal de cinturones repetidamente?",
+    "options": ["Para comprobar su funcionamiento correcto en la zona de descanso.", "Para hacer una llamada de urgencia a la tripulación de cabina de pasaje.", "Es la forma de avisar para adoptar la postura de impacto.", "No hay una razón lógica para ese proceder"],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_36",
+    "topic": "Seguridad",
+    "text": "En una preparación de cabina para un posible aterrizaje de emergencia, ¿qué haremos con los objetos sueltos que puedan convertirse en proyectiles?",
+    "options": ["Los repartiremos por la cabina de pasaje con el fin de minimizar los riesgos.", "Los colocaremos en aquellas filas que puedan estar desocupadas.", "Debemos colocarlos apoyados contra un mamparo de separación de cabinas para evitar que se desplacen.", "Los pondremos en los lavabos y roperos y después bloquearemos las puertas."],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_37",
+    "topic": "Seguridad",
+    "text": "¿Qué posición debe adoptar un tripulante que vaya sentado en un transportín en el sentido de la marcha, en caso de aterrizaje de emergencia?",
+    "options": ["Posición erecta apoyando la cabeza contra el respaldo.", "Cabeza inclinada hacia el pecho y piernas abiertas, con pies apoyados.", "Cabeza inclinada con las manos sujetando la nuca.", "Con las rodillas juntas y los tobillos cruzados."],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_38",
+    "topic": "Seguridad",
+    "text": "En caso de amaraje, ¿quién separa la rampa-balsa del avión?",
+    "options": ["El último en embarcar será el tripulante que corte o suelte la cuerda de amarre del avión.", "El PSP de esa rampa-balsa, si lo hubiera, o cualquiera que vea el tirador al efecto.", "El responsable nombrado por el tripulante durante el briefing previo al amaraje.", "No es necesario separar la rampa-balsa del avión nos hace mas visible en caso de búsqueda por el SAR."],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_39",
+    "topic": "Seguridad",
+    "text": "¿Qué posición debe adoptar un tripulante que vaya sentado en un transportín en el sentido contrario de la marcha, en caso de aterrizaje de emergencia?",
+    "options": ["Posición erecta apoyando la cabeza contra el respaldo.", "Cabeza inclinada hacia el pecho y piernas abiertas, con pies apoyados firmemente contra el suelo.", "Cabeza inclinada con las manos sujetando la nuca.", "Con las rodillas juntas y los tobillos cruzados."],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_40",
+    "topic": "Seguridad",
+    "text": "Se denomina briefing NITSA:",
+    "options": ["Al briefing del comandante al sobrecargo antes del vuelo.", "Al briefing de seguridad y salvamento.", "Al briefing comercial.", "Al briefing que da el comandante al sobrecargo incluyendo naturaleza, intenciones, tiempo, específicos y anuncio ante una emergencia y del que el sobrecargo ha de hacer colación."],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_41",
+    "topic": "Seguridad",
+    "text": "Dentro de la definición de roles del procedimiento de fuego indica la opción correcta:",
+    "options": ["El TCP activo tiene que protegerse para atacar el fuego inmediatamente y, una vez apagado, avisar al resto de la tripulación para vigilar entre todos que no se reactive.", "Si hubiera otros TCP, estos estarán exentos de funciones y proseguirán realizando funciones comerciales.", "El TCP comunicador estará listo para sustituir al TCP activo e intercambiar funciones cuando se requiera.", "El TCP asistente, además de suministrar equipo extra contra incendios, ayudará en la extinción y retirará el material inflamable de la zona, estando preparado para sustituir al TCP activo cuando se requiera."],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_42",
+    "topic": "Seguridad",
+    "text": "En el procedimiento de descenso de emergencia ante una descompresión rápida indica la opción correcta:",
+    "options": ["Lo primero que escucharemos será la notificación del inicio de dicho procedimiento, por lo que, aunque veamos caer las máscaras debemos esperar instrucciones de cabina de vuelo.", "Si después del consiguiente viraje y descenso, fase en la que pueden producirse considerables fuerza de aceleración observamos que el avión se ha estabilizado, significa que hemos alcanzado el nivel de atmósfera respirable, por lo que dejaremos de utilizar las máscaras de oxígeno.", "La comprobación del estado de los tripulantes de vuelo no es necesaria, pues ellos disponen de full face.", "El callout “CABIN CREW: BREATHABLE ATMOSPHERE, SECURE CABIN!” Nos indica que ya no es necesario utilizar las máscaras de oxígeno y podemos asegurar la cabina."],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_43",
+    "topic": "Seguridad",
+    "text": "En caso de despresurización, ¿cuál es el primer callout que oiremos en cabina de pasaje?",
+    "options": ["“CABIN CREW:OXYGEN CHECK”.", "“CABIN CREW: BREATHABLE ATMOSPHERE, SECURE CABIN”.", "“EMERGENCY DESCENT!”", "“CABIN CREW: PASSENGERS OXYGEN CHECK!”."],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_44",
+    "topic": "Seguridad",
+    "text": "Ante el encendido de la señal de cinturones:",
+    "options": ["Me siento y me abrocho los atalajes sin chequear la cabina de pasaje ya que se trata de turbulencia severa.", "Es solo un aviso para el pasaje, nosotros podremos continuar con el servicio comercial.", "Daré los mensajes oportunos sentándome inmediatamente en la primera butaca que encuentre libre.", "El TCP más cercano a una estación de comunicaciones emitirá el mensaje correspondiente y el sobrecargo pedirá información a la tripulación de vuelo para proseguir con el servicio, si este se estuviera llevando a cabo."],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_45",
+    "topic": "Seguridad",
+    "text": "¿Qué chalecos salvavidas se pueden inflar dentro del avión en caso de amaraje?",
+    "options": ["No se puede inflar ningún chaleco dentro del avión.", "Solo se pueden inflar los chalecos de los tripulantes de vuelo.", "Solo se pueden inflar los chalecos de los tripulantes de cabina de pasajeros.", "Solo se pueden inflar los chalecos de bebés."],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_46",
+    "topic": "Seguridad",
+    "text": "En caso de iniciar el procedimiento de fuego/humo en un compartimento superior, ¿cómo determinaría el TCP activo la temperatura y la presencia del fuego?",
+    "options": ["Abriendo ligeramente el compartimento superior podrá insertar la boquilla del extintor.", "Descargando el extintor alrededor del compartimento superior.", "Utilizando el dorso de la mano, tocando el compartimento superior y así determinar la temperatura y la presencia de fuego.", "Abriendo y cerrando rápidamente el compartimento superior tantas veces como fuera necesario para evaluar la situación."],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_47",
+    "topic": "Seguridad",
+    "text": "¿En qué posición estará la rampa de la puerta a la que hayamos desplazado el paquete sospechoso en caso de amenaza de bomba?",
+    "options": ["Armada.", "Desarmada.", "Dependiendo de la fase del vuelo.", "No es relevante."],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_48",
+    "topic": "Seguridad",
+    "text": "¿Cómo actuaremos si al abrir una puerta en operación de emergencia y al volver a comprobar las condiciones exteriores advertimos que la rampa no se hincha?",
+    "options": ["Bloquear la salida, redirigirlo al pasaje a otra puerta, con órdenes claras, concisas y positivas, gestionando el control de multitudes.", "Cerrar la puerta.", "Actuar sobre el tirador PULL TO INFLATE.", "Informar al piloto al mando."],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_49",
+    "topic": "Seguridad",
+    "text": "Según los roles que adquiere un TCP ante un fuego, ¿podría el TCP comunicador sustituir en algún momento al TCP asistente?",
+    "options": ["No.", "Si.", "No, salvo que el activo necesite ser sustituido.", "Solo cuando lo autorice el comandante."],
+    "correctIndex": 0
+  }
+]

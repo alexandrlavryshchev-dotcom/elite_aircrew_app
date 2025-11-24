@@ -1,0 +1,317 @@
+[
+  {
+    "id": "tcp_001",
+    "topic": "Seguridad",
+    "text": "¿Cuántos megáfonos debe llevar un avión de 80 asientos de pasajeros?",
+    "options": ["4", "3", "2", "1"],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_002",
+    "topic": "Seguridad",
+    "text": "¿Cuántos megáfonos debe llevar un avión de 100 asientos de pasajeros?",
+    "options": ["4", "3", "2", "1"],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_003",
+    "topic": "Seguridad",
+    "text": "En caso de 200 asientos o más, una de las dos hachas puede ser sustituida por:",
+    "options": ["Un extintor", "Una barra de pata de cabra", "Un botiquín", "Nada, solo es necesario un hacha"],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_004",
+    "topic": "Seguridad",
+    "text": "Sabemos que los aviones van provistos de botiquines médicos y de primeros auxilios. El TCP:",
+    "options": [
+      "Sólo puede utilizar el FAK (first aid kit)",
+      "Puede utilizar cualquiera de ellos",
+      "No puede usar ninguno",
+      "Dependiendo de la emergencia podrá utilizar el botiquín médico"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_005",
+    "topic": "Seguridad",
+    "text": "Si el avión está equipado con una sola hacha, ésta estará situada en:",
+    "options": [
+      "En el interior de la cabina de mando",
+      "En un galley",
+      "En un armario trasero de la cabina de pasajeros",
+      "En el armario FWD de la cabina de pasaje, disimulado con uniformes o mantas"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_006",
+    "topic": "Seguridad",
+    "text": "¿A partir de cuántos asientos se requiere un medical kit?",
+    "options": ["19", "30", "100", "Siempre"],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_007",
+    "topic": "Seguridad",
+    "text": "¿Cuál es el procedimiento de uso del EMK?",
+    "options": [
+      "Se abrirá con autorización del Comandante, será utilizado por personal médico especializado. Una vez abierto y desprecintado, deberá rellenarse el parte de uso, firmado por personal médico, sobrecargo y Comandante",
+      "Se abrirá con autorización del Sobrecargo, será utilizado por personal médico especializado. Una vez abierto y desprecintado, se rellenará el parte de uso firmado por personal médico, Sobrecargo y Comandante",
+      "No se ha regularizado",
+      "Nos debe autorizar el Dpto. de mantenimiento y posteriormente hacer una inscripción en el Log Book"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_008",
+    "topic": "Seguridad",
+    "text": "¿En qué fases del vuelo se prohíbe, excepto por razones de máxima urgencia, entrar en la cabina de mando?",
+    "options": ["Durante despegue y aterrizaje", "Durante el ascenso", "Durante el descenso", "Durante el vuelo de crucero"],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_009",
+    "topic": "Seguridad",
+    "text": "La palabra 'cabina estéril' se refiere a:",
+    "options": [
+      "Las fases críticas en tierra de rodaje, despegue y aterrizaje, y en vuelo a todas las operaciones que se realicen por debajo de los 10.000 ft",
+      "Cuando el Comandante o cualquier miembro de la tripulación técnica se encuentre indispuesto",
+      "Cuando los equipos de limpieza desinsecten y desinfecten cockpit",
+      "Cualquiera de las respuestas anteriores"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_010",
+    "topic": "Seguridad",
+    "text": "Además de los miembros de la tripulación, en la cabina de vuelo del avión podrán entrar:",
+    "options": [
+      "Cualquier persona autorizada por el Comandante",
+      "Los inspectores debidamente autorizados por la Autoridad Aeronáutica",
+      "Los directivos de la Compañía aérea a la que pertenece el avión",
+      "Cualquier persona"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_011",
+    "topic": "Seguridad",
+    "text": "¿Quién ordenará la apertura y cierre de puertas?",
+    "options": ["El Comandante", "El Sobrecargo", "Los propios TCPs", "La Torre de Control (TWR)"],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_012",
+    "topic": "Seguridad",
+    "text": "La orden 'Tripulación a sus puestos' dada por el Comandante, estando el avión en tierra, significa:",
+    "options": [
+      "Iniciar evacuación",
+      "Sentarse y abrocharse el cinturón",
+      "Posibilidad de realizar un procedimiento de emergencia",
+      "Riesgo de turbulencia severa"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_013",
+    "topic": "Seguridad",
+    "text": "El uso del cinturón de seguridad es obligatorio por parte de los pasajeros:",
+    "options": [
+      "Siempre que esté encendida la señal correspondiente",
+      "Solo en despegue y aterrizaje",
+      "En despegue, aterrizaje y turbulencias",
+      "Nunca, solo es recomendable"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_014",
+    "topic": "Seguridad",
+    "text": "Los TCPs permanecerán sentados y con los arneses abrochados:",
+    "options": [
+      "Siempre que las luces de 'abróchense los cinturones' estén encendidas",
+      "Durante las maniobras de despegue y aterrizaje y cuando el Comandante lo juzgue necesario",
+      "Solo durante las maniobras de despegue y aterrizaje",
+      "Durante las maniobras de despegue y aterrizaje, y los tiempos de descenso"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_015",
+    "topic": "Seguridad",
+    "text": "¿Qué se entiende por atalaje?",
+    "options": [
+      "Cinturón de seguridad de un asiento de servicio",
+      "Conjunto de cinturón y tirantes de seguridad unidos en un solo cierre",
+      "Conjunto de cinturón, tirantes y reposacabezas",
+      "Todo lo que sirva para unirse al asiento"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_016",
+    "topic": "Seguridad",
+    "text": "Por razones de seguridad, cuando el despegue o aterrizaje se realice de noche:",
+    "options": [
+      "Se atenuarán las luces de cabina de pasajeros",
+      "Se apagarán las luces de cabina de pasajeros",
+      "Se incrementarán las luces de cabina de pasajeros",
+      "Sólo se mantendrán encendidas las luces de emergencia"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_017",
+    "topic": "Seguridad",
+    "text": "¿Cuál de los siguientes dispositivos electrónicos pueden ser utilizados en cualquier fase del vuelo?",
+    "options": [
+      "Marcapasos y audífonos",
+      "Compact Disc",
+      "Teléfonos móviles",
+      "Ordenadores personales y radios"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_018",
+    "topic": "Seguridad",
+    "text": "¿Para qué se atenúan las luces de cabina de pasajeros durante el despegue y aterrizaje?",
+    "options": [
+      "Acondicionar la visión para el caso de una evacuación nocturna",
+      "Que vean mejor las luces de salida de emergencia",
+      "Concentrar a todos en lo que se está haciendo en un momento crítico",
+      "Ahorrar energía para el uso de los motores"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_019",
+    "topic": "Seguridad",
+    "text": "Cuando se lleven equipajes de mano, los bultos se situarán en los compartimentos sobre las cabezas de los pasajeros, y no se excederá de:",
+    "options": [
+      "12.5 kg de peso por bulto",
+      "Dos bultos por persona",
+      "Una medida máxima de 50 cm por el lado más largo",
+      "De la capacidad para la que está certificado el compartimento"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_020",
+    "topic": "Seguridad",
+    "text": "Según el reglamento de la UE, el equipaje de mano que puede transportar un pasajero no excederá de:",
+    "options": [
+      "56 x 45 x 25 cm",
+      "De lo que pueda caber en los bins o racks",
+      "No hay limitación",
+      "Dos piezas que no pesen más de 8 kg"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_021",
+    "topic": "Seguridad",
+    "text": "¿Qué comprobación se realiza en el manómetro de un extintor de Halón?",
+    "options": [
+      "Que la aguja indique una presión superior a los 18.000 psi",
+      "Que la aguja indique la zona verde",
+      "Que la aguja indique la zona roja",
+      "Los extintores de Halón no tienen manómetro"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_022",
+    "topic": "Seguridad",
+    "text": "¿Qué debe indicar el manómetro de una botella de O2?",
+    "options": [
+      "Presión entre 1.200 y 1.500 psi",
+      "Presión entre 1.500 y 1.800 psi",
+      "Presión entre 1.800 y 3.000 psi",
+      "Presión entre 2.800 y 3.000 psi"
+    ],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_023",
+    "topic": "Seguridad",
+    "text": "¿Qué se chequea de un extintor?",
+    "options": [
+      "Que esté en su sitio, bien anclado, con precinto de seguridad, acceso libre de obstáculos y flecha de manómetro entre 1.500 y 1.800 psi",
+      "Que esté en su sitio, bien anclado, con precinto de seguridad, acceso libre de obstáculos y flecha de manómetro en zona verde",
+      "Que la fecha de caducidad esté bien visible en todo momento",
+      "A y C son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_024",
+    "topic": "Seguridad",
+    "text": "¿Qué se chequea en las linternas de cabina de pasajeros?",
+    "options": [
+      "Cualquier chequeo es realizado por el personal de mantenimiento",
+      "Presionando el interruptor ON",
+      "Sacándolas de su alojamiento para poder comprobar su iluminación",
+      "Comprobar que el testigo se enciende a intervalos inferiores a 10 segundos"
+    ],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_025",
+    "topic": "Seguridad",
+    "text": "El fuego se combate atacando:",
+    "options": ["Su contorno y alrededores", "La base del mismo", "La zona más caliente y azulada", "La parte superior del mismo"],
+    "correctIndex": 1
+  },
+  {
+    "id": "tcp_026",
+    "topic": "Seguridad",
+    "text": "¿Cuál es el chequeo pre-vuelo de los toboganes?",
+    "options": [
+      "Presencia, que la aguja del manómetro esté en zona verde y se encuentre entre 2.800 y 3.200 psi",
+      "Solamente se comprueba la presencia correcta",
+      "Presencia, que la aguja del manómetro esté en zona roja y se encuentre entre 2.800 y 3.200 psi",
+      "Presencia, que la aguja del manómetro esté en zona verde y entre 1.800 y 2.300 psi"
+    ],
+    "correctIndex": 0
+  },
+  {
+    "id": "tcp_027",
+    "topic": "Seguridad",
+    "text": "¿Cuál de las siguientes acciones sería correcta en caso de detectar humo negro procedente del aire acondicionado?",
+    "options": [
+      "Avisar a cockpit y usar el O2 medicinal",
+      "Avisar a cockpit y preparar las capuchas antihumo",
+      "Avisar a cockpit y preparar el FAK",
+      "Todas las respuestas son correctas"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_028",
+    "topic": "Seguridad",
+    "text": "Después de un fuego en cabina de pasajeros, ¿qué medidas debe adoptar un TCP?",
+    "options": [
+      "Enfriar la zona",
+      "Vigilancia constante",
+      "Quitar paneles con el hacha para evitar fuegos escondidos",
+      "Todas son correctas, pero en cuanto al hacha se utilizará siempre con permiso del Comandante"
+    ],
+    "correctIndex": 3
+  },
+  {
+    "id": "tcp_029",
+    "topic": "Seguridad",
+    "text": "De los extintores portátiles que se pueden llevar en un avión, el más efectivo, por servir para toda clase de fuegos, es el que contiene:",
+    "options": ["Dióxido de carbono", "Agua", "Bromoclorodifluorometano", "Dimetilaminoduorometano"],
+    "correctIndex": 2
+  },
+  {
+    "id": "tcp_030",
+    "topic": "Seguridad",
+    "text": "La duración de un extintor de BCF es aproximadamente de:",
+    "options": ["De 6 a 9 segundos", "De 2 a 5 segundos", "De 4 segundos", "De 6 minutos"],
+    "correctIndex": 0
+  }
+]
