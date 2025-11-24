@@ -56,6 +56,13 @@ flutter:
     - assets/questions/tcp/med2.json
     - assets/questions/tcp/med3.json
     - assets/questions/tcp/FUE.json
+    - assets/questions/tcp/ONE.json
+    - assets/questions/tcp/ONE1.json
+    - assets/questions/tcp/ONE2.json
+    - assets/questions/tcp/ONE3.json
+    - assets/questions/tcp/operacionnormal.json
+    - assets/questions/tcp/operacionemergencia.json
+    - assets/questions/tcp/materialemergencia.json
     - assets/questions/entrevistas.json
     - assets/questions/elite/final/examen1.json
     - assets/questions/elite/final/examen2.json
