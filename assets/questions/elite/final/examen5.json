@@ -194,7 +194,7 @@
       "No es necesario nombrar sobrecargo en ningún caso",
       "Solamente cuando lo diga en comandante"
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "examen5_27",
@@ -336,7 +336,7 @@
     "topic": "examen flaps y movimientos",
     "text": "En el Boeing 717 de fuselaje estrecho, configurado con 100 asientos de pasajeros, el número de TCPs mínimo requerido será de:",
     "options": ["4", "5", "2", "3"],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "examen5_43",

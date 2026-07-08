@@ -49,7 +49,7 @@
     "topic": "FUE",
     "text": "Los extintores fijos de que se dota a los aviones, para revisión de los TCP, están situados en:",
     "options": ["La cabina de pilotaje", "Las zonas de servicio", "Puntos estratégicos a lo largo de todo el avión", "Los lavabos."],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "fue_007",
@@ -68,7 +68,7 @@
     "topic": "FUE",
     "text": "Los tripulantes de cabina de pasajeros deberán contar a bordo con PBE que le suministren oxígeno como protección contra humos por no menos de:",
     "options": ["Una hora", "El tiempo que dure la evacuación", "15 minutos", "90 segundos"],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "fue_009",
@@ -80,7 +80,7 @@
       "En un armario especial encima de las cabezas de los pasajeros",
       "En un lugar secreto solo conocido por la tripulación"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "fue_010",
@@ -144,7 +144,7 @@
     "topic": "FUE",
     "text": "De acuerdo con la clasificación europea, ¿de qué clase es un fuego eléctrico?",
     "options": ["B.", "C.", "D.", "E."],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "fue_017",
@@ -206,7 +206,7 @@
     "topic": "FUE",
     "text": "Al menos, ¿cuántos extintores portátiles de halón 1211 (bromoclorodifluorometano), o agente extintor equivalente, ha de llevar un avión con 78 asientos para pasajeros?",
     "options": ["1", "2", "3", "4"],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "fue_023",

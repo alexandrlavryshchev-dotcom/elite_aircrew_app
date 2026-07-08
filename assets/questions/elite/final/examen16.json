@@ -326,7 +326,7 @@
     "topic": "Examen 3",
     "text": "¿Cuáles son las mercancías peligrosas correspondientes a las clases 3-1-7-4?",
     "options": ["Explosivos, líquidos inflamables, gases y materiales radioactivos.", "Explosivos, substancias comburentes, materiales radioactivos y gases.", "Líquidos inflamables, explosivos, materiales radioactivos y sólidos inflamables.", "Líquidos inflamables, material radioactivo, explosivos y gases."],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "examen_3_48",

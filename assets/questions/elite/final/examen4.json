@@ -208,7 +208,7 @@
     "topic": "examen 1",
     "text": "Las comprobaciones de las linternas de emergencia de cada transportín se chequean mediante:",
     "options": ["Un indicador de luz roja que parpadea cada 6 a 10 segundos.","Se chequea únicamente su presencia y ubicación.","Encendiéndola para ver si funcionan las pilas.","Un indicador de luz roja que parpadea cada 10-20 segundos."],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "examen_24",
@@ -292,7 +292,7 @@
     "topic": "examen 1",
     "text": "Si una mujer está embarazada de 39 semanas y vuela, hay que saber que:",
     "options": ["Si se pone de parto será prematuro, con riesgo para la madre y El Niño.","El Niño está perfectamente formado para vivir.","Un niño tan pequeño, con la presión de la cabina, tiene muy pocas probabilidades de vivir.","Como el niño aún no está perfectamente formado, nos podemos esperar cualquier cosa."],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "examen_36",
@@ -362,7 +362,7 @@
     "topic": "examen 1",
     "text": "¿Cuántos equipos respiratorios de protección debemos llevar en cabina de pasajeros?",
     "options": ["Uno por cada TCP a bordo.","Uno por cada galley.","Uno por estación de TCP.","Uno por cada TCP requerido."],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "examen_46",
@@ -390,7 +390,7 @@
     "topic": "examen 1",
     "text": "¿En qué caso es obligatorio llevar chaleco salvavidas a bordo de una aeronave?",
     "options": ["Es obligatorio en todas las aeronaves, vuelen donde vuelen.","Siempre que la ruta sobrevuele el agua.","Cuando nos alejemos a mas de 40 MN de la costa y sobrevuele agua.","Cuando nos alejemos a mas de 50 MN de la costa y sobrevuele agua."],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "examen_50",

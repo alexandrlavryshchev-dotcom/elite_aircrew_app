@@ -297,7 +297,7 @@
       "Todo el tiempo en que la altitud de presión de la cabina sea superior a 15.000ft.",
       "15 minutos como mínimo."
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "examen3_26",
@@ -405,7 +405,7 @@
       "Mezclas de anticuerpos.",
       "Invento de las farmacéuticas para enriquecerse."
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "examen3_35",
@@ -477,7 +477,7 @@
       "De clase preferente y de clase urgente.",
       "De riesgo y de manipulación."
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "examen3_41",

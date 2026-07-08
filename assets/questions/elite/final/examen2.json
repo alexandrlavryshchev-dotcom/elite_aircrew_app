@@ -153,7 +153,7 @@
       "Código de la nacionalidad (ES) y nacionalidad (bandera española).",
       "La nacionalidad (bandera española) mas el número de avión (tres letras y dos números)."
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "examen2_14",
@@ -201,7 +201,7 @@
       "Mentón ligeramente elevado, apoyando la espalda contra el respaldo, piernas firmemente apoyadas en el suelo y ligeramente separadas.",
       "Mentón pegado al pecho, apoyando la espalda contra el respaldo, con manos bajo las piernas."
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "examen2_18",
@@ -237,7 +237,7 @@
       "El Comandante debe dar a los pasajeros la información sobre el vuelo.",
       "Los TCPs deben estar sentados y asegurados en sus transportines."
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "examen2_21",
@@ -285,7 +285,7 @@
       "Ambulatorios y no ambulatorios.",
       "Con sillas de ruedas y/o muletas y ciegos y/o sordos."
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "examen2_25",

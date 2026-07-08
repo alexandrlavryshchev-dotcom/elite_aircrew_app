@@ -179,7 +179,7 @@
     "topic": "Examen 1",
     "text": "Un pasajero deportado potencialmente peligroso que viaja con escolta se identifica como:",
     "options": ["DEPU", "DEPA", "DEPORT", "INAD"],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "examen_27",
@@ -263,7 +263,7 @@
     "topic": "Examen 1",
     "text": "Las mercancías peligrosas tipo explosivos, deberán llevar una etiqueta color:",
     "options": ["Verde", "Blanco", "Naranja", "Rojo"],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "examen_39",
@@ -312,7 +312,7 @@
     "topic": "Examen 1",
     "text": "Cuando el fuego se encuentra localizado únicamente en la zona de los galleys, ¿qué debemos hacer tan pronto como sea posible?",
     "options": ["Atacar el fuego con el extintor correspondiente", "Rociar con agua toda la zona con el fin de enfriarla", "Desconectar los interruptores y sacar los CB", "Avisar al comandante"],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "examen_46",
