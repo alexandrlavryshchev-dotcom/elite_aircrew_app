@@ -165,7 +165,7 @@
       "965/2012.",
       "963/2012."
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "examen_15",
@@ -225,7 +225,7 @@
       "El Copiloto.",
       "Personas enfermas, ancianos o impedidos."
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "examen_20",
@@ -249,7 +249,7 @@
       "15% adicional.",
       "No se puede llevar ningún pasajero más de los que marque la certificación del avión."
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "examen_22",
@@ -261,7 +261,7 @@
       "Pasajero en silla de ruedas que no es capaz de desplazarse largas distancias pero si es capaz de subir o bajar escaleras y moverse dentro de la cabina.",
       "Pasajero ambulatorio."
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "examen_23",
@@ -297,7 +297,7 @@
       "El cono de cola.",
       "Las ventanillas deslizantes de la cabina de mando."
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "examen_26",
@@ -393,7 +393,7 @@
       "Desratización.",
       "Desalinización."
     ],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "examen_34",

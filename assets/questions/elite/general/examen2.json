@@ -53,7 +53,7 @@
     "topic": "Examen General",
     "text": "¿Qué significan las siglas CAO?",
     "options": ["Avión solo pasaje", "Avión solo carguero", "Avión carguero/pasaje", "Certificado de operador aéreo"],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "examen_general_9",

@@ -201,7 +201,7 @@
       "Mentón ligeramente elevado, apoyando la espalda contra el respaldo, piernas firmemente apoyadas en el suelo y ligeramente separadas.",
       "Mentón pegado al pecho, apoyando la espalda contra el respaldo, con manos bajo las piernas."
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "examen2_18",
@@ -465,7 +465,7 @@
       "Avión carguero/pasaje.",
       "Certificado de operador aéreo."
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "examen2_40",
@@ -477,7 +477,7 @@
       "Sustancias que presentan riesgo de combustión espontánea.",
       "Sustancias que en contacto con el agua emiten gases inflamables."
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "examen2_41",
@@ -537,7 +537,7 @@
       "B,C,D,E",
       "A,C,D,E"
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "examen2_46",
@@ -549,7 +549,7 @@
       "En el último rack de la derecha.",
       "En Cockpit."
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "examen2_47",
@@ -585,7 +585,7 @@
       "2 y 11 años",
       "0 y 2 años."
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "examen2_50",

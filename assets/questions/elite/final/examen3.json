@@ -105,7 +105,7 @@
       "Timón de profundidad.",
       "Spoiler."
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "examen3_10",
@@ -117,7 +117,7 @@
       "Sustentación, resistencia, peso y empuje.",
       "Empuje, sustentación, gravedad y resistencia."
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "examen3_11",
@@ -165,7 +165,7 @@
       "Cuarta.",
       "Tercera."
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "examen3_15",
@@ -213,7 +213,7 @@
       "Dos como máximo en el mismo asiento sujetos por el mismo cinturón.",
       "Utilizando un dispositivo de sujeción homologado (cinturón canguro u otro CRD)."
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "examen3_19",
@@ -273,7 +273,7 @@
       "Tres.",
       "Uno."
     ],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "examen3_24",
@@ -285,7 +285,7 @@
       "TCPs sin puesto de emergencia asignado.",
       "Personal sanitario a bordo."
     ],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "examen3_25",
@@ -309,7 +309,7 @@
       "La lista de materiales para reposición.",
       "El Cabin Lock Book."
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "examen3_27",
@@ -333,7 +333,7 @@
       "1-2 minutos.",
       "15-20 segundos."
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "examen3_29",
@@ -405,7 +405,7 @@
       "Mezclas de anticuerpos.",
       "Invento de las farmacéuticas para enriquecerse."
     ],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "examen3_35",
@@ -525,7 +525,7 @@
       "1 TCP y no hace falta que sea sobrecargo.",
       "Hasta 50 asientos no es necesario tripulación auxiliar."
     ],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "examen3_45",
@@ -537,7 +537,7 @@
       "No hay extintores fijos en cabina de pasajeros.",
       "En los lavabos."
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "examen3_46",

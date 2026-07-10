@@ -88,7 +88,7 @@
     "topic": "Examen General",
     "text": "¿Qué posición de emergencia adoptará un tripulante cuyo puesto operativo está en el sentido contrario a la marcha?",
     "options": ["Cabeza y espalda en posición vertical, apoyando la espalda contra el respaldo y piernas cruzadas a la altura de los tobillos", "Mentón sobre el pecho, apoyando la espalda contra el respaldo", "Mentón ligeramente elevado, apoyando la espalda contra el respaldo, piernas firmemente apoyadas al suelo y ligeramente separadas", "Mentón pegado al pecho, apoyando la espalda contra el respaldo, con manos bajo las piernas"],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "general_14",
