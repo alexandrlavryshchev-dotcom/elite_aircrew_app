@@ -25,7 +25,7 @@
     "topic": "Examen 3",
     "text": "El Tiempo Útil de Conciencia a una altura de 25.000 pies es de:",
     "options": ["De 3 a 5 minutos", "De 1 a 2 minutos", "De 15 a 20 segundos", "De 15 a 20 minutos"],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "examen_3_5",
@@ -53,7 +53,7 @@
     "topic": "Examen 3",
     "text": "¿A qué llamamos PSP?",
     "options": ["Al sistema de anuncios al pasaje.", "Pasajeros supuestamente preparados.", "A un efectivo extintor.", "Pasajeros preseleccionados."],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "examen_3_9",
@@ -81,7 +81,7 @@
     "topic": "Examen 3",
     "text": "En caso de aterrizaje de emergencia, si el TCP ocupa un asiento situado en dirección contraria a la marcha del avión, deberá:",
     "options": ["Entrelazar las manos detrás de la cabeza tirando de ella hacia el pecho", "Cambiar de asiento para uno que vaya en la dirección de marcha del avión y adoptar los procedimientos generales", "Adoptar una posición erecta, apoyando la espalda contra el respaldo", "Juntar muy bien las piernas"],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "examen_3_13",
@@ -130,7 +130,7 @@
     "topic": "Examen 3",
     "text": "¿Cuáles son las mercancías peligrosas correspondientes a las clases 3-1-7-4?",
     "options": ["Explosivos, líquidos inflamables, gases y materiales radioactivos.", "Explosivos, substancias comburentes, materiales radioactivos y gases.", "Líquidos inflamables, explosivos, materiales radioactivos y sólidos inflamables.", "Líquidos inflamables, material radioactivo, explosivos y gases"],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "examen_3_20",
@@ -158,7 +158,7 @@
     "topic": "Examen 3",
     "text": "Señala la característica de la despresurización lenta:",
     "options": ["Formación de niebla.", "Sensación de frío.", "Ruido silbante localizado.", "Presentación automática de mascarillas de oxígeno"],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "examen_3_24",
@@ -193,7 +193,7 @@
     "topic": "Examen 3",
     "text": "La información a los pasajeros sobre mercancías peligrosas se les dará a través de:",
     "options": ["Los pasajeros no recibirán información sobre mercancías peligrosas.", "Información verbal al acceder a la aeronave.", "Información escrita en el billete.", "Hojas repartidas en los aeropuertos."],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "examen_3_29",
@@ -214,7 +214,7 @@
     "topic": "Examen 3",
     "text": "Durante la evacuación de emergencia, ¿Cuándo se lanzará por la rampa el TCP asignado a esa salida?",
     "options": ["El primero, para enseñar a los pasajeros y ayudar desde abajo.", "Cuando su zona esté evacuada y coja su material de emergencia.", "Cuando su zona esté totalmente evacuada, compruebe que su ayuda no es necesaria.", "Lo antes que pueda."],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "examen_3_32",
@@ -235,7 +235,7 @@
     "topic": "Examen 3",
     "text": "Según la EU-OPS, a los miembros de la tripulación les está permitido tomar bebidas alcohólicas:",
     "options": ["Hasta 8 horas antes de iniciar un servicio.", "Hasta 12 horas antes de iniciar un servicio.", "Hasta 24 horas antes de iniciar un servicio.", "Se pueden tomar bebidas alcohólicas estando de servicio hasta los límites que determina la Ley de Navegación Aérea"],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "examen_3_35",
@@ -305,7 +305,7 @@
     "topic": "Examen 3",
     "text": "El operador garantizará que los miembros de la tripulación de cabina de pasajeros realicen un…………..que cubra las operaciones asignadas a cada tripulante de cabina en procedimientos y maniobras normales y de emergencia, adecuados a los tipos o variantes del avión en que desempeñan sus funciones.",
     "options": ["Entrenamiento inicial", "Entrenamiento de conversión", "Entrenamiento periódico", "Entrenamiento de familiarización"],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "examen_3_45",
@@ -326,7 +326,7 @@
     "topic": "Examen 3",
     "text": "¿Cuáles son las mercancías peligrosas correspondientes a las clases 3-1-7-4?",
     "options": ["Explosivos, líquidos inflamables, gases y materiales radioactivos.", "Explosivos, substancias comburentes, materiales radioactivos y gases.", "Líquidos inflamables, explosivos, materiales radioactivos y sólidos inflamables.", "Líquidos inflamables, material radioactivo, explosivos y gases."],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "examen_3_48",

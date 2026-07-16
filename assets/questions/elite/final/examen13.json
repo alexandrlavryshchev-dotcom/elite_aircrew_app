@@ -102,7 +102,7 @@
     "topic": "Examen 1",
     "text": "¿Quién es el encargado de llevar un registro de la radiación cósmica a la que un tripulante puede verse expuesto?",
     "options": ["Los tripulantes no están expuestos a la radiación cósmica", "La Mutua de Accidentes", "Cada tripulante debe llevar su registro", "El Operador"],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "examen_66",
@@ -137,7 +137,7 @@
     "topic": "Examen 1",
     "text": "¿Tiene utilidad el uso de una botella de oxígeno portátil para usarlo contra humo o gases tóxicos?",
     "options": ["No tiene utilidad", "Si tiene utilidad", "Sólo en caso de incidentes con mercancías peligrosas", "Sólo en caso de fuego o humo"],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "examen_71",
@@ -149,7 +149,7 @@
       "Pasajero en silla de ruedas que no es capaz de desplazarse largas distancias pero si es capaz de subir o bajar escaleras y moverse dentro de la cabina",
       "Pasajero ambulatorio"
     ],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "examen_72",
@@ -175,7 +175,7 @@
     "topic": "Examen 1",
     "text": "En caso de evacuación en el mar, si tenemos que lanzar balsas o pasaje al agua desde las salidas sobre el plano ¿por dónde debe hacerse?",
     "options": ["Por el borde de salida", "Por el borde de ataque", "Por el Intradós", "Nunca se utilizarán en mar las salidas de emergencia sobre los planos"],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "examen_75",
@@ -187,7 +187,7 @@
       "Al oxígeno contenido en el PSU y utilizado en caso de descompresión de la cabina",
       "Al oxígeno que puede requerirse para determinados pasajeros por motivos de salud"
     ],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "examen_76",
@@ -334,7 +334,7 @@
       "El Comandante de la aeronave",
       "El expedidor de la mercancía"
     ],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "examen_92",
@@ -353,7 +353,7 @@
     "topic": "Examen 1",
     "text": "En el Airbus 320 de fuselaje estrecho, configurado con 80 asientos de pasajeros, el número de TCPs mínimo requerido será de:",
     "options": ["4", "5", "2", "3"],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "examen_94",

@@ -18,14 +18,14 @@
     "topic": "Examen 3",
     "text": "¿Dónde se encuentran los spoilers?",
     "options": ["En el intradós del ala.", "En el extradós del ala.", "En el borde de ataque.", "Las respuestas a y c son correctas"],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "examen3_4",
     "topic": "Examen 3",
     "text": "Las cuatro fuerzas que intervienen en un avión son:",
     "options": ["Empuje, intensidad, gravedad y resistencia.", "Empuje, sustentación, gravedad y resistencia.", "Peso, resistencia, aerodinámica y sustentación.", "Peso, resistencia, sustentación y empuje."],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "examen3_5",
@@ -67,7 +67,7 @@
     "topic": "Examen 3",
     "text": "En cockpit, existe un equipo de suministro de oxígeno para la tripulación de vuelo. Su nombre es QUICK DONNING MASK. Con respecto a su chequeo señalar lo siguiente:",
     "options": ["Lo chequea la tripulación de vuelo.", "Lo chequean los TCP, teniendo en cuenta que todas las posiciones (100%, NORMAL, EMERGENCY), funcionan correctamente.", "No requiere chequeo previo por parte de ningún miembro de la tripulación.", "No existe dicho sistema de oxígeno en cockpit."],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "examen3_11",
@@ -123,7 +123,7 @@
     "topic": "Examen 3",
     "text": "¿Cuál es la fecha de caducidad de licencia de TCP?",
     "options": ["La licencia de TCP no tiene fecha de caducidad, sin embargo, dejará de ser válida en el momento que el/la TCP no haya ejercido las atribuciones correspondientes durante los 60 meses anteriores en al menos un tipo de aeronave.", "La respuesta a) es correcta añadiendo que está supeditada a la caducidad del Certificado Médico Aeronáutico.", "El certificado de TCP caduca a los 3 meses", "No caduca nunca"],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "examen3_19",
@@ -158,14 +158,14 @@
     "topic": "Examen 3",
     "text": "En caso de fuego en un pasajero:",
     "options": ["Aplicaremos una descarga efectiva de BCF, evitando únicamente enfocar la misma hacia la cara del pasajero.", "Aplicaremos agua o cualquier líquido no ignífugo por encima del pasajero. Posteriormente le facilitaremos mantas para secarse.", "Aplicaremos una descarga de BCF desde la parte superior de su cabeza, ya que su contenido por pesar más que el aire baja sofocando el fuego a lo largo del cuerpo del pasajero.", "Impediremos que corra y se mueva por la cabina y le apagaremos el fuego con mantas y abrigos"],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "examen3_24",
     "topic": "Examen 3",
     "text": "Quién será el responsable de atacar e informar de un fuego a bordo:",
     "options": ["El TCP que lo vea en primer lugar.", "El TCP más veterano, porque tiene más experiencia en el uso de extintores.", "El sobrecargo ataca siempre el fuego, el TCP más cercano informa a cockpit de la situación.", "Es indiferente. Se puede pedir ayuda a los pasajeros más cercanos."],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "examen3_25",
@@ -179,7 +179,7 @@
     "topic": "Examen 3",
     "text": "¿Cómo se denomina el ángulo formado por la dirección del eje longitudinal del avión y la dirección de su desplazamiento real sobre el terreno por causa del viento?",
     "options": ["Opción 1", "Ángulo de Mach.", "Trayectoria", "Rumbo", "Deriva"],
-    "correctIndex": 3
+    "correctIndex": 4
   },
   {
     "id": "examen3_27",
@@ -249,7 +249,7 @@
     "topic": "Examen 3",
     "text": "¿Cuál de las siguientes características NO corresponde a un extintor de BCF o Halón?",
     "options": ["Tiene una duración de 8 a 10 segundos", "Es más pesado que el aire", "Enfría los rescoldos", "Recomendado en fuegos eléctricos"],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "examen3_37",
@@ -263,7 +263,7 @@
     "topic": "Examen 3",
     "text": "En una despresurización a 50.000 ft de altura, contamos con un TUC de:",
     "options": ["6-10 minutos", "3-5 minutos", "6-8 segundos", "15-20 segundos"],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "examen3_39",

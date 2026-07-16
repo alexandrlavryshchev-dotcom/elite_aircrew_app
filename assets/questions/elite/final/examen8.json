@@ -123,7 +123,7 @@
     "topic": "Examen 1",
     "text": "En un avión de 2 pisos hay instalados 345 asientos: 145 en el segundo piso y 200 en el primero. ¿Cuántos TCPs, como mínimo, deben ir en el avión?",
     "options": ["5 en total.", "6 en total.", "9 en total.", "7 en total."],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "examen_19",
@@ -172,7 +172,7 @@
     "topic": "Examen 1",
     "text": "En caso de evacuación de emergencia ¿cuándo evacuarán los PRM que no puedan desplazarse con facilidad?",
     "options": ["En primer lugar.", "En último lugar.", "En secuencia normal.", "Si tiene acompañante, en su lugar."],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "examen_26",
@@ -249,21 +249,21 @@
     "topic": "Examen 1",
     "text": "En una despresurización a 40.000ft. de altura, los TCPs en movimiento contamos con un TUC de:",
     "options": ["6-10 minutos.", "3-5 minutos.", "8-10 segundos.", "20-30 segundos."],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "examen_37",
     "topic": "Examen 1",
     "text": "La división 5.2 corresponde a:",
     "options": ["Líquidos explosivos desensibilizados.", "Gases no inflamables no tóxicos.", "Peróxidos orgánicos.", "Sustancias infecciosas."],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "examen_38",
     "topic": "Examen 1",
     "text": "El anexo al Convenio sobre Aviación Civil Internacional titulado \"Transporte sin riesgo de mercancías peligrosas por vía aérea\" es el número:",
     "options": ["8.", "14.", "18.", "24."],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "examen_39",
@@ -326,27 +326,27 @@
     "topic": "Examen 1",
     "text": "Las hachas o pata de cabra ubicadas en cabina de pasajeros:",
     "options": ["Deberán situarse en lugar visible y de fácil acceso.", "Nunca deberán ser visibles para los pasajeros.", "Por su potencial peligrosidad solo van ubicadas en cabina de vuelo.", "Se colocarán en el rack 1L."],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "examen_48",
     "topic": "Examen 1",
     "text": "En caso de conseguir agua pura de lluvia, ¿qué debemos hacer antes de consumirla?",
     "options": ["Filtrarla.", "Nada, la bebemos directamente.", "Añadirle una pequeña cantidad de agua de mar, té o café para aumentar sus beneficios o potabilizarla dejándola al sol un mínimo de 6 horas.", "Desalinizarla."],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "examen_49",
     "topic": "Examen 1",
     "text": "¿Por qué debo lanzar el ancla flotante al mar lo antes posible una vez que se ha separado la balsa del avión?",
     "options": ["Para evitar que olas muevan mucho la balsa.", "Para no alejarme mucho de la zona del amerizaje.", "Para disminuir el peso de la balsa.", "Da lo mismo lanzarla o no."],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "examen_50",
     "topic": "Examen 1",
     "text": "Respecto a las bengalas día/noche es correcto decir:",
     "options": ["Que en un extremo emite humo (día) y el otro llama roja (noche).", "Que en realidad son 2 bengalas. Una para el día (humo) y otra para la noche (llama roja) identificadas.", "Que están hechas con un material pirotécnico que es visible igual en día que de noche, indistintamente.", "Si utilizamos el extremo del día queda inutilizado el de la noche y viceversa."],
-    "correctIndex": 1
+    "correctIndex": 0
   }
 ]

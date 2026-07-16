@@ -155,7 +155,7 @@
     "topic": "Examen 1",
     "text": "¿Quién es el encargado de comunicar las anomalías ocurridas durante las comprobaciones diarias al Comandante?",
     "options": ["El TCP que lo detecte.", "El Sobrecargo.", "Se le dirá a mantenimiento y estos al Comandante.", "El copiloto."],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "examen_70",
@@ -188,7 +188,7 @@
     "topic": "Examen 1",
     "text": "Qué significan las siglas STCR?",
     "options": ["Pasajero en camilla.", "Pasajero invidente.", "Caso médico.", "Pasajero sordomudo."],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "examen_74",
@@ -200,7 +200,7 @@
       "Si, mediante un interruptor on/off en el panel del sobrecargo.",
       "Solo con la llave maestra que tiene el Sobrecargo."
     ],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "examen_75",
@@ -368,7 +368,7 @@
     "topic": "Examen 1",
     "text": "Para la obtención de las habilitaciones, el TCP tendrá que superar:",
     "options": ["Entrenamiento inicial.", "Entrenamiento periódico.", "Entrenamiento de seguridad.", "Entrenamiento de conversión y/o diferencias."],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "examen_94",
@@ -437,6 +437,6 @@
       "Es un hielo azulado con mucha cantidad de sal.",
       "El hielo es transparente y por ser del mar siempre tiene sal."
     ],
-    "correctIndex": 0
+    "correctIndex": 1
   }
 ]

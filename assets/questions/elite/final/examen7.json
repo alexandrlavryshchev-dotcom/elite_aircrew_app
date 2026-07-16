@@ -53,7 +53,7 @@
     "topic": "Examen 1",
     "text": "Según los polos geográficos, el Polo Sur es aquel desde el cual:",
     "options": ["Se termina la Tierra por el Norte", "Veríamos girar a la Tierra en sentido opuesto a las agujas del reloj", "Veríamos girar a la Tierra en el mismo sentido que las agujas del reloj", "Es donde terminan todos los paralelos"],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "examen_9",
@@ -102,7 +102,7 @@
     "topic": "Examen 1",
     "text": "¿Qué ley nacional es la que regula los delitos y las faltas cometidas en la aeronáutica?",
     "options": ["El Consejo General del Poder Judicial", "La Ley Penal y Procesal de la Navegación Aérea", "El Código Penal Aeronáutico", "La Ley de Seguridad Aérea"],
-    "correctIndex": 2
+    "correctIndex": 1
   },
   {
     "id": "examen_16",
@@ -137,7 +137,7 @@
     "topic": "Examen 1",
     "text": "La clasificación de emergencia prevista/imprevista se hace en función de:",
     "options": ["La sorpresa que nos cause en el momento", "Si está contemplada en el MO de la compañía o no", "Esta clasificación no existe. Las emergencias son imprevistas siempre", "El tiempo del que se dispone para preparar la evacuación"],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "examen_21",
@@ -172,7 +172,7 @@
     "topic": "Examen 1",
     "text": "¿A partir de cuántos asientos es obligatorio que los aviones dispongan de un segundo hacha o pata de cabra?",
     "options": ["100 asientos", "200 asientos", "150 asientos", "50 asientos"],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "examen_26",
@@ -298,7 +298,7 @@
     "topic": "Examen 1",
     "text": "Si un TCP está habilitado para 2 tipos de avión y quiere ejercer en un tercero donde el manejo de las salidas de emergencia y los procedimientos de seguridad son diferentes, ¿podrá?",
     "options": ["Si los procedimientos de seguridad son diferentes no podrá", "Con una autorización expresa de la compañía sí podrá", "Sí, porque la normativa le permite hacerlo en un máximo de 3 tipos de avión", "Con el certificado de TCP se puede ejercer en todas las aeronaves"],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "examen_44",

@@ -138,7 +138,7 @@
     "topic": "examen 1",
     "text": "El Convenio de Chicago se aplica a:",
     "options": ["Las aeronaves militares, de aduanas y de policía.","Las aeronaves de aduanas, de policía y civiles.","Las aeronaves de policía.","Solamente a las aeronaves civiles."],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "examen_14",
@@ -355,7 +355,7 @@
     "topic": "examen 1",
     "text": "Para calcular el número de TCPs que conforman la tripulación del avión, entre otros criterios, se tendrá en cuenta la capacidad de la aeronave por grupos o fracciones de grupos de:",
     "options": ["19 pasajeros.","19 asientos.","50 pasajeros.","50 asientos."],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "examen_45",

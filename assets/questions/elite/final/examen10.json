@@ -82,7 +82,7 @@
     "topic": "Examen 1",
     "text": "El instrumento que marca la velocidad aerodinámica del avión es:",
     "options": ["El GPS aeronáutico.", "El variómetro.", "El velocímetro.", "El anemómetro."],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "examen_11",
@@ -113,7 +113,7 @@
     "topic": "Examen 1",
     "text": "¿Cuál es el órgano asesor de la OACI?",
     "options": ["Las Asambleas.", "El Consejo General del Poder Judicial.", "Las Comisiones Técnicas.", "Los Estatutos Aeronáuticos."],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "examen_14",
@@ -242,7 +242,7 @@
       "Cuando todo el pasaje esté a bordo, antes del cierre de puertas.",
       "Cuando todo el pasaje esté a bordo y lo ordene el comandante."
     ],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "examen_26",

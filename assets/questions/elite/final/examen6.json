@@ -67,7 +67,7 @@
     "topic": "Examen 1",
     "text": "La incapacidad de un piloto en la fase de aterrizajes pierde suponer:",
     "options": ["Que no pueda aterrizar el avión hasta que se haya recuperado por completo", "Seguir en el aire y solicitar un médico", "Que un TCP sea requerido por el piloto que vuela el avión para que lea las listas correspondientes", "Que pregunten por megafonía si hay un piloto a bordo"],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "examen_11",
@@ -102,7 +102,7 @@
     "topic": "Examen 1",
     "text": "¿Qué nivel de alcoholemia es el máximo permitido para un TCP en el ejercicio de sus funciones?",
     "options": ["Ninguno", "0.2/mil", "0.002/mil", "2/mil"],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "examen_16",
@@ -193,7 +193,7 @@
     "topic": "Examen 1",
     "text": "En el tratamiento de la hiperventilación sería correcto:",
     "options": ["Administrar oxígeno y controlar el ritmo cardiaco", "Poner una bolsa sobre la boca y nariz del pasajero, haciéndole reinhalar su propio CO2 y controlar el ritmo respiratorio", "Hasta que no se ponga cianótico, el cuerpo lo compensa", "Colocar tumbado, tranquilizar y poner oxígeno"],
-    "correctIndex": 1
+    "correctIndex": 3
   },
   {
     "id": "examen_29",
@@ -319,7 +319,7 @@
     "topic": "Examen 1",
     "text": "¿Podemos usar botellas portátiles de oxígeno en caso de humo o fuego?",
     "options": ["No nunca", "Sólo en caso de fuegos eléctricos", "Sólo en incidentes con mercancías peligrosas", "Sí, se pueden y deben usar"],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "examen_47",

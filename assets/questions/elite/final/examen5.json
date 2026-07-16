@@ -102,7 +102,7 @@
     "topic": "examen flaps y movimientos",
     "text": "¿Qué número de TCPs será necesario en una aeronave de 186 asientos?",
     "options": ["1", "4", "2", "3"],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "examen5_16",

@@ -74,7 +74,7 @@
     "topic": "Examen 3",
     "text": "¿Cómo define el “tiempo de vuelo” el convenio de Tokio?",
     "options": ["Al tiempo que transcurre desde el inicio hasta el final de la actividad del TCP.", "Al tiempo que transcurre desde que el TCP se presenta en el aeropuerto hasta el final de la actividad del TCP.", "Al tiempo que transcurre desde que se aplica la fuerza motriz para despegar hasta que termina el recorrido de aterrizaje.", "Al tiempo que transcurre desde el despegue hasta el aterrizaje del avión."],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "examen3_12",
@@ -95,7 +95,7 @@
     "topic": "Examen 3",
     "text": "La comisión más importante establecida por la OACI se denomina:",
     "options": ["La Comisión de Aeronavegación.", "La Comisión de Rutas Aéreas.", "La Comisión del Personal de vuelo.", "La Comisión de estudios aeronáuticos."],
-    "correctIndex": 2
+    "correctIndex": 0
   },
   {
     "id": "examen3_15",
@@ -158,7 +158,7 @@
     "topic": "Examen 3",
     "text": "¿Cómo se identificará a un pasajero incapaz de subir, bajar o desplazarse dentro de una aeronave sin ayuda?",
     "options": ["WCHS.", "WCHR.", "WCHC.", "STCR."],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "examen3_24",
@@ -242,7 +242,7 @@
     "topic": "Examen 3",
     "text": "Cuando se hiperventila:",
     "options": ["Se aumenta el número de respiraciones y aumenta la cantidad de O2 en sangre.", "Se aumenta el número de respiraciones y disminuye la cantidad de O2 en sangre.", "Se disminuye el número de respiraciones y se mantiene la cantidad de O2 en sangre.", "Respiraciones y O2 se mantienen en niveles aceptables."],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "examen3_36",
@@ -305,7 +305,7 @@
     "topic": "Examen 3",
     "text": "Un TCP mayor de 50 años tendrá que renovar el Cerificado Médico CC cada:",
     "options": ["24 meses.", "60 meses.", "6 meses.", "12 meses."],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "examen3_45",
@@ -326,7 +326,7 @@
     "topic": "Examen 3",
     "text": "¿Cómo podemos parar el flujo de oxígeno de las mascarillas de los PSU una vez activadas?",
     "options": ["Volviendo a tirar de una de ellas.", "A través de un interruptor situado en Cockpit.", "Una vez puestos en marcha no pueden pararse.", "Cerrando manualmente el cajetín"],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "examen3_48",

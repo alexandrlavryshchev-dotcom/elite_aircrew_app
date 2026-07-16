@@ -123,7 +123,7 @@
     "topic": "Examen 1",
     "text": "¿De qué color son las etiquetas de las Mercancías Peligrosas de la Clase 6 (Sustancias tóxicas y sustancias infecciosas)?",
     "options": ["Verde.", "Rojo", "Amarillo y Blanco", "Blanco"],
-    "correctIndex": 2
+    "correctIndex": 3
   },
   {
     "id": "examen_164",
@@ -149,7 +149,7 @@
     "topic": "Examen 1",
     "text": "La insubordinación o alzamiento contra la autoridad, incluida la autoridad del comandante de una aeronave se llama:",
     "options": ["Apoderamiento ilícito", "Sedición", "Desacato", "Alzamiento"],
-    "correctIndex": 0
+    "correctIndex": 1
   },
   {
     "id": "examen_167",
@@ -210,7 +210,7 @@
     "topic": "Examen 1",
     "text": "A un pasajero que presenta acidez gástrica, debemos darle:",
     "options": ["Almax", "Priperam", "Abundante agua", "A y C son ciertas"],
-    "correctIndex": 3
+    "correctIndex": 0
   },
   {
     "id": "examen_175",

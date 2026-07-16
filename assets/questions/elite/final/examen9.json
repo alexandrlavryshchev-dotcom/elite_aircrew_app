@@ -67,14 +67,14 @@
     "topic": "Examen 2",
     "text": "En aeronáutica se conoce como elevación:",
     "options": ["Es lo mismo que altitud y altura.", "A la altura a la que va un vuelo.", "A la distancia entre el nivel del mar y el nivel terrestre.", "A la altitud que alcanza una aeronave."],
-    "correctIndex": 3
+    "correctIndex": 2
   },
   {
     "id": "examen2_11",
     "topic": "Examen 2",
     "text": "¿Cada cuántos años se reúne ordinariamente la Asamblea de la OACI?",
     "options": ["Cada 3.", "Cada 4.", "Cada 5.", "Cuando sea necesario."],
-    "correctIndex": 1
+    "correctIndex": 0
   },
   {
     "id": "examen2_12",
@@ -277,21 +277,21 @@
     "topic": "Examen 2",
     "text": "El índice de transporte (IT) se asocia a las mercancías peligrosas de clase:",
     "options": ["2", "4", "7", "9"],
-    "correctIndex": 0
+    "correctIndex": 2
   },
   {
     "id": "examen2_41",
     "topic": "Examen 2",
     "text": "Las etiquetas para las mercancías peligrosas de clase 4 son de color:",
     "options": ["Blancas la 4.1, rojas las 4.2 y azules las 4.3.", "Negro y amarillo todas.", "Rojas todas.", "Blanco y rojo las 4.1 y 4.2 y azules las 4.3."],
-    "correctIndex": 0
+    "correctIndex": 3
   },
   {
     "id": "examen2_42",
     "topic": "Examen 2",
     "text": "Los TCPs que están a disposición del operador para ser llamados, por ejemplo, para un servicio en caso de enfermedad o impedimento de otro TCP o para vuelos adicionales, estará de:",
     "options": ["Día franco.", "Imaginaria.", "Actividad aérea.", "Posicionamiento."],
-    "correctIndex": 3
+    "correctIndex": 1
   },
   {
     "id": "examen2_43",
@@ -312,7 +312,7 @@
     "topic": "Examen 2",
     "text": "En caso de presencia de humo negro procedente del aire acondicionado, ¿qué equipo de oxígeno protegerá a los TCPs?",
     "options": ["El equipo portátil de primeros auxilios.", "El equipo fijo de oxígeno de emergencia del avión.", "La PBE.", "Cuando hay fuego o humo en cabina nunca se puede utilizar oxígeno."],
-    "correctIndex": 1
+    "correctIndex": 2
   },
   {
     "id": "examen2_46",
